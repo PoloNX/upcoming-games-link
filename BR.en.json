@@ -1111,6 +1111,38 @@
     "size": 0,
     "version": null
   },
+  "70070000020380": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c158eb2a9ad1751c37f3ed8801b8d216f7b3c37820f17014e9bbcb76674b166.jpg",
+    "category": null,
+    "description": "In Stellar Interface be prepared to run through the universe, discover the numerous perks/consumables and their synergistic effects. Explore the randomly-generated galaxy to find merchants, unlock spacecrafts, collect StellarNetES Cartridges, checkmark your kills of the various galactic overlords.\nAnd die. A lot!\n\nSudoku Zenkai is a game for beginners and advanced Sudoku players.\nIt lets you play cooperatively with your friends! You can start a new puzzle with a friend or simply ask one to help you on that tricky one, two heads are always better than one (usually).\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Explore the randomly generated galaxy and destroy all the galactic overlords. Solve Sudokus with your friends!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Stellar Interface + Sudoku Zenkai",
+    "nsuId": 70070000020380,
+    "numberOfPlayers": null,
+    "publisher": "ImaginationOverflow",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20231221,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/336fe18a86cb075c531587b1791be3b98765c403c11b2152c03829123b316d0a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e7005cc0d72ecb3aa23b754144131fab5a6b3915ab5285c27924ccd7cc5f200e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a51beea12ec144627fd59468c188d768b0a0dc7f298359829194def1a2711e11.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d1b6d86db29572db5448940c5b4709f5ddd9476b681157a01b72a9a6d3d314b7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc8282b197ce964e370c3938b808fde8c40d7692f5d4c37935a1d4f84154f6a1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/61d51a5dec511a86f62b41f466b6e7b8366f26f850ead3868d276fb6037c5296.jpg"
+    ],
+    "size": 666894336,
+    "version": null
+  },
   "70010000066851": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ae76192b9fc7ddf062081d62fb55ede3267d6835fbda2cbcb7c23bd9aa4ad407.jpg",
     "category": [
