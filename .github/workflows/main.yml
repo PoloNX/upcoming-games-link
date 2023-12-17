@@ -1,0 +1,39 @@
+name: update_files
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  ls-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip3 install -r requirements.txt; fi
+      - name: update files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 main.py
+      - name: push changes
+        run: |
+          git config --global user.name 'PoloNXBot'
+          git config --global user.email '130183437+PoloNXBot@users.noreply.github.com'
+          CHANGED=$(git diff --name-only)
+          git add .
+          if [[ `git status --porcelain` ]]; then
+            git commit -m "automatic: updated files ($CHANGED)"
+            git push
+          else
+            echo "Nothing to commit!"
+          fi
