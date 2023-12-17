@@ -1,4 +1,74 @@
 {
+  "70050000045627": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4fd9d7b3f4ea81e26fdf83d00870e0b3f2eddd1cce106bcd7c71c9193ad3bf8c.jpg",
+    "category": null,
+    "description": "Get into the holiday spirit with our 'Christmas Pack' DLC for Paint It! Enjoy coloring a variety of festive 3D objects and scenes. From snowflakes to Santa hats, this pack is all about Christmas fun. Express your creativity with special colors and designs, adding a cheerful touch to your coloring experience!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Color your way through the festive season with the 'Christmas Pack' for Paint It! Spread joy with each stroke as you bring holiday-themed 3D models to life.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Paint It: Christmas Pack",
+    "nsuId": 70050000045627,
+    "numberOfPlayers": null,
+    "publisher": "Soroka Games",
+    "rating": 0,
+    "ratingContent": [
+      "General",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20231218,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/3f27b6c1580e0901ed78f76c6e39b4a0ce4c5a27e9fd3568a4af848763e38cc9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b844effcae915e69f1f45d642dd8520d5829c9a0997be5e0250d760648adcbbb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7b2a0c9e3af149498d046343bc0deb7ccd76f100d6daf7b0ce5707ca445602ff.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0c1e6fe4bed82f7c279e7169c408e3d7f5cd51b461df3aa9f8707036ff2851d3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6ddd7fb445d575854d207b6491d35c787870c526819126bd834894d835fc81f6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/24f5cdc7b68823b4b7443b2e7411e6b06a863b61946b1737e615e26e6a095eed.jpg"
+    ],
+    "size": 13631488,
+    "version": null
+  },
+  "70070000020069": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4bcdefbc35bfba94eeaa954bbefa6c8ff0353675d49fd064683b1231eb001aee.jpg",
+    "category": null,
+    "description": "Paint It is like a magical coloring world where you can paint, use stickers, and have fun with 40 models. You'll have lots of creative tools to make everything look amazing. Let your imagination run wild and make your models super colorful!\n\nAny color\nUsing a color palette, choose any color you want!\n\nUse stickers\nBut how can you draw without stickers? A huge collection of stickers will help you create something beautiful!\n\nUse touchscreen\nYour fingers are the best tool, paint the models using the touchscreen.\n\nGet into the holiday spirit with our 'Christmas Pack' DLC for Paint It! Enjoy coloring a variety of festive 3D objects and scenes. From snowflakes to Santa hats, this pack is all about Christmas fun. Express your creativity with special colors and designs, adding a cheerful touch to your coloring experience!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Color your way through the festive season with the 'Christmas Pack' for Paint It! Spread joy with each stroke as you bring holiday-themed 3D models to life.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Paint It: Christmas Edition",
+    "nsuId": 70070000020069,
+    "numberOfPlayers": null,
+    "publisher": "Soroka Games",
+    "rating": 0,
+    "ratingContent": [
+      "General",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20231218,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/3f27b6c1580e0901ed78f76c6e39b4a0ce4c5a27e9fd3568a4af848763e38cc9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/189059ead7e3d97cee68968ad903d7a024299530a7ad0bc2122a190795b2004f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b844effcae915e69f1f45d642dd8520d5829c9a0997be5e0250d760648adcbbb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/636b2d1984a24841046373c3617b89c7eb7a8d36800c9c5126ae9a2530862ad1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7b2a0c9e3af149498d046343bc0deb7ccd76f100d6daf7b0ce5707ca445602ff.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a032ec5da593ae9264be70283a606e3c5c66303db0611251d08b24567fa0abdb.jpg"
+    ],
+    "size": 719323136,
+    "version": null
+  },
   "70010000071244": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/600f04f0000c5baee0002b267c9daa261fddac7b2fcc3020cddb2149761baf73.jpg",
     "category": [
