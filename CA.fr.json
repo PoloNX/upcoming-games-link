@@ -2350,6 +2350,53 @@
     "size": 143654912,
     "version": null
   },
+  "70010000075091": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/266a2c89eff8ee813d172a684eae776c00d950d69bc99926064ed2cb5b527bdd.jpg",
+    "category": [
+      "Casse-t\u00eate",
+      "Autre"
+    ],
+    "description": "Essayez de rester en vie dans ce jeu d'aventure, d'horreur et de puzzles. Tentez de survivre aux jouets vengeurs de l'usine de jouets d\u00e9saffect\u00e9e. Utilisez votre Grabpack pour pirater les circuits \u00e9lectriques ou attraper des objets hors de port\u00e9e. Explorez la myst\u00e9rieuse installation... sans vous faire attraper.\n\nBienvenue \u00e0 Playtime Co.\u00a0!\nPlaytime Co. \u00e9tait autrefois le roi de l'industrie du jouet... jusqu'\u00e0 ce qu'un jour, toutes les personnes \u00e0 l'int\u00e9rieur de l'usine se volatilisent. Maintenant, des ann\u00e9es plus tard, vous devez explorer l'usine d\u00e9saffect\u00e9e et d\u00e9couvrir la v\u00e9rit\u00e9.\n\nLes jouets\nLes jouets de Playtime Co. sont tr\u00e8s vivants\u00a0! Il y a Boogie Bot, Huggy Wuggy, Catbee, Poppy et plus encore\u00a0! Pourquoi ne pas profiter de votre passage ici pour rendre une petite visite aux jouets\u00a0? Vous pourriez vous faire quelques nouveaux amis...\n\nLe Grabpack\nCet incroyable Grabpack est un sac \u00e0 dos accompagn\u00e9 de 2\u00a0mains artificielles attach\u00e9es par des fils d'acier. Gr\u00e2ce \u00e0 cet outil pratique et ultramoderne, les employ\u00e9s de Playtime Co. peuvent mettre la main sur tout et n'importe quoi\u00a0! La liste suivante des caract\u00e9ristiques devrait vous aider \u00e0 comprendre ce que le Grabpack a \u00e0 offrir.\n  \u2022 La poigne puissante des mains permet de d\u00e9placer de lourds objets avec facilit\u00e9\u00a0!\n  \u2022 Un c\u00e2ble long et flexible octroie aux employ\u00e9s la capacit\u00e9 d'atteindre tout ce dont ils ont besoin, peu importe la distance qui les s\u00e9pare\u00a0!\n  \u2022 Le fil d'acier permet de conduire l'\u00e9lectricit\u00e9 en toute simplicit\u00e9\u00a0!\n\nMaintenant avec des fonctionnalit\u00e9s am\u00e9lior\u00e9es\u00a0!\nLa version Nintendo Switch\u2122 de Poppy Playtime\u00a0: Chapitre 1 inclut des am\u00e9liorations graphiques et de gameplay, de nouvelles options, une prise en charge suppl\u00e9mentaire de nouvelles langues, des corrections de bugs et plus encore\u00a0!\n\nRestez dans le coin\u00a0! Il y a beaucoup de choses amusantes en r\u00e9serve pour vous. C'est presque l'heure de jouer...",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d144cdd8746485a823bedb3aea547b0a2de41abcc4b479b756da7f18c6ded285.jpg",
+    "id": "0100C3801C786000",
+    "intro": "Vous devez survivre aux jouets vengeurs de l'usine de jouets d\u00e9saffect\u00e9e.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "ko"
+    ],
+    "name": "Poppy Playtime: Chapitre 1",
+    "nsuId": 70010000075091,
+    "numberOfPlayers": 1,
+    "publisher": "Mob Entertainment",
+    "rating": 13,
+    "ratingContent": [
+      "L\u00e9g\u00e8res repr\u00e9sentations de sang",
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/389ff1aeefc7b6239ff06fbeab9c889682f84c2a750f5c3d2bca396a64ec8bf8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/743afd4086dff05e84617d660c32fb9fe1a6152b6c13133258bf61b185815f36.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4278db2259cfbd71d322c134f119155ab5034fca9a04e555514760d284b7273a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/96ed7530490f3e87644d0c1ebac2f446fd40236e1a99d4d6d85b8d60b25d0473.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4284d203e26cb007f51f83c5f90eaae7e10162dcc2d3ffe8e09404f55493ab9f.jpg"
+    ],
+    "size": 2101346304,
+    "version": null
+  },
   "70010000075294": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1eb9225b146b3070e9d64793d0ef68d9cca399d08fa21e6db96ae4f6356241db.jpg",
     "category": [

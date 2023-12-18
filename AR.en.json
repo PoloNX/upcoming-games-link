@@ -2187,6 +2187,53 @@
     "size": 143654912,
     "version": null
   },
+  "70010000075091": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/266a2c89eff8ee813d172a684eae776c00d950d69bc99926064ed2cb5b527bdd.jpg",
+    "category": [
+      "Puzzle",
+      "Other"
+    ],
+    "description": "You must stay alive in this horror/puzzle adventure. Try to survive the vengeful toys waiting for you in the abandoned toy factory. Use your GrabPack to hack electrical circuits or nab items from afar. Explore the mysterious facility\u2026 and don\u2019t get caught.\n\nWelcome to Playtime Co.!\nPlaytime Co. was once the king of the toy manufacturing industry... until everybody inside of the factory one day disappeared into thin air. Now, years later, you must explore the factory and uncover the truth.\n\nThe Toys\nThe toys of Playtime Co. are a lively bunch! We have Boogie Bot, Huggy Wuggy, Catbee, Poppy, and more! As long as you're here, why not pay the toys a little visit? You might just make a few new friends\u2026\n\nThe GrabPack\nThis amazing GrabPack is a wearable backpack, accompanied by 2 artificial hands attached via a steel wire. With this handy, state-of-the-art tool, there\u2019s no limit to what Playtime Co. employees can accomplish! The following list of features should help to show you what the GrabPack has to offer:\n  \u2022 The hands\u2019 powerful grip allows for movement of heavy objects with ease!\n  \u2022 A lengthy and flexible wire gives any employee the ability to reach whatever they may need!\n  \u2022 The steel wire makes conducting electricity a breeze!\n\nNow With Enhanced Features!\nThe Nintendo Switch\u2122 version of Poppy Playtime: Chapter 1 includes graphical enhancements, gameplay improvements, new options, additional localization support, bug fixes, and more!\n\nWon\u2019t you stick around? There\u2019s a lot of fun in store for you. It\u2019s almost Playtime\u2026",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d144cdd8746485a823bedb3aea547b0a2de41abcc4b479b756da7f18c6ded285.jpg",
+    "id": "0100C3801C786000",
+    "intro": "You must survive the vengeful toys waiting for you in the abandoned toy factory.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "ko"
+    ],
+    "name": "Poppy Playtime: Chapter 1",
+    "nsuId": 70010000075091,
+    "numberOfPlayers": 1,
+    "publisher": "Mob Entertainment",
+    "rating": 13,
+    "ratingContent": [
+      "Mild Blood",
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/389ff1aeefc7b6239ff06fbeab9c889682f84c2a750f5c3d2bca396a64ec8bf8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/743afd4086dff05e84617d660c32fb9fe1a6152b6c13133258bf61b185815f36.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4278db2259cfbd71d322c134f119155ab5034fca9a04e555514760d284b7273a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/96ed7530490f3e87644d0c1ebac2f446fd40236e1a99d4d6d85b8d60b25d0473.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4284d203e26cb007f51f83c5f90eaae7e10162dcc2d3ffe8e09404f55493ab9f.jpg"
+    ],
+    "size": 2101346304,
+    "version": null
+  },
   "70010000075294": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1eb9225b146b3070e9d64793d0ef68d9cca399d08fa21e6db96ae4f6356241db.jpg",
     "category": [

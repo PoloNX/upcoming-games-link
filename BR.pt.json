@@ -2191,6 +2191,53 @@
     "size": 143654912,
     "version": null
   },
+  "70010000075091": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/266a2c89eff8ee813d172a684eae776c00d950d69bc99926064ed2cb5b527bdd.jpg",
+    "category": [
+      "Puzzle",
+      "Outros"
+    ],
+    "description": "Voc\u00ea deve sobreviver nesta aventura de horror/desafios. Tente sobreviver aos brinquedos vingativos que espreitam na f\u00e1brica de brinquedos abandonada. Use seu Grabpack para manipular circuitos el\u00e9tricos ou pegar itens \u00e0 dist\u00e2ncia. Explore as misteriosas instala\u00e7\u00f5es... e n\u00e3o seja pego.\n\nBoas-vindas \u00e0 Playtime Co.!\nA Playtime Co. j\u00e1 foi a l\u00edder da ind\u00fastria de fabrica\u00e7\u00e3o de brinquedos... at\u00e9 que um dia, todos dentro da f\u00e1brica desapareceram sem deixar rastros. Agora, anos depois, voc\u00ea precisa explorar a f\u00e1brica abandonada e descobrir a verdade.\n\nOs brinquedos.\nOs brinquedos da Playtime Co. s\u00e3o animados e cheios de vida! Temos o Boogie Bot, o Huggy Wuggy, a Catbee, a Poppy e muito mais! J\u00e1 que voc\u00ea est\u00e1 aqui, por que n\u00e3o fazer uma visitinha aos brinquedos? Voc\u00ea pode acabar fazendo alguns novos amigos...\n\nO Grabpack\nEsse incr\u00edvel Grabpack \u00e9 uma mochila utiliz\u00e1vel, acompanhada por 2 m\u00e3os artificiais presas por fios de a\u00e7o. Com essa ferramenta pr\u00e1tica e de \u00faltima gera\u00e7\u00e3o, n\u00e3o existem limites para o que os funcion\u00e1rios da Playtime Co. podem realizar! A lista de recursos a seguir deve ajudar a mostrar o que o Grabpack tem a oferecer:\n \u2022 A poderosa ader\u00eancia das m\u00e3os permite mover os objetos pesados com facilidade!\n \u2022 Um fio longo e flex\u00edvel d\u00e1 a qualquer funcion\u00e1rio a capacidade de alcan\u00e7ar o que precisar!\n \u2022 O fio de a\u00e7o facilita a condu\u00e7\u00e3o de eletricidade!\n\nAgora com recursos aprimorados!\nA vers\u00e3o para Nintendo Switch\u2122 de Poppy Playtime: Cap\u00edtulo 1 inclui melhorias gr\u00e1ficas, melhorias na jogabilidade, novas op\u00e7\u00f5es, suporte adicional de localiza\u00e7\u00e3o, corre\u00e7\u00f5es de bugs e muito mais!\n\nN\u00e3o gostaria de ficar por aqui? Prepare-se para muita divers\u00e3o. Hora de brincar...",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d144cdd8746485a823bedb3aea547b0a2de41abcc4b479b756da7f18c6ded285.jpg",
+    "id": "0100C3801C786000",
+    "intro": "Voc\u00ea deve sobreviver aos brinquedos vingativos que o aguardam na f\u00e1brica de brinquedos abandonada.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "ko"
+    ],
+    "name": "Poppy Playtime: Cap\u00edtulo 1",
+    "nsuId": 70010000075091,
+    "numberOfPlayers": 1,
+    "publisher": "Mob Entertainment",
+    "rating": 12,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Medo"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/389ff1aeefc7b6239ff06fbeab9c889682f84c2a750f5c3d2bca396a64ec8bf8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/743afd4086dff05e84617d660c32fb9fe1a6152b6c13133258bf61b185815f36.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4278db2259cfbd71d322c134f119155ab5034fca9a04e555514760d284b7273a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/96ed7530490f3e87644d0c1ebac2f446fd40236e1a99d4d6d85b8d60b25d0473.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4284d203e26cb007f51f83c5f90eaae7e10162dcc2d3ffe8e09404f55493ab9f.jpg"
+    ],
+    "size": 2101346304,
+    "version": null
+  },
   "70010000075294": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1eb9225b146b3070e9d64793d0ef68d9cca399d08fa21e6db96ae4f6356241db.jpg",
     "category": [
