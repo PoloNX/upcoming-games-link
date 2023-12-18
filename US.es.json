@@ -1559,6 +1559,81 @@
     "size": 5116002304,
     "version": null
   },
+  "70070000020381": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6dca3af3fb16a3d297ca55a8c401d99b4b32eeb0d96c830c97779ede2c7c7999.jpg",
+    "category": null,
+    "description": "Lacuna\nYou are Neil Conrad, CDI agent. Awoken by the news of a murder, you rush into a case that will soon turn your life and the whole solar system upside down. Ask questions, collect evidence, and put the pieces together until the ugly truth reveals itself... or not.\n\nEncodya\nNeo Berlin 2062. Tina \u2013 a nine-year-old orphan \u2013 lives with SAM-53 \u2013 her big clumsy robot guardian \u2013in a rooftop makeshift shelter in Neo-Berlin, a dark megalopolis controlled by corporations. Tina is an urban jungle kid, who has learned to live alone, scavenging from city dumpsters and eking out a living from scraps. Her funny robot is always with her, programmed to protect her no matter what.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "The sci-fi detective adventure Lacuna meets the cyberpunk world of Encodya",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Lacuna + Encodya Bundle",
+    "nsuId": 70070000020381,
+    "numberOfPlayers": null,
+    "publisher": "Assemble Entertainment",
+    "rating": 17,
+    "ratingContent": [
+      "Referencia al alcohol",
+      "Sangre",
+      "Temas sexuales",
+      "Lenguaje fuerte",
+      "Uso de tabaco",
+      "Violencia"
+    ],
+    "region": null,
+    "releaseDate": 20231222,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/ec54f9de8d5631bc0a6f2612fb875ff6c17320daed05475c5bffcc2fe67e888f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b6ed8e5c32757a84311864850e8e2e71d508bf52c9b0b67d15f568915cb16c2a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9c72abc6ac99944f2ca7346299c30e9a9cecb4e5f2904e5007e72c2575cf11ab.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/becc00e1a211cc91cc5921b2051f7b15014d89f40eb690bbd1b84cb1679d1957.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/138254521373af941e2f38ccd4ea996b9770ad94ae8539feaf7f2f5ca54c50b5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c2eafb5f698de0f167c18b23ea5ccf72e8d5a35fe81a54e3942e9cb105287591.jpg"
+    ],
+    "size": 6815744000,
+    "version": null
+  },
+  "70070000020382": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/19ef4ef76490b9bc0d6c3d993039abcd490ccf79db13f0df043fbe63a1ae6330.jpg",
+    "category": null,
+    "description": "Orbital Bullet is a fast paced 360\u00b0 action-platformer with rogue-lite elements, where all actions take place in a circular pattern. Fight your way through a variety of procedural planets and use body modifications, crafting, upgrades and heavy weaponry.\n\nIn order to survive Deadly Days' zombie madness, you have to manage and protect a group of survivors and help them to stop the catastrophe. Discover and use a large number of wild and crazy objects, even wilder and crazier survivors, special abilities, and deadly weapons.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "A fast paced 360\u00b0 action-platformer with rogue-lite elements meets a unique strategic rogue-lite in the zombie apocalypse. ",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Deadly Days + Orbital Bullet Bundle",
+    "nsuId": 70070000020382,
+    "numberOfPlayers": null,
+    "publisher": "Assemble Entertainment",
+    "rating": 13,
+    "ratingContent": [
+      "Sangre",
+      "Humor vulgar",
+      "Violencia"
+    ],
+    "region": null,
+    "releaseDate": 20231222,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f341bb28f01445ebbd3c8c99643dcfe795fcb43d082c67cb0cc01a8c47db9abd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/919c5676e92e0ee8acd358585043e547e59645aefbb9908d2001ef6720cb6011.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4a7898a0d712f0d63c7c2da466f5e0119998904d58042c223da5d6edc6c2ddfa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/98d0af2012c7422571c3e74ad98b2bf1b8c9bf32e2bfe089e2463f35ebae988c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d67105d58e42a55e0bb76bf67045b486a8acc56673e3632a9396d18ae3299bc3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc1bd1325d2cf6402e70db7e63d9656add1ce035b50ed9523cf21976b13d8e84.jpg"
+    ],
+    "size": 3082813440,
+    "version": null
+  },
   "70010000074703": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d2fb2c7a9d8c9fbdef8f692a9d1d4976d284a13fb3590fe47f2f1543dece4137.jpg",
     "category": [
@@ -1957,6 +2032,52 @@
     "size": 1649410048,
     "version": null
   },
+  "70010000074778": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bf64a5b4530f240ed4e8c7df099862db545b6802d780770d6f2d9cdd94d57aff.jpg",
+    "category": [
+      "Carreras",
+      "Simulaci\u00f3n",
+      "Deportes",
+      "Arcade"
+    ],
+    "description": "Hard Racing es un juego offline de carreras de derrapes en 3D. Creado en la mejor tradici\u00f3n de los juegos de tuning de coches de la vieja escuela y los simuladores de deportes de motor. Ofrece el m\u00e1ximo realismo de la f\u00edsica y el tuning de coches. \nPersonaliza coches legendarios y circuitos emocionantes. Conduce tu coche personalizado en carreras cortas con rivales geniales. \u00a1Convi\u00e9rtete en un as!\n\nCARACTER\u00cdSTICAS: \n- f\u00edsica de control realista \u00fanica para cada coche\n- f\u00edsica espectacular de choques y da\u00f1os \u00e9picos de los coches\n- numerosos desaf\u00edos en la campa\u00f1a individual y en los eventos\n- Incre\u00edbles coches, circuitos y efectos visuales con todo lujo de detalles.\n- Opciones de tuning 3D: personaliza el color, la decoraci\u00f3n, las pegatinas, las llantas, los neum\u00e1ticos y los kits de carrocer\u00eda.\n- Mejoras: nitro, turbo, intercooler, admisi\u00f3n, escape y otras.\n- trofeos de matr\u00edcula para recoger de los oponentes derrotados\n- Atractivo simulador de carreras de aceleraci\u00f3n con bandas sonoras originales y sonidos de motor reales.\n- adictivo y sencillo juego en timekiller impresionante\n\nCarrera individual\nJuega en los modos timeattack, drag, survival, checkpoints, sprint y carreras callejeras cl\u00e1sicas. Cuando ganas, obtienes premios, varios objetos de personalizaci\u00f3n para tu coche. En cada cap\u00edtulo de la Carrera, el premio principal es el kit de carrocer\u00eda \u00fanico para tu coche. \n\nEventos diarios\nCompleta los eventos diarios y consigue un coche de carreras legendario como premio. Re\u00fane una colecci\u00f3n completa de fant\u00e1sticos veh\u00edculos GOAT, que solo podr\u00e1s personalizar en el exterior pero mejorar por completo. Las amplias opciones de tuning de tu coche te permitir\u00e1n superar a tus rivales. Usa el Nitro para acelerar y el freno de mano para derrapar.\n\u00danete a la comunidad de motoristas de Hard Racing y quema rueda en este impresionante simulador de carreras de aceleraci\u00f3n. \u00a1Instala este drift ahora mismo y juega a tus mejores juegos de conducci\u00f3n y tuning de coches! Desaf\u00edate a ti mismo.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/470c53cf9efd4d916cb6c7b1cc12f1b43604810e5a38e49494776599922ccfdc.jpg",
+    "id": "0100E8101D85C000",
+    "intro": "Un nuevo simulador arcade de carreras de coches. Coches GOAT, emocionantes juegos de tuning y aut\u00e9nticas vibraciones de conducci\u00f3n.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "de",
+      "ru",
+      "ko",
+      "zh"
+    ],
+    "name": "Hard Racing: Stunt Car Driving",
+    "nsuId": 70010000074778,
+    "numberOfPlayers": 1,
+    "publisher": "Nikita Alexeevich",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20231224,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a8f4d047804df2c735217cd51db117101e02ed6af3539f62e272e649d5c1a431.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4537b8efff09de4586efe8201cd7a08d1840025a013426ea55d5d7887c2e3a6a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/189774959255a2e7750c6729eaba31d2387418e656c03c969102b3fbb15ec0d4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bf8efa29e590ffcfe48e82b0fdf6896ca2dd276b12728ac833582e71e1fdee82.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2419967586ffb620e091160fa70c930239d73fcdcae048d1cfc337454a1c50fc.jpg"
+    ],
+    "size": 896532480,
+    "version": null
+  },
   "70010000075080": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b783af2b96c217b767de427afa7e0ba97f5f2b9db480924111b20b2d62a135b6.jpg",
     "category": [
@@ -2111,6 +2232,48 @@
       "https://img-eshop.cdn.nintendo.net/i/4dda1f0eacd2ed7ef080756723e50e4286b065ed5ead5859451412cb93e40fd8.jpg"
     ],
     "size": 262144000,
+    "version": null
+  },
+  "70010000066944": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d477994cfe45186035f7df0875936cc7eb00db8ade392b9dfe8ff6750e30f6c4.jpg",
+    "category": [
+      "Simulaci\u00f3n"
+    ],
+    "description": "Tu trabajo como apasionado veterinario es examinar a los animales enfermos de la granja, hacer el diagn\u00f3stico correcto, tratarlos como corresponde y cuidarlos para que vuelvan a estar sanos.\nInfunde confianza a los peque\u00f1os y grandes amigos de dos y cuatro patas para que pronto vuelvan a sentirse mejor. \u00a1Se necesita tu ayuda en la granja! \n\nLo que te espera:\n\u2022 Dise\u00f1a tu propio avatar\n\u2022 Puedes llegar a tus misiones en coche, a caballo o a pie\n\u2022 Descubre el gran mundo del juego con 3 granjas\n\u2022 Trata m\u00e1s de 90 enfermedades en tu consulta o in situ en los establos\n\nCuida de estos simp\u00e1ticos pacientes\n\u2022 Cerdos y lechones\n\u2022 Vacas y terneros\n\u2022 Ovejas y corderos\n\u2022 Caballos\n\u2022 Cabras\n\u2022 Perros & gatos\n\u2022 Gatos y gatos\n\u2022 Pollos, patos y gansos\n\u2022 Conejos",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/442256a331c68dc41ca69e40c4efc0690c3d1e9be47577fe111373b96a82b72b.jpg",
+    "id": "0100BBA01B50E000",
+    "intro": "Te necesitan en la granja: \u00a1examina y trata a muchos animales!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "nl",
+      "ru"
+    ],
+    "name": "Mi Vida: Curando animales de granja",
+    "nsuId": 70010000066944,
+    "numberOfPlayers": 1,
+    "publisher": "TREVA",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/231c68551ba1516ef77700b618e4a341d248f5c5b028142f00fc4f3fdd2f318b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/36013f36555beb702e6de1d2ad45c273f5cd1486dda15b74eb6ae5618510028b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3d07ac27d8889fadd219cb57265546b96cdc8e71d8cd2f179f6ccf9fd9489155.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c41cd805c718babdb0b43faaea33c43f7742546ab5cbf6b518189779a0d370c2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9f19829f3d891b9c8cc5047aba6e03b65c0cb7b88dd84d2c6238546c8c17cb08.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/11cbd643c99e0bfac33882bfeeeec8abd700772b37288593ae5fe8688fdd113e.jpg"
+    ],
+    "size": 1237319680,
     "version": null
   },
   "70010000068116": {
