@@ -4640,6 +4640,46 @@
     "size": 3145728,
     "version": null
   },
+  "70010000070963": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f6286cd76a88a7f6382205fd21996c674fddea2c925a01c70dc67079b5aa0935.jpg",
+    "category": [
+      "Plataformas"
+    ],
+    "description": "Jubilee \u00e9 um jogo cl\u00e1ssico de plataformas onde ter\u00e1s de saltar e rodopiar para ultrapassar uma s\u00e9rie de obst\u00e1culos. Sem melhorias nem refor\u00e7os. Recolhe pedras preciosas e salva animais. H\u00e1 v\u00e1rios percursos a seguir nas v\u00e1rias regi\u00f5es do mundo do jogo. Encontra a sa\u00edda e reencontra a liberdade!\n\n\nPLATAFORMAS CL\u00c1SSICAS\nNo Jubilee, n\u00e3o h\u00e1 tempo para saltos mal calculados nem faltas de concentra\u00e7\u00e3o. Se queres vencer todos os desafios, ter\u00e1s de jogar da forma mais precisa poss\u00edvel!\n\nUM MUNDO N\u00c3O LINEAR\nO Jubilee est\u00e1 repleto de percursos alternativos e passagens secretas. S\u00f3 tu decidir\u00e1s qual o caminho a seguir e quais as regi\u00f5es a libertar!\n\nSALVA OS ANIMAIS\nO mundo est\u00e1 cheio de animais que t\u00eam de ser salvos. Ser\u00e1s capaz de encontr\u00e1-los a todos?\n\nCONTRARREL\u00d3GIO\nOs desafios de contrarrel\u00f3gio permitem personalizar a experi\u00eancia completa do jogo.\n\nOUTRO HER\u00d3I DESBLOQUE\u00c1VEL\nA Jubilee n\u00e3o est\u00e1 sozinha neste mundo. Encontra o outro her\u00f3i e experimenta um jogo completamente diferente!\n\n\nPrenderam-te por n\u00e3o teres pago uma d\u00edvida. Mas quem \u00e9 que disse que s\u00e3o eles que mandam aqui?!\nSeja como for, nem sequer estavas a pensar pagar o que devias...",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/29fb5cd49ee208e9e5681d85dbae7bb800b2114ecf896078b20c09aa080b3136.jpg",
+    "id": "0100DA101C854000",
+    "intro": "Salta e rodopia nas plataformas do Jubilee. Sem melhorias nem refor\u00e7os. S\u00f3 tu, pedras preciosas para recolher e animais para salvar, rumo \u00e0 liberdade!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Jubilee",
+    "nsuId": 70010000070963,
+    "numberOfPlayers": 1,
+    "publisher": "RED ART GAMES",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240209,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/9318fa2c27aec1e8d16a6e2946ad666aa37b7f27c25e399edba13a815c01d916.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/89d8b9a5199d98519dde92ef1050a82c94963c8c5b303758dd33477d4606f8ce.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/29b48923c8d099127df2577520774690315f766fd27a7654f9a3e093f0fb10fc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e871861bf99a569ec4248d9a31057596c69d1c1e8e85683e61e672cae3648fe3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e12c5532efad74f0810af1ee7eff2efb9894d0d76caa775d48564973fb4cd2eb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6efec19a7f9503de7989ce1cac9c22087ec5df98042cf2d2e2b03ce497e09225.jpg"
+    ],
+    "size": 199229440,
+    "version": null
+  },
   "70010000068311": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c281c561d001794f22cd03d80dc0da9ba54a95d74f373a8af59275e8f56789bb.jpg",
     "category": [
