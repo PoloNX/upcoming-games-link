@@ -3978,6 +3978,43 @@
     "size": 2656043008,
     "version": null
   },
+  "70010000062855": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/65325635f493845f33d6cbfec3282b715ee41dd3a1bfa0365ff655ab1a03cd24.jpg",
+    "category": [
+      "Otros",
+      "Estrategia",
+      "Estilo de vida",
+      "Simulaci\u00f3n"
+    ],
+    "description": "Perdido en una peque\u00f1a isla, tu misi\u00f3n es conquistar cada d\u00eda hasta poder regresar a casa o morir. Toma el control del hambre, la vida y el sue\u00f1o de tu personaje, mientras pescas, descansas y cocinas. Pero mucho cuidado con el peligro marino.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a3cf1800c78de49a30eb6b070337199db3bdb15a951d8e0626f3e0be36b08f85.jpg",
+    "id": "01009C801A516000",
+    "intro": "\u00a1Experimenta la soledad de ser la persona m\u00e1s solitaria de la Tierra!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "Isolated",
+    "nsuId": 70010000062855,
+    "numberOfPlayers": 1,
+    "publisher": "GAME NACIONAL",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240106,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/5aeada84aed0a832a325f3c9746eab026502f243dc6e49cd9f9b9d453d067827.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bddef41ba44284322d9e8167ffe330960423329c167ecd85d444ee35739f5137.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b0fbba2ddb1c7ba7998cb450e159ff4de5951bdfc95f8fcf9b26e69391af6211.jpg"
+    ],
+    "size": 38797312,
+    "version": null
+  },
   "70010000071989": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c18e9efef8f1a340d7222e8639225065f37857e7cfd04a0e9ac7e37d5ad134eb.jpg",
     "category": [
@@ -5231,6 +5268,46 @@
     "rightsId": null,
     "screenshots": null,
     "size": 3145728,
+    "version": null
+  },
+  "70010000070962": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f6286cd76a88a7f6382205fd21996c674fddea2c925a01c70dc67079b5aa0935.jpg",
+    "category": [
+      "Plataformas"
+    ],
+    "description": "Jubilee es un juego de plataformas de m\u00e1xima precisi\u00f3n. Salta y gira para superar diversos desaf\u00edos: sin mejoras ni potenciadores. Recoge gemas y rescata animales. Hay m\u00faltiples rutas a trav\u00e9s de las diversas regiones del mundo: \u00e1brete camino hasta la salida... \u00a1y hacia la libertad!\n\n\nPLATAFORMAS DE PRECISI\u00d3N\nEn Jubilee, no hay cabida para los saltos chapuceros ni para los jugadores poco concentrados. \u00a1Necesitar\u00e1s precisi\u00f3n y atenci\u00f3n para superar estos desaf\u00edos!\n\nMUNDO NO LINEAL\nJubilee est\u00e1 plagado de rutas alternativas y pasadizos secretos. De ti depende abrirte camino por las distintas regiones y alcanzar la libertad.\n\nSALVA A LOS ANIMALES\nEl mundo est\u00e1 lleno de animales que necesitan ser rescatados. \u00bfSer\u00e1s capaz de encontrarlos a todos?\n\nOPCIONES DE CRON\u00d3METRO\nLos jugadores de Jubilee pueden superar desaf\u00edos de velocidad para personalizar su experiencia a medida que avanzan.\n\nSEGUNDO H\u00c9ROE DESBLOQUEABLE\nJubilee no est\u00e1 sola en este mundo. \u00a1Encuentra al h\u00e9roe alternativo y vuelve a disfrutar del juego!\n\n\nTe han encarcelado por no pagar la deuda. \u00a1\u00bfSe puede saber qui\u00e9n los ha puesto al mando?! \nTampoco es que tuvieras la intenci\u00f3n de pagar...",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/29fb5cd49ee208e9e5681d85dbae7bb800b2114ecf896078b20c09aa080b3136.jpg",
+    "id": "0100DA101C854000",
+    "intro": "Salta por las plataformas de precisi\u00f3n de Jubilee. Sin mejoras ni potenciadores, \u00a1solo t\u00fa, gemas que recoger y animales que salvar camino a la libertad!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Jubilee",
+    "nsuId": 70010000070962,
+    "numberOfPlayers": 1,
+    "publisher": "RED ART GAMES",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240209,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/9318fa2c27aec1e8d16a6e2946ad666aa37b7f27c25e399edba13a815c01d916.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/89d8b9a5199d98519dde92ef1050a82c94963c8c5b303758dd33477d4606f8ce.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/29b48923c8d099127df2577520774690315f766fd27a7654f9a3e093f0fb10fc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e12c5532efad74f0810af1ee7eff2efb9894d0d76caa775d48564973fb4cd2eb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e12c5532efad74f0810af1ee7eff2efb9894d0d76caa775d48564973fb4cd2eb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6efec19a7f9503de7989ce1cac9c22087ec5df98042cf2d2e2b03ce497e09225.jpg"
+    ],
+    "size": 199229440,
     "version": null
   },
   "70010000068310": {
