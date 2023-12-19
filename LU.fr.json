@@ -1,55 +1,4 @@
 {
-  "70010000073388": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f0f5b2a3d2b814cd8f0dffeb1468f821b8f72a73a6844965d47a50eeeab11887.jpg",
-    "category": [
-      "Arcade",
-      "Action",
-      "Jeu de tir",
-      "Aventure"
-    ],
-    "description": "Bienvenu dans Wall World. Explorez des mines g\u00e9n\u00e9r\u00e9es de mani\u00e8re proc\u00e9durale et d\u00e9couvrez des biomes fantastiques. Trouvez des ressources et des technologies pour acheter des am\u00e9liorations. Combattez des hordes de monstres agressifs en utilisant votre base mobile. Parcourez le Mur librement, de jour comme de nuit, dans diverses conditions m\u00e9t\u00e9orologiques. Trouvez des traces des \u00ab Autres \u00bb et exploitez avec courage des mines qu'aucun homme n'a jamais exploit\u00e9e.\n\nMinez: Creusez profond\u00e9ment dans le Mur \u00e0 divers endroits. Cherchez des ressources et des technologies d'am\u00e9lioration, d\u00e9couvrez de nouveaux biomes dans les profondeurs, mais n'oubliez pas de retourner \u00e0 votre araign\u00e9e-robot avant la prochaine attaque.\n\nCombattez: Lac\u00e9rez et tirez sur les cr\u00e9atures cauchemardesques \u00e0 l'aide d'une vari\u00e9t\u00e9 d'armes, de la simple mitrailleuse aux missiles \u00e0 t\u00eate chercheuse. Augmentez vos chances de survie en levant le camp instantan\u00e9ment et en poursuivant le combat sur le terrain.\n\nAm\u00e9liorez: Modernisez votre exosquelette avec les ressources et technologies que vous trouvez pour vous d\u00e9placer plus vite dans les mines et percer les roches les plus dures. Am\u00e9liorez les statistiques de combat de votre araign\u00e9e-robot pour faire face aux ennemis de plus en plus dangereux qui vous attendent sur le Mur sans fin.\n\nConstruire: Construisez des tourelles automatiques, des stations de r\u00e9paration et des r\u00e9colteurs de ressources et am\u00e9liorez les b\u00e2timents pour maximiser vos chances de r\u00e9ussite. Mais vous devez d'abord trouver les plans dans les profondeurs du Mur.\n\nExplorez: D\u00e9couvrez des lieux myst\u00e9rieux et des biomes fantastiques. Voyez comment Wall World change au fur et \u00e0 mesure que vous vous y enfoncez, de jour comme de nuit.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3493b2c4770c800a2970c3f823a2348851e743b1f401c3f78de767df45bd11c7.jpg",
-    "id": "0100E4C01CE9E000",
-    "intro": "Explorez le Wall World sur votre araign\u00e9e-robot g\u00e9ante : extrayez de pr\u00e9cieuses ressources, am\u00e9liorer votre \u00e9quipement pour combattre des hordes de monstres. ",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "es",
-      "fr",
-      "de",
-      "pt",
-      "ru",
-      "ko",
-      "zh",
-      "zh"
-    ],
-    "name": "Wall World",
-    "nsuId": 70010000073388,
-    "numberOfPlayers": 1,
-    "publisher": "UniqueGames",
-    "rating": 7,
-    "ratingContent": [
-      "Violence implicite",
-      "Violence mod\u00e9r\u00e9e"
-    ],
-    "region": null,
-    "releaseDate": 20231219,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/5a35d377507feefd35def7e9ccaec842a45a2762c3ebe1add7e33bc67c117661.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9d5d1f193d14dc07f1221634c464b253d44a9aff865535d800a44c5ce86d63a0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4b973c9e3d0304a6f8211f4d82cb01c348dba5c3bce566dbd94f116721c222a8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d67c5c2ac4403221050d6a4f06c47e87c4fd2eda61811aeeea19f2442b657842.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9d5d1f193d14dc07f1221634c464b253d44a9aff865535d800a44c5ce86d63a0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/f5c8e371dbfc8e25c284005bd0308aeb77ab7b28aa8273ccedea6df9fcd0edf7.jpg"
-    ],
-    "size": 219152384,
-    "version": null
-  },
   "70010000070289": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9efa93c5944d08e6504ca0f5ed3da0e4969fbfe11051c3f0cf19be570f275a2a.jpg",
     "category": [
@@ -4689,6 +4638,46 @@
     "rightsId": null,
     "screenshots": null,
     "size": 3145728,
+    "version": null
+  },
+  "70010000070963": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f6286cd76a88a7f6382205fd21996c674fddea2c925a01c70dc67079b5aa0935.jpg",
+    "category": [
+      "Plateformes"
+    ],
+    "description": "Jubilee est un jeu de plateforme o\u00f9 seule compte la pr\u00e9cision. Vous ne pourrez compter que sur votre talent, et non sur des am\u00e9liorations ou des powerups. Ramassez des gemmes et sauvez des animaux tout en explorant les diff\u00e9rentes r\u00e9gions de ce monde. C'est \u00e0 vous de choisir le chemin que vous emprunterez pour vous \u00e9vader... et retrouver la libert\u00e9\u00a0!\n\n\nJEU DE PLATEFORME DE PR\u00c9CISION\nAfin de relever les d\u00e9fis qui vous attendent dans Jubilee, vous devrez \u00eatre aussi pr\u00e9cis que concentr\u00e9\u00a0!\n\nMONDE NON LIN\u00c9AIRE\nLe monde de Jubilee est rempli de raccourcis et de passage secrets. \u00c0 vous de l'explorer pour retrouver votre libert\u00e9.\n\nSAUVER LES ANIMAUX\nIl y a une foule d'animaux qui ont besoin de votre aide. Parviendrez-vous \u00e0 tous les trouver\u00a0?\n\nOPTIONS DE SPEEDRUNNING\nLes amateurs de Speedrunning disposeront de plusieurs options pour personnaliser leur exp\u00e9rience.\n\nDEUXI\u00c8ME H\u00c9ROS D\u00c9BLOCABLE\nL'h\u00e9ro\u00efne de Jubilee n'est pas seule au monde. Trouvez le deuxi\u00e8me h\u00e9ros et d\u00e9couvrez une nouvelle fa\u00e7on de jouer\u00a0!\n\n\nIls vous ont enferm\u00e9 \u00e0 cause de vos dettes. Mais qui leur a donn\u00e9 ce pouvoir\u00a0?!\nVous n'aviez aucune intention de payer...",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/29fb5cd49ee208e9e5681d85dbae7bb800b2114ecf896078b20c09aa080b3136.jpg",
+    "id": "0100DA101C854000",
+    "intro": "Frayez-vous un chemin dans le monde de Jubilee. Juste vous, des plateformes, des gemmes et des animaux \u00e0 sauver. Et \u00e0 la cl\u00e9, la libert\u00e9\u00a0!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Jubilee",
+    "nsuId": 70010000070963,
+    "numberOfPlayers": 1,
+    "publisher": "RED ART GAMES",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240209,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/9318fa2c27aec1e8d16a6e2946ad666aa37b7f27c25e399edba13a815c01d916.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/89d8b9a5199d98519dde92ef1050a82c94963c8c5b303758dd33477d4606f8ce.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/29b48923c8d099127df2577520774690315f766fd27a7654f9a3e093f0fb10fc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e871861bf99a569ec4248d9a31057596c69d1c1e8e85683e61e672cae3648fe3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e12c5532efad74f0810af1ee7eff2efb9894d0d76caa775d48564973fb4cd2eb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6efec19a7f9503de7989ce1cac9c22087ec5df98042cf2d2e2b03ce497e09225.jpg"
+    ],
+    "size": 199229440,
     "version": null
   },
   "70010000068311": {
