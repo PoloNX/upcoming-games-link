@@ -3707,6 +3707,47 @@
     "size": 0,
     "version": null
   },
+  "70010000072366": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71f4953b94e5487a6ae29532ce0f90808e1fc5fd4e0d94d7828765a6cab77e0b.jpg",
+    "category": [
+      "Shooter",
+      "Arcada",
+      "A\u00e7\u00e3o"
+    ],
+    "description": "Nephenthesys \u00e9 um jogo de tiros com deslocamento vertical apresentado num estilo 3D com vista superior impressionante. Destr\u00f3i uma enorme variedade de naves inimigas, recolhe refor\u00e7os para teres melhor alcance, dispers\u00e3o e bombas especiais. A seguir, enfrenta bosses que preenchem o ecr\u00e3 todo. Esta miss\u00e3o levar-te-\u00e1 por cavernas, hidrovias, paisagens urbanas e muito mais. Ser\u00e1 que tens o que \u00e9 preciso para triunfar?\n\nCaracter\u00edsticas:\n\n\u2022 Mergulha em tiroteios inspirados nos cl\u00e1ssicos das arcadas!\n\u2022 Escolhe a partir de v\u00e1rias naves, com estat\u00edsticas e tipos de tiros \u00fanicos.\n\u2022 Enfrenta vagas de inimigos e recolhe refor\u00e7os!\n\u2022 Percorre cavernas, hidrovias, paisagens urbanas e outros ambientes \u00fanicos.\n\u2022 No fim de cada n\u00edvel, enfrenta bosses que preenchem o ecr\u00e3 todo.\n\u2022 Desfruta de uma hist\u00f3ria leve que se desenrola atrav\u00e9s de di\u00e1logo via r\u00e1dio!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f935cee840b3962529c529b87a6d965d8b993c1358bbfa72f67e82d4fb24cdd.jpg",
+    "id": "0100C3501CF2C000",
+    "intro": "Parte numa miss\u00e3o trai\u00e7oeira e recupera uma fonte desconhecida de energia durante um ataque alien\u00edgena!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "Nephenthesys",
+    "nsuId": 70010000072366,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 7,
+    "ratingContent": [
+      "Viol\u00eancia Ligeira"
+    ],
+    "region": null,
+    "releaseDate": 20240117,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/6989366f31e4b901fbb24b55201a0ae1a4331ecf55882401306a9e8e645ef11e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/38e761307c9f6a415bb37b76cbeeb79791ab82902ad5301c311b02b59a620064.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3ea3ad4c2dd89a957a307b52b25874619d0b739c2ac7361c37802838fa8d349d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dcde9be7e1f822b39c3f09094cf348d29050d6abea5a26cdac12e2cfee3ec2df.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aad7bbf62f8afa8d191f0c8e3925a8930e3ced9b1e197f242bffaa9c9e2fad7e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
+    ],
+    "size": 118489088,
+    "version": null
+  },
   "70010000057922": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a2cf8574961a349dc14f97c394d186ab1191b6e99682ddbe10fd4455c7197e1.jpg",
     "category": [

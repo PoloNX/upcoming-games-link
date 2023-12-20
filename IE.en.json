@@ -3707,6 +3707,47 @@
     "size": 0,
     "version": null
   },
+  "70010000072366": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71f4953b94e5487a6ae29532ce0f90808e1fc5fd4e0d94d7828765a6cab77e0b.jpg",
+    "category": [
+      "Shooter",
+      "Arcade",
+      "Action"
+    ],
+    "description": "Nephenthesys is a vertical scrolling shoot\u2019em up presented in widescreen top-down 3D style. Blast through a huge variety of enemy ships, collect power-ups for wider shot spreads and special bombs, then face off against screen-filling bosses. This mission will take you through caverns, waterways, cityscapes and more. Do you have the skills to see it through?\n\nFeatures:\n\n\u2022 Experience old-school shoot\u2019em up action inspired by arcade genre classics!\n\u2022 Choose from a variety of ships with unique stats and shot types.\n\u2022 Face off against enemy swarms and collect power-ups!\n\u2022 Navigate caverns, waterways, cityscapes and other unique environments.\n\u2022 Take on screen-filling bosses at the end of each stage.\n\u2022 Enjoy a light story conveyed through comm dialogue!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f935cee840b3962529c529b87a6d965d8b993c1358bbfa72f67e82d4fb24cdd.jpg",
+    "id": "0100C3501CF2C000",
+    "intro": "Blast off on a treacherous mission to recover an unidentified energy source amidst an alien onslaught!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "Nephenthesys",
+    "nsuId": 70010000072366,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 7,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240117,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/6989366f31e4b901fbb24b55201a0ae1a4331ecf55882401306a9e8e645ef11e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/38e761307c9f6a415bb37b76cbeeb79791ab82902ad5301c311b02b59a620064.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3ea3ad4c2dd89a957a307b52b25874619d0b739c2ac7361c37802838fa8d349d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dcde9be7e1f822b39c3f09094cf348d29050d6abea5a26cdac12e2cfee3ec2df.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aad7bbf62f8afa8d191f0c8e3925a8930e3ced9b1e197f242bffaa9c9e2fad7e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
+    ],
+    "size": 118489088,
+    "version": null
+  },
   "70010000057922": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a2cf8574961a349dc14f97c394d186ab1191b6e99682ddbe10fd4455c7197e1.jpg",
     "category": [
