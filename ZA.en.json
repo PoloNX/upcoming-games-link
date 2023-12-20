@@ -1,91 +1,4 @@
 {
-  "70010000070289": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9efa93c5944d08e6504ca0f5ed3da0e4969fbfe11051c3f0cf19be570f275a2a.jpg",
-    "category": [
-      "Arcade",
-      "Action",
-      "Fighting",
-      "Multiplayer"
-    ],
-    "description": "\"+\" means new possibilities...\nThe arcade version of The Rumble Fish + has returned with new features!\n\nThe Rumble Fish, a game developed in 2004 by DIMPS, renown for its smooth animation and deep game mechanics, has returned as The Rumble Fish +, packed with new features.\n\nFrom online PvP with rollback netcode to a training mode with features such as CPU recording and playback, everything you need as a fighting game lover is here!\n\nMain Game Modes:\nArcade\nLocal PvP\nOnline PvP\nTraining\n\nNew feature: A CPU recording and playback feature has been added as an enemy behavior setting in training mode. Now you can record inputs for CPU and play them back to practice against.\n\nSelecting character colors:\nWhen selecting a character in the character selection screen, you can choose different character colors depending on the button you press (LP, LK, SP, SK, D, START). Default color is LP.\n\nHow to play as Greed:\nOn the character selection screen, input the following command.\n1. RIGHT x2 with your cursor on Orville\n2. LEFT x1 with your cursor on Typhon\n3. LEFT x3 with your cursor on Boyd\n4. RIGHT x2 with your cursor on Zen\nFinally, press UP and Greed will appear as a selectable character.\n\nThe Story:\nIt is the end of the 20th century... A large-scale natural disaster struck the eastern area of a nation. It wiped out the financial sector and resulted in a staggering loss of life.\n\nAt the dawn of the 21st century, the conglomerate PROBE-NEXUS, commonly known as Probe, began reconstruction efforts in that eastern area. Colossal capital and cutting-edge technology was poured into rebuilding it. Skyscrapers that put the old high-rises to shame along with the world's biggest shopping mall and recreational facilities. This was the dazzling birth of a symbol for the new century. It was christened Zone Prime.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ca533b1dfcdd22e61734df0af2ccde576ef028894eeae6535817c031f11f4ce2.jpg",
-    "id": "0100CE801C4FC000",
-    "intro": "The fight for survival has returned.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en"
-    ],
-    "name": "The Rumble Fish +",
-    "nsuId": 70010000070289,
-    "numberOfPlayers": 2,
-    "publisher": "3goo",
-    "rating": 12,
-    "ratingContent": [
-      "Moderate Violence",
-      "Sexual Innuendo"
-    ],
-    "region": null,
-    "releaseDate": 20231220,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/075190257c3fa384e0e5a7724ad5309791d5b26ae07f4f36cc648eda14c6221b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/18254d0ed6efc0919bec3ee258c56d462f1b44713ddedcbdb889039082cf8e30.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ed74065c20ad40007f10437f48526fe2b667add4bf066610717d934b58ed511c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/22353484c9a4a765a4cc3c2752aed24f885f89b87043b5d7b1acb528bb52b7ac.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d6a00677bc7d6dba426edaa406de214cce34c18867b70783fb2350bbb364617c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3b0219a5fd70ea29bb1ba70f918213699e3a9b22e19a93382163975144c11f24.jpg"
-    ],
-    "size": 138412032,
-    "version": null
-  },
-  "70010000071356": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/27fc60bec367d261b5d1e9cc188a16616d3caf3ce656d18297e9ca62be494715.jpg",
-    "category": [
-      "Platformer",
-      "Action",
-      "Adventure"
-    ],
-    "description": "Take the role young summoner apprentice Ravva and call upon 4 unique companions as you attempt to escape the nightmarish Phantom Library! In this retro side-scrolling platformer, you can enter the world of haunted books in any order you choose and defeat each book\u2019s master before facing the one who controls the library. You can also reenter books you\u2019ve cleared to discover new secrets and complete stages beyond just beating the boss, which could even unlock a special ending for the most dedicated summoners!\n\nInspired by 8-bit genre classics, Ravva and the Phantom Library combines clever level design with vibrant pixel art and precise controls to pay homage to those inspirations while offering a fresh new experience. Endearing characters, fluid animation and brain-teasing puzzles fill 7 challenging stages! Choose between 3 difficulty settings to personalize your experience.\n\nFeatures:\n\n\u2022 Enjoy retro side-scrolling action as little owl summoner Ravva!\n\u2022 Use the unique talents of 4 companions to overcome obstacles and defeat enemies.\n\u2022 Enter haunted books and traverse challenging stages with a variety of interesting themes!\n\u2022 Take down huge bosses animated in fluid pixel art style.\n\u2022 Revisit cleared book worlds to discover secrets and maybe even unlock a special ending!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bd180f0aa7a2281d08a71b3aafb986f06b1aad3f89afcbe5d29309bfd383b1e0.jpg",
-    "id": "0100F4D01CB04000",
-    "intro": "Summon the powers of your magical companions to master the haunted book worlds and find a way home!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "pt",
-      "es",
-      "ru"
-    ],
-    "name": "Ravva and the Phantom Library",
-    "nsuId": 70010000071356,
-    "numberOfPlayers": 1,
-    "publisher": "eastasiasoft",
-    "rating": 7,
-    "ratingContent": [
-      "Mild Violence"
-    ],
-    "region": null,
-    "releaseDate": 20231220,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a6c7020ecc42a16e371ca35971078cb54948c39ea1800e888ac7d2ee059699d9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7f1f6f14b97ecf6364221d16adc1a678e6f2e99a929307cd617370552869050f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e6fdafb42c83b750d8a4e378dac74f6359909f05b1684060f599d9c054b54181.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/85ea9f3b46323046fd8530ca731ac5773cf84f8ec3651dac1c21e3d34baed33b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c875b0984231634606ca72d961173346b32ff28a099baf632778d284669ffe4b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7c6f1b2b38772b00d679d36daf685c37effe76f47c08f6f602716ad3f395ce4a.jpg"
-    ],
-    "size": 110100480,
-    "version": null
-  },
   "70010000061073": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e61ee207d99e2da1865e0928815110fb13c0d9f03249220620010cd0c43d2ded.jpg",
     "category": [
@@ -3764,6 +3677,47 @@
       "https://img-eshop.cdn.nintendo.net/i/20fb363aaa5791c32ff9d1658b5d7305dcf76040dbaad69d3d15b926c37d9de3.jpg"
     ],
     "size": 0,
+    "version": null
+  },
+  "70010000072366": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71f4953b94e5487a6ae29532ce0f90808e1fc5fd4e0d94d7828765a6cab77e0b.jpg",
+    "category": [
+      "Shooter",
+      "Arcade",
+      "Action"
+    ],
+    "description": "Nephenthesys is a vertical scrolling shoot\u2019em up presented in widescreen top-down 3D style. Blast through a huge variety of enemy ships, collect power-ups for wider shot spreads and special bombs, then face off against screen-filling bosses. This mission will take you through caverns, waterways, cityscapes and more. Do you have the skills to see it through?\n\nFeatures:\n\n\u2022 Experience old-school shoot\u2019em up action inspired by arcade genre classics!\n\u2022 Choose from a variety of ships with unique stats and shot types.\n\u2022 Face off against enemy swarms and collect power-ups!\n\u2022 Navigate caverns, waterways, cityscapes and other unique environments.\n\u2022 Take on screen-filling bosses at the end of each stage.\n\u2022 Enjoy a light story conveyed through comm dialogue!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f935cee840b3962529c529b87a6d965d8b993c1358bbfa72f67e82d4fb24cdd.jpg",
+    "id": "0100C3501CF2C000",
+    "intro": "Blast off on a treacherous mission to recover an unidentified energy source amidst an alien onslaught!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "Nephenthesys",
+    "nsuId": 70010000072366,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 7,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240117,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/6989366f31e4b901fbb24b55201a0ae1a4331ecf55882401306a9e8e645ef11e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/38e761307c9f6a415bb37b76cbeeb79791ab82902ad5301c311b02b59a620064.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3ea3ad4c2dd89a957a307b52b25874619d0b739c2ac7361c37802838fa8d349d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dcde9be7e1f822b39c3f09094cf348d29050d6abea5a26cdac12e2cfee3ec2df.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aad7bbf62f8afa8d191f0c8e3925a8930e3ced9b1e197f242bffaa9c9e2fad7e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
+    ],
+    "size": 118489088,
     "version": null
   },
   "70010000057922": {

@@ -1,91 +1,4 @@
 {
-  "70010000070289": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9efa93c5944d08e6504ca0f5ed3da0e4969fbfe11051c3f0cf19be570f275a2a.jpg",
-    "category": [
-      "Arcade",
-      "Action",
-      "Combat",
-      "Multijoueur"
-    ],
-    "description": "Le \"+\" est synonyme de nouvelles possibilit\u00e9s...\nLa version arcade de The Rumble Fish + revient avec des nouveaut\u00e9s !\n\nD\u00e9velopp\u00e9 en 2004 par DIMPS, The Rumble Fish est un jeu de combat r\u00e9put\u00e9 pour la qualit\u00e9 de ses animations et ses m\u00e9caniques de jeu solides. Aujourd'hui, il revient sous le nom The Rumble Fish + avec une montagne de nouvelles fonctionnalit\u00e9s.\n\nDu JcJ en ligne boost\u00e9 par la technologie Netcode Rollback \u00e0 un mode d'entra\u00eenement avanc\u00e9 permettant d'enregistrer vous-m\u00eame les mouvements de l'IA pour l'affronter, les amateurs de jeux de combat seront servis !\n\nModes de jeu principaux :\nArcade\nJcJ local\nJcJ en ligne\nEntra\u00eenement\n\nNouvelle fonctionnalit\u00e9 : un comportement ennemi suppl\u00e9mentaire dans le mode entra\u00eenement qui permet d'enregistrer une routine de combat pour l'IA adverse et de vous entra\u00eener contre elle.\n\nChoisir les couleurs des personnages :\nLorsque vous choisissez un personnage via l'\u00e9cran de s\u00e9lection, vous avez la possibilit\u00e9 de choisir sa couleur en fonction de la touche sur laquelle vous appuyez (LP, LK, SP, SK, D ou START). La couleur par d\u00e9faut est LP.\n\nIncarner Greed :\nentrez les commandes suivantes \u00e0 l'\u00e9cran de s\u00e9lection de personnage.\n1. DROITE x2 en survolant Orville du curseur\n2. GAUCHE x1 en survolant Typhon du curseur\n3. GAUCHE x3 en survolant Boyd du curseur\n4. DROITE x2 en survolant Zen du curseur\nEnfin, appuyez sur HAUT et Greed appara\u00eetra parmi la s\u00e9lection.\n\nL'histoire :\nNous sommes \u00e0 la fin du XXe si\u00e8cle... Une catastrophe naturelle de grande ampleur a frapp\u00e9 l'est d'un pays. Le secteur financier a \u00e9t\u00e9 an\u00e9anti et de nombreuses personnes ont perdu la vie.\n\n\u00c0 l'aube du XXIe si\u00e8cle, le conglom\u00e9rat PROBE-NEXUS, connu sous le nom de Probe, a entam\u00e9 la reconstruction dans l'est de ce pays. Une capitale colossale a \u00e9t\u00e9 b\u00e2tie gr\u00e2ce \u00e0 des technologies de pointe. Les gratte-ciel vertigineux ont remplac\u00e9 les vieux immeubles miteux, et le plus grand centre commercial du monde a \u00e9t\u00e9 b\u00e2ti, ainsi que tout un tas de b\u00e2timents d\u00e9di\u00e9s au divertissement. Cela a marqu\u00e9 la naissance d'un symbole pour le si\u00e8cle \u00e0 venir. Cet endroit a \u00e9t\u00e9 baptis\u00e9 Zone Prime.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ca533b1dfcdd22e61734df0af2ccde576ef028894eeae6535817c031f11f4ce2.jpg",
-    "id": "0100CE801C4FC000",
-    "intro": "Reprenez le combat pour votre survie.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en"
-    ],
-    "name": "The Rumble Fish +",
-    "nsuId": 70010000070289,
-    "numberOfPlayers": 2,
-    "publisher": "3goo",
-    "rating": 12,
-    "ratingContent": [
-      "Violence mod\u00e9r\u00e9e",
-      "Sous-entendu \u00e0 caract\u00e8re sexuel"
-    ],
-    "region": null,
-    "releaseDate": 20231220,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/075190257c3fa384e0e5a7724ad5309791d5b26ae07f4f36cc648eda14c6221b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/18254d0ed6efc0919bec3ee258c56d462f1b44713ddedcbdb889039082cf8e30.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ed74065c20ad40007f10437f48526fe2b667add4bf066610717d934b58ed511c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/22353484c9a4a765a4cc3c2752aed24f885f89b87043b5d7b1acb528bb52b7ac.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d6a00677bc7d6dba426edaa406de214cce34c18867b70783fb2350bbb364617c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3b0219a5fd70ea29bb1ba70f918213699e3a9b22e19a93382163975144c11f24.jpg"
-    ],
-    "size": 138412032,
-    "version": null
-  },
-  "70010000071356": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/27fc60bec367d261b5d1e9cc188a16616d3caf3ce656d18297e9ca62be494715.jpg",
-    "category": [
-      "Plateformes",
-      "Action",
-      "Aventure"
-    ],
-    "description": "Vous incarnez Ravva, une jeune apprentie invocatrice qui s'entoure de quatre compagnons insolites pour tenter de fuir la cauchemardesque Biblioth\u00e8que Fant\u00f4me. Dans ce jeu de plates-formes r\u00e9tro \u00e0 d\u00e9filement horizontal, vous pouvez acc\u00e9der aux mondes livresques hant\u00e9s dans l'ordre de votre choix et vaincre le ma\u00eetre de chaque livre avant d'affronter celui qui contr\u00f4le la biblioth\u00e8que. Vous pouvez \u00e9galement revisiter les livres d\u00e9j\u00e0 parcourus pour y percer de nouveaux secrets et y relever des d\u00e9fis in\u00e9dits. Les invocateurs les plus d\u00e9vou\u00e9s parviendront peut-\u00eatre m\u00eame \u00e0 d\u00e9bloquer une fin sp\u00e9ciale.\n\nPuisant son inspiration dans les jeux de plates-formes 8\u00a0bits d'autrefois, Ravva and the Phantom Library associe une conception intelligente bas\u00e9e sur des niveaux \u00e0 des graphismes en pixel art color\u00e9s et \u00e0 des commandes pr\u00e9cises pour rendre hommage \u00e0 ces classiques du genre tout en offrant une exp\u00e9rience nouvelle et rafra\u00eechissante. Des personnages attachants, des animations fluides et des \u00e9nigmes captivantes vous attendent au cours de 7\u00a0niveaux exigeants. Choisissez l'un des 3\u00a0niveaux de difficult\u00e9 disponibles pour personnaliser votre exp\u00e9rience.\n\nCaract\u00e9ristiques\u00a0:\n\n\u2022 Profitez de l'action r\u00e9tro \u00e0 d\u00e9filement horizontal en vous glissant dans la peau de Ravva, l'invocatrice de hiboux.\n\u2022 Utilisez les talents uniques de 4\u00a0compagnons pour surmonter les obstacles et vaincre les ennemis.\n\u2022 Entrez dans des livres hant\u00e9s et franchissez des niveaux difficiles offrant un large \u00e9ventail de th\u00e8mes passionnants.\n\u2022 Affrontez d'\u00e9normes boss anim\u00e9s dans un style pixel art fluide.\n\u2022 Revisitez les mondes livresques d\u00e9j\u00e0 parcourus pour y percer de nouveaux secrets, voire y d\u00e9bloquer une fin sp\u00e9ciale.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bd180f0aa7a2281d08a71b3aafb986f06b1aad3f89afcbe5d29309bfd383b1e0.jpg",
-    "id": "0100F4D01CB04000",
-    "intro": "Invoquez les pouvoirs de vos compagnons magiques pour relever les d\u00e9fis de mondes livresques hant\u00e9s et retrouver le chemin de chez vous\u00a0!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "pt",
-      "es",
-      "ru"
-    ],
-    "name": "Ravva and the Phantom Library",
-    "nsuId": 70010000071356,
-    "numberOfPlayers": 1,
-    "publisher": "eastasiasoft",
-    "rating": 7,
-    "ratingContent": [
-      "Violence mod\u00e9r\u00e9e"
-    ],
-    "region": null,
-    "releaseDate": 20231220,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a6c7020ecc42a16e371ca35971078cb54948c39ea1800e888ac7d2ee059699d9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7f1f6f14b97ecf6364221d16adc1a678e6f2e99a929307cd617370552869050f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e6fdafb42c83b750d8a4e378dac74f6359909f05b1684060f599d9c054b54181.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/85ea9f3b46323046fd8530ca731ac5773cf84f8ec3651dac1c21e3d34baed33b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c875b0984231634606ca72d961173346b32ff28a099baf632778d284669ffe4b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7c6f1b2b38772b00d679d36daf685c37effe76f47c08f6f602716ad3f395ce4a.jpg"
-    ],
-    "size": 110100480,
-    "version": null
-  },
   "70010000061073": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e61ee207d99e2da1865e0928815110fb13c0d9f03249220620010cd0c43d2ded.jpg",
     "category": [
@@ -3751,6 +3664,47 @@
       "https://img-eshop.cdn.nintendo.net/i/20fb363aaa5791c32ff9d1658b5d7305dcf76040dbaad69d3d15b926c37d9de3.jpg"
     ],
     "size": 0,
+    "version": null
+  },
+  "70010000072366": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71f4953b94e5487a6ae29532ce0f90808e1fc5fd4e0d94d7828765a6cab77e0b.jpg",
+    "category": [
+      "Jeu de tir",
+      "Arcade",
+      "Action"
+    ],
+    "description": "Nephenthesys est un shoot'em up \u00e0 d\u00e9filement vertical pr\u00e9sent\u00e9 en style \u00e9cran large vue de dessus en 3D. Faites exploser un vaste nombre de vaisseaux ennemis, collectionnez des bonus pour des tirs plus \u00e9parpill\u00e9s et des bombes sp\u00e9ciales, puis affrontez des boss remplissant tout l'\u00e9cran. Votre mission vous emm\u00e8nera \u00e0 travers des grottes, des cours d'eau, des paysages urbains et bien plus. Avez-vous les talents pour en voir le bout\u00a0?\n\nFonctionnalit\u00e9s\u00a0:\n\n\u2022 Faites l'exp\u00e9rience d'un shoot'em up action \u00e0 l'ancienne inspir\u00e9 par les classiques du genre de l'arcade\u00a0!\n\u2022 Choisissez parmi une vaste gamme de vaisseaux avec des stats et types de tir uniques.\n\u2022 Affrontez des nu\u00e9es d'ennemis et ramassez des bonus\u00a0!\n\u2022 Naviguez \u00e0 travers des grottes, des voies navigables, des paysages urbains et d'autres environnements uniques.\n\u2022 Affrontez des boss remplissant tout l'\u00e9cran \u00e0 la fin de chaque niveau.\n\u2022 Profitez d'une histoire l\u00e9g\u00e8re via des dialogues par communication\u00a0!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f935cee840b3962529c529b87a6d965d8b993c1358bbfa72f67e82d4fb24cdd.jpg",
+    "id": "0100C3501CF2C000",
+    "intro": "D\u00e9collez pour une mission tr\u00e8s dangereuse pour r\u00e9cup\u00e9rer une source d'\u00e9nergie non identifi\u00e9e au beau milieu d'une invasion extraterrestre\u00a0!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "Nephenthesys",
+    "nsuId": 70010000072366,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 7,
+    "ratingContent": [
+      "Violence mod\u00e9r\u00e9e"
+    ],
+    "region": null,
+    "releaseDate": 20240117,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/6989366f31e4b901fbb24b55201a0ae1a4331ecf55882401306a9e8e645ef11e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/38e761307c9f6a415bb37b76cbeeb79791ab82902ad5301c311b02b59a620064.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3ea3ad4c2dd89a957a307b52b25874619d0b739c2ac7361c37802838fa8d349d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dcde9be7e1f822b39c3f09094cf348d29050d6abea5a26cdac12e2cfee3ec2df.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aad7bbf62f8afa8d191f0c8e3925a8930e3ced9b1e197f242bffaa9c9e2fad7e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
+    ],
+    "size": 118489088,
     "version": null
   },
   "70010000057922": {
