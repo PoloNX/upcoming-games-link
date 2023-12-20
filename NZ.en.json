@@ -2848,6 +2848,55 @@
     "size": 0,
     "version": null
   },
+  "70010000070209": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
+    "category": [
+      "Education",
+      "Training",
+      "Study",
+      "Other"
+    ],
+    "description": "Learn the capital cities of the world in this fun quick-fire quiz game! Answer correctly before time runs out, or it's game over! Gradually improve your knowledge of the planet, and prove to your friends that you're the capitals expert!\n\n\u2022 How well do you know our planet and its countries? Become a professional!\n\u2022 Every capital of every country, with national flags\n\u2022 Match the flags with their respective nations.\n\u2022 Learn the location of famous landmarks around the world!\n\u2022 Teach yourself the currencies of the world, and where they are spent.\n\u2022 Learn local regions and their capital cities.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/75585e3a31301d1e85995fc822df21f1c543a1b73fcf68536721b450d0a107c3.jpg",
+    "id": "010032A01C488000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "de",
+      "it",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Capitals Quizzer",
+    "nsuId": 70010000070209,
+    "numberOfPlayers": 1,
+    "publisher": "Supergonk",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240108,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/3c73f9b898f85fbc033165123f0a6133a1543001b3e6f0246555ddeec40645e0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bd039cf50a0665715b06dac5c2cb40de4ff4120b1820506065c95529b4bc21b0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d29619033a21f6df2a8f29ac01e2a332f01018201679a6e7112d7a96349551c5.jpg"
+    ],
+    "size": 153092096,
+    "version": null
+  },
   "70010000075707": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5963051e176185ed1f2d3f05e71443f38124dc555afdb6c164baedd1f079d39a.jpg",
     "category": [
@@ -2887,6 +2936,162 @@
       "https://img-eshop.cdn.nintendo.net/i/70b21c88440b9f3c4f609e092d13e0847c3f501f5dd5e380a2485b858fcf7e91.jpg"
     ],
     "size": 93323264,
+    "version": null
+  },
+  "70050000045927": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
+    "category": null,
+    "description": "Unlock all game modes. Best value!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Additional Game Modes",
+    "nsuId": 70050000045927,
+    "numberOfPlayers": null,
+    "publisher": "Supergonk",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240108,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/3c73f9b898f85fbc033165123f0a6133a1543001b3e6f0246555ddeec40645e0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bd039cf50a0665715b06dac5c2cb40de4ff4120b1820506065c95529b4bc21b0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d29619033a21f6df2a8f29ac01e2a332f01018201679a6e7112d7a96349551c5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/79b668007eca42039661e426f35d6eb456c988350b45acedc35b5cc7083968eb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c573e3f8321c19adcdee753fd3d7dab547ea422990d033256801a4b9fda35661.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ccdf79ed9c75411a206d52b3604402d4ca9e3cc8fe9812f2cfbe41e0c85724d7.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70050000046075": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
+    "category": null,
+    "description": "Every capital of every country, with national flags.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Countries",
+    "nsuId": 70050000046075,
+    "numberOfPlayers": null,
+    "publisher": "Supergonk",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240108,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d063d14355e1b5f655775972f948070c618c259c8964313a164ccf8624ac066f.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70050000046076": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
+    "category": null,
+    "description": "Teach yourself the currencies of the world.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Currency",
+    "nsuId": 70050000046076,
+    "numberOfPlayers": null,
+    "publisher": "Supergonk",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240108,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/79b668007eca42039661e426f35d6eb456c988350b45acedc35b5cc7083968eb.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70050000046077": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
+    "category": null,
+    "description": "Learn the location of famous landmarks around the world!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Landmarks",
+    "nsuId": 70050000046077,
+    "numberOfPlayers": null,
+    "publisher": "Supergonk",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240108,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/c573e3f8321c19adcdee753fd3d7dab547ea422990d033256801a4b9fda35661.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70050000046078": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
+    "category": null,
+    "description": "Learn local regions and their capital cities.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Regions",
+    "nsuId": 70050000046078,
+    "numberOfPlayers": null,
+    "publisher": "Supergonk",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240108,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/ccdf79ed9c75411a206d52b3604402d4ca9e3cc8fe9812f2cfbe41e0c85724d7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6dc503ba2c67cf7bb6731e1af83b749de42f23130ed0abcfb2de999a86bae76f.jpg"
+    ],
+    "size": 0,
     "version": null
   },
   "70010000062861": {
@@ -4878,6 +5083,47 @@
     "rightsId": null,
     "screenshots": null,
     "size": 0,
+    "version": null
+  },
+  "70010000074906": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f254285411fdd6ed46892d65cc68a0570532ad7c258d8b005ff06bf723ff6df1.jpg",
+    "category": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "description": "Join Scott Whiskers on his quest to find Mr. Fumbleclaw \u2013 the future star of the legendary cat beauty contest \u201cRicky\u2019s Finest\u201d.\n\n\u201cScott Whiskers in: the Search for Mr. Fumbleclaw\u201d is a modern, funny and family-friendly point & click adventure game about cats, pop culture and life itself. Created in the spirit of the classics of the genre. \n\nFeatures\n\n- a gripping story about animals, people, and life itself, told with a big wink\n- beautifully hand-drawn, high-resolution backgrounds in combination with three-dimensional characters give the game its very own visual charm\n- a captivating soundtrack you won\u2019t be able to get out of your head for a long time\n- an automatic journal of your journey and tasks\n- hotspot display that can be activated at any time\n- free and automatic saving\n- duration: approx. 12 hours",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f1b342d6baa215263672659a9e1df9a41339d5e22207748fea17b53b3c5e0450.jpg",
+    "id": "010095701D8C0000",
+    "intro": "A modern, funny and family-friendly point & click adventure game about cats, pop culture and life itself. Created in the spirit of the classics of the genre.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "de"
+    ],
+    "name": "Scott Whiskers in: the Search for Mr. Fumbleclaw",
+    "nsuId": 70010000074906,
+    "numberOfPlayers": 1,
+    "publisher": "Fancy Factory",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Themes",
+      "Scary Scenes"
+    ],
+    "region": null,
+    "releaseDate": 20240702,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/b01f45c1fedb2c4e3603981098edb2779a8572b0f2109b3fb3a2c94af911635f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8907756880144d19d1f8265362ffac5c8290d2fb3e2026ba6ca35edc569af2cd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ebcc53b4741633e30641df4b2b282a6f5bb9461ec8c5af171b538fa42350cf28.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c86454e479a12a61eeb555da0a951f15876d6f5be8b97670149907746dc6b642.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/157dae29d2bc6733961976265ac6d31912b983d5b72e9022824db6974594383a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d6dd6a139028e5a609b9a35eea31e19c24ed67276bdcc23170370e77a89c6bae.jpg"
+    ],
+    "size": 888143872,
     "version": null
   },
   "70050000042818": {

@@ -5319,6 +5319,46 @@
     "size": 0,
     "version": null
   },
+  "70010000074906": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f254285411fdd6ed46892d65cc68a0570532ad7c258d8b005ff06bf723ff6df1.jpg",
+    "category": [
+      "Aventure",
+      "R\u00e9flexion"
+    ],
+    "description": "Rejoignez Scott Whiskers dans sa qu\u00eate de M. Fumbleclaw - la future star du l\u00e9gendaire concours de beaut\u00e9 f\u00e9line \"Ricky's Finest\".\n\n\"Scott Whiskers in : the Search for Mr. Fumbleclaw\" est un jeu d'aventure point & click moderne, dr\u00f4le et familial sur les chats, culture pop et la vie elle-m\u00eame. Il a \u00e9t\u00e9 cr\u00e9\u00e9 dans l'esprit des grands classiques du genre. \n\nCaract\u00e9ristiques\n\n- Une histoire captivante sur les animaux, les gens et la vie elle-m\u00eame, racont\u00e9e avec un grand clin d'\u0153il.\n- de magnifiques arri\u00e8re-plans dessin\u00e9s \u00e0 la main et en haute r\u00e9solution, associ\u00e9s \u00e0 des personnages tridimensionnels, qui conf\u00e8rent au jeu son propre charme visuel\n- une bande sonore captivante que vous ne pourrez pas oublier avant longtemps\n- un journal automatique de votre voyage et de vos t\u00e2ches\n- l'affichage d'un hotspot qui peut \u00eatre activ\u00e9 \u00e0 tout moment\n- une sauvegarde gratuite et automatique\n- dur\u00e9e : environ 12 heures",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f1b342d6baa215263672659a9e1df9a41339d5e22207748fea17b53b3c5e0450.jpg",
+    "id": "010095701D8C0000",
+    "intro": "Un jeu d'aventure point & click moderne, dr\u00f4le et familial sur les chats, culture pop et la vie elle-m\u00eame. Cr\u00e9\u00e9 dans l'esprit des classiques du genre.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "de"
+    ],
+    "name": "Scott Whiskers in: the Search for Mr. Fumbleclaw",
+    "nsuId": 70010000074906,
+    "numberOfPlayers": 1,
+    "publisher": "Fancy Factory",
+    "rating": 7,
+    "ratingContent": [
+      "Peur"
+    ],
+    "region": null,
+    "releaseDate": 20240701,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/b01f45c1fedb2c4e3603981098edb2779a8572b0f2109b3fb3a2c94af911635f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8907756880144d19d1f8265362ffac5c8290d2fb3e2026ba6ca35edc569af2cd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ebcc53b4741633e30641df4b2b282a6f5bb9461ec8c5af171b538fa42350cf28.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c86454e479a12a61eeb555da0a951f15876d6f5be8b97670149907746dc6b642.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/157dae29d2bc6733961976265ac6d31912b983d5b72e9022824db6974594383a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d6dd6a139028e5a609b9a35eea31e19c24ed67276bdcc23170370e77a89c6bae.jpg"
+    ],
+    "size": 888143872,
+    "version": null
+  },
   "70050000042818": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/899372d6b41c661c8f343076bb1c0e33f0de74eb538b4d74666edb55df27c70a.jpg",
     "category": null,
