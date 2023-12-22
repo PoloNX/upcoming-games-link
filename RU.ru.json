@@ -1,49 +1,4 @@
 {
-  "70010000066852": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/410a52bd0b82c0ff0bbc25b3036163df614cf822c8c2153c3c5a931c046a961e.jpg",
-    "category": [
-      "\u0428\u0443\u0442\u0435\u0440",
-      "\u0410\u0440\u043a\u0430\u0434\u0430",
-      "\u042d\u043a\u0448\u043d",
-      "\u0424\u0430\u0439\u0442\u0438\u043d\u0433"
-    ],
-    "description": "Help! The invasion of alien Moorhuhn chickens has begun!\n\nChicken aliens have been watching us from the depths of space. Now they have come to establish their base and take everything that is not nailed down: trees, cows, mountains, grouse...\n\nBut we are prepared! Many hidden extras for our defense will give the aliens a hard time and even their superior technology won't be able to save them when we strike back with our shotgun...\n\nLet them come!\n\n90 seconds to hunt as many chickens as possible and score points. Beat your own record and compete against players around the world.\n\nScore at least 800 points to unlock the bonus level. This will give you another 45 seconds to push your score really high.\n\n- Hidden extras by the dozen\n- great graphics and a cool soundtrack\n- bonus level\n- a strictly confidential hidden EASTER EGG",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "CHICKEN INVADERS ATTACK!\nWe've always known it, and now the day has come:\nTHE DAY OF THE INVASION!!!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "pt",
-      "en",
-      "es",
-      "fr",
-      "de",
-      "it",
-      "nl"
-    ],
-    "name": "Moorhuhn Invasion - Crazy Chicken Invasion",
-    "nsuId": 70010000066852,
-    "numberOfPlayers": 1,
-    "publisher": "Higgs Games",
-    "rating": 16,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20231222,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/3e7ef17a60d1d1a2058b6c47521d20ccfab7b048fa9e320034d13d7fc3b54481.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/64a10cc55bfdd62d045a42f05fae36caf9c30372e8a687c248987dc0f786cafe.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/2eca5538afa1cc802f644a58f9e5c6e475b8607bc2a3c18ed49c1972377d4077.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e5c85a2f102e77423120de4153318094fd38d14c6544d5a8aea7845351ee5cb7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/79727d5bcfa14400601d00e450a46144f3e18288b1be4fa07742ceee56c74416.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e0edd66426a25a3e3528c156bb6e70130c6185dca10db0650b4b78ce174e6107.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
   "70070000019792": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/761f05c4a9709a7ce25e52b9ab0916063c64dcdf32bcf7eb62856f13ea7e922a.jpg",
     "category": null,
