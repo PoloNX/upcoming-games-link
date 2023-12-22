@@ -1,4 +1,36 @@
 {
+  "70070000019776": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ae065964427f67d0ade118ff470a808cd9afafe28a801734c855e2637674459e.jpg",
+    "category": null,
+    "description": "\u8d85\u7d1a\u8a18\u61b6\u529b \u6539\u9032\u4e86\u8a18\u61b6\u904a\u6232\u7684\u7d93\u5178\u516c\u5f0f\u3002 \u5b83\u53ef\u4ee5\u8b93\u60a8\u6309\u7167\u81ea\u5df1\u7684\u6b65\u8abf\u589e\u52a0\u96e3\u5ea6\u7d1a\u5225\uff0c\u4e26\u6839\u64da\u81ea\u5df1\u7684\u559c\u597d\u5b9a\u5236\u6311\u6230\u3002\n\n\u6211\u5011\u7684\u5927\u8166\u662f\u4e8c\u5341\u4e00\u4e16\u7d00\u6700\u91cd\u8981\u7684\u5de5\u5177\u3002 \u5e6b\u60a8\u7684\u5b69\u5b50\u4e00\u500b\u5fd9\uff0c\u7d66\u4ed6\u5011\u4e00\u4efd\u79ae\u7269\uff0c\u5e6b\u52a9\u4ed6\u5011\u5145\u5206\u767c\u63ee\u6f5b\u529b\u3002\n\n\u8b93\u4ed6\u5011\u900f\u904e 2 \u500b DLC \u6210\u70ba\u601d\u60f3\u5927\u5e2b\uff1a\u7b2c\u4e00\u5305\u548c\u7b2c\u4e8c\u5305\u5305\u542b\u5404\u7a2e\u5361\u7247\u9078\u64c7\uff01\n\n\u4e3b\u8981\u7279\u5fb5\n\n- \u63d0\u9ad8\u8a18\u61b6\u529b\n- \u53ef\u611b\u7684\u5361\u7247\n- \u53ef\u8abf\u96e3\u5ea6\u7d1a\u5225\n- \u8f15\u9b06\u7684\u97f3\u6a02\n- 8\u5f35\u5361\u7247\u8a2d\u8a08\n- 20 \u500b\u96e3\u5ea6\u7d1a\u5225",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "\u5e6b\u52a9\u60a8\u7684\u5b69\u5b50\u99d5\u99ad\u4ed6\u5011\u96b1\u85cf\u7684\u6f5b\u80fd\u3002 \u4f7f\u7528\u9019\u4e9b\u5275\u8f1d\u5361\u4f86\u63d0\u9ad8\u4ed6\u5011\u7684\u8a18\u61b6\u529b\u3002 \u8b93\u4ed6\u5011\u6210\u70ba\u81ea\u5df1\u601d\u60f3\u7684\u4e3b\u4eba\u3002",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "\u8d85\u7d1a\u8a18\u61b6\u529b \u5feb\u6a02\u7248",
+    "nsuId": 70070000019776,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20231223,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/536328da6636d970b6e2e4dbc2f5c51f1b52723449fc72b2aab62767def973b1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/310b802e16281ccea27e6e2f0ed6fcf804768a9495c1746332b084e1bd93cb8f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/22a42946a07b20184728251ce46c186f65afaab93727f63e68d00252185b6a07.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/53fac46d77e70e293292f1bb4aa7b0e21f4021e4a05e4379e335cf7903948b20.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a4150d9d9056068b41f7d81bffaf314cde8aaf9173bde9605b30e02b9b9c6f04.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9f1a7d718cfb5702eb3c59c495b6b0849a6390ff2b86c6a114832aaf25c30537.jpg"
+    ],
+    "size": 156237824,
+    "version": null
+  },
   "70010000071581": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c07bc0db1d1de2b8717fdf35ea9e81cc3583981105f32640f063a14bad25705.jpg",
     "category": [
@@ -479,6 +511,45 @@
     "size": 425721856,
     "version": null
   },
+  "70010000066889": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a9627bead1934e0c4de1402b96898d05490137ea230393027542158d3250c30d.jpg",
+    "category": [
+      "\u6a21\u64ec",
+      "\u52d5\u4f5c",
+      "\u7af6\u901f",
+      "\u7b56\u7565"
+    ],
+    "description": "\u8207\u201cTruck Simulator 2024 - USA Driver Zone\u201d\u4e00\u8d77\u8e0f\u4e0a\u7a7f\u8d8a\u7f8e\u570b\u5ee3\u95ca\u98a8\u666f\u7684\u4ee4\u4eba\u8208\u596e\u7684\u865b\u64ec\u65c5\u7a0b\u3002 \u5728\u5ee3\u95ca\u7684\u865b\u64ec\u4e16\u754c\u4e2d\u822a\u884c\u6642\uff0c\u60a8\u6703\u9047\u5230\u5404\u7a2e\u5404\u6a23\u7684\u4efb\u52d9\u548c\u4efb\u52d9\u7b49\u5f85\u60a8\u7684\u53c3\u8207\u3002\n\u4e3b\u8981\u7279\u5fb5\uff1a\n\u2022 \u591a\u6a23\u5316\u7684\u5361\u8eca\u9078\u64c7\uff1a\u5f9e\u7cbe\u5fc3\u8a2d\u8a08\u7684\u8eca\u968a\u4e2d\u9032\u884c\u9078\u64c7\uff0c\u6bcf\u8f1b\u5361\u8eca\u90fd\u6709\u5176\u7368\u7279\u7684\u7279\u6027\u548c\u64cd\u63a7\u6027\u3002\n\u2022 \u958b\u653e\u4e16\u754c\u63a2\u7d22\uff1a\u5728\u7cbe\u5fc3\u88fd\u4f5c\u7684\u958b\u653e\u4e16\u754c\u5730\u5716\u4e2d\u81ea\u7531\u6f2b\u904a\uff0c\u9748\u611f\u4f86\u81ea\u4ee4\u4eba\u9a5a\u5606\u7684\u7f8e\u570b\u98a8\u666f\u3002\n\u2022 \u4efb\u52d9\u591a\u6a23\u6027\uff1a\u627f\u64d4\u591a\u7a2e\u4efb\u52d9\u548c\u5de5\u4f5c\uff0c\u8003\u9a57\u60a8\u7684\u99d5\u99db\u6280\u5de7\u3002\n\u2022 \u5927\u91cf\u5347\u7d1a\uff1a\u900f\u904e\u4e00\u7cfb\u5217\u5347\u7d1a\u4f86\u589e\u5f37\u5361\u8eca\u7684\u6027\u80fd\uff0c\u5305\u62ec\u5f37\u5927\u7684\u5f15\u64ce\u3001\u5148\u9032\u7684\u8b8a\u901f\u7bb1\u548c\u53cd\u61c9\u9748\u654f\u7684\u715e\u8eca\u3002\n\u2022 \u696d\u52d9\u64f4\u5f35\uff1a\u900f\u904e\u660e\u667a\u5730\u6295\u8cc7\u60a8\u7684\u8eca\u968a\u4f86\u5efa\u7acb\u60a8\u7684\u8ca8\u904b\u5e1d\u570b\u3002\n\u2022 \u903c\u771f\u7684\u7269\u7406\u6548\u679c\uff1a\u900f\u904e\u97ff\u61c9\u6bcf\u500b\u8f49\u5f4e\u3001\u52a0\u901f\u548c\u715e\u8eca\u7684\u903c\u771f\u7269\u7406\u6548\u679c\uff0c\u9ad4\u9a57\u5361\u8eca\u904b\u8f38\u7684\u771f\u5be6\u611f\u89ba\u3002\n\u300c\u7f8e\u570b\u5361\u8eca\u6a21\u64ec\u5668\u53f8\u6a5f\u300d\u4e0d\u50c5\u63d0\u4f9b\u904a\u6232\u9ad4\u9a57\uff0c\u9084\u63d0\u4f9b\u9032\u5165\u9577\u9014\u5361\u8eca\u904b\u8f38\u4e16\u754c\u7684\u8ff7\u4eba\u65c5\u7a0b\u3002\u7e6b\u597d\u5b89\u5168\u5e36\uff0c\u4e0a\u8def\uff0c\u5728\u7f8e\u570b\u9ad8\u901f\u516c\u8def\u4e0a\u7559\u4e0b\u81ea\u5df1\u7684\u5370\u8a18\u3002\n\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9c960d8a5d30298d769259943f292f54ff92e03ae2ee76611674fad833f12bd3.jpg",
+    "id": "0100D7E01B4EA000",
+    "intro": "\u52a0\u5feb\u60a8\u7684\u865b\u64ec\u65c5\u7a0b\uff0c\u5f81\u670d\u958b\u95ca\u7684\u9053\u8def\uff0c\u4e26\u5728\u7f8e\u570b\u4e2d\u5fc3\u5efa\u7acb\u60a8\u7684\u5361\u8eca\u904b\u8f38\u5e1d\u570b - \u6bcf\u4e00\u82f1\u91cc\u90fd\u662f\u65b0\u7684\u5192\u96aa\uff01\n",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Truck Simulator 2024 - USA Driver Zone",
+    "nsuId": 70010000066889,
+    "numberOfPlayers": 1,
+    "publisher": "SUCCESS GAMES",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f2e385004041ca64e1f2f7d05c3441e18c2cddda6f954b8253e54264edbea2ab.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a9097319fdf6faf3a0452f93ca373adf9abde4f1cf6f75be2324eb538912416d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/726477617da21c7f4a64f09fd504fe7668edebd176cd276c7e8eb38e30b2694d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8fce30df3a447b070486fabe13eab821f515ed058f706fd7347263bb68a06657.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b7c9b0d82811c4ccab999d8c6cf178769b93443f1c1b65aa8f07fbf71b6e3b03.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cb56f9866f0a2f5a3fee8bb7c1ba1c05db7a85515889f36f9f08858c21ae80e3.jpg"
+    ],
+    "size": 720371712,
+    "version": null
+  },
   "70010000069699": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f444306b07b17411dbfeb62bdca897011425b87337b212bec90de2f968615775.jpg",
     "category": [
@@ -590,6 +661,49 @@
     "size": 74448896,
     "version": null
   },
+  "70010000073160": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c420a19ed5fc9969d28cd7829974763d672633bb006bf2d6816a7e3f46ac8db.jpg",
+    "category": [
+      "\u52d5\u4f5c",
+      "\u8857\u6a5f",
+      "\u89d2\u8272\u626e\u6f14",
+      "\u5c04\u64ca"
+    ],
+    "description": "Enhanced (\u9032\u5316)\n\u88dd\u5099\u4e86\u8dd1\u52d5\u5c04\u64ca\u548c\u5b8c\u5168\u7a81\u7834\uff0c\u9032\u5316\u845b\u96f7\u592b\u7684\u8a5e\u5178\u88e1\u6c92\u6709\u63a9\u8b77\u548c\u9000\u537b\u5169\u500b\u5b57\u3002\n\u5168\u901f\u885d\u523a\uff0c\u66f4\u5feb\u66f4\u7121\u60c5\u5730\u5c04\u6bba\u4f60\u7684\u6575\u4eba\u3002\n\nChanged (\u8b8a\u5316)\n\u845b\u96f7\u592b\u5728Nintendo Switch\u2122\u4e2d\u4ee5\u4f11\u9592\u88dd\u767b\u5834\u3002\n\u4f7f\u7528\u5177\u6709\u7121\u9650\u5f48\u593e\u5bb9\u91cf\u7684\u5730\u7344\u72ac\u96d9\u69cd\u548c\u4ea1\u8005\u4e4b\u68fa\uff0c\u9ad4\u9a57\u6642\u5c1a\u53c8\u7c21\u6f54\u7684\u5c04\u64ca\u548c\u52d5\u4f5c\u3002\n\nBetter than Ever (\u6bd4\u4ee5\u5f80\u66f4\u597d)\n\u63a2\u7d22\u845b\u96f7\u592b\u548c\u4ed6\u7684\u4e00\u884c\u4eba\u524d\u7db2\u6771\u5357\u4e9e\u63a2\u96aa\u7684\u6545\u4e8b\u3002\n\u4e0d\u50c5\u662fGungrave\u7684\u7c89\u7d72\uff0c\u6240\u6709\u5e74\u9f61\u5c64\u7684\u4eba\u90fd\u53ef\u4ee5\u4eab\u53d7\u7684\u611f\u60c5\u5192\u96aa\u5728\u8d85\u904e12\u5c0f\u6642\u7684\u904a\u6232\u4e2d\u5c55\u73fe\u5728\u5927\u5bb6\u773c\u524d\u3002",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9246f1cbec59a98e57d56f9ca81ac80423e1a8c9ca9ddaa9459cb043ebecfadb.jpg",
+    "id": "0100B6F01D238000",
+    "intro": "\u7368\u7279\u7684\u7b2c\u4e09\u4eba\u7a31\u5c04\u64ca\u52d5\u4f5c\u904a\u6232\u525b\u525b\u56de\u6b78Nintendo Switch\u2122\u3002\n\u845b\u96f7\u592b\uff0c\u4e00\u500b\u5fa9\u6d3b\u7684\u69cd\u624b\uff0c\u5229\u7528\u4ed6\u7121\u60c5\u7684\u5c04\u6bba\u6575\u4eba\u5427\u3002",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Gungrave G.O.R.E Ultimate Enhanced Edition",
+    "nsuId": 70010000073160,
+    "numberOfPlayers": 1,
+    "publisher": "Beep",
+    "rating": 18,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/ef94d66ccf1ffb8093c2e5e7e9fb2ece1d1e7420c42155765e01f8d04d985a92.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dcc6de7f1e24788de4b13ac3525fa9de20bcb8f4fc8c755a50a6889797cbd372.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e8af5480e4c020b748831573c739068852779a6579dff7f3abefeb688800ee44.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5304258d2fa98655a5d3dd1b91da751ea7293122938561848e6e1b9ad74b39f4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e7fb3ede0e67d56e04f6d85f17fb0d5c75f0358a926800029512b9f8d0a177ca.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/061685fd1f9ca96d6c25921f11277dafe6715e63f6e00fee0b89916b23d2b377.jpg"
+    ],
+    "size": 11131682816,
+    "version": null
+  },
   "70010000073710": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6ac12ddfc3e24f67ae7b2f057102ae249c77a154998d784495e7fed5495b6d46.jpg",
     "category": [
@@ -627,6 +741,209 @@
       "https://img-eshop.cdn.nintendo.net/i/5bf676e7289d8859b11f32fbc3f9a99cefbf3b4abffd2ca9028ded1777fad4d2.jpg"
     ],
     "size": 92274688,
+    "version": null
+  },
+  "70010000074469": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1a9a34a8be05a05b113e3fd4f7a6e8cc592a62f5939d51016cbc51b73977c867.jpg",
+    "category": [
+      "\u8857\u6a5f",
+      "\u76ca\u667a",
+      "\u6a21\u64ec",
+      "\u904b\u52d5"
+    ],
+    "description": "\u5e36\u4e0a\u60a8\u7684\u88dd\u5099\uff0c\u958b\u59cb\u6210\u70ba n\u9ad8\u723e\u592b \u5927\u5e2b\u7684\u65c5\u7a0b\u3002 \u63a2\u7d22\u5145\u6eff\u9677\u9631\u3001\u8b0e\u984c\u548c\u4ee4\u4eba\u9a5a\u5606\u7684\u666f\u8272\u7684\u7f8e\u9e97\u800c\u7c21\u7d04\u7684\u5730\u9ede\u3002\n\n\n\u627e\u5230\u4f60\u7684\u65b9\u5f0f\n\u5728\u73a9 n\u9ad8\u723e\u592b \u6642\uff0c\u60a8\u5c07\u9762\u81e8\u8a31\u591a\u6311\u6230\u3002 \u96f7\u5c04\u3001\u5c16\u523a\u3001\u706b\u7130\u7b49\u7b49\u90fd\u6703\u8a66\u5716\u963b\u6b62\u4f60\u7684\u7403\u3002 \u8acb\u8a18\u4f4f\uff0c\u6642\u6a5f\u662f\u6210\u529f\u7684\u95dc\u9375\uff0c\u60a8\u4e0d\u61c9\u8a72\u6025\u65bc\u64ca\u7403\u3002 \u96a8\u6ce2\u9010\u6d41\uff0c\u638c\u63a7\u4e00\u5207\u4e16\u754c\u3002\n\n\n\u8a08\u5283\u4f60\u7684\u65b9\u6cd5\n\u6709\u7121\u6578\u53ef\u80fd\u7684\u89e3\u6c7a\u65b9\u6848\u4f86\u5b8c\u6210\u95dc\u5361\u3002 \u4e0d\u540c\u7684\u89d2\u5ea6\u548c\u5f37\u5ea6\u53ef\u4ee5\u5b8c\u5168\u6539\u8b8a\u7403\u7684\u8ecc\u8de1\u3002 \u6aa2\u67e5\u5468\u570d\u7684\u5c71\u4e18\u3001\u50b3\u9001\u6216\u52a0\u901f\u5668\u3002 \u6bcf\u500b\u5143\u7d20\u90fd\u7d66\u4f60\u4e00\u500b\u65b0\u7684\u64ca\u7403\u6a5f\u6703\u3002\n\n\n\u6210\u70ba\u9ad8\u723e\u592b\u5927\u5e2b\n\u8981\u6210\u70ba\u8077\u696d\u9078\u624b\uff0c\u4f60\u5fc5\u9808\u6536\u96c6\u6bcf\u500b\u968e\u6bb5\u7684\u6240\u6709\u661f\u661f\u4e26\u5b8c\u6210\u6700\u4f4e\u7684\u9ede\u64ca\u6578\u3002 \u7814\u7a76\u5730\u5716\u7684\u4f48\u5c40\uff0c\u76e1\u53ef\u80fd\u5617\u8a66\u4e26\u7372\u5f97\u51a0\u8ecd\u7a31\u865f\uff01\n\n\n\n\u4e3b\u8981\u7279\u5fb5\uff1a\n- 8 \u500b\u7368\u7279\u7684\u4e16\u754c\n- \u8d85\u904e 60 \u500b\u95dc\u5361\u7b49\u4f60\u638c\u63e1\n- \u8a18\u5206\u5361\u53ef\u5354\u52a9\u60a8\u8ffd\u8e64\u9032\u5ea6",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16b0bb802a5fe1924dcb37c9ebe60c1048a3c3b86652af07968b6df09c10861d.jpg",
+    "id": "010090801D6E2000",
+    "intro": "\u8e0f\u4e0a\u60a8\u6240\u898b\u904e\u7684\u6700\u5f15\u4eba\u5165\u52dd\u7684\u9ad8\u723e\u592b\u5192\u96aa\u4e4b\u65c5\uff0c\u53c3\u89c0\u4e16\u754c\u5404\u5730\u4ee4\u4eba\u9a5a\u5606\u7684\u5730\u65b9\u3002",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "de",
+      "zh"
+    ],
+    "name": "n\u9ad8\u723e\u592b",
+    "nsuId": 70010000074469,
+    "numberOfPlayers": 1,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f4e2d4e7f3cbdb99d3bb0cae7296e7df83bc4515ebb4008f52342daf566a3244.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/18a5fafc7b45c476a9ffa73d23efd33295f563598b91dcd8df5ee4fbec253831.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8579368f12ed7b5a42d70a5afdeb1ece861ed6e544926ceac959914d60a16e9e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/88ca2c92631d08116be61970bdbf480b48f6ea0ba230a52331b59e41ae71e721.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5b9686583ae563f5d12ece2268613911ddf62a85af2b82e8bdf79bbb17012b45.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d0a1ce94767b0e98060aefc1dfdad7441012dcf647250ca204361de70c407544.jpg"
+    ],
+    "size": 238026752,
+    "version": null
+  },
+  "70010000075298": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1eb9225b146b3070e9d64793d0ef68d9cca399d08fa21e6db96ae4f6356241db.jpg",
+    "category": [
+      "\u8857\u6a5f",
+      "\u52d5\u4f5c",
+      "\u5c04\u64ca"
+    ],
+    "description": "\u300aTrash Punk\u300b\u662f\u7121\u653f\u5e9c\u72c0\u614b\u7d71\u6cbb\u7684\u5730\u65b9\uff0c\u4f60\u5c31\u662f\u5728\u672b\u65e5\u4e2d\u6416\u6efe\u7684\u8ca0\u9f20\u9f90\u514b\uff01\u9019\u4e0d\u50c5\u50c5\u662f\u4e00\u6b3e\u5c04\u64ca\u904a\u6232\uff1b\u9019\u662f\u4e00\u5834\u8a2d\u7f6e\u5728\u760b\u72c2\u53ef\u611b\u7684\u4e16\u754c\u4e2d\u7684\u9802\u8996\u89d2\u3001\u814e\u4e0a\u817a\u7d20\u98c6\u5347\u7684\u66b4\u52d5\u3002\n\n\u5f9e\u72c2\u91ce\u7684\u706b\u5668\u5230\u60e1\u6bd2\u7684\u8fd1\u6230\u6b66\u5668\uff0c\u6e96\u5099\u597d\u901a\u904e\u6210\u7fa4\u7684\u7a81\u8b8a\u602a\u7269\u7838\u788e\u548c\u7206\u7834\u4e00\u689d\u9053\u8def\u3002\u8fd1\u6230\u4e0d\u50c5\u50c5\u662f\u70ba\u4e86\u70ab\u8000 - \u5728\u6df7\u4e82\u4e2d\u958b\u8f9f\u51fa\u4f60\u7684\u9053\u8def\uff0c\u540c\u6642\u7372\u53d6\u5f48\u85e5\u3002\u5728\u6bcf\u4e00\u500b\u626d\u66f2\u7684\u8f49\u89d2\uff0c\u505a\u51fa\u8271\u96e3\u7684\u9078\u64c7\uff1a\u62ff\u8d77\u65b0\u6b66\u5668\u3001\u5347\u7d1a\uff0c\u6216\u662f\u6025\u9700\u7684\u6cbb\u7642\u3002\n\n\u9019\u6b3e\u904a\u6232\u7684\u4e16\u754c\u662f\u9f90\u514b\u6416\u6efe\u53cd\u53db\u548c\u672b\u65e5\u5f8c\u6df7\u4e82\u7684\u72c2\u91ce\u6df7\u5408\uff0c\u6bcf\u6b21\u72c2\u66b4\u90fd\u662f\u7368\u7279\u7684\u6df7\u6c8c\u6df7\u5408\uff0c\u7a0b\u5e8f\u751f\u6210\u7684\u95dc\u5361\u78ba\u4fdd\u6c92\u6709\u5169\u6b21\u904a\u73a9\u662f\u76f8\u540c\u7684\u3002\u4f34\u96a8\u8457\u91cd\u7bc0\u594f\u7684\u5409\u4ed6\u8072\u97f3\u8ecc\uff0c\u6bcf\u4e00\u95dc\u90fd\u662f\u5371\u96aa\u548c\u8208\u596e\u7684\u6469\u897f\u5751\u3002",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/63df5aaf05d207f0973fd8896a756b418ed57f6c9d8a697975c4ab9e9dda533b.jpg",
+    "id": "01008D801D9E6000",
+    "intro": "\u4ee5\u9f90\u514b\u98a8\u683c\u8fce\u63a5\u672b\u65e5\uff01",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "ko",
+      "zh"
+    ],
+    "name": "Trash Punk",
+    "nsuId": 70010000075298,
+    "numberOfPlayers": 1,
+    "publisher": "Baltoro Games",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f2592208808a03c8b2d309472587536ff60cefb89c988240d0e53bcd8d94f731.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ae5b24d17483fa36ef776d05dd38706db8d772297f0deb1bc81d270b608cab62.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7c5e37dbce5caffd6167b16f39860a20b028d921b3a929495c531a1bf8efa6c4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fc1412f2fc2c8bc07fbce0a296dabc5e2d770491f2b01d797152f8049befb337.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1f5873fe4604e609c7c3ea820e8a63b490480ad2e0b691edf4efd668dc9651a3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2e8e344c9f9ccd873569fca7029726c8ae5f5e8db57dc8689b9e61ae687bd6df.jpg"
+    ],
+    "size": 162529280,
+    "version": null
+  },
+  "70050000045808": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8705edb68287a260029141dff2423abb1b9ad9f4e56d9c6f9d2a4acb0b4ad115.jpg",
+    "category": null,
+    "description": "\u706b\u7bad\u6bd4\u5229\u00b7\u7d05\u8272\u51f1\u8fea\u62c9\u514b\u56de\u4f86\u4e86\u3002\n\u7528\u96fb\u5409\u4ed6BL20000V\u8b93\u6575\u4eba\u4f60\u5617\u5617\u523a\u6fc0\u3002",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "0100B6F01D239003",
+    "ids": [
+      "0100B6F01D239003"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "ROCKET BILLY REDCADILLAC\n\u706b\u7bad\u6bd4\u5229\u00b7\u8d64\u8272\u51f1\u8fea\u62c9\u514b",
+    "nsuId": 70050000045808,
+    "numberOfPlayers": null,
+    "publisher": "Beep",
+    "rating": 18,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70050000045809": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1e22be11da89f32be58552faa8299525aa8a30e63f625bdb66aa66f993ddbab5.jpg",
+    "category": null,
+    "description": "\u904e\u53bb\u8207\u5e03\u862d\u767b\u00b7\u5e0c\u7279\u4e00\u8d77\u7d93\u6b77\u751f\u6b7b\u60a3\u96e3\u7684\u7537\u4eba\uff0c\u54c8\u5229\u00b7\u9ea5\u591a\u7dad\u3002 \u6295\u8eab\u65bc\u300c\u8001\u7239\u300d\u5728\u8ca7\u6c11\u7a9f\u8271\u96e3\u6210\u9577\uff0c\u4e26\u5efa\u7acb\u7684\u7d44\u7e54\u300c\u7c73\u96f7\u5c3c\u7fc1\u300d\u3002 \u56ae\u5f80\u81ea\u7531\u548c\u529b\u91cf\u7684\u54c8\u5229\u70ba\u4e86\u6210\u70ba\u7b2c\u4e00\uff0c\u751a\u81f3\u4e0d\u64c7\u624b\u6bb5\u6bba\u5bb3\u4e86\u4ed6\u7684\u9752\u6885\u7af9\u99ac\u7684\u5e03\u862d\u767b\u00b7\u5e0c\u7279\uff08\u6bd4\u4e9e\u7279\u00b7\u845b\u96f7\u592b\uff09\u3002\n\u54c8\u88cf\u00b7\u9ea5\u591a\u7dad\u8207\u845b\u96f7\u592b\u5171\u4eab\u6210\u9577\u80fd\u529b\u503c\uff0c\u5118\u7ba1\u5c04\u64ca\u901f\u5ea6\u8f03\u6162\uff0c\u4f46\u5177\u6709\u66f4\u5f3a\u7684\u7834\u58de\u529b\u3002 \u53e6\u5916\uff0c\u901a\u904e\u57fa\u672c\u5c04\u64ca\u5c31\u53ef\u4ee5\u7834\u58de\u76fe\u724c\u3002",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "0100B6F01D239005",
+    "ids": [
+      "0100B6F01D239005"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "HARRY MACDOWEL\n\u54c8\u5229\u00b7\u9ea5\u591a\u7dad",
+    "nsuId": 70050000045809,
+    "numberOfPlayers": null,
+    "publisher": "Beep",
+    "rating": 18,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70070000020130": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37fbf971e404d5626d4502e92fcb7a14f78ea592293c2bfa05a1bb1a4d19cadc.jpg",
+    "category": null,
+    "description": "\u706b\u7bad\u6bd4\u5229\u00b7\u7d05\u8272\u51f1\u8fea\u62c9\u514b\u3001\u54c8\u5229\u9ea5\u591a\u7dad\u3001\u53e4\u723e\u8332\u548c\u5dd6\u68ee\u7684\u638c\u9580\u4eba\n\n\u75284\u500b\u65b0\u89d2\u8272\u64ca\u6557\u6bcf\u500b\u70cf\u9d09\u5e6b\uff01\u4eab\u53d7\u4e0d\u540c\u98a8\u683c\u7684\u6230\u9b25\uff01\u4e00\u5b9a\u8981\u89aa\u81ea\u62ff\u8d70\u3002",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "ids": [],
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "CHARACTER PASS",
+    "nsuId": 70070000020130,
+    "numberOfPlayers": null,
+    "publisher": "Beep",
+    "rating": 18,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 200278016,
+    "version": null
+  },
+  "70070000020131": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f5fe37cbe2c44e52dfa46952609d6c6c94f0677f87a1895a35124fe378333a73.jpg",
+    "category": null,
+    "description": "\u904a\u6232 +\u89d2\u8272\u901a\u884c\u8b49\n\n\u8cfc\u8cb7\u8c6a\u83ef\u7248\uff0c\u60a8\u5c07\u7372\u5f97\u89d2\u8272\u901a\u884c\u8b49 + \u904a\u6232\u512a\u60e0\u50f9\u683c!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "DELUXE EDITION",
+    "nsuId": 70070000020131,
+    "numberOfPlayers": null,
+    "publisher": "Beep",
+    "rating": 18,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/ef94d66ccf1ffb8093c2e5e7e9fb2ece1d1e7420c42155765e01f8d04d985a92.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dcc6de7f1e24788de4b13ac3525fa9de20bcb8f4fc8c755a50a6889797cbd372.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e8af5480e4c020b748831573c739068852779a6579dff7f3abefeb688800ee44.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5304258d2fa98655a5d3dd1b91da751ea7293122938561848e6e1b9ad74b39f4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e7fb3ede0e67d56e04f6d85f17fb0d5c75f0358a926800029512b9f8d0a177ca.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/061685fd1f9ca96d6c25921f11277dafe6715e63f6e00fee0b89916b23d2b377.jpg"
+    ],
+    "size": 11331960832,
     "version": null
   },
   "70010000057919": {
@@ -723,6 +1040,93 @@
     "size": 619708416,
     "version": null
   },
+  "70010000072369": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5c8938fe882b4c23597600570144bf8b257168c9c686d89948ba5099a5176cf2.jpg",
+    "category": [
+      "\u5c04\u64ca",
+      "\u8857\u6a5f",
+      "\u52d5\u4f5c"
+    ],
+    "description": "\u300aNephenthesys\u300b\u662f\u4e00\u6b3e\u4ee5\u4fef\u77b0\u8996\u89d2\u5448\u73fe\u7684 3D \u5782\u76f4\u5377\u8ef8\u6e05\u7248\u5c04\u64ca\u904a\u6232\u3002\u64ca\u843d\u5404\u5f0f\u5404\u6a23\u7684\u6575\u65b9\u6230\u8266\u3001\u8490\u96c6\u5f37\u5316\u7269\u4f86\u64f4\u6563\u5f48\u5e55\u548c\u7372\u5f97\u7279\u6b8a\u8f5f\u70b8\u3001\u4e26\u9762\u5c0d\u585e\u6eff\u87a2\u5e55\u7684\u8d85\u5927\u578b\u9b54\u738b\u3002\u9019\u9805\u4efb\u52d9\u5f97\u8981\u7a7f\u68ad\u65bc\u6d1e\u7a74\u3001\u6c34\u8def\u548c\u90fd\u5e02\u7b49\u5730\u9ede\u3002\u4f60\u9ad8\u8d85\u7684\u6280\u8853\u80fd\u5e36\u4f60\u8d70\u5230\u6700\u5f8c\u55ce\uff1f\n\n\u7279\u8272\uff1a\n\n\u2022 \u9ad4\u9a57\u53d7\u7d93\u5178\u8857\u6a5f\u555f\u767c\u7684\u8001\u6d3e\u6e05\u7248\u5c04\u64ca\u904a\u6232\uff01\n\u2022 \u5f9e\u5404\u5f0f\u6709\u8457\u7368\u7279\u80fd\u529b\u8207\u5c04\u64ca\u65b9\u5f0f\u7684\u8239\u8266\u4e2d\u9078\u64c7\u3002\n\u2022 \u9762\u5c0d\u6210\u7fa4\u7684\u6575\u8ecd\uff0c\u4e26\u8490\u96c6\u5f37\u5316\u7269\uff01\n\u2022 \u63a2\u7d22\u6d1e\u7a74\u3001\u6c34\u8def\u548c\u57ce\u5e02\u7b49\u7368\u7279\u5730\u9ede\u3002\n\u2022 \u5728\u6bcf\u95dc\u7684\u6700\u5f8c\u9762\u5c0d\u585e\u6eff\u87a2\u5e55\u7684\u8d85\u5927\u578b\u9b54\u738b\u3002\n\u2022 \u4eab\u53d7\u7121\u7dda\u96fb\u901a\u8a0a\u6240\u5e36\u4f86\u7684\u7c21\u6613\u6545\u4e8b\uff01",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f935cee840b3962529c529b87a6d965d8b993c1358bbfa72f67e82d4fb24cdd.jpg",
+    "id": "0100C3501CF2C000",
+    "intro": "\u5728\u5371\u6a5f\u56db\u4f0f\u7684\u4efb\u52d9\u4e2d\u8f5f\u51fa\u4e00\u689d\u8def\uff0c\n\u5728\u5916\u661f\u731b\u653b\u4e2d\u91cd\u62fe\u672a\u77e5\u7684\u80fd\u91cf\u4f86\u6e90\uff01",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "Nephenthesys",
+    "nsuId": 70010000072369,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/6989366f31e4b901fbb24b55201a0ae1a4331ecf55882401306a9e8e645ef11e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/38e761307c9f6a415bb37b76cbeeb79791ab82902ad5301c311b02b59a620064.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3ea3ad4c2dd89a957a307b52b25874619d0b739c2ac7361c37802838fa8d349d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dcde9be7e1f822b39c3f09094cf348d29050d6abea5a26cdac12e2cfee3ec2df.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aad7bbf62f8afa8d191f0c8e3925a8930e3ced9b1e197f242bffaa9c9e2fad7e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
+    ],
+    "size": 118489088,
+    "version": null
+  },
+  "70010000075461": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c89ee487200dbc6d5d8449ea62433ef6cf19b7ed35eb1955075afe450e28f47.jpg",
+    "category": [
+      "\u5192\u96aa",
+      "\u52d5\u4f5c",
+      "\u89d2\u8272\u626e\u6f14",
+      "\u7b56\u7565"
+    ],
+    "description": "\u4f60\u53ef\u4ee5\u5728\u6bcf\u5834\u6230\u9b25\u6700\u591a\u53ef\u651c\u5e364\u500b\u968a\u53cb\u548c1\u500b\u5b88\u8b77\u9748\uff0c\u8b93\u5927\u5bb6\u53ef\u4ee5\u5728\u904a\u6232\u4e2d\u53ef\u4ee5\u9ad4\u9a57\u52305\u500d\u7684\u66a2\u723d\u5272\u8349\u6a02\u8da3\uff01\n\u540c\u6642\uff0c\u4f60\u9084\u53ef\u4ee5\u626e\u6f14\u4e0d\u540c\u89d2\u8272\uff0c\u9ad4\u6703\u8d85\u591a\u4e0d\u540c\u7684\u8077\u696d\u6280\u80fd\uff0c\u7d44\u5efa\u5c6c\u65bc\u4f60\u81ea\u5df1\u7684\u7368\u7279\u5925\u4f34\u968a\u4f0d\uff0c\u5728\u91cd\u91cd\u602a\u7269\u7fa4\u7684\u5305\u570d\u4e4b\u4e0b\u751f\u5b58\u4e0b\u53bb\uff0c\u4ea6\u53ef\u4ee5\u900f\u904e\u547d\u904b\u63a2\u7d22\uff0c\u6230\u52dd\u5f37\u529bBOSS\uff0c\u7372\u5f97\u591a\u7a2e\u96a8\u6a5f\u5b88\u8b77\u9748\u8207\u4f60\u5171\u540c\u4e26\u80a9\u4f5c\u6230\uff0c\u6700\u7d42\u64ca\u6557\u8d85\u7d1a\u5927\u9b54\u738b\uff01\n\u203b\u904a\u6232\u7cfb\u7d71\n\u3010\u8c50\u5bcc\u7684\u8077\u696d\u3011\u904a\u6232\u5167\u670912\u7a2e\u98a8\u683c\u4e0d\u540c\uff0c\u5c6c\u6027\u4e0d\u540c\u7684\u8077\u696d\u4f9b\u4f60\u9078\u64c7\n\u3010\u53ef\u9032\u968e\u795e\u6280\u3011\u9ad4\u9a578\u5927\u7279\u8272\u6280\u80fd\u6d3e\u7cfb\u5143\u7d20\uff08\u96f7\u3001\u98a8\u3001\u51b0\u3001\u706b\u3001\u571f\u3001\u6bd2\u3001\u8056\u3001\u6697\uff09\uff0c\u81ea\u7531\u642d\u914d\u7d44\u5408\u591a\u7a2e\u4e0d\u540c\u7684\u653b\u64ca\u6280\u80fd\uff0c\u6280\u80fd\u53ef\u5347\u7d1a\u70ba\u795e\u6280\uff0c\u6230\u529b\u7ffb\u500d\n\u3010\u53ef\u53ec\u559a\u5b88\u8b77\u9748\u3011\u904a\u6232\u5167\u6709\u8d85\u904e\u591a\u7a2e\u98a8\u683c\u8fe5\u7570\uff0c\u6280\u80fd\u6548\u679c\u5404\u7570\u80fd\u529b\u4e0d\u540c\u7684\u201c\u5b88\u8b77\u9748\u201d\uff0c\u8207\u4f60\u4e00\u540c\u6230\u9b25\u4f34\u4f60\u6210\u9577\n\u3010\u8c50\u5bcc\u7684\u547d\u904b\u6545\u4e8b\u3011\u8b93\u904a\u6232\u5167\u96b1\u85cf\u8d85\u591a\u4f60\u610f\u5411\u4e0d\u5230\u7684\u4e8b\u4ef6\u6545\u4e8b\uff0c\u5982\u9152\u9928\u53ef\u62db\u52df\u4e0d\u540c\u8077\u696d\u7684\u968a\u53cb\uff0c\u589e\u5f37\u5be6\u529b\uff1b\u9047\u5230\u72e1\u733e\u6436\u52ab\u72af\uff0c\u662f\u4e56\u4e56\u7d66\u9322\uff1f \u9084\u662f\u76f4\u63a5\u958b\u4e7e\uff1f \u904a\u6232\u4e2d\u96a8\u6a5f\u7684\u547d\u904b\u73a9\u6cd5\uff0c\u8b93\u904a\u6232\u5167\u96b1\u85cf\u8d85\u591a\u4f60\u610f\u5411\u4e0d\u5230\u7684\u7279\u6b8a\u9a5a\u559c\u3002 \u6bcf\u4e00\u6b21\u7684\u9078\u64c7\u90fd\u662f\u5168\u65b0\u7684\u9ad4\u9a57\uff1b\u6bcf\u500b\u9078\u64c7\u90fd\u4ee3\u8868\u8457\u4e0d\u540c\u7684\u7d50\u5c40\uff1b\u6bcf\u4e00\u6b21\u9078\u64c7\u90fd\u6703\u8b93\u4f60\u611f\u53d7\u5230\u547d\u904b\u7684\u6289\u64c7\uff01",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/157f88e6650c5b373981d4cfa642fd6f8345a0a8617ced10cbc8c5f156826660.jpg",
+    "id": "010082501DAF2000",
+    "intro": "\u723d\u5230\u6839\u672c\u505c\u4e0d\u4e0b\u4f86\u7684Rogue-like\uff01 \u89e3\u9396\u66f4\u591a\u8077\u696d\u3001\u62db\u52df\u66f4\u591a\u5925\u4f34\u3001\u906d\u9047\u66f4\u591a\u5947\u9047\uff01 \u7a81\u7834\u602a\u7269\u7684\u91cd\u91cd\u5305\u570d\uff0c\u9ad4\u9a57\u523a\u6fc0\u7684\u5192\u96aa\u4e4b\u65c5\u3002",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "de",
+      "it",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "\u547d\u904b\u82f1\u96c4",
+    "nsuId": 70010000075461,
+    "numberOfPlayers": 1,
+    "publisher": "Happy Player",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/fdcb276c5e0beaf777beec81f8cde865397ab319424397ee1e7ba6b775381694.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e93a3f2850a91e3365f8c948150d909eb2d849e1401e186b4a18d32103218380.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/350bb0664e8442401213169f5d1eec5c7de29beb96d6eefeee40b865a2e78824.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc3d0148f9ca5258c7dfe32b7bddb1a31efd89b25cd89d8201a7b401875c1a45.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4f5513d9f107a07e0f3ddff776f8af3978107dbce80ed2205d6cc9b8109b78a7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1a06c61687bcb94a06dc074604badc8be1d27ed8c0dca79483638a26f1a7290e.jpg"
+    ],
+    "size": 1610612736,
+    "version": null
+  },
   "70050000043802": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b197ce5461f556f4871759d96c7c64679ebee9d4dfd9932b1036357281516654.jpg",
     "category": null,
@@ -771,6 +1175,34 @@
     "rightsId": null,
     "screenshots": null,
     "size": 0,
+    "version": null
+  },
+  "70050000045810": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/60ab002ada67de77de88e7c1f89d491ad795796090cc18ebdda74ca6eecb159f.jpg",
+    "category": null,
+    "description": "\u900f\u660e\u767d\u7699\u7684\u76ae\u819a\u3001\u9577\u9577\u7684\u91d1\u9aee\u3001\u64c1\u6709\u91d1\u8272\u548c\u9280\u8272\u96d9\u8272\u773c\u775b\u7684\u5c11\u5973\uff0c\u53e4\u723e\u8332\u3002\n\u5728\u58a8\u897f\u54e5\u7b2c\u4e00\u6b21\u8207\u7f8e\u4f73\u3001\u845b\u96f7\u592b\u898b\u9762\uff0c\u7d44\u6210\u4e86\u57c3\u963f\u5361\u8d6b\uff0c\u4f5c\u70baSEED\u7375\u4eba\u6d3b\u52d5\u3002",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "0100B6F01D239007",
+    "ids": [
+      "0100B6F01D239007"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "QUARTZ\n\u53e4\u723e\u8332",
+    "nsuId": 70050000045810,
+    "numberOfPlayers": null,
+    "publisher": "Beep",
+    "rating": 18,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 65011712,
     "version": null
   },
   "70070000018887": {
@@ -1031,6 +1463,34 @@
     "size": 3145728,
     "version": null
   },
+  "70050000045811": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/53906b014f5a48d540d6bc613968b3da3857711fe932c14b2010a56008f27034.jpg",
+    "category": null,
+    "description": "\u4eab\u53d7\u6bba\u622e\u5feb\u611f\u7684\u9999\u6e2f\u8b8a\u614b\u6bba\u624b\u3002\n\u60f3\u8981\u628a\u81ea\u5df1\u7684\u528d\u7528\u845b\u96f7\u592b\u7684\u9bae\u8840\u67d3\u7d05\u7684\u760b\u72c2\u6bba\u4eba\u9b54\u3002",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "0100B6F01D239006",
+    "ids": [
+      "0100B6F01D239006"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "YENSEN THE BOOSTMASTER",
+    "nsuId": 70050000045811,
+    "numberOfPlayers": null,
+    "publisher": "Beep",
+    "rating": 18,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 128974848,
+    "version": null
+  },
   "70070000019901": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2ab3b0e77115d64314a0bf89bca9853eb1fb374585e1763e2c3e3ad6f741fa60.jpg",
     "category": null,
@@ -1086,6 +1546,51 @@
     "rightsId": null,
     "screenshots": null,
     "size": 0,
+    "version": null
+  },
+  "70010000057049": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/91330222c5e728695a1b48291e831b7cb10bb3d404d246317a2b977d36fa3a39.jpg",
+    "category": [
+      "\u5192\u96aa",
+      "\u8857\u6a5f",
+      "\u76ca\u667a",
+      "\u52d5\u4f5c"
+    ],
+    "description": "The Enigma Machine\u662f\u4e00\u6b3e\u80fd\u8b93\u4eba\u9ad4\u9a57\u7d93\u5178\u904a\u6232\u4e0d\u53ef\u9810\u6e2c\u7684\u8907\u96dc\u6027\u548c\u6311\u52d5\u4e0d\u5b89\u60c5\u7dd2\u7684\u6548\u679c\u7de8\u6392\uff0c\u63a1\u7528\u7b2c\u4e00\u4eba\u7a31\u8996\u89d2\u7684\u79d1\u5e7b\u6050\u6016\u5192\u96aa\u904a\u6232\u3002\u900f\u904e\u878d\u5408\u4e86\u8001\u5f0fCLI\u547d\u4ee4\u5f0f\u4ecb\u9762\u756b\u9762\u3001\u820790\u5e74\u4ee3\u4e2d\u671f\u76843D\u5716\u5f62\u3001\u4ee5\u53caVHS\u98a8\u683c\u6548\u679c\u7684\u7b2c\u4e00\u4eba\u7a31\u8996\u89d2\u756b\u9762\uff0c\u63d0\u4f9b\u7d66\u73a9\u5bb6\u5947\u7279\u800c\u96e3\u5fd8\u7684\u904a\u6232\u9ad4\u9a57\u3002\n\u60a8\u662f\u5426\u66fe\u7d93\u6709\u611f\u5230\u904e\u4e0d\u53ef\u601d\u8b70...\nAI \u7684\u5167\u5fc3\u5230\u5e95\u662f\u751a\u9ebc\u6a23\u7684\u5462\uff1f\n\u70ba\u4e86\u5c0b\u627e\u89e3\u7b54\uff0cEnigma\u00ae\u9080\u8acb\u60a8\u4f86\u5230Dreamscape\u3002\n\u4f7f\u7528Dreamscape\u4e4b\u5f8c\uff0c\u900f\u904e\u53ef\u63a2\u7d22\u7684\u4e92\u52d5\u5f0f3D\u7a7a\u9593\uff0c\u80fd\u5920\u611f\u53d7AI\u7684\u5167\u5fc3\u3002\u53ef\u4ee5\u900f\u904eDreamscape\u4f86\u8a8d\u8b58\u65b0\u7684AI\u597d\u53cb\u3002",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/37b1c2f66f03919e671c8e69e748cd1a84f1d9944bec114da1eb0cd776be0813.jpg",
+    "id": "0100AA6019172000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ko",
+      "zh"
+    ],
+    "name": "The Enigma Machine",
+    "nsuId": 70010000057049,
+    "numberOfPlayers": 1,
+    "publisher": "COSEN",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/c1e8ae370c40e02fa26d2ff9bc98472b3241ca108d8ac0a2995e0c74954de6e9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1ebdf0addf6cffec8271d99346dcd6880761eb9659cadee10a78747516675f71.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1c1349341ecc2f015a7e0e3a0773ac33e69f85a3a66bad4bfb43f9b290a8e909.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/77123ade8a4a24f935baaf33361fccb9262d7d8edd7fd3679c9e35abdad049de.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9f7409beee1e2bd2b64405d9b3667f39314373ec591b07927909452ff573eb10.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7c8bfaa008fcb1e19b09f1f625b9855347a0f192fc9a242d1e3b4a4822ca118c.jpg"
+    ],
+    "size": 364904448,
     "version": null
   },
   "70010000062526": {
@@ -1386,6 +1891,46 @@
       "https://img-eshop.cdn.nintendo.net/i/abddd9bc714fe983840f3cb0110c85fd31b5f1e21faac8621606f9eff35b9cd9.jpg"
     ],
     "size": 212860928,
+    "version": null
+  },
+  "70010000071167": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/187f77d9027be6fec7d1cab20f4cfbfb526617e570cabdc3e88cbbf6ee6cdc29.jpg",
+    "category": [
+      "\u89d2\u8272\u626e\u6f14",
+      "\u7b56\u7565"
+    ],
+    "description": "\u5e7b\u65e5\u591c\u7fbd - \u8703\u666f\u52aa\u746a\u6893 -\n\u300a\u5e7b\u65e5\u591c\u7fbd\u300b\u662f\u300aLove Live!\u300b\u7cfb\u5217\u7b2c\u4e8c\u90e8\n\u300aLove Live!Sunshine!!\u300b\u7684\u5b98\u65b9\u884d\u751f\u4f5c\u54c1\u3002\n\u300a\u5e7b\u65e5\u591c\u7fbd - \u8703\u666f\u52aa\u746a\u6893 -\u300b\u662f\u4ee5\u8a72\u4e16\u754c\u70ba\u821e\u81fa\u80cc\u666f\u7684\u4e00\u6b3e\u5361\u724c\u6536\u96c6\u990a\u6210\u985e\u6e38\u6232\u3002\n\u5728\u52aa\u746a\u6893\u4e00\u908a\u4f5c\u70ba\u5360\u535c\u5e2b\u5de5\u4f5c\uff0c\u4e00\u908a\u548c\u670b\u53cb\u4e00\u8d77\u751f\u6d3b\u7684\u591c\u7fbd\uff0c\u56e0\u70ba\u4e00\u6b21\u6a5f\u7de3\u5de7\u5408\uff0c\u7372\u5f97\u4e86\u4e00\u9762\u53e4\u8001\u7684\u93e1\u5b50\u3002\n\n\u56e0\u70ba\u5360\u535c\u4e0d\u9748\u9a57\u800c\u7169\u60f1\u7684\u591c\u7fbd\u5728\u4f7f\u7528\u9b54\u93e1\u9032\u884c\u5360\u535c\u4e4b\u6642\uff0c\u7a81\u7136\u88ab\u9aee\u5149\u7684\u9b54\u93e1\u5438\u5165\u93e1\u4e2d\u3002\n\n\u93e1\u5b50\u88cf\uff0c\u662f\u548c\u771f\u5be6\u4e16\u754c\u7684\u52aa\u746a\u6893\u5b8c\u5168\u76f8\u53cd\u7684\u300c\u88cf\u52aa\u746a\u6893\u300d\uff01\n\u6b64\u5916\uff0c\u9019\u88cf\u9084\u662f\u4e00\u500b\u53ef\u4ee5\u901a\u904e\u5361\u724c\u529b\u91cf\u4f7f\u7528\u9b54\u6cd5\u7684\u4e0d\u53ef\u601d\u8b70\u7684\u4e16\u754c\u3002\n\n\u800c\u6b64\u6642\uff0c\u73fe\u5be6\u4e16\u754c\u4e2d\u7684\u4f19\u4f34\u5011\u4e5f\u76f8\u7e7c\u906d\u9047\u7570\u8b8a\u3002\u70ba\u4e86\u6551\u51fa\u5979\u5011\uff0c\u5728\u95d6\u5165\u52aa\u746a\u6893\u91cc\u4e16\u754c\u7684\u591c\u7fbd\u9762\u524d\uff0c\u7b49\u5f85\u5979\u7684\u5c07\u6703\u662f......?\n\n\u6bcf\u6b21\u9032\u5165\u90fd\u6703\u5927\u4e0d\u4e00\u6a23\u7684\u93e1\u4e2d\u4e16\u754c\u3002\n\u7121\u6578\u500b\u9078\u64c7\u7684\u5f7c\u65b9\uff0c\u591c\u7fbd\u5c07\u6703\u9762\u81e8\u7684\u672a\u4f86\u662f......?\n\u5728\u53e6\u4e00\u500b\u52aa\u746a\u6893\u7684\u821e\u81fa\uff0c\u5c6c\u65bc\u591c\u7fbd\u7684\u5d84\u65b0\u6545\u4e8b\u5373\u5c07\u4e0a\u6f14\uff01\n\n\u25a0\u5728\u80fd\u4f7f\u7528\u9b54\u6cd5\u7684\u300c\u88cf\u52aa\u746a\u6893\u300d\u88cf\u69cb\u5efa\u724c\u7d44\u4e26\u9032\u884c\u6230\u9b25\uff01\n\u5728\u93e1\u5b50\u4e16\u754c\u91cc\u7684\u52aa\u746a\u6893\u5c55\u958b\u5192\u96aa\u3002\u5145\u5206\u5229\u7528\u7372\u5f97\u7684\u5361\u724c\uff0c\u5411\u201c\u91cc\u52aa\u746a\u6893\u201d\u7684\u6700\u6df1\u8655\u9032\u767c\uff01\n\n\u25a0\u7528 100 \u591a\u5f35\u4e0d\u540c\u7684\u5361\u724c\u7d44\u6210\u5404\u5f0f\u5404\u6a23\u7684\u5361\u7d44\uff01\n\u5728\u300c\u88cf\u52aa\u746a\u6893\u300d\u91cc\u63a2\u96aa\uff0c\u6536\u96c6\u5361\u724c\uff0c\u6253\u9020\u5c6c\u4e8e\u81ea\u5df1\u7684\u6700\u5f37\u5361\u7d44\uff01\n\n\u25a0\u4f7f\u7528\"\u53ec\u559a\u5361\u7247\"\u53ec\u559a\u503c\u5f97\u4fe1\u8cf4\u7684\u540c\u4f34\u5011\uff01\n\u300c\u88cf\u52aa\u746a\u6893\u300d\u91cc\u53ef\u4ee5\u53ec\u559a\u53b2\u5bb3\u7684\u4f19\u4f34\u3002 \u8207\u540c\u4f34\u5011\u4e26\u80a9\u6230\u9b25\uff0c\u64fa\u812b\u56f0\u5883\uff01\n\n\u25a0\u53ef\u4ee5\u7121\u76e1\u6e38\u73a9\u7684\u7684\u7d50\u69cb\u8b8a\u5316\u5f0f\u5730\u5716\uff01 \u653b\u7565\u65b9\u5f0f\u4e5f\u7121\u7aae\u7121\u76e1\uff01\uff1f\n\u4e00\u65e6\u901a\u95dc\uff0c\u6bcf\u6b21\u9032\u5165\u5730\u5716\uff0c\u5176\u69cb\u9020\u90fd\u6703\u767c\u751f\u6539\u8b8a\u3002\u83ab\u975e\u662f\u53ef\u4ee5\u6c38\u4e45\u66a2\u6e38\u7684\u7cfb\u7d71\uff1f\uff01\n\n\u25a0\u4f7f\u7528\u98fe\u54c1\uff0c\u6bd4\u6700\u5f37\u9084\u8981\u5f37\uff01\u904b\u7528\u5361\u724cx\u98fe\u54c1\uff0c\u8b93\u4f60\u6240\u5411\u62ab\u9761\uff01\n\u64c1\u6709\u5f37\u529b\u6548\u679c\u7684\u98fe\u54c1\uff0c\u8207\u5361\u724c\u76f8\u878d\uff0c\u6c92\u6709\u6700\u5f37\uff0c\u53ea\u6709\u66f4\u5f37\uff01",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e666796d424c66180facabb502afdd66dbaceea7f195e6dc24bcfb1bde961365.jpg",
+    "id": "0100F2101C9A6000",
+    "intro": "\u4ee5\u9b54\u6cd5\u5361\u724c\u594f\u97ff\u7684\u5361\u724c\u69cb\u5efa\u985eRoguelike!\u591c\u7fbd\u7684\u53e6\u4e00\u500b\u6545\u4e8b\u5f9e\u6b64\u555f\u7a0b\uff01",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "zh",
+      "zh"
+    ],
+    "name": "\u5e7b\u65e5\u591c\u7fbd - \u8703\u666f\u52aa\u746a\u6893 -",
+    "nsuId": 70010000071167,
+    "numberOfPlayers": 1,
+    "publisher": "BeXide",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240222,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/33b2c4754e0f2929aafbfbd428be7881b263c1e54ea88186e78e48a05c2cdd03.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/368d7b77fbc8a01bed61a34affdeeaf64935cad05171d2c7bd208319427b22b5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a65bfd321d6058c87863d5a729a85769d8403f4d62d95c1bd30350a17db73c89.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/913697be55e1287ba2d63101589c2e98d850cd90d852315a8a788ab17755814b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/069c9d562a8268d60e2cd0f2935a06974475d3fdb9d51633466da53c120801b5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c18744e357953334c4dba0b571486e6ef72f7372c9a8bc939a30386c15c14731.jpg"
+    ],
+    "size": 732954624,
     "version": null
   },
   "70050000043478": {

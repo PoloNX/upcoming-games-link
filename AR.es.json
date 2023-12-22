@@ -1170,6 +1170,55 @@
     "size": 659554304,
     "version": null
   },
+  "70010000075407": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d250cde421100d099c8d988a1dbc178518bc2ddf0ade94b978addd11ca72fbf3.jpg",
+    "category": [
+      "Plataformas",
+      "Acci\u00f3n",
+      "Aventura",
+      "Arcade"
+    ],
+    "description": "Acerca de\nBloopy & Droopy es un juego de plataformas retro con estilo 8 bits que cuenta con m\u00e1s de 15 niveles divididos en un total de 30 etapas y 5 jefes a los que tendr\u00e1s que vencer con tus habilidades. \u00a1Jugar\u00e1s como dos personajes: Bloopy y Droopy! En cuanto a la plataforma, \u00a1Bloopy lo hace muy bien! \u00a1Pero cuando necesites perforar, Droopy entrar\u00e1 en acci\u00f3n y te ayudar\u00e1 mucho en tu aventura!\n\nHistoria\nBloopy & Droopy son dos mejores amigos a quienes les encanta explorar el espacio. Pero un d\u00eda, cuando descubrieron el planeta al que se dirig\u00edan (el planeta X-42), \u00a1un terrible pirata conocido como Kurgos golpe\u00f3 su nave espacial! Entonces se estrellaron en el planeta, en una isla desconocida donde tendr\u00e1n que reunir las piezas de su nave y regresar a casa.\n\nCaracter\u00edsticas principales\n- Sensaci\u00f3n retro de 8 bits y elige entre est\u00e9tica en blanco y negro, verde espinaca o amarillo\n- Juega como 2 personajes e intercambia entre ellos cuando quieras\n- Salto y Doble salto\n- Destruye el terreno perfor\u00e1ndolo\n- Explora 5 zonas diferentes con biomas \u00fanicos\n- Derrota a jefes desafiantes",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4e18c1a32880c7046b0e08695e927f02554553ad2c262240ef10e7e09ad6a610.jpg",
+    "id": "010066F01DAE2000",
+    "intro": "\u00a1Un juego de plataformas de estilo 8 bits en el que puedes intercambiar personajes y usar tus habilidades de excavaci\u00f3n para abrirte camino a trav\u00e9s del terreno!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "de",
+      "it",
+      "ko",
+      "zh"
+    ],
+    "name": "Bloopy & Droopy",
+    "nsuId": 70010000075407,
+    "numberOfPlayers": 1,
+    "publisher": "DreamVeloper Studio",
+    "rating": 6,
+    "ratingContent": [
+      "Lenguaje moderado"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d783f1173fc1ac8f269c3ff716c1ea5a92e85f24a4778252a38d94ba1586d468.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7735deefe85e82821d5eef17b297b15c244353822214eec062a915798ff0c719.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c75dcd2000690f1d4027fb48d24243d6845668bd97784ce6cefbd7903f02142e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8c72ecf51d70f81110895b9929bd47d15b9e4b5aecd52e2f0e3da8590db3ac70.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/eb9910ca2da12c88ededc3eda45685d51459a447089768761ffd48054710ae6f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7ceda149991ace92a8b5a6ff50056f8845c7cbb92c98d9f970e7df39e39ff16b.jpg"
+    ],
+    "size": 68157440,
+    "version": null
+  },
   "70050000045730": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/522cb21496c8ce02528292bf3c2e0747101bfcced8748e1518fbd94dcec5f008.jpg",
     "category": null,
@@ -2000,6 +2049,40 @@
     "size": 63963136,
     "version": null
   },
+  "70070000020461": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/761e17c4c89cbbc3984511ded11b615776a7a9bfa9f1bc0943e5d2b11c637cdc.jpg",
+    "category": null,
+    "description": "Lonesome Village\n\nLonesome Village es una ciudad acogedora y tranquila que lucha por reconstruirse despu\u00e9s de que una extra\u00f1a calamidad arrasara con sus hogares.\n\n\u00a1Asume el papel de Wes el coyote y ayuda a recuperar esta aldea del borde de la destrucci\u00f3n en un simulador de vida lleno de acertijos!\n\nA Tiny Sticker Tale\n\nEn A Tiny Sticker Tale, toma cualquier cosa del mundo que te rodea, convi\u00e9rtela en una pegatina y usa tu creatividad para pegarla en diferentes lugares, resolver acertijos y ayudar a tus nuevos amigos.\n\nEn esta saludable aventura del tama\u00f1o de un bocado, ponte las diminutas botas de Flynn, el burro, y viaja a trav\u00e9s de la isla Figori, descubriendo las vibrantes misiones que requerir\u00e1n el poder de un libro de pegatinas m\u00e1gico muy especial.\n\nOgre Pixel",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "\u00a1Dos acogedoras aventuras! Lonesome Village, resoluci\u00f3n de acertijos con simulaci\u00f3n social, y A Tiny Sticker Tale, la acogedora aventura sobre pegatinas",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Lonesome Village + A Tiny Sticker Tale Bundle",
+    "nsuId": 70070000020461,
+    "numberOfPlayers": null,
+    "publisher": "Ogre Pixel",
+    "rating": 6,
+    "ratingContent": [
+      "Violencia moderada de fantas\u00eda"
+    ],
+    "region": null,
+    "releaseDate": 20240104,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/c89e9d94841b610a592cae73e2f0e44233ac22954ab572a82f0ba69a1ebcd571.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c0ceda8a43fb12ac1a7eec9be05bda4afe9b293a44f53a74e7fa719659165646.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5f419565351de07adba824c21d1a4f16ece26bc688b80b220e062ca01814fe5b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1fc510399ba33944523eb43190f57554da8a145c098a11ea039ba83ec2f16e49.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7a22c442b6e9b50c98fcdc017dc10a7ad4559efdd04808fe6e1d732fd4076873.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/868c26ffe9e003a8df3aea5f119e774874d7a7366303f9d038a4f9dd62639a17.jpg"
+    ],
+    "size": 1943011328,
+    "version": null
+  },
   "70010000071810": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b9773b3e97c08bf16c20b5df04eb83bd055702f70f75e24774182a1b4619f7d7.jpg",
     "category": [
@@ -2355,6 +2438,49 @@
       "https://img-eshop.cdn.nintendo.net/i/5bf676e7289d8859b11f32fbc3f9a99cefbf3b4abffd2ca9028ded1777fad4d2.jpg"
     ],
     "size": 92274688,
+    "version": null
+  },
+  "70010000074465": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66d9d63c51a31c96b641d5faa1c0468b4679dcd2bc578c3fc348857777f88438.jpg",
+    "category": [
+      "Arcade",
+      "Rompecabezas",
+      "Simulaci\u00f3n",
+      "Deportes"
+    ],
+    "description": "Coge tu equipo y comienza tu viaje para convertirte en un maestro del nGolf. Explora hermosas y minimalistas ubicaciones llenas de trampas, rompecabezas y vistas asombrosas.\n\n\nENCUENTRA TU CAMINO\nMientras juegas a nGolf te enfrentar\u00e1s a muchos desaf\u00edos en tu camino. L\u00e1seres, pinchos, llamas y muchos m\u00e1s intentar\u00e1n detener tu bola. Recuerda que el tiempo es la clave del \u00e9xito y no debes apresurarte con tu golpe. Sigue la corriente y domina todos los mundos.\n\n\nPLANIFICA TU ENFOQUE\nHay un n\u00famero ilimitado de posibles soluciones para acabar los niveles. Diferentes \u00e1ngulos y fuerzas pueden cambiar diametralmente la trayectoria de la bola. Comprueba si hay colinas, teletransportes o potenciadores de velocidad a tu alrededor. Cada elemento te brinda una nueva oportunidad de golpear el hoyo. \n\n\nCONVI\u00c9RTETE EN UN MAESTRO DEL GOLF\nPara convertirte en un profesional, tienes que recoger todas las estrellas de cada escenario y lograr el menor n\u00famero de golpes. Estudia el trazado del mapa, haz tantos intentos como necesites y \u00a1consigue el t\u00edtulo de campe\u00f3n!\n\n\n\nCARACTER\u00cdSTICAS PRINCIPALES:\n- 8 mundos \u00fanicos\n- M\u00e1s de 60 niveles que dominar\n- Tarjetas de puntuaci\u00f3n para ayudarte a seguir tu progreso",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16b0bb802a5fe1924dcb37c9ebe60c1048a3c3b86652af07968b6df09c10861d.jpg",
+    "id": "010090801D6E2000",
+    "intro": "Emb\u00e1rquese en la aventura de golf m\u00e1s atractiva que jam\u00e1s haya visto y visite lugares impresionantes de todo el mundo.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "de",
+      "zh"
+    ],
+    "name": "nGolf",
+    "nsuId": 70010000074465,
+    "numberOfPlayers": 1,
+    "publisher": "RedDeer.Games",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/dd16659d32371cdef0ddf14069b92393824c836ebef9eff8ef7d52f6e4abe081.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/abaa816f2560f6606eb1e632c75dbd058006147b84e45a8046cb0d115098f81b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6fdb694174deace2afb53ee4cdc48df8ef74d1573aa75f38b700bcca3467a80b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/804adf4d04b73311e61e403a609308ccb441a2e17ebbf719e5388e0a4c12785e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/011d2fff8f9a584c309ff7709a6be849d6de806e5f9ba5fee81abb2b7743c059.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fb588d26a9629227f3e5c38fac64e4b93704eee634ecc7fa48facb4e1b0184e4.jpg"
+    ],
+    "size": 238026752,
     "version": null
   },
   "70010000041413": {
@@ -3287,6 +3413,76 @@
       "https://img-eshop.cdn.nintendo.net/i/cb95bcce6aa2863e09bd123a4026d3d43dfc84f7eba52b62e7b604dbc2d30061.jpg"
     ],
     "size": 2146435072,
+    "version": null
+  },
+  "70070000019277": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/356b44cbc4f1f6907b7389494be285f83123df0cfbef5eddee42c695188491d4.jpg",
+    "category": null,
+    "description": "\u00a1Pilotos, id con cuidado! \n\n\u00a1Carreras de motociclismo r\u00e1pidas, pulidas y din\u00e1micas ahora en Nintendo Switch\u2122!\n\nUn juego \u00fanico totalmente jugable con cualquier tipo de mando, incluido... Manillar de Moto Toy-Con (Nintendo Labo\u2122 Toy-Con 01: kit variado)\n\n\u00a1Olv\u00eddate de los l\u00edmites de velocidad y las normas de tr\u00e1fico porque en esta carretera t\u00fa eres el jefe!\n\n\u00a1Una mezcla \u00fanica de juegos de carrera sin fin y arcade con horas de diversi\u00f3n!\n\nEN MOTO RUSH GT ENCONTRAR\u00c1S:\n\n\u2022 \u00a1M\u00e1s de 100 niveles a batir!\n\u2022 Experiencia de carrera sin fin\n\u2022 12 motocicletas personalizables\n\u2022 Soporte para de Moto Toy-Con; \u00a1desempolva tu Nintendo Labo si lo tienes!\n\u2022 \u00a1Compite contra el tiempo, oponentes fantasma o prueba diversos desaf\u00edos! \n\u2022 Soporte de inclinaci\u00f3n; \u00a1juega rotando la consola!\n\u2022 \u00a1Juega con un mando Pro de Nintendo Switch\u2122 o cualquier otro tipo de mando!\n\u2022 Soporte para todos los modos de juego: TV, sobremesa, port\u00e1til, Moto Toy-Con\n\u2022 Experimenta 4 modos de juego diferentes \n\u2022 Efectos del clima y momento del d\u00eda: \u00a1lluvia, noche, tormenta! \n\u2022 Experimenta carreteras de dise\u00f1o fant\u00e1stico en todo el mundo\n\nEste paquete incluye el juego b\u00e1sico, el pack de expansi\u00f3n n.\u00ba 1, Grip Collection #1 y Grip Collection #2 con:\n- 4 motos nuevas (cada una con colores especiales)\n- Nuevos colores para el resto de las motos\n- Nuevos colores para los guantes\n- Colores dorados especiales para las motos\n- ocho pares de guantes de carreras de \u00faltima generaci\u00f3n, dise\u00f1ados para ofrecer el m\u00e1ximo agarre y control.\n\n\u00a1Pru\u00e9balo!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "\u00a1La experiencia de motociclismo definitiva para todas las edades!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Moto Rush GT Ultimate Edition",
+    "nsuId": 70070000019277,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Games",
+    "rating": 6,
+    "ratingContent": [
+      "Compras dentro del juego"
+    ],
+    "region": null,
+    "releaseDate": 20240126,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/05e97fe2699dc18516e36d56c7b8054ecedab8cba95d2f99f24b59bb4042689b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/05443a5d36533541917139ceab601e42b5a5fc4fb0c06e5b99f8194719e22224.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0623163e968b917f77b08f456fbe2c05cdac1a4a0eeebcd16fe5bc256519feca.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/58b820fb8968581c549c772600e84fa27ae8db336349768ad27f2718396ebc5f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/56d26e43fca4024f8d8899d7d17ceefa4d7d18baf554fb81455bd9d8c193072d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2ae48c85d81e2bfc8c196e7b2758503d5405cd1c94e343dbc2d0fbf89b3e28a2.jpg"
+    ],
+    "size": 5513412608,
+    "version": null
+  },
+  "70070000019393": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bffb519e8ba02c6e5f2d965e19568b4b4ebe93bd3bdded355713f2bd3c579661.jpg",
+    "category": null,
+    "description": "Inspirado en los cl\u00e1sicos, pero desarrollado para un p\u00fablico actual.\n\nUna historia cl\u00e1sica de venganza ambientada en un mundo medieval... con un toque de potencia de fuego moderna para equilibrar las cosas. \u00c1brete paso luchando entre ej\u00e9rcitos de muertos vivientes, alien\u00edgenas, m\u00e1quinas y bestias para recuperar lo que te pertenece y devolver una semblanza de paz a la tierra. \u00bfQui\u00e9n sabe? Si eres lo bastante concienzudo, hasta puede que descubras la historia del propio reino, perdida anta\u00f1o para los eruditos.\n\nKnights & Guns te lleva a un mundo peligroso donde, en compa\u00f1\u00eda de tus amigos, te enfrentar\u00e1s a demonios, necr\u00f3fagos y fantasmas. Usa escopetas, l\u00e1seres y el poder de la caballer\u00eda para superar todos los obst\u00e1culos. Convi\u00e9rtete en la mejor versi\u00f3n de un caballero: la que lleva armas de fuego.\n\nEn el juego encontrar\u00e1s:\n\u2022\t\u00a1Incre\u00edbles luchas contra jefes en varias fases! \n\u2022\t\u00a1Un mundo no lineal, listo para que lo conquistes! 150 fases dise\u00f1adas a mano, que puedes tratar de superar a toda velocidado o disfrutar a tu propio ritmo para buscar secretos y rutas especiales.\n\u2022\tUn juego dise\u00f1ado de arriba abajo para los modos en solitario y multijugador. Invita a un amigo en cualquier momento para a\u00f1adir m\u00e1s caos y m\u00e1s potencia de fuego.\n\u2022\t\u00a160 fps de rendimiento! \u00a1Prueba los distintos modos! \u00a1Caza a los monstruos! \u00a1Sobrevive! \u00a1Juega en mapas grandes, peque\u00f1os y estrechos!\n\u2022\t\u00a1Prueba un arsenal entero de incre\u00edbles armaduras y, c\u00f3mo no, armas de fuego! L\u00e1seres, escopetas, lanzagranadas, fusiles de francotirador... \u00a1De todo!\n\u2022\tM\u00e1s de 30 armas \u00fanicas (capaces de repartir m\u00e1s sabores de muerte que sabores de helado existen).\n\u2022\tM\u00e1s de 25 tipos de enemigos, 5 tipos de minijefes y 3 tipos de jefes. Y otras variedades en distintos colores.\n\u2022\t30 armaduras \u00fanicas para los caballeros. \u00a1M\u00e1s protecci\u00f3n y m\u00e1s elegancia!\n\u2022\tTrampas, cofres, llaves, pergaminos de saber, bestiarios...\n\nEste paquete incluye el juego b\u00e1sico, el pack de expansi\u00f3n n.\u00ba 1, Armor Pack #1 y Armor Pack #2 con:\n- 10 nuevos niveles para luchar por la paz\n- 9 nuevas armaduras que te ayudar\u00e1n en tu misi\u00f3n\n- Nuevos enemigos para renovar la emoci\u00f3n del combate",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Caballero de brillante armadura, \u00e1brete paso luchando... \u00a1con armas de fuego!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Knights & Guns Ultimate Edition",
+    "nsuId": 70070000019393,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Games",
+    "rating": 13,
+    "ratingContent": [
+      "Sangre",
+      "Violencia",
+      "Compras dentro del juego"
+    ],
+    "region": null,
+    "releaseDate": 20240126,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/e7f2e9e0921a8402f540461d168cff9a63b53d45b3dc23e5efb4d730d72946e6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/32fb09d9af6a0380d5019373925e78433c513285761bf95f78ed1b4a215f6609.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7bf101617383c2679cadeaa33e76c33826079b92c5d69b48d52ec6dee3ee7704.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2cb105654b5e227621af8b9bea9faeb4d9ce0acc387a3c2a0ed09aa434739b65.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8d8d69c0e5a0a007ed9a1cf3c8384e2dc84f222ed9efad7dbefda5d965da523d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/30834b39aba50ba87cdaac849870e9b454d7c0462ce689ae9811df4772671ff0.jpg"
+    ],
+    "size": 3397386240,
     "version": null
   },
   "70050000044386": {

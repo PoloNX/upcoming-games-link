@@ -1158,6 +1158,55 @@
     "size": 659554304,
     "version": null
   },
+  "70010000075407": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d250cde421100d099c8d988a1dbc178518bc2ddf0ade94b978addd11ca72fbf3.jpg",
+    "category": [
+      "Platformer",
+      "Action",
+      "Adventure",
+      "Arcade"
+    ],
+    "description": "About\nBloopy & Droopy is a retro 8-bit fashioned platformer with over 15 levels divided in a total of 30 stages and 5 challenging bosses you'll have to beat with your skills! You will be playing as two characters: Bloopy & Droopy. When it comes to platforming, Bloopy does that very well! But when you'll need to drill, Droopy comes in and he'll help you a lot in your adventure!\n\nStory\nBloopy & Droopy are two best friends that love to explore space. But one day, when they discovered the planet they were heading for (The planet X-42), a terrible pirate known as Kurgos hit their spaceship! They then crashed on the planet on an unknown island where they'll need to gather pieces of their ship and go back to their home.\n\nMain Features\n- 8-bit retro feels and chooses between black and white , spinach green or yellow aesthetic,\n- Play as 2 characters and swap between them whenever you want,\n- Jump and Double-Jump,\n- Destroy the terrain by drilling through it,\n- Explore 5 different zones with uniques biomes,\n- Defeat challenging bosses",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4e18c1a32880c7046b0e08695e927f02554553ad2c262240ef10e7e09ad6a610.jpg",
+    "id": "010066F01DAE2000",
+    "intro": "A 8-bit style platformer, in which you can swap characters at any time and use your digging skills to make your way through the terrain!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "de",
+      "it",
+      "ko",
+      "zh"
+    ],
+    "name": "Bloopy & Droopy",
+    "nsuId": 70010000075407,
+    "numberOfPlayers": 1,
+    "publisher": "DreamVeloper Studio",
+    "rating": 0,
+    "ratingContent": [
+      "Linguagem Impr\u00f3pria"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d783f1173fc1ac8f269c3ff716c1ea5a92e85f24a4778252a38d94ba1586d468.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7735deefe85e82821d5eef17b297b15c244353822214eec062a915798ff0c719.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c75dcd2000690f1d4027fb48d24243d6845668bd97784ce6cefbd7903f02142e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8c72ecf51d70f81110895b9929bd47d15b9e4b5aecd52e2f0e3da8590db3ac70.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/eb9910ca2da12c88ededc3eda45685d51459a447089768761ffd48054710ae6f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7ceda149991ace92a8b5a6ff50056f8845c7cbb92c98d9f970e7df39e39ff16b.jpg"
+    ],
+    "size": 68157440,
+    "version": null
+  },
   "70050000045730": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/522cb21496c8ce02528292bf3c2e0747101bfcced8748e1518fbd94dcec5f008.jpg",
     "category": null,
@@ -1708,6 +1757,109 @@
     "size": 0,
     "version": null
   },
+  "70070000020171": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/255dde855b1677450a311674fe8a41fb2d44cf65da5d49b7c9dfe00e53f69dfc.jpg",
+    "category": null,
+    "description": "Experience the strangely satisfying thrill of watching your mob multiply as you aim and shoot at the gates. Witness your army grow to massive proportions! Strategically deploy your mighty champions to break through enemy mobs and reach their bases. Choose the best combo to win!\n\nFeatures: \n- fire new Knight and Soldier mobs with their own unique statistics \n- use your new Triple cannon that fires three mobs at once!\n- fire new Explodon champion with Jump & Crush primary skill and Final Boom area skill\n- use new Rocket Barrage and Mass Abduction ultimates\n- open additional 22 booster packs with cards \n- spend 55000 extra coins to upgrade your cards in the armory\n- fire mobs from your cannon and grow your army\n- launch strong champions when your cannon is supercharged \n- play in local multiplayer mode with a friend and shoot two cannons at once!\n- use multiplier gates or speed boosts strategically to gain a more significant advantage over your enemy\n- destroy enemy bases and strengthen your own \n- play even against two enemies at the same time!\n- unlock and level up different cannons, super champions, mobs and ultimates! \n- open booster pack to enhance your card collection\n\nUse the special elements in the levels, such as speed boosts, multipliers, moving gates, and many more. Defend, conquer and rise to victory in this epic tower defense showdown!\n\nIf you need some help, you can invite a friend to play together in local multiplayer mode! Prepare for battle, devise a strategy together and fire your mobs from TWO cannons to triumph!\n\nWin battles to unlock booster packs of varying rarities and enhance your card collection. Collectible cards hold the power to elevate your tower defense strategy to new heights. Unlock all the cannons, mobs and champions in the armory and discover their amazing evolutions as you level them up!\n\nRally your army, harness the power of collectible cards, and become the tower defense champion you were born to be!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Are you ready to become the ultimate champion in the world of tower defense battles? Create, grow and Lead!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Mob Control: Complete Edition",
+    "nsuId": 70070000020171,
+    "numberOfPlayers": null,
+    "publisher": "QubicGames",
+    "rating": 10,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Compras on-line"
+    ],
+    "region": null,
+    "releaseDate": 20231229,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/848572ed89382555595e6207550bf5e6ae9b0a8b6535e32444f0db426da88278.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8c6b6634b2c5dec370df4e33e3772b0cccaffb06fad53502b7f51c90a6fa779c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/670772b3777c6e99a0735904997d949bac51dc273cec3a38e6472606e506636f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0aa926e8dc81fe5c521fe6963bd48c07b20fad4864f48d28de6f569a24074eed.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/789b070122d34cd7cd91936702f6a92fec3cf507ad686f90db246de35a6a54f7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/95b92df4cfe3033bc02b024e6b2b743cb3ddb298bcf4b7ac5adc45d6a645a705.jpg"
+    ],
+    "size": 1264582656,
+    "version": null
+  },
+  "70070000020173": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00f9eda0f36045f5280b1c3a135f91d9dce3d6f67935346d05302987391483da.jpg",
+    "category": null,
+    "description": "Grab your golf club, check the wind direction, aim well, choose the force of impact on the ball and hit it! Hurry up because no one is going to wait for you!\n\nThis game is all about speed, precision and decision-making. Compete in tournament mode on random maps with different rules. Score as many points as possible by hitting the ball in the center of the target, be first in a race to hit the ball into the hole before others do, or find the best way to beat everyone in a mini-golf with various obstacles!\n\nFeatures:\n- try out 3 new amazing bats and 3 new balls with maximum stats!\n- put on 6 new themed funny skins\n- play golf battle royale tournaments and become a champion!\n- play against your friends or family in multiplayer mode for up to 4 players!\n- practice your skills before tournaments in Zen mode \n- compete on over 15 maps with various obstacles and shortcuts \n- earn packs for winning tournaments to get skin cards, upgrade cards and money\n- unlock silly character skins, golf clubs and balls in various funny shapes\n- buy golf club and ball upgrades using earned coins\n- perform quests to collect awesome rewards on your reward track\n\nConsider the direction and speed of the wind when developing your strategy. After each match, the worst ones drop out so if you want to make it to the finals you have to stick to the podium! \n\nIf you don't want to play solo, you can always invite your friends or family to play in the multiplayer mode! Choose your character skins, golf clubs and compete in a tournament for the title of the best golfer!\n\nIf you feel like practicing a little, turn on Zen Mode and become a better golfer! Choose a map, wind parameters and practice your strokes without worrying about time or other players!\n\nDo you have what it takes to be the last one standing and become a golf champion?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Face off against a dozen opponents in an ultimate golf battle royale, or invite friends to play in multiplayer mode for up to 4 players!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Golf Guys: Complete Edition",
+    "nsuId": 70070000020173,
+    "numberOfPlayers": null,
+    "publisher": "QubicGames",
+    "rating": 0,
+    "ratingContent": [
+      "Compras on-line"
+    ],
+    "region": null,
+    "releaseDate": 20231229,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f77d656478111d2e65ebff2dbf4ecca40578555761a181c4cdf81122d3a99783.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/66a91f6b2b5d4e1fbba6c8cbb83954b8abb071cdc3b816750ac7a50a9707b3c3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7e4b418f54f76b12e28745807b79567fcc171bed3e8f008284902a4c0372d6c3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/923125e84411d012745f5a7bc65ca8546f44bb46de8ffb0197bac59be7395ebe.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cfdf3da363b07c3ff5805b5759268d15e687f71df9d7eb6681a75843ba389b9f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/798477a65a0e3bd7bdb14320837f1f1e799854a3acf19ee6403bf0471a4c3c8b.jpg"
+    ],
+    "size": 517996544,
+    "version": null
+  },
+  "70070000020175": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dbfec4cc3750179de97cc193c2a6b06f9b4a6db620e766e9f2a54de97fe10d1a.jpg",
+    "category": null,
+    "description": "Your ball drops like a brick through colorful helix platforms that block its descent, but if you hit a red spot, it's over! Your ball shatters to pieces and you have to start your fall all over again. \n\nFeatures:\n- drop your ball with crazy fast speed and make your way through helix platforms\n- face your friends or family in multiplayer mode for up to 4 players with 4 different gameplay modes!\n- practice your reflexes and break your best scores\n- customize your ball with 45 unique skins!\n- defeat bosses on levels with obstacles like switches and metal platforms that not even a fireball falling at full speed can destroy\n- see how many levels you can complete in this never-ending game\n- use extra 4000 coins to unlock skins even faster \n- invite anyone to play thanks to easy controls and simple rules\n- never get bored thanks to this amazing time killer!\n \nEven traps platforms are no match for a fireball falling at full speed! Choose your strategy: speed up like a madman or stop and wait for your next chance to roll and jump!\n\nIf you don't want to play solo, choose a multiplayer mode for up to 4 players and compete with your friends or family. Together, pick one of the three different gameplay modes with special challenges: get the highest score while avoiding getting minus points, be the first at the finish line, or go as far as you can in a limited time! Reveal who is the fastest and most agile jumping ball among you!\n\nThe key is mastering your reflexes and looking ahead. To guide the bouncing ball, rotate the platforms to align the ball with the cracks. Do this in quick succession for a combo move and higher points. If you pass 3 levels consecutively, you'll be invincible for the first bounce after!\n\nJump into never ending adventure with unlimited levels, test your skills and invite others to have fun together!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Blast your way through helix platforms, smash, bump and bounce to reach the end! Sounds easy? You wish!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Helix Jump: Complete Edition",
+    "nsuId": 70070000020175,
+    "numberOfPlayers": null,
+    "publisher": "QubicGames",
+    "rating": 0,
+    "ratingContent": [
+      "Compras on-line"
+    ],
+    "region": null,
+    "releaseDate": 20231229,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/ddec45fe94fb5adec44a39f807f31d8946acdcd84d940f0cf6ae3f50e1350d76.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fb2b033cf82cc70afebd89fbd400ba4c7df89e2f3bcbac5a71056cdba00556d1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c0b9fcc6f009be7ded9152bb13658411fb32a778790b29e2bbe4fdff3416595e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d1befcbaa866d1be0f92e1ed64e2cd8cf304721bc0c5ee3d6ae984ae5dd4a0d9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/55d80a882cb35dbbcfff701df291147642efd644a2546b04ed068ee60710f3a4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bcc542a718b8c47decf089827a4d144357d66ee18486a6add5e3ec6425d01ed2.jpg"
+    ],
+    "size": 514850816,
+    "version": null
+  },
   "70010000073623": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6f73a6bfb03cb9abd6899ebb6c207b301068544c79d7514d995663c16f313088.jpg",
     "category": [
@@ -1745,6 +1897,40 @@
       "https://img-eshop.cdn.nintendo.net/i/9753a90ef7e5d2e68551d1b7b4ce09ea6c9ca67fbbbdda913a342d36b123e059.jpg"
     ],
     "size": 69206016,
+    "version": null
+  },
+  "70070000018476": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/96d6a99d3dff9037a9f3cc40728da512c0bea1964a6f86462e0b7ec21cbb9477.jpg",
+    "category": null,
+    "description": "Stylish, deadly and smooth as a billiard ball, Johnny Trigger is a man on a mission in this non-stop platform shooter game where the action never ends.\n\nDo you have what it takes to bring down the underground world of the mafia? \n\u201cLess talk, more bullets\u201d \u2013 that\u2019s Johnny\u2019s motto as he runs, jumps, spins, slides and keeps on shooting till every bad guy\u2019s bitten the dust.\n\nIn this bundle you get content from the base game and Hotshot DLC which includes:\n- new Hotshot skin\n- new Sawed-off weapon\n- additional: 2500 gems & 25 keys\n\nDive straight in and get shooting! Johnny Trigger\u2019s short but immensely satisfying levels make it the perfect action game to fill a short break.\nAnd if you\u2019ve got a little more time, there\u2019s so much to collect and a new challenge round every corner.\n\nWhat are you waiting for? Those bad guys aren\u2019t going to beat themselves!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Looking for action? Here\u2019s Johnny in Hotshot skin with Sawed-off weapon!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Johnny Trigger: Hotshot Edition",
+    "nsuId": 70070000018476,
+    "numberOfPlayers": null,
+    "publisher": "QubicGames",
+    "rating": 14,
+    "ratingContent": [
+      "Viol\u00eancia"
+    ],
+    "region": null,
+    "releaseDate": 20231230,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/7b2b12910f01015092cb4c92a8481d14f8f26c431f9471bb0551644a1f7e5004.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2df51e462bb5b414808342c440bc36d6f830b86a3ee052f4620e383a8ae5a43b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3153aeda0807d6d875d47b46ea10a3b175b7def128e58812b9c7b7c6ff0081b8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ffb95f9042077e7ef629fec42c4959333cc602a4474f8b0423dd10369570fdf0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b8efc10a597ddd5f6d134c77866472f68410f9ac3ff6d20e69ae70976eb4289a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/58086ac8b44ebbd3eb3263146200d78b2fa0bfae1f66cdecc1b23cf1a3dbe0c2.jpg"
+    ],
+    "size": 569376768,
     "version": null
   },
   "70070000020142": {
@@ -1999,6 +2185,38 @@
       "https://img-eshop.cdn.nintendo.net/i/30f4776e2437f5a8e1ec45390ed3b3b3a764e9eb1d97d8553a3ae7a6d670b346.jpg"
     ],
     "size": 63963136,
+    "version": null
+  },
+  "70070000020461": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/761e17c4c89cbbc3984511ded11b615776a7a9bfa9f1bc0943e5d2b11c637cdc.jpg",
+    "category": null,
+    "description": "Lonesome Village\n\nLonesome Village is a cozy, quiet town struggling to rebuild after a strange calamity wiped out their homes.\n\nTake the role of Wes the coyote and help bring this village back from the brink of destruction in a puzzle-filled life sim!\n\nA Tiny Sticker Tale\n\nIn A Tiny Sticker Tale, take anything from the world around you, turn it into a sticker, and use your creativity to stick it back in different places, solving puzzles, and helping your new friends!\n\nIn this wholesome bite-sized adventure, step into the tiny boots of Flynn, the donkey, and journey across Figori Island, discovering the vibrant quests that will require the power of a very special magical sticker book.\n\nOgre Pixel",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Two great cozy adventures! Lonesome Village, the puzzle-solving adventure with social sim, and A Tiny Sticker Tale, the cozy adventure about stickers!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Lonesome Village + A Tiny Sticker Tale Bundle",
+    "nsuId": 70070000020461,
+    "numberOfPlayers": null,
+    "publisher": "Ogre Pixel",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240104,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/c89e9d94841b610a592cae73e2f0e44233ac22954ab572a82f0ba69a1ebcd571.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c0ceda8a43fb12ac1a7eec9be05bda4afe9b293a44f53a74e7fa719659165646.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5f419565351de07adba824c21d1a4f16ece26bc688b80b220e062ca01814fe5b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1fc510399ba33944523eb43190f57554da8a145c098a11ea039ba83ec2f16e49.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7a22c442b6e9b50c98fcdc017dc10a7ad4559efdd04808fe6e1d732fd4076873.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/868c26ffe9e003a8df3aea5f119e774874d7a7366303f9d038a4f9dd62639a17.jpg"
+    ],
+    "size": 1943011328,
     "version": null
   },
   "70010000071810": {
@@ -2431,6 +2649,49 @@
     "size": 92274688,
     "version": null
   },
+  "70010000074465": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66d9d63c51a31c96b641d5faa1c0468b4679dcd2bc578c3fc348857777f88438.jpg",
+    "category": [
+      "Arcade",
+      "Puzzle",
+      "Simulation",
+      "Sports"
+    ],
+    "description": "Grab your equipment with you and begin your journey to become a master of nGolf. Explore beautiful and minimalist locations full of traps, puzzles, and amazing views.\n\n\nFIND YOUR WAY\nWhile playing nGolf you will face many challenges on your way. Lasers, spikes, flames and many more will try to stop your ball. Remember that timing is the key to success and you shouldn\u2019t hurry with your hit. Go with the flow and master all worlds.\n\n\nPLAN YOUR APPROACH\nThere is an unlimited number of possible solutions to finish levels. Different angles and strengths can change the trajectory of the ball diametrically. Check your surroundings for hills, teleports, or speed boosters. Each element gives you a new opportunity to hit the hole. \n\n\nBECOME A GOLF MASTER\nTo become a professional, you have to collect all stars on each stage and accomplish the lowest amount of hits. Study the layout of the map, take as many attempts as you need and obtain the title of champion!\n\n\n\nKEY FEATURES:\n- 8 unique worlds\n- Over 60 levels to master\n- Scorecards to help you track your progress",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16b0bb802a5fe1924dcb37c9ebe60c1048a3c3b86652af07968b6df09c10861d.jpg",
+    "id": "010090801D6E2000",
+    "intro": "Set off on the most engaging golf adventure you have ever seen and visit breathtaking places from around the world.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "de",
+      "zh"
+    ],
+    "name": "nGolf",
+    "nsuId": 70010000074465,
+    "numberOfPlayers": 1,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/dd16659d32371cdef0ddf14069b92393824c836ebef9eff8ef7d52f6e4abe081.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/abaa816f2560f6606eb1e632c75dbd058006147b84e45a8046cb0d115098f81b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6fdb694174deace2afb53ee4cdc48df8ef74d1573aa75f38b700bcca3467a80b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/804adf4d04b73311e61e403a609308ccb441a2e17ebbf719e5388e0a4c12785e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/011d2fff8f9a584c309ff7709a6be849d6de806e5f9ba5fee81abb2b7743c059.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fb588d26a9629227f3e5c38fac64e4b93704eee634ecc7fa48facb4e1b0184e4.jpg"
+    ],
+    "size": 238026752,
+    "version": null
+  },
   "70010000041413": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1ec03c75011d6e14cdd421d24b6cd91f826aea9c950f96a4debf2f9bf3727c74.jpg",
     "category": [
@@ -2557,6 +2818,46 @@
       "https://img-eshop.cdn.nintendo.net/i/9838b99553b5470e1218097a751542fbd8e3bba95b22d4ac06bdf2958d9bb7d6.jpg"
     ],
     "size": 77594624,
+    "version": null
+  },
+  "70010000074557": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d822e996af223ef1bfe0f38ca5b382898a8f0de6e3191b86314ca61b4ec8cae.jpg",
+    "category": [
+      "Arcade",
+      "Platformer",
+      "Action",
+      "Other"
+    ],
+    "description": "Avoid tricky obstacles like deadly spikes, secret doors, spinning gates and objects falling from the sky - getting a perfect hit into the hole can be dangerous!\n\nBeware of the twisty road speed ramp, which makes your coin go super fast! Only those with true mastery can skillfully control their coin as it hurtles down the track!\n\nPut on different funny skins, collect coins as you roll down and complete as many levels as possible in this never ending game!\n\nReady to roll?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e0da0a362e32116c0d0ff7a10d40882f4821fe7bf954a9e2a8ce257481d22402.jpg",
+    "id": "0100A5101D31A000",
+    "intro": "Roll your coin along the Coin Rush twisty road track and get a perfect hit right into the hole!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "name": "Coin Rush",
+    "nsuId": 70010000074557,
+    "numberOfPlayers": 1,
+    "publisher": "QubicGames",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/0174d8c222655ca86d0a5380fc5848d7da014c2c67544b3896a979770186f4c6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d92f54577fb7766a75fce1059ff5b24f9e00f842cbcf99b1aae485c525da5cb5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e296227a644fb14cafb82f23028ec2cf60a73dd40659e374c6287871838e5b91.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cdfb1fb6d148bf758f7cfee0a22d0838031336e54a450f47bb698eb52be5a9cf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dede191176632e1e0e385d5ca4578495a1d65288c6862b7e8600e69463b1830f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3c0d461f8419ab9ad90d870d1d3501afc6d53bd4be72b9854e2765e53846645c.jpg"
+    ],
+    "size": 393216000,
     "version": null
   },
   "70070000019428": {
@@ -2798,6 +3099,43 @@
     "size": 1249902592,
     "version": null
   },
+  "70010000072830": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/795d42053917ea10af205eaeee3e8d96769b84bb4de1e8bb5e23a45f499e892d.jpg",
+    "category": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "description": "Vigour is a Puzzle Platformer game. This cute bird must solve puzzles with different mechanics in the levels. 30 differently designed levels, will you be able to pass all the puzzles? Complete the levels by solving different puzzles in each season.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4863d252118928bf354f67c4fe938fbb67a8f485d5489ffa101a0206da0e402f.jpg",
+    "id": "0100E4C01D0DC000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Vigour",
+    "nsuId": 70010000072830,
+    "numberOfPlayers": 1,
+    "publisher": "Weakfish Studio",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/bb7f41a3a8de382c252895e217ed394fcd7119641155e1799a6c36d896d10a32.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/96c097c5c05f354182da8c243a837d0f29ca117a6a294dce2a832ec8f7e83580.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc34c56f99a8abf2ca12a14cd7c4e0603ea7377beb7fb5523c30d8a3506837b6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b760e19d4ba8a8b57412d5412ffc2add214ef59f7ea5d288c8a8861165209a9c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bf010bb4ad97a7cb7ed8ab6b30a441aacd251540dc98a291fd075b3dfb7ee69a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/382b51bfa82b9ec040f52eca0f4a65acf52356af6e433fd29833c9d8867b4525.jpg"
+    ],
+    "size": 39845888,
+    "version": null
+  },
   "70050000043606": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b88756ec57bf724a571e02a9e205d725af407f9ffe1f21efcfd265dc9afdc31f.jpg",
     "category": null,
@@ -2894,6 +3232,48 @@
       "https://img-eshop.cdn.nintendo.net/i/69befc070aca11a296e24e879b00d7aa847e454262b40c4b89eeaa7d9f5491fc.jpg"
     ],
     "size": 0,
+    "version": null
+  },
+  "70010000074597": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b6c6afd3024d6e16947231a29b04017f99233cd18d336872e9d97ec8c88e5edb.jpg",
+    "category": [
+      "Adventure",
+      "Arcade",
+      "Puzzle",
+      "Platformer"
+    ],
+    "description": "Inspired By the Classics, Made for the 21st Century\nChallenging platform parkour inspired by classic SEGA games of the 90s - The Jungle Book, Aladdin, Lion King \u2013 but with modern twists and ideas. Platform parkour through the remains of humanity. Outwit evolved wildlife and dangerous hybrid flora. Crack environmental puzzles that keep you guessing. And stay one step ahead of the wicked humans who are pursuing you in a twisted apocalyptic safari hunt.\n\nThe Story of a Hunted Cub\nAfter the Great Ecological Catastrophe, the ultrarich flee to Mars and leave the rest to perish. But among them a small child who developed immunity to the hostile planet remains. Decades pass and those on Mars venture back to Earth to do recon. When they spot a small human child, The Cub, they immediately try to capture it. This sets off a journey of escape, exploration and discovery through the urban ruins of humanity coupled with frantic cat and mouse chases.\n\nThis World Tells Tales\nExplore the ruins of humanity after the Great Ecological Catastrophe wipes out most of the civilization and leaves our remains to be reclaimed by an evolved mother nature. The story and clues of how and why humanity fell is strewn throughout the world. Crumbling brutalist tower blocks and abandoned genetics labs. Depleted chemical mines and overgrown battlefields. Each level has a story to tell.\n\nThe Perfect Tunes to Keep You Company\nAccompanying you on the journey is Radio Nostalgia From Mars, a custom soundtrack that\u2019ll crash land into your psyche. Sink into thought-provoking survivor stories from the few ultrarich living on Mars, while a smooth-voiced radio DJ keeps the show moving with a collection of chill apocalypse-wave tunes.\n\nIf Looks Could Bring Back Memories\nMeticulously drawn and stylized to look like the classic animated films of the late 90s - Atlantis, Tarzan, Road to El Dorado - while also taking a page from Samurai Jack\u2019s creator Genndy Tartakovsky critically acclaimed series, Primal.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0c116fa5b54767b61bd1c9cd7870c33b6eff677195191cdd99cc46ce32832713.jpg",
+    "id": "0100D6501D73C000",
+    "intro": "The Jungle Book meets the armageddon.\n",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "The Cub",
+    "nsuId": 70010000074597,
+    "numberOfPlayers": 1,
+    "publisher": "Untold Tales",
+    "rating": 10,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Linguagem Impr\u00f3pria"
+    ],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/40aede9e5518e8851e62b323dcb6e7b70d9c4b72208398fcdd13c8cf0e15801d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/78379935c2b1b272bb6464aacd767fdd042e69a51f631fa56dadd75e59b09a45.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dd014b538ffa513d9e38b56df2cb58d068457ef7b0dc8801f858da4063e828f3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6aff0b38c1fcfdf2773d318749d6e2c12226e8a8a9fbf8fa326d278662ccc2e4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dfd7aaf6b7e6b543feaf0ab43014d8aae0a2c546db7d5c3e8b015efffe160f66.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2605d8fa85c7d0b9b4a0c884edd81312390d58158ed8b05b5fa5e90c133558ed.jpg"
+    ],
+    "size": 1281359872,
     "version": null
   },
   "70010000069406": {
@@ -3386,6 +3766,76 @@
       "https://img-eshop.cdn.nintendo.net/i/cb95bcce6aa2863e09bd123a4026d3d43dfc84f7eba52b62e7b604dbc2d30061.jpg"
     ],
     "size": 2146435072,
+    "version": null
+  },
+  "70070000019277": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/356b44cbc4f1f6907b7389494be285f83123df0cfbef5eddee42c695188491d4.jpg",
+    "category": null,
+    "description": "Racers, beware! \n\nFast-paced, polished and dynamic motorbike racing now on Nintendo Switch\u2122!\n\nOne of a kind game entirely playable with... Toy-Con Motorbike!\n\nForget about speed limits and traffic rules 'cause on this road you're the boss!\n\nA unique mix of endless and arcade racing game featuring countless hours of fun!\n\nIN MOTO RUSH GT YOU WILL FIND:\n\n\u2022 Over 100 levels to beat!\n\u2022 Endless racing experience\n\u2022 12 customizable motorbikes\n\u2022 Toy-Con Motorbike support\n\u2022 Race against time, ghost opponents or try various challenges! \n\u2022 Motion Controls \u2013 play by rotating your console!\n\u2022 Play with the Nintendo Switch\u2122 Pro Controller\n\u2022 Support all play styles - TV Mode, Tabletop Mode, Handheld Mode, Toy-Con Motorbike\n\u2022 Experience 4 different game modes \n\u2022 Weather and day-cycle effects: rain, night, storm! \n\u2022 Experience beautifully designed roads around the world\n\nThis bundle includes base game, Expansion Pack, Grip Collection #1 and Grip Collection #2 with:\n\n- 4 new motorbikes (each with special colors)\n- New colors for the rest of motorbikes\n- New colors for gloves\n- Special, Golden colors for motorbikes\n- eight pairs of state-of-the-art racing gloves, crafted for the ultimate grip and control.\n\nCheck it out!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Ultimate motorbike racing experience for all ages!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Moto Rush GT Ultimate Edition",
+    "nsuId": 70070000019277,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Games",
+    "rating": 0,
+    "ratingContent": [
+      "Compras on-line"
+    ],
+    "region": null,
+    "releaseDate": 20240126,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/05e97fe2699dc18516e36d56c7b8054ecedab8cba95d2f99f24b59bb4042689b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/05443a5d36533541917139ceab601e42b5a5fc4fb0c06e5b99f8194719e22224.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0623163e968b917f77b08f456fbe2c05cdac1a4a0eeebcd16fe5bc256519feca.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/58b820fb8968581c549c772600e84fa27ae8db336349768ad27f2718396ebc5f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/56d26e43fca4024f8d8899d7d17ceefa4d7d18baf554fb81455bd9d8c193072d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2ae48c85d81e2bfc8c196e7b2758503d5405cd1c94e343dbc2d0fbf89b3e28a2.jpg"
+    ],
+    "size": 5513412608,
+    "version": null
+  },
+  "70070000019393": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bffb519e8ba02c6e5f2d965e19568b4b4ebe93bd3bdded355713f2bd3c579661.jpg",
+    "category": null,
+    "description": "Inspired by the classics, developed for the modern audiences.\n\nA classic revenge story set in a medieval fantasy world\u2026 with a touch of deadly modern firepower just to turn things up to eleven. Fight through the armies of undead, mutants, aliens, machines and beasts in order to get back what is rightfully yours and bring some semblance of peace back to the land. Who knows - if you\u2019re thorough enough you might even discover the history of the kingdom itself, long lost to the scholars of the realm.\n\nKnights & Guns brings you to a dangerous world where you will fight, alongside your friend, against demons, ghouls & ghosts. Use shotguns, lasers and the power of chivalry to overcome every obstacle. Become the best version of a knight - one with a gun.\n\nInside the game:\n\u2022\tFight awesome bosses on various stages! \n\u2022\tConquer the non-linear world! Rush through over 150 hand crafted stages, or enjoy the game at your own pace, looking for secrets and special routes!\n\u2022\tEntire game designed for both single player or co-op multiplayer. Invite a friend at any time for some extra firepower and mayhem.\n\u2022\t60 fps gameplay! Try the different modes! Hunt the monsters! Survive! Play on small, big and narrow maps!\n\u2022\tCheck out all the awesome suits of armor and, of course, all the GUNS! Lasers, shotguns, grenade launchers, sniper rifles... They are all here!\n\u2022\tOver 30 unique guns. (That\u2019s probably more flavors of death than flavors of ice cream you can name.)\n\u2022\tOver 25 types of enemies, 5 types of mini-bosses and 3 types of bosses. Most of these come in different colors, too.\n\u2022\t30 unique suits of armor for the knights. Extra protection and extra style!\n\u2022\tTraps, chests, keys, scrolls of lore, books of monsters...\n\nThis bundle includes base game, Expansion Pack #1, Armor Pack #1 and Armor Pack #2 with:\n- 10 new levels for you to bring back the peace\n- 9 new armors to help you on your quest\n- New enemies for that extra little kick",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Knight in shining armor, fight your way... with Guns!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Knights & Guns Ultimate Edition",
+    "nsuId": 70070000019393,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Games",
+    "rating": 14,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Linguagem Impr\u00f3pria",
+      "Compras on-line"
+    ],
+    "region": null,
+    "releaseDate": 20240126,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/e7f2e9e0921a8402f540461d168cff9a63b53d45b3dc23e5efb4d730d72946e6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/32fb09d9af6a0380d5019373925e78433c513285761bf95f78ed1b4a215f6609.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7bf101617383c2679cadeaa33e76c33826079b92c5d69b48d52ec6dee3ee7704.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2cb105654b5e227621af8b9bea9faeb4d9ce0acc387a3c2a0ed09aa434739b65.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8d8d69c0e5a0a007ed9a1cf3c8384e2dc84f222ed9efad7dbefda5d965da523d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/30834b39aba50ba87cdaac849870e9b454d7c0462ce689ae9811df4772671ff0.jpg"
+    ],
+    "size": 3397386240,
     "version": null
   },
   "70050000044386": {

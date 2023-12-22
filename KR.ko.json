@@ -1,4 +1,36 @@
 {
+  "70070000019777": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/18e780d3a01c1a5773b43750851607c66414c78c75872d56bc6d650d4d2807c6.jpg",
+    "category": null,
+    "description": "\ub1cc \uae30\uc5b5\uc740 \uba54\ubaa8\ub9ac \uac8c\uc784\uc758 \uace0\uc804\uc801\uc778 \uacf5\uc2dd\uc744 \uac1c\uc120\ud569\ub2c8\ub2e4. \uc790\uc2e0\uc758 \uc18d\ub3c4\uc5d0 \ub9de\uac8c \ub09c\uc774\ub3c4\ub97c \ub192\uc774\uace0 \uc790\uc2e0\uc758 \ucde8\ud5a5\uc5d0 \ub9de\uac8c \ub3c4\uc804 \uacfc\uc81c\ub97c \uc0ac\uc6a9\uc790 \uc815\uc758\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\n\uc6b0\ub9ac\uc758 \ub450\ub1cc\ub294 XXI \uc138\uae30\uc758 \uac00\uc7a5 \uc911\uc694\ud55c \ub3c4\uad6c\uc785\ub2c8\ub2e4. \uc790\ub140\uc5d0\uac8c \ud638\uc758\ub97c \ubca0\ud480\uace0 \uc7a0\uc7ac\ub825\uc744 \ucd5c\ub300\ud55c \ubc1c\ud718\ud558\ub294 \ub370 \ub3c4\uc6c0\uc774 \ub418\ub294 \uc120\ubb3c\uc744 \uc8fc\uc2ed\uc2dc\uc624.\n\n\ub2e4\uc591\ud55c \uce74\ub4dc\uac00 \ud3ec\ud568\ub41c \uccab \ubc88\uc9f8\uc640 \ub450 \ubc88\uc9f8 \ud329\uc758 \ub450 \uac00\uc9c0 DLC\ub85c \uc544\uc774\ub4e4\uc774 \ub9c8\uc74c\uc758 \uc8fc\uc778\uc774 \ub418\uac8c \ud574\uc8fc\uc138\uc694!\n\n\uc8fc\uc694 \ud2b9\uc9d5\ub4e4\n\n- \uae30\uc5b5\ub825 \ud5a5\uc0c1\n- \uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uce74\ub4dc\n- \uc870\uc808 \uac00\ub2a5\ud55c \ub09c\uc774\ub3c4\n- \ud3b8\uc548\ud55c \uc74c\uc545\n- 8\uac1c\uc758 \uce74\ub4dc \ub514\uc790\uc778\n- 20\uac1c\uc758 \ub09c\uc774\ub3c4",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "\uc790\ub140\uac00 \ub9c8\uc74c\uc758 \uc228\uaca8\uc9c4 \uc7a0\uc7ac\ub825\uc744 \ud65c\uc6a9\ud558\ub3c4\ub85d \ub3c4\uc640\uc8fc\uc2ed\uc2dc\uc624. \uc774 \ub2e4\ucc44\ub85c\uc6b4 \uce74\ub4dc\ub97c \uc0ac\uc6a9\ud558\uc5ec \uae30\uc5b5\ub825\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\uc138\uc694. \uadf8\ub4e4\uc774 \uadf8\ub4e4 \uc790\uc2e0\uc758 \ub9c8\uc74c\uc758 \uc8fc\uc778\uc774 \ub418\uac8c \ud558\uc2ed\uc2dc\uc624.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "\ub1cc \uae30\uc5b5 \ud574\ud53c \uc5d0\ub514\uc158",
+    "nsuId": 70070000019777,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20231223,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/9fe6d4f65d4e09733bdc1c3d46ab2dcd1c3b41a85174b1d036a23fd78b1aef69.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/310b802e16281ccea27e6e2f0ed6fcf804768a9495c1746332b084e1bd93cb8f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/22a42946a07b20184728251ce46c186f65afaab93727f63e68d00252185b6a07.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/53fac46d77e70e293292f1bb4aa7b0e21f4021e4a05e4379e335cf7903948b20.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a4150d9d9056068b41f7d81bffaf314cde8aaf9173bde9605b30e02b9b9c6f04.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9f1a7d718cfb5702eb3c59c495b6b0849a6390ff2b86c6a114832aaf25c30537.jpg"
+    ],
+    "size": 156237824,
+    "version": null
+  },
   "70050000038086": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66b6bf60bfc0281911dfb1ec381eb35a637be73ce16466e0019ea6e9205c9b82.jpg",
     "category": null,
@@ -149,6 +181,45 @@
     "size": 425721856,
     "version": null
   },
+  "70010000066888": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a9627bead1934e0c4de1402b96898d05490137ea230393027542158d3250c30d.jpg",
+    "category": [
+      "\uc2dc\ubbac\ub808\uc774\uc158",
+      "\ub808\uc774\uc2f1",
+      "\uc561\uc158",
+      "\uc804\ub7b5"
+    ],
+    "description": "\"Truck Simulator 2024 - USA Driver Zone\"\ub97c \ud1b5\ud574 \ubbf8\uad6d\uc758 \uad11\ud65c\ud55c \ud48d\uacbd\uc744 \uac00\ub85c\uc9c0\ub974\ub294 \uc2e0\ub098\ub294 \uac00\uc0c1 \uc5ec\ud589\uc744 \ub5a0\ub098\ubcf4\uc138\uc694. \uad11\ub300\ud55c \uac00\uc0c1 \uc138\uacc4\ub97c \ud0d0\uc0c9\ud558\ub294 \ub3d9\uc548 \ucc38\uc5ec\ub97c \uae30\ub2e4\ub9ac\ub294 \ub2e4\uc591\ud55c \uc784\ubb34\uc640 \uc791\uc5c5\uc744 \ub9cc\ub098\uac8c \ub429\ub2c8\ub2e4.\n\uc8fc\uc694 \ud2b9\uc9d5\ub4e4:\n\u2022 \ub2e4\uc591\ud55c \ud2b8\ub7ed \uc120\ud0dd: \uac01\uac01 \uace0\uc720\ud55c \ud2b9\uc131\uacfc \ud578\ub4e4\ub9c1\uc744 \uac16\ucd98 \uc138\uc2ec\ud558\uac8c \uc138\ubd80\uc801\uc778 \ud2b8\ub7ed \uc911\uc5d0\uc11c \uc120\ud0dd\ud558\uc138\uc694.\n\u2022 \uc624\ud508 \uc6d4\ub4dc \ud0d0\ud5d8: \uc544\ub984\ub2e4\uc6b4 \ubbf8\uad6d \ud48d\uacbd\uc5d0\uc11c \uc601\uac10\uc744 \ubc1b\uc544 \uc138\uc2ec\ud558\uac8c \uc81c\uc791\ub41c \uc624\ud508 \uc6d4\ub4dc \uc9c0\ub3c4\ub97c \uc790\uc720\ub86d\uac8c \ud0d0\ud5d8\ud558\uc138\uc694.\n\u2022 \ub2e4\uc591\ud55c \uc784\ubb34: \uc6b4\uc804 \uae30\uc220\uc744 \uc2dc\ud5d8\ud560 \ub2e4\uc591\ud55c \uc784\ubb34\uc640 \uc9c1\uc5c5\uc744 \uc218\ud589\ud558\uc138\uc694.\n\u2022 \ub2e4\uc591\ud55c \uc5c5\uadf8\ub808\uc774\ub4dc: \uac15\ub825\ud55c \uc5d4\uc9c4, \ucca8\ub2e8 \ubcc0\uc18d\uae30, \ubc18\uc751\uc131\uc774 \ub6f0\uc5b4\ub09c \ube0c\ub808\uc774\ud06c \ub4f1 \ub2e4\uc591\ud55c \uc5c5\uadf8\ub808\uc774\ub4dc\ub97c \ud1b5\ud574 \ud2b8\ub7ed\uc758 \uc131\ub2a5\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\uc138\uc694.\n\u2022 \uc0ac\uc5c5 \ud655\uc7a5: \ucc28\ub7c9\uc5d0 \ud604\uba85\ud558\uac8c \ud22c\uc790\ud558\uc5ec \ud2b8\ub7ed \uc6b4\uc1a1 \uc81c\uad6d\uc744 \uac74\uc124\ud558\uc138\uc694.\n\u2022 \ud604\uc2e4\uc801\uc778 \ubb3c\ub9ac\ud559: \ubaa8\ub4e0 \ud68c\uc804, \uac00\uc18d \ubc0f \ube0c\ub808\uc774\ud06c\uc5d0 \ubc18\uc751\ud558\ub294 \ud604\uc2e4\uc801\uc778 \ubb3c\ub9ac\ud559\uc744 \ud1b5\ud574 \ud2b8\ub7ed \uc6b4\uc804\uc758 \uc9c4\uc815\ud55c \ub290\ub08c\uc744 \uacbd\ud5d8\ud574 \ubcf4\uc138\uc694.\n\"Truck Simulator 2024 - USA Driver Zone\"\uc740 \uac8c\uc784 \uacbd\ud5d8\ubfd0\ub9cc \uc544\ub2c8\ub77c \uc7a5\uac70\ub9ac \ud2b8\ub7ed \uc6b4\uc1a1\uc758 \uc138\uacc4\ub85c\uc758 \ub9e4\ud639\uc801\uc778 \uc5ec\ud589\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4. \ubca8\ud2b8\ub97c \ub9e4\uace0 \ub3c4\ub85c\ub97c \ub2ec\ub9ac\uba70 \ubbf8\uad6d \uace0\uc18d\ub3c4\ub85c\uc5d0\uc11c \uc790\uc2e0\uc758 \ud754\uc801\uc744 \ub0a8\uae30\uc138\uc694.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9c960d8a5d30298d769259943f292f54ff92e03ae2ee76611674fad833f12bd3.jpg",
+    "id": "0100D7E01B4EA000",
+    "intro": "\uac00\uc0c1 \uc5ec\ud589\uc744 \uc0c8\ub86d\uac8c \uc2dc\uc791\ud558\uace0, \ud0c1 \ud2b8\uc778 \ub3c4\ub85c\ub97c \uc815\ubcf5\ud558\uace0, \ubaa8\ub4e0 \ub9c8\uc77c\uc774 \uc0c8\ub85c\uc6b4 \ubaa8\ud5d8\uc774 \ub418\ub294 \ubbf8\uad6d \uc911\uc2ec\ubd80\uc5d0 \ud2b8\ub7ed \uc81c\uad6d\uc744 \uac74\uc124\ud558\uc138\uc694!\n",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Truck Simulator 2024 - USA Driver Zone",
+    "nsuId": 70010000066888,
+    "numberOfPlayers": 1,
+    "publisher": "SUCCESS GAMES",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f2e385004041ca64e1f2f7d05c3441e18c2cddda6f954b8253e54264edbea2ab.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a9097319fdf6faf3a0452f93ca373adf9abde4f1cf6f75be2324eb538912416d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/726477617da21c7f4a64f09fd504fe7668edebd176cd276c7e8eb38e30b2694d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8fce30df3a447b070486fabe13eab821f515ed058f706fd7347263bb68a06657.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b7c9b0d82811c4ccab999d8c6cf178769b93443f1c1b65aa8f07fbf71b6e3b03.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cb56f9866f0a2f5a3fee8bb7c1ba1c05db7a85515889f36f9f08858c21ae80e3.jpg"
+    ],
+    "size": 720371712,
+    "version": null
+  },
   "70010000069698": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f444306b07b17411dbfeb62bdca897011425b87337b212bec90de2f968615775.jpg",
     "category": [
@@ -224,6 +295,51 @@
     "size": 74448896,
     "version": null
   },
+  "70010000073159": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c420a19ed5fc9969d28cd7829974763d672633bb006bf2d6816a7e3f46ac8db.jpg",
+    "category": [
+      "\uc561\uc158",
+      "\uc544\ucf00\uc774\ub4dc",
+      "RPG",
+      "\uc288\ud305"
+    ],
+    "description": "Enhanced (\uc9c4\ud654)\n\ub7f0 \uc0f7\uacfc \ud480 \ube0c\ub808\uc774\ud06c\ub85c \ubb34\uc7a5\ud558\uc5ec \uc9c4\ud654\ub41c \uadf8\ub808\uc774\ube0c\uc758 \uc0ac\uc804\uc5d0 \uc5c4\ud3d0\ub098 \ud6c4\ud1f4\ub780 \uc5c6\uc2b5\ub2c8\ub2e4.\n\uc804\uc18d\ub825\uc73c\ub85c \ub3cc\uc9c4\ud574 \uc801\uc744 \ub354\uc6b1 \ube60\ub974\uace0 \ubb34\uc790\ube44\ud558\uac8c \uc3d8\uc138\uc694. \n\nChanged (\ubcc0\ud654)\n\uadf8\ub808\uc774\ube0c\uac00 Nintendo Switch\u2122\ub85c \uce90\uc8fc\uc5bc\ud558\uac8c \ubcc0\ud654\ud558\uc5ec \ub4f1\uc7a5\ud588\uc2b5\ub2c8\ub2e4.\n\ubb34\ud55c \ud0c4\ucc3d\uc758 \ucf08\ubca0\ub85c\uc2a4 \uad8c\ucd1d\uacfc, \ubcc0\ud615\ud558\ub294 \uad00\uc778 \ub370\uc2a4 \ud558\uc6b8\ub7ec\ub97c \ud65c\uc6a9\ud574 \uc2a4\ud0c0\uc77c\ub9ac\uc2dc\ud55c \uc288\ud305\uacfc \uc561\uc158\uc744 \ub354\uc6b1 \uac04\ud3b8\ud574\uc9c4 \uc870\uc791\uc73c\ub85c \uacbd\ud5d8\ud558\uc138\uc694.\n\nBetter than Ever (\uadf8\ub9ac\uace0 \ub354 \ub098\uc544\uac00)\n\ub3d9\ub0a8\uc544\uc2dc\uc544\ub85c \uc704\ub300\ud55c \ubaa8\ud5d8\uc744 \ub5a0\ub09c \uadf8\ub808\uc774\ube0c \uc77c\ud589\uc758 \uc774\uc57c\uae30\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.\nGungrave\uc758 \ud32c\ubfd0\ub9cc \uc544\ub2c8\ub77c, \ub0a8\ub140\ub178\uc18c \ubaa8\ub450 \uc990\uae38 \uc218 \uc788\ub294 \uac10\uc131\uc801\uc778 \uc2a4\ud1a0\ub9ac\uac00 \uc5ec\ub7ec\ubd84\uc758 \ub208\uc55e\uc5d0 12\uc2dc\uac04\uc774 \ub118\ub294 \uac8c\uc784 \ud50c\ub808\uc774\ub85c \ud3bc\uccd0\uc9d1\ub2c8\ub2e4.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9246f1cbec59a98e57d56f9ca81ac80423e1a8c9ca9ddaa9459cb043ebecfadb.jpg",
+    "id": "0100B6F01D238000",
+    "intro": "\uc720\ub2c8\ud06c\ud55c 3\uc778\uce6d \uc288\ud130 \uc561\uc158 \uac8c\uc784, Gungrave\uac00 \ub3cc\uc544\uc654\uc2b5\ub2c8\ub2e4.\n\ubd80\ud65c\uc758 \ucd1d\uc7a1\uc774, \uadf8\ub808\uc774\ube0c\uac00 \ub418\uc5b4 \uc801\uc5d0\uac8c \ucd1d\uc54c\uc744 \ud37c\ubd80\uc73c\uc138\uc694.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Gungrave G.O.R.E Ultimate Enhanced Edition",
+    "nsuId": 70010000073159,
+    "numberOfPlayers": 1,
+    "publisher": "Beep",
+    "rating": 12,
+    "ratingContent": [
+      "\ud3ed\ub825\uc131"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/aa4713b6ca181510f46ac4828e369d2f2b433d4d115af76b64e3373c9496fa54.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dcc6de7f1e24788de4b13ac3525fa9de20bcb8f4fc8c755a50a6889797cbd372.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e8af5480e4c020b748831573c739068852779a6579dff7f3abefeb688800ee44.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5304258d2fa98655a5d3dd1b91da751ea7293122938561848e6e1b9ad74b39f4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e7fb3ede0e67d56e04f6d85f17fb0d5c75f0358a926800029512b9f8d0a177ca.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/061685fd1f9ca96d6c25921f11277dafe6715e63f6e00fee0b89916b23d2b377.jpg"
+    ],
+    "size": 11131682816,
+    "version": null
+  },
   "70010000073709": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6ac12ddfc3e24f67ae7b2f057102ae249c77a154998d784495e7fed5495b6d46.jpg",
     "category": [
@@ -263,6 +379,219 @@
       "https://img-eshop.cdn.nintendo.net/i/5bf676e7289d8859b11f32fbc3f9a99cefbf3b4abffd2ca9028ded1777fad4d2.jpg"
     ],
     "size": 92274688,
+    "version": null
+  },
+  "70010000074468": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4640352a292899ceb0fedfd9123266eb1fef9211e7e2a57a601c93c04cdb6fa4.jpg",
+    "category": [
+      "\uc544\ucf00\uc774\ub4dc",
+      "\ud37c\uc990",
+      "\uc2dc\ubbac\ub808\uc774\uc158",
+      "\uc2a4\ud3ec\uce20"
+    ],
+    "description": "\uc7a5\ube44\ub97c \ucc59\uaca8\uc11c n\uace8\ud504 \ub9c8\uc2a4\ud130\uac00 \ub418\uae30 \uc704\ud55c \uc5ec\uc815\uc744 \uc2dc\uc791\ud558\uc138\uc694. \ud568\uc815, \ud37c\uc990, \uba4b\uc9c4 \uc804\ub9dd\uc73c\ub85c \uac00\ub4dd\ud55c \uc544\ub984\ub2f5\uace0 \ubbf8\ub2c8\uba40\ud55c \uc7a5\uc18c\ub97c \ud0d0\ud5d8\ud558\uc138\uc694.\n\n\n\uae38 \ucc3e\uae30\nn\uace8\ud504\ub97c \ud50c\ub808\uc774\ud558\ub294 \ub3d9\uc548 \ub9ce\uc740 \ub3c4\uc804\uc5d0 \uc9c1\uba74\ud558\uac8c \ub429\ub2c8\ub2e4. \ub808\uc774\uc800, \uc2a4\ud30c\uc774\ud06c, \ud654\uc5fc \ub4f1\uc774 \uc5ec\ub7ec\ubd84\uc758 \uacf5\uc744 \uba48\ucd94\uac8c \ud558\ub824\uace0 \ud560 \uac83\uc785\ub2c8\ub2e4. \ud0c0\uc774\ubc0d\uc774 \uc131\uacf5\uc758 \uc5f4\uc1e0\ub77c\ub294 \uac83\uc744 \uae30\uc5b5\ud558\uace0 \uc11c\ub450\ub974\uc9c0 \ub9c8\uc138\uc694. \ud750\ub984\uc5d0 \ub530\ub77c \ubaa8\ub4e0 \uc138\uacc4\ub97c \ub9c8\uc2a4\ud130\ud558\uc138\uc694.\n\n\n\uc811\uadfc \ubc29\uc2dd \uacc4\ud68d\ud558\uae30\n\ub808\ubca8\uc744 \uc644\ub8cc\ud558\ub294 \ubc29\ubc95\uc740 \ubb34\ud55c\ud788 \ub9ce\uc2b5\ub2c8\ub2e4. \uac01\ub3c4\uc640 \uac15\ub3c4\uc5d0 \ub530\ub77c \uacf5\uc758 \uada4\uc801\uc774 \uc815\ubc18\ub300\ub85c \ubc14\ub014 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \uc8fc\ubcc0\uc5d0 \uc5b8\ub355, \ud154\ub808\ud3ec\ud2b8 \ub610\ub294 \uc18d\ub3c4 \ubd80\uc2a4\ud130\uac00 \uc788\ub294\uc9c0 \ud655\uc778\ud558\uc138\uc694. \uac01 \uc694\uc18c\ub294 \ud640\uc744 \uacf5\ub7b5\ud560 \uc218 \uc788\ub294 \uc0c8\ub85c\uc6b4 \uae30\ud68c\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4. \n\n\n\uace8\ud504 \ub9c8\uc2a4\ud130 \ub418\uae30\n\ud504\ub85c\uac00 \ub418\ub824\uba74 \uac01 \uc2a4\ud14c\uc774\uc9c0\uc5d0\uc11c \ubaa8\ub4e0 \ubcc4\uc744 \uc218\uc9d1\ud558\uace0 \ucd5c\uc800 \ud0c0\uc218\ub97c \ub2ec\uc131\ud574\uc57c \ud569\ub2c8\ub2e4. \ub9f5\uc758 \ub808\uc774\uc544\uc6c3\uc744 \uc5f0\uad6c\ud558\uace0 \ud544\uc694\ud55c\ub9cc\ud07c \uc2dc\ub3c4\ud558\uace0 \ucc54\ud53c\uc5b8 \ud0c0\uc774\ud2c0\uc744 \ud68d\ub4dd\ud558\uc138\uc694!\n\n\n\n\uc8fc\uc694 \ud2b9\uc9d5:\n- 8\uac1c\uc758 \ub3c5\ud2b9\ud55c \uc138\uacc4\n- 60\uac1c \uc774\uc0c1\uc758 \ub808\ubca8\uc744 \ub9c8\uc2a4\ud130\ud558\uc138\uc694\n- \uc9c4\ud589 \uc0c1\ud669\uc744 \ucd94\uc801\ud558\ub294 \ub370 \ub3c4\uc6c0\uc774\ub418\ub294 \uc2a4\ucf54\uc5b4 \uce74\ub4dc",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16b0bb802a5fe1924dcb37c9ebe60c1048a3c3b86652af07968b6df09c10861d.jpg",
+    "id": "010090801D6E2000",
+    "intro": "\uc9c0\uae08\uae4c\uc9c0 \ubcf8 \uac83 \uc911 \uac00\uc7a5 \ub9e4\ub825\uc801\uc778 \uace8\ud504 \ubaa8\ud5d8\uc744 \ub5a0\ub098 \uc804 \uc138\uacc4\uc758 \uc228\ub9c9\ud788\ub294 \uba85\uc18c\ub97c \ubc29\ubb38\ud558\uc138\uc694.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "de",
+      "zh"
+    ],
+    "name": "n\uace8\ud504",
+    "nsuId": 70010000074468,
+    "numberOfPlayers": 1,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/dd16659d32371cdef0ddf14069b92393824c836ebef9eff8ef7d52f6e4abe081.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/abaa816f2560f6606eb1e632c75dbd058006147b84e45a8046cb0d115098f81b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6fdb694174deace2afb53ee4cdc48df8ef74d1573aa75f38b700bcca3467a80b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/804adf4d04b73311e61e403a609308ccb441a2e17ebbf719e5388e0a4c12785e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/011d2fff8f9a584c309ff7709a6be849d6de806e5f9ba5fee81abb2b7743c059.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fb588d26a9629227f3e5c38fac64e4b93704eee634ecc7fa48facb4e1b0184e4.jpg"
+    ],
+    "size": 238026752,
+    "version": null
+  },
+  "70010000075297": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1eb9225b146b3070e9d64793d0ef68d9cca399d08fa21e6db96ae4f6356241db.jpg",
+    "category": [
+      "\uc544\ucf00\uc774\ub4dc",
+      "\uc561\uc158",
+      "\uc288\ud305"
+    ],
+    "description": "\"Trash Punk\"\ub294 \uc544\ub098\ud0a4\uac00 \uc9c0\ubc30\ud558\ub294 \uacf3\uc774\uba70, \ub2f9\uc2e0\uc740 \uc885\ub9d0\uc744 \ub85d\ud0b9\ud558\ub294 \uc624\ud3ec\uc12c \ud391\ud06c\uc785\ub2c8\ub2e4! \uc774\uac83\uc740 \ub2e8\uc21c\ud55c \uc288\ud305 \uac8c\uc784\uc774 \uc544\ub2d9\ub2c8\ub2e4; \uc774\uac83\uc740 \uc990\uac81\uac8c \ubbf8\uce5c \uc138\uc0c1\uc5d0\uc11c \ud3bc\uccd0\uc9c0\ub294 \uc0c1\ub2e8 \uc2dc\uc810\uc758 \uc544\ub4dc\ub808\ub0a0\ub9b0\uc774 \uc19f\uad6c\uce58\ub294 \ud3ed\ub3d9\uc785\ub2c8\ub2e4.\n\n\ub0a0\uce74\ub85c\uc6b4 \ucd1d\uae30\ubd80\ud130 \uc0ac\ub098\uc6b4 \uadfc\uc811 \ubb34\uae30\uc5d0 \uc774\ub974\uae30\uae4c\uc9c0 \ubaa8\ub4e0 \uac83\uc73c\ub85c \ubb34\uc7a5\ud55c \ucc44, \ub3cc\uc5f0\ubcc0\uc774 \uc774\uc0c1\ud55c \uc874\uc7ac\ub4e4\uc758 \ubb34\ub9ac\ub97c \ud1b5\ud574 \ubc00\uace0 \ub098\uac00\uba70 \uc9c8\uc8fc\ud558\uc2ed\uc2dc\uc624. \uadfc\uc811 \uc804\ud22c\ub294 \ub2e8\uc9c0 \ubcf4\uc5ec\uc8fc\uae30 \uc704\ud55c \uac83\uc774 \uc544\ub2c8\uba70, \ud63c\ub3c8 \uc18d\uc5d0\uc11c \uae38\uc744 \ub0b4\uba70 \ud0c4\uc57d\uc744 \uc5bb\uc5b4\ub0b4\uc2ed\uc2dc\uc624. \ub9e4 \uaf2c\uc778 \uc21c\uac04\ub9c8\ub2e4 \uc5b4\ub824\uc6b4 \uc120\ud0dd\uc744 \ud574\uc57c \ud569\ub2c8\ub2e4: \uc0c8\ub85c\uc6b4 \ubb34\uae30, \uc5c5\uadf8\ub808\uc774\ub4dc, \ub610\ub294 \ud544\uc694\ud55c \uce58\uc720\ub97c \uc7a1\uc73c\uc2ed\uc2dc\uc624.\n\n\uac8c\uc784\uc758 \uc138\uacc4\ub294 \ud391\ud06c \ub85d \ubc18\ub780\uacfc \uc885\ub9d0 \ud6c4\uc758 \ud63c\ub3c8\uc774 \ud63c\ud569\ub41c \uc57c\uc0dd\uc758 \ub9e4\uc2dc\uc5c5\uc785\ub2c8\ub2e4. \uc5ec\uae30\uc11c \ub9e4 \ub09c\ub3d9\uc740 \uc808\uc81c\ub418\uc9c0 \uc54a\uc740 \ud63c\ub3c8\uc758 \ub3c5\ud2b9\ud55c \ud63c\ud569\uc774\uba70, \uc808\ucc28\uc801\uc73c\ub85c \uc0dd\uc131\ub41c \ub808\ubca8\uc740 \uc5b4\ub5a4 \ub450 \ubc88\uc758 \uc2e4\ud589\ub3c4 \ub3d9\uc77c\ud558\uc9c0 \uc54a\uac8c \ubcf4\uc7a5\ud569\ub2c8\ub2e4. \ubb34\uac70\uc6b4 \ub9ac\ud504\ub4e4\ub85c \uc9c0\ubc30\ub418\ub294 \uc0ac\uc6b4\ub4dc\ud2b8\ub799\uacfc \ud568\uaed8, \uac01 \ub808\ubca8\uc740 \uc704\ud5d8\uacfc \ud765\ubd84\uc758 \ubaa8\uc26c \ud54f\uc785\ub2c8\ub2e4.\n\n\ubb34\uae30\ub97c \uc7a1\uace0 \ubc18\ub780\uc744 \uc2dc\uc791\ud558\uc138\uc694. \ub2f9\uc2e0\uc740 \uc5bc\ub9c8\ub098 \uba40\ub9ac \uac08 \uc218 \uc788\uc744\uae4c\uc694?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/63df5aaf05d207f0973fd8896a756b418ed57f6c9d8a697975c4ab9e9dda533b.jpg",
+    "id": "01008D801D9E6000",
+    "intro": "\ud391\ud06c \uc2a4\ud0c0\uc77c\ub85c \uc885\ub9d0\uc744 \ub9de\uc774\ud558\uc138\uc694!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "ko",
+      "zh"
+    ],
+    "name": "Trash Punk",
+    "nsuId": 70010000075297,
+    "numberOfPlayers": 1,
+    "publisher": "Baltoro Games",
+    "rating": 12,
+    "ratingContent": [
+      "\ud3ed\ub825\uc131"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f2592208808a03c8b2d309472587536ff60cefb89c988240d0e53bcd8d94f731.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ae5b24d17483fa36ef776d05dd38706db8d772297f0deb1bc81d270b608cab62.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7c5e37dbce5caffd6167b16f39860a20b028d921b3a929495c531a1bf8efa6c4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fc1412f2fc2c8bc07fbce0a296dabc5e2d770491f2b01d797152f8049befb337.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1f5873fe4604e609c7c3ea820e8a63b490480ad2e0b691edf4efd668dc9651a3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2e8e344c9f9ccd873569fca7029726c8ae5f5e8db57dc8689b9e61ae687bd6df.jpg"
+    ],
+    "size": 162529280,
+    "version": null
+  },
+  "70050000046201": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8705edb68287a260029141dff2423abb1b9ad9f4e56d9c6f9d2a4acb0b4ad115.jpg",
+    "category": null,
+    "description": "ROCKET BILLY RED CADILLAC\uc774 \ub3cc\uc544\uc654\uc2b5\ub2c8\ub2e4.\n\uc77c\ub809\ud2b8\ub9ad \uae30\ud0c0 BL20000V\ub85c \uc801\ub4e4\uc5d0\uac8c \uc9dc\ub9bf\ud568\uc744 \uc120\uc0ac\ud558\uc138\uc694.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "0100B6F01D239003",
+    "ids": [
+      "0100B6F01D239003"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "ROCKET BILLY RED CADILLAC",
+    "nsuId": 70050000046201,
+    "numberOfPlayers": null,
+    "publisher": "Beep",
+    "rating": 12,
+    "ratingContent": [
+      "\ud3ed\ub825\uc131"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70050000046202": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1e22be11da89f32be58552faa8299525aa8a30e63f625bdb66aa66f993ddbab5.jpg",
+    "category": null,
+    "description": "\uacfc\uac70 \ube0c\ub79c\ub4e0 \ud788\ud2b8\uc640 \uc0dd\uc0ac\uace0\ub77d\uc744 \ud568\uaed8\ud588\ub358 \ub0a8\uc790, \ud574\ub9ac \ub9e5\ub3c4\uc6f0. \uc2ac\ub7fc\uac00\uc5d0\uc11c \uc5b4\ub835\uac8c \uc131\uc7a5\ud558\uc5ec \ube45 \ub300\ub514\uac00 \uc138\uc6b4 \uc870\uc9c1, \ubc00\ub808\ub2c8\uc628\uc5d0 \ubab8\uc744 \ub2f4\ub294\ub2e4. \uc790\uc720\uc640 \ud798\uc744 \ub3d9\uacbd\ud55c \ud574\ub9ac\ub294 \uc77c\uc778\uc790\uac00 \ub418\uae30 \uc704\ud574 \uc218\ub2e8\uacfc \ubc29\ubc95\uc744 \uac00\ub9ac\uc9c0 \uc54a\uace0 \uc8fd\ub9c8\uace0\uc6b0\uc778 \ube0c\ub79c\ub4e0 \ud788\ud2b8(\ube44\uc698\ub4dc \ub354 \uadf8\ub808\uc774\ube0c)\ub9c8\uc800 \uc0b4\ud574\ud55c\ub2e4.\n\ud574\ub9ac \ub9e5\ub3c4\uc6f0\uc740 \uadf8\ub808\uc774\ube0c\uc640 \uc131\uc7a5 \uc5b4\ube4c\ub9ac\ud2f0\ub97c \uacf5\uc720\ud558\uba70, \uc0ac\uaca9 \uc18d\ub3c4\ub294 \ub290\ub9ac\uc9c0\ub9cc \ub354 \uac15\ud55c \ud30c\uad34\ub825\uc744 \uac16\uace0 \uc788\uc2b5\ub2c8\ub2e4. \ub610\ud55c \uae30\ubcf8 \uc0ac\uaca9\ub9cc\uc73c\ub85c\ub3c4 \uc2e4\ub4dc\ub97c \ud30c\uad34\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "0100B6F01D239005",
+    "ids": [
+      "0100B6F01D239005"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "HARRY MACDOWEL",
+    "nsuId": 70050000046202,
+    "numberOfPlayers": null,
+    "publisher": "Beep",
+    "rating": 12,
+    "ratingContent": [
+      "\ud3ed\ub825\uc131"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70070000020351": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37fbf971e404d5626d4502e92fcb7a14f78ea592293c2bfa05a1bb1a4d19cadc.jpg",
+    "category": null,
+    "description": "- ROCKET BILLY REDCADILLAC\n- HARRY MACDOWEL\n- QUARTZ\n- YENSEN THE BOOSTMASTER\n\n4\uba85\uc758 \uc0c8 \uce90\ub9ad\ud130\ub85c \ub808\uc774\ube10 \ud074\ub79c\uc744 \ubaa8\ub450 \ubb34\ucc0c\ub974\uc138\uc694! \ub9c8\uc74c\uc744 \uc0ac\ub85c\uc7a1\ub294 \uac01\uac01\uc758 \uac1c\uc131\uc788\ub294 \uc2a4\ud0c0\uc77c\ub85c \uc804\ud22c\ub97c \uc990\uae38 \uc218 \uc788\uc2b5\ub2c8\ub2e4!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "ids": [],
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "CHARACTER PASS",
+    "nsuId": 70070000020351,
+    "numberOfPlayers": null,
+    "publisher": "Beep",
+    "rating": 12,
+    "ratingContent": [
+      "\ud3ed\ub825\uc131"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 200278016,
+    "version": null
+  },
+  "70070000020352": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f5fe37cbe2c44e52dfa46952609d6c6c94f0677f87a1895a35124fe378333a73.jpg",
+    "category": null,
+    "description": "\uac8c\uc784 \ubcf8\ud3b8 + \uce90\ub9ad\ud130 \ud328\uc2a4\n\n\ub514\ub7ed\uc2a4 \uc5d0\ub514\uc158\uc744 \uad6c\uc785\ud558\uc2dc\uba74 \uac8c\uc784 \ubcf8\ud3b8\uacfc \uce90\ub9ad\ud130 \ud328\uc2a4\ub97c \ud560\uc778\ub41c \uac00\uaca9\uc73c\ub85c \uad6c\ub9e4\ud558\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "DELUXE EDITION",
+    "nsuId": 70070000020352,
+    "numberOfPlayers": null,
+    "publisher": "Beep",
+    "rating": 12,
+    "ratingContent": [
+      "\ud3ed\ub825\uc131"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/aa4713b6ca181510f46ac4828e369d2f2b433d4d115af76b64e3373c9496fa54.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dcc6de7f1e24788de4b13ac3525fa9de20bcb8f4fc8c755a50a6889797cbd372.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e8af5480e4c020b748831573c739068852779a6579dff7f3abefeb688800ee44.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5304258d2fa98655a5d3dd1b91da751ea7293122938561848e6e1b9ad74b39f4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e7fb3ede0e67d56e04f6d85f17fb0d5c75f0358a926800029512b9f8d0a177ca.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/061685fd1f9ca96d6c25921f11277dafe6715e63f6e00fee0b89916b23d2b377.jpg"
+    ],
+    "size": 11331960832,
     "version": null
   },
   "70010000057918": {
@@ -363,6 +692,95 @@
     "size": 619708416,
     "version": null
   },
+  "70010000072368": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5c8938fe882b4c23597600570144bf8b257168c9c686d89948ba5099a5176cf2.jpg",
+    "category": [
+      "\uc288\ud305",
+      "\uc544\ucf00\uc774\ub4dc",
+      "\uc561\uc158"
+    ],
+    "description": "Nephenthesys\ub294 \uc640\uc774\ub4dc\uc2a4\ud06c\ub9b0 \ud1b1\ub2e4\uc6b4 3D \uc2a4\ud0c0\uc77c\ub85c \uc120\ubcf4\uc774\ub294 \uc218\uc9c1 \uc2a4\ud06c\ub864 \uc29b\ub380\uc5c5 \uac8c\uc784\uc785\ub2c8\ub2e4. \ub2e4\uc591\ud55c \uc801 \uc6b0\uc8fc\uc120\uc744 \ub6ab\uace0 \ub0a0\uc544\uac00\uace0, \ud30c\uc6cc\uc5c5\uc744 \ubaa8\uc544 \ub113\uc740 \uacf5\uaca9\uacfc \ud2b9\uc218 \ud3ed\ud0c4\uc744 \uc0ac\uc6a9\ud558\uace0, \ud654\uba74\uc744 \uac00\ub4dd \uba54\uc6b0\ub294 \ubcf4\uc2a4\ub97c \uc0c1\ub300\ud558\uc138\uc694. \ubbf8\uc158\uc744 \uc9c4\ud589\ud558\ub2e4 \ubcf4\uba74 \ub3d9\uad74, \uc218\ub85c, \ub3c4\uc2dc \ub4f1\uc744 \ud0d0\ud5d8\ud558\uac8c \ub429\ub2c8\ub2e4. \uacfc\uc5f0 \ub2f9\uc2e0\uc740 \uc801\uc758 \uacf5\uaca9\uc744 \uc774\uaca8\ub0b4\uace0 \uc0b4\uc544\ub0a8\uc744 \uc218 \uc788\uc744\uae4c\uc694?\n\n\ud2b9\uc9d5:\n\n\u2022 \uc544\ucf00\uc774\ub4dc \uc7a5\ub974\uc5d0\uc11c \uc601\uac10\uc744 \ubc1b\uc740 \ubcf5\uace0\ud48d \uc29b\ub380\uc5c5 \uc561\uc158\uc744 \uacbd\ud5d8\ud558\uc138\uc694.\n\u2022 \uace0\uc720\uc758 \ub2a5\ub825\uce58\uc640 \uacf5\uaca9 \uc720\ud615\uc73c\ub85c \ubb34\uc7a5\ud55c \ub2e4\uc591\ud55c \uc6b0\uc8fc\uc120 \uc911\uc5d0\uc11c \uace0\ub974\uc138\uc694.\n\u2022 \uc801 \ubb34\ub9ac\ub97c \uc0c1\ub300\ud558\uace0 \ud30c\uc6cc\uc5c5\uc744 \ubaa8\uc73c\uc138\uc694!\n\u2022 \ub3d9\uad74, \uc218\ub85c, \ub3c4\uc2dc, \uae30\ud0c0 \uac1c\uc131 \ub118\uce58\ub294 \ud658\uacbd\uc744 \ud0d0\ud5d8\ud558\uc138\uc694.\n\u2022 \uac01 \uc2a4\ud14c\uc774\uc9c0 \ub9c8\uc9c0\ub9c9\uc5d0 \ud654\uba74\uc744 \uac00\ub4dd \uba54\uc6b0\ub294 \ubcf4\uc2a4\ub97c \ubb3c\ub9ac\uce58\uc138\uc694.\n\u2022 \ubb34\uc804 \ub300\ud654\ub97c \ud1b5\ud574 \uc9c4\ud589\ub418\ub294 \uac00\ubcbc\uc6b4 \uc2a4\ud1a0\ub9ac\ub97c \uc990\uae30\uc138\uc694!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f935cee840b3962529c529b87a6d965d8b993c1358bbfa72f67e82d4fb24cdd.jpg",
+    "id": "0100C3501CF2C000",
+    "intro": "\uc704\ud5d8\ucc9c\ub9cc\ud55c \ubbf8\uc158\uc744 \ub5a0\ub098 \uc678\uacc4\uc778 \ub9f9\uacf5\uaca9 \uc18d\uc5d0\uc11c \uc815\uccb4\ubd88\uba85\uc758 \uc5d0\ub108\uc9c0\uc6d0\uc744 \ucc3e\uc544\ub0b4\uc138\uc694!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "Nephenthesys",
+    "nsuId": 70010000072368,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 0,
+    "ratingContent": [
+      "\ud3ed\ub825\uc131"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/6989366f31e4b901fbb24b55201a0ae1a4331ecf55882401306a9e8e645ef11e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/38e761307c9f6a415bb37b76cbeeb79791ab82902ad5301c311b02b59a620064.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3ea3ad4c2dd89a957a307b52b25874619d0b739c2ac7361c37802838fa8d349d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dcde9be7e1f822b39c3f09094cf348d29050d6abea5a26cdac12e2cfee3ec2df.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aad7bbf62f8afa8d191f0c8e3925a8930e3ced9b1e197f242bffaa9c9e2fad7e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
+    ],
+    "size": 118489088,
+    "version": null
+  },
+  "70010000075460": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dc2b66e1231cd8beb6b92b0a93c4e1188f37ec06c5ba78d3f8c8fb6af01db173.jpg",
+    "category": [
+      "\uc5b4\ub4dc\ubca4\ucc98",
+      "\uc561\uc158",
+      "RPG",
+      "\uc804\ub7b5"
+    ],
+    "description": "\uac01 \uc804\ud22c\uc5d0\uc11c \ucd5c\ub300 4\uba85\uc758 \ub3d9\ub8cc\uc640 1\uba85\uc758 \uc218\ud638\ub839\uc744 \ub3d9\ubc18\ud560 \uc218 \uc788\uc5b4, \uac8c\uc784\uc5d0\uc11c 5\ubc30\uc758 \ucf8c\uc801\ud55c '\uc794\ub514\uae4e\uae30' \uc7ac\ubbf8\ub97c \uacbd\ud5d8\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4! \ub610\ud55c, \ub2e4\uc591\ud55c \uce90\ub9ad\ud130\ub97c \uc5f0\uae30\ud558\uba70 \uc218\ub9ce\uc740 \uc9c1\uc5c5 \uae30\uc220\uc744 \uccb4\ud5d8\ud558\uace0, \uc790\uc2e0\ub9cc\uc758 \ub3c5\ud2b9\ud55c \ub3d9\ub8cc \ud300\uc744 \uad6c\uc131\ud574 \uad34\ubb3c \ubb34\ub9ac\uc758 \ud3ec\uc704\ub97c \ub6ab\uace0 \uc0b4\uc544\ub0a8\uc73c\uc138\uc694. \uc6b4\uba85 \ud0d0\ud5d8\uc744 \ud1b5\ud574 \uac15\ub825\ud55c \ubcf4\uc2a4\ub97c \uc774\uae30\uace0 \ub2e4\uc591\ud55c \ubb34\uc791\uc704 \uc218\ud638\ub839\uacfc \ud568\uaed8 \uc804\ud22c\ub97c \ubc8c\uc5ec, \ucd5c\uc885\uc801\uc73c\ub85c \ub300\ub9c8\uc655\uc744 \ubb3c\ub9ac\uce58\uc138\uc694!\n\u203b\uac8c\uc784 \uc2dc\uc2a4\ud15c\n\u3010\ub2e4\uc591\ud55c \uc9c1\uc5c5\u3011 \uac8c\uc784 \ub0b4\uc5d0\ub294 12\uac00\uc9c0 \ub2e4\uc591\ud55c \uc2a4\ud0c0\uc77c\uacfc \uc18d\uc131\uc758 \uc9c1\uc5c5\uc774 \uc788\uc5b4 \uc120\ud0dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\u3010\uc9c4\ud654 \uac00\ub2a5\ud55c \uc2e0\uae30\u3011 8\uac00\uc9c0 \ud2b9\uc0c9 \uc788\ub294 \uae30\uc220 \uacc4\uc5f4 \uc694\uc18c(\ubc88\uac1c, \ubc14\ub78c, \uc5bc\uc74c, \ubd88, \ud759, \ub3c5, \uc131, \uc5b4\ub460)\ub97c \uacbd\ud5d8\ud558\uace0, \uc790\uc720\ub86d\uac8c \ub2e4\uc591\ud55c \uacf5\uaca9 \uae30\uc220\uc744 \uc870\ud569\ud558\uace0 \uc5c5\uadf8\ub808\uc774\ub4dc\ud558\uc5ec \uc2e0\uae30\ub85c \ub9cc\ub4e4\uc5b4 \uc804\ud22c\ub825\uc744 \ub450 \ubc30\ub85c \ub192\uc774\uc138\uc694.\n\u3010\uc18c\ud658 \uac00\ub2a5\ud55c \uc218\ud638\ub839\u3011 \uac8c\uc784 \ub0b4\uc5d0\ub294 \ub2e4\uc591\ud55c \uc2a4\ud0c0\uc77c\uacfc \uae30\uc220 \ud6a8\uacfc\uac00 \ub2e4\ub978 '\uc218\ud638\ub839'\uc774 \uc788\uc5b4, \ud568\uaed8 \uc2f8\uc6b0\uba70 \uc131\uc7a5\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\u3010\ud48d\ubd80\ud55c \uc6b4\uba85 \uc774\uc57c\uae30\u3011 \uac8c\uc784 \ub0b4 \uc228\uaca8\uc9c4 \ub2e4\uc591\ud55c \uc608\uc0c1\uce58 \ubabb\ud55c \uc774\ubca4\ud2b8\uc640 \uc774\uc57c\uae30\ub97c \uacbd\ud5d8\ud558\uc138\uc694. \uc608\ub97c \ub4e4\uc5b4, \uc5ec\uad00\uc5d0\uc11c \ub2e4\uc591\ud55c \uc9c1\uc5c5\uc758 \ub3d9\ub8cc\ub97c \ubaa8\uc9d1\ud574 \ud798\uc744 \ud0a4\uc6b0\uac70\ub098, \uad50\ud65c\ud55c \uac15\ub3c4\ub97c \ub9cc\ub0ac\uc744 \ub54c \ub3c8\uc744 \uc904 \uac83\uc778\uc9c0, \uc544\ub2c8\uba74 \uc2f8\uc6b8 \uac83\uc778\uc9c0 \uacb0\uc815\ud574\uc57c \ud569\ub2c8\ub2e4. \uac8c\uc784 \ub0b4 \uc6b4\uba85\uc758 \uc784\uc758\uc801\uc778 \ud50c\ub808\uc774\ub85c \uc608\uc0c1\uce58 \ubabb\ud55c \ud2b9\ubcc4\ud55c \ub180\ub77c\uc6c0\uc774 \uc228\uaca8\uc838 \uc788\uc2b5\ub2c8\ub2e4. \ubaa8\ub4e0 \uc120\ud0dd\uc740 \uc0c8\ub85c\uc6b4 \uacbd\ud5d8\uc774\uba70, \uac01 \uc120\ud0dd\uc740 \ub2e4\ub978 \uacb0\ub9d0\uc744 \uc758\ubbf8\ud569\ub2c8\ub2e4. \uac01 \uc120\ud0dd\uc740 \uc6b4\uba85\uc758 \uc911\ub300\ud55c \uacb0\uc815\uc744 \ub290\ub07c\uac8c \ud560 \uac83\uc785\ub2c8\ub2e4!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0cf61f847f8b1d788f391edad587dbc03ffde4ebb59da82221e8ddf6250ee27f.jpg",
+    "id": "010082501DAF2000",
+    "intro": "\uc911\ub2e8\ud560 \uc218 \uc5c6\uc744 \ub9cc\ud07c \uc9dc\ub9bf\ud55c \ub85c\uadf8\ub77c\uc774\ud06c \uac8c\uc784! \ub354 \ub9ce\uc740 \uc9c1\uc5c5\uc744 \uc7a0\uae08 \ud574\uc81c\ud558\uace0, \ub354 \ub9ce\uc740 \ub3d9\ub8cc\ub97c \ubaa8\uc9d1\ud558\uba70, \ub354 \ub9ce\uc740 \uae30\uc0c1\ucc9c\uc678\ud55c \ubaa8\ud5d8\uc744 \uacbd\ud5d8\ud558\uc138\uc694! \uad34\ubb3c\ub4e4\uc758 \ub048\uc9c8\uae34 \ud3ec\uc704\ub97c \ub3cc\ud30c\ud558\uace0\uff01",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "de",
+      "it",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "\uc6b4\uba85\uc758 \uc601\uc6c5",
+    "nsuId": 70010000075460,
+    "numberOfPlayers": 1,
+    "publisher": "Happy Player",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/ddf65ae0ec426ee1655f656011d917d01e5418e0203de5e121da8a255097fcca.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/58911e55f0e139f51d66fcc2195ce895f7a18acef0923caac322e7c4e9f2c131.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/82570d41f0f1ff58b8cdfde2ff753d536e11dff4c70abb90b4fe8e10459f3ac4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9e3f2245977dc795094b42bd26d8a72b1112dc38af100b8d0b6218339ae0f58f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aba9c6ec0a9a03e6e1293f51e9ab863b4d9b53e7b1351b29ffd24be054a0d48c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/337cc4bcb89bee0966833c0fdeef2914d51210236847062e44fd37de051fa8df.jpg"
+    ],
+    "size": 1610612736,
+    "version": null
+  },
   "70050000043803": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/259c546b021802d3af31c6267998aa960c3524ab46e9d48dcd8229af1a1f0f89.jpg",
     "category": null,
@@ -411,6 +829,36 @@
     "rightsId": null,
     "screenshots": null,
     "size": 0,
+    "version": null
+  },
+  "70050000046204": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/60ab002ada67de77de88e7c1f89d491ad795796090cc18ebdda74ca6eecb159f.jpg",
+    "category": null,
+    "description": "\ud32c\ub4e4\uc758 \uc5f4\ub9dd\uc5d0 \uc758\ud574 \ucc38\uc804!!! \uc774\uc81c \ubaa8\ub4e0 \uc2a4\ud14c\uc774\uc9c0\uc5d0\uc11c QUARTZ\ub97c \uc990\uaca8\ubcf4\uc138\uc694.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "0100B6F01D239007",
+    "ids": [
+      "0100B6F01D239007"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "QUARTZ",
+    "nsuId": 70050000046204,
+    "numberOfPlayers": null,
+    "publisher": "Beep",
+    "rating": 12,
+    "ratingContent": [
+      "\ud3ed\ub825\uc131"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 65011712,
     "version": null
   },
   "70070000018886": {
@@ -581,6 +1029,56 @@
     "size": 13863223296,
     "version": null
   },
+  "70010000070804": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c6fefbff6283954cd9d721888b0df654f33abfcb5f00fde1bbad764d55aa5987.jpg",
+    "category": [
+      "\uc561\uc158",
+      "\uc5b4\ub4dc\ubca4\ucc98",
+      "\ud37c\uc990",
+      "\uae30\ud0c0"
+    ],
+    "description": "\uc774\uae00 \uc911\ud559\uad50\uc5d0 \uc624\uc2e0 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4! \n\uce5c\uad6c\ub97c \uc0ac\uadc0\uace0 \uc5ec\ub984\uc744 \ubcf4\ub0b4\uae30\uc5d0 \uc774\uc0c1\uc801\uc778 \uc7a5\uc18c\ub77c\uace0 \uc57d\uc18d\ud55c \uc885\uad50 \uc5ec\ub984 \ucea0\ud504\uc5d0 \ucc38\uac00\uc790\ub85c \uc120\uc815\ub418\uc5c8\uc2b5\ub2c8\ub2e4. \ud558\uc9c0\ub9cc \ub3c4\ucc29\ud558\uc790\ub9c8\uc790 \ubaa8\ub4e0 \uac83\uc774 \uc0ac\uae30\ub77c\ub294 \uac83\uc744 \uae68\ub2eb\uace0 \uc0ac\uc545\ud55c \uc218\ub140\uac00 \uc9c0\ud0a4\ub294 \ub0a1\uc740 \ud559\uad50\uc5d0 \uac07\ud788\uac8c \ub429\ub2c8\ub2e4.\n\n\ud2b9\uc9d5:\n\u2020 \ud574\uba38 \ud0c0\uc784 - \ub9e4\ub4e4\ub9b0 \uc218\ub140\uc640 \uadf8\ub140\uc758 \uac70\ub300\ud55c \ub9dd\uce58\ub97c \ud53c\ud558\uc138\uc694\n\u2020 \ub9e4\ub4e4\ub9b0\uc774 \uc190\uc774 \ub2ff\uae30 \uc5b4\ub824\uc6b4 \uacf3\uc73c\ub85c \ub530\ub77c\uc624\ub354\ub77c\ub3c4 \ub180\ub77c\uc9c0 \ub9c8\uc138\uc694\n\u2020 \uac00\ub2a5\uc131\uc758 \ubbf8\ub85c - \uad6c\uc2dd \ud559\uad50\ub97c \ud0d0\ud5d8\ud558\uace0 \ub9ce\uc740 \uc0c8\ub85c\uc6b4 \ubd84\uae30 \uacbd\ub85c\ub97c \uc7a0\uae08 \ud574\uc81c\ud558\uc2ed\uc2dc\uc624\n\u2020 \uc0dd\uac01\uacfc \uae30\ub3c4 - \uba38\ub9ac\ub97c \uc368\uc11c \ud37c\uc990\uc744 \ud480\uace0 \ub354 \ubc1c\uc804\ud558\uc138\uc694\n\u2020 \uc804\ud22c \ub610\ub294 \ub3c4\uc8fc - \uc740\ubc00\ud558\uac8c \ud50c\ub808\uc774\ud558\uac70\ub098 \ubd80\ube44\ud2b8\ub7a9\uc744 \uc124\uce58\ud558\uc5ec \uc218\ub140\ub97c \uc720\uc778\ud569\ub2c8\ub2e4\n\n\uc5ec\ub7ec\ubd84\uc740 \uce5c\uad6c\ub97c \uc0ac\uadc0\uace0 \uc5ec\ub984\uc744 \ubcf4\ub0b4\uae30\uc5d0 \uc774\uc0c1\uc801\uc778 \uc7a5\uc18c\uac00 \ub420 \uc885\uad50 \uc5ec\ub984 \ucea0\ud504\uc5d0 \ucc38\uac00\ud558\ub3c4\ub85d \uc120\ud0dd\ub418\uc5c8\uc2b5\ub2c8\ub2e4. \uc774\uacf3\uc5d0 \ub3c4\ucc29\ud558\uc790\ub9c8\uc790 \uc0ac\uae30\ub77c\ub294 \uac83\uc744 \uc54c\uac8c \ub429\ub2c8\ub2e4. \uac70\ub300\ud55c \ub9dd\uce58\ub85c \uc544\uc774\ub4e4\uc744 \ubc8c\uc8fc\ub294 \uc0ac\uc545\ud55c \uc218\ub140 \ub9e4\ub4e4\ub9b0 \uc218\ub140\uac00 \uc9c0\ud0a4\ub294 \ub0a1\uc740 \ud559\uad50\uc5d0 \uac07\ud788\uac8c \ub429\ub2c8\ub2e4.\n\uc5b4\ub5a4 \ub300\uac00\ub97c \uce58\ub974\ub354\ub77c\ub3c4 \ud559\uad50\uc5d0\uc11c \ud0c8\ucd9c\ud574\uc57c \ud558\uc9c0\ub9cc, \uadf8 \uacfc\uc815\uc5d0\uc11c \uac07\ud78c \uc544\uc774\ub294 \uc790\uc2e0\ubfd0\uc774 \uc544\ub2c8\ub77c\ub294 \uc0ac\uc2e4\uc744 \uc54c\uac8c \ub420 \uac83\uc785\ub2c8\ub2e4. \ub9e4\ub4e4\ub9b0 \uc218\ub140\uac00 \uc190\uc774 \ub2ff\uae30 \uc5b4\ub824\uc6b4 \uacf3\uae4c\uc9c0 \ub530\ub77c\uc624\ub354\ub77c\ub3c4 \ub180\ub77c\uc9c0 \ub9c8\uc138\uc694. \n\uc8fc\uc694 \ubaa9\ud45c\ub294 \ubaa8\ub4e0 \ub9c8\uc2a4\ud06c \uc870\uac01\uc744 \ubaa8\uc544 \ud568\uaed8 \uc870\ub9bd\ud558\ub294 \uac83\uc785\ub2c8\ub2e4. \ud558\uc9c0\ub9cc \uc784\ubb34\ub97c \uc644\uc218\ud558\ub824\uba74 \uc774 \ub054\ucc0d\ud55c \ud559\uad50 \uc8fc\ubcc0\uc758 \ub9ce\uc740 \ud37c\uc990\uacfc \ubbf8\uc2a4\ud130\ub9ac\ub97c \ud480\uc5b4\uc57c \ud569\ub2c8\ub2e4. \n\uc0ac\uc545\ud55c \uc218\ub140\uc758 \uc9c4\uc9dc \uc774\uc57c\uae30\ub294 \ubb34\uc5c7\uc778\uac00\uc694?\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3b58461e935cfd75b2504257e3f30e7e84845c2548bd7b234eaf0a618087b1ba.jpg",
+    "id": "010015501C74E000",
+    "intro": "\uc774 \uc2a4\ud154\uc2a4 \ud638\ub7ec \uc5b4\ub4dc\ubca4\ucc98\uc5d0\uc11c \ube44\ubc00\ub85c \uac00\ub4dd\ud55c \ud559\uad50\uc5d0\uc11c \ud37c\uc990\uc744 \ud480\uace0 \uc0c8\ub85c\uc6b4 \uae38\uc744 \uc5f4\uc5b4 \ub9e4\ub4e4\ub9b0 \uc218\ub140\uc758 \uc885\uad50\uc801\uc778 \uc5ec\ub984 \ucea0\ud504\ub97c \ud0c8\ucd9c\ud558\uc138\uc694. \uc7a1\ud788\uc9c0 \ub9c8\uc138\uc694.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "ko",
+      "zh"
+    ],
+    "name": "Evil Nun: The Broken Mask",
+    "nsuId": 70010000070804,
+    "numberOfPlayers": 1,
+    "publisher": "Feardemic",
+    "rating": 15,
+    "ratingContent": [
+      "\uacf5\ud3ec"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/fa18c81a7f3bc777d3ec7bb22932938d4a6bf7bd0ec829cb0a4661d0837767b7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3182d87700b129ab6e396e5644b01afd6954f8d3052ebd1918c5e9c6657f8d8d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d8c634057d658f38eea5effeb3f46b57f09eea4b7acd36b4e93b3fb529eda1b5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/47a1867cce3c27382c9d7c6b05f2872f482f4f756407baafbd1b3bff6db8c59c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/33143de410f489c631098f8b6c1d373fe8003ff2cee608c9e1f43cc37b64389c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/099afd651e7c9c061c6723a3fc6e0165c0e969df6d42c9f2da3da59052908427.jpg"
+    ],
+    "size": 1820327936,
+    "version": null
+  },
   "70050000045400": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5049235e60320397e63b24192d9cec62cfad875a042978cfff3b866f76194022.jpg",
     "category": null,
@@ -643,6 +1141,36 @@
     "size": 3145728,
     "version": null
   },
+  "70050000046203": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/53906b014f5a48d540d6bc613968b3da3857711fe932c14b2010a56008f27034.jpg",
+    "category": null,
+    "description": "YENSEN THE BOOSTMASTER\uac00 \ub418\uc5b4 \uc0ac\uc774\ubc84 \ub2cc\uc790\uc758 \uac15\ub825\ud568\uc744 \uacbd\ud5d8\ud558\uc138\uc694! \n\uc0ac\uc774\ubc84 \ube14\ub808\uc774\ub4dc\uc640 \uc218\ub9ac\uac80\uc744 \uc774\uc6a9\ud55c \uc0c8\ub85c\uc6b4 \uac10\uac01\uc758 \ud50c\ub808\uc774\ub97c \ub290\uaef4\ubcf4\uc138\uc694!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "0100B6F01D239006",
+    "ids": [
+      "0100B6F01D239006"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "YENSEN THE BOOSTMASTER",
+    "nsuId": 70050000046203,
+    "numberOfPlayers": null,
+    "publisher": "Beep",
+    "rating": 12,
+    "ratingContent": [
+      "\ud3ed\ub825\uc131"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 128974848,
+    "version": null
+  },
   "70070000019902": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/49c8c9570e880ef5a7c51f29df7f90855f044a80b4ea3349baf68c10b3bc163c.jpg",
     "category": null,
@@ -702,6 +1230,53 @@
     "rightsId": null,
     "screenshots": null,
     "size": 0,
+    "version": null
+  },
+  "70010000057048": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7604424c5b335f9ab2d8e34a97aa9226f9757f99546ad5cfed31375e34bcc0cb.jpg",
+    "category": [
+      "\uc5b4\ub4dc\ubca4\ucc98",
+      "\uc561\uc158",
+      "\ud37c\uc990",
+      "\uc544\ucf00\uc774\ub4dc"
+    ],
+    "description": "The Enigma Machine\uc740 \uc61b\ub0a0 \uadf8\ub9ac\uc6b4 \uac8c\uc784\uc758 \uc608\uce21 \ubd88\uac00\ub2a5\ud55c \ub09c\ud574\ud568\uacfc \ubd88\uc548\uac10\uc744 \uc790\uc544\ub0b4\ub294 \uc5f0\ucd9c\uc744 \uccb4\ud5d8\ud560 \uc218 \uc788\ub294 1\uc778\uce6d \uc2dc\uc810\uc758 SF \ud638\ub7ec \uc5b4\ub4dc\ubca4\ucc98 \uac8c\uc784\uc785\ub2c8\ub2e4. \uad6c\uc138\ub300 \ucee4\ub9e8\ub4dc \ub77c\uc778 \uc778\ud130\ud398\uc774\uc2a4 \ud654\uba74\uacfc 90\ub144\ub300 \uc911\ubc18\uc758 3D \uadf8\ub798\ud53d\uacfc VHS\ud48d\uc758 \uc774\ud399\ud2b8\ub97c \uc735\ud569\ud55c 1\uc778\uce6d \uc2dc\uc810 \ud654\uba74\uc73c\ub85c \uae30\uad34\ud558\uace0 \uae30\uc5b5\uc5d0 \ub0a8\ub294 \uac8c\uc784 \uccb4\ud5d8\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4.\n\uc774\uc0c1\ud558\uac8c \uc0dd\uac01\ud574 \ubcf8 \uc801\uc740 \uc5c6\uc2b5\ub2c8\uae4c\u2026 AI\uc758 \ub9c8\uc74c\uc18d\uc740 \uc5b4\ub5bb\uac8c \ub418\uc5b4 \uc788\ub294\uac00?\n\uadf8 \ud574\ub2f5\uc744 \ubcf4\uc5ec\uc8fc\uae30 \uc704\ud574 \uc5d0\ub2c8\uadf8\ub9c8\u00ae\uc0ac\ub294 \ub2f9\uc2e0\uc744 Dreamscape\ub85c \ucd08\ub300\ud569\ub2c8\ub2e4.\nDreamscape\ub97c \uc0ac\uc6a9\ud558\uba74 \ud0d0\uc0ac \uac00\ub2a5\ud55c \uc778\ud130\ub799\ud2f0\ube0c 3D \uacf5\uac04\uc744 \ud1b5\ud574 AI\uc758 \ub9c8\uc74c\uc744 \ub290\ub084 \uc218 \uc788\uc2b5\ub2c8\ub2e4. Dreamscape\ub97c \ud1b5\ud574 AI\uc758 \uc0c8\ub85c\uc6b4 \uc808\uce5c\uc744 \ub9cc\ub098\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/37b1c2f66f03919e671c8e69e748cd1a84f1d9944bec114da1eb0cd776be0813.jpg",
+    "id": "0100AA6019172000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ko",
+      "zh"
+    ],
+    "name": "The Enigma Machine",
+    "nsuId": 70010000057048,
+    "numberOfPlayers": 1,
+    "publisher": "COSEN",
+    "rating": 0,
+    "ratingContent": [
+      "\uacf5\ud3ec"
+    ],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d9dad3bc06c78c53c0005a424c34e6c8ae9cb8137fa419a11bc9c7fcb944854e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f1b9fdf1c0887b0025aeed69e8b549b29dece2196a42930cdb9670d4f848ac60.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1c1349341ecc2f015a7e0e3a0773ac33e69f85a3a66bad4bfb43f9b290a8e909.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/77123ade8a4a24f935baaf33361fccb9262d7d8edd7fd3679c9e35abdad049de.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9f7409beee1e2bd2b64405d9b3667f39314373ec591b07927909452ff573eb10.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7c8bfaa008fcb1e19b09f1f625b9855347a0f192fc9a242d1e3b4a4822ca118c.jpg"
+    ],
+    "size": 364904448,
     "version": null
   },
   "70010000062525": {
