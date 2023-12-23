@@ -126,6 +126,69 @@
     "size": 401604608,
     "version": null
   },
+  "70050000042193": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0d2ea4f5e01ad1042436b893386d618afdf8953e1d87b4a9d4f57c2dfcd3ea54.jpg",
+    "category": null,
+    "description": "Learn, play, and sing along.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Another well-known and beloved songs in the latest DLC.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Song Pack 3",
+    "nsuId": 70050000042193,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20231224,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/7697f6906f8b0664e1fb0bc1d4b7277a17e2c849d47030c892df9a9a241a471e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9cbf1510192f7ee8b97a83d40502852fec52340dc9ed0795f173ce40de69640c.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70070000019877": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f89edead42c7c12f001c23763f9c0e884a7141f6d8097604eff068cbbed73cbd.jpg",
+    "category": null,
+    "description": "Become a modern Mozart with Piano: Learn and Play, the best piano learning app for Nintendo Switch\u2122.\n\nWell-known and beloved melodies\n\nNursery rhymes or other popular songs make time more enjoyable for children around the world. Sing and play with family, friends or at school.\n\nA marvel of modernity\n\nA small, handy musical instrument that you can take anywhere you want. Relax and immerse yourself in the sounds.\n\nA magical experience\n\nMusic develops memory, motor skills and improves concentration. With its total power, you will awaken your child's creativity and sensitivity to beauty.\n\nThis bundle includes the third Song Pack.\n\nKey Features:\n- 8 familiar, simple songs\n- free play mode\n- learning mode\n- mini arcade piano game\n- different tempo",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Wow everyone. Become a pianist in just a few moments.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Piano: Learn and Play Amazing Edition",
+    "nsuId": 70070000019877,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20231224,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d2277da5c9e41b268d391b0e1fa9436ed67c8cc4137c6e20024b042aa6b079bd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7b4dfed0b80a1f3f16f4200b7d8abe0d19832f6b12eff9be53f4af206cbfd1d8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0450c0ead68e5425cae31de74554fd57477f6c2ebbb73f1814c27ea9dbc4e6d9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/70532ee0a00a77096c711ec60e3f3c93ef0e15b288c73b68469797175d30d41b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/022019f0e65cfbf5c105522bd569effc279fdc455ebaf1187f7dc7489aef65a9.jpg"
+    ],
+    "size": 266338304,
+    "version": null
+  },
   "70070000019962": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f4006b97202627945dd186ac041069a935db7fb74e50d04909c97da39d79b9a1.jpg",
     "category": null,
