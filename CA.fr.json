@@ -1,277 +1,4 @@
 {
-  "70010000074703": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d2fb2c7a9d8c9fbdef8f692a9d1d4976d284a13fb3590fe47f2f1543dece4137.jpg",
-    "category": [
-      "Autre"
-    ],
-    "description": "Un jeu de ferme extr\u00eamement addictif et amusant.\n\nVotre objectif est de gagner de l'argent en vendant du lait. Pour ce faire, vous pouvez acheter plus de vaches, apporter des am\u00e9liorations g\u00e9n\u00e9tiques et les nourrir.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/931cfe2dbea50e277f6b339e6f425591a06eb685fdf5ec25ab7425b728e9bd53.jpg",
-    "id": "0100A9601D776000",
-    "intro": "Tr\u00e8s amusant.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "name": "Milk Seller",
-    "nsuId": 70010000074703,
-    "numberOfPlayers": 1,
-    "publisher": "GAME NACIONAL",
-    "rating": 6,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20231223,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/f087396685ddc24b3dbbee7b0579ddc2ef2e5d4853b97ec21c1d1a2ec3a10831.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/932a7691a80b8c1fc2546e2da2351d002d3791f4e071fd207affe493d39b358a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e976eaf761dd6093213560defd93bf4b7ad55e224603a016cdeb43632027a512.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3821372d7871a76d0087e486ab2b8218762f27ee46e017aa8f20e107446d5594.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/70472267f2e8271d2a15d5bddd228b2646c7d908f1866b769c1bb319e42b7b73.jpg"
-    ],
-    "size": 60817408,
-    "version": null
-  },
-  "70070000019578": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d021dac3f954c07eaa0aa88e7bca730134a6d65a62ce582aaa4cd4d419b7a17c.jpg",
-    "category": null,
-    "description": "   Vivez une course pleine d'adr\u00e9naline comme jamais auparavant ! Ce pack exclusif augmente non seulement l'excitation gr\u00e2ce \u00e0 une action intense, mais maximise \u00e9galement vos gains. Explorez une pl\u00e9thore d'opportunit\u00e9s avec une s\u00e9lection diversifi\u00e9e de voitures, des choix de r\u00e9glages \u00e9tendus et une physique r\u00e9aliste. Am\u00e9liorez vos prouesses en mati\u00e8re de drift, accumulez une monnaie de jeu substantielle et \u00e9tablissez votre domination en tant que l\u00e9gende de la rue. D\u00e9sormais, vous pouvez lib\u00e9rer tout le potentiel avec le pack DLC, en collectant des ressources et en ouvrant de nouvelles voies pour un voyage de jeu authentiquement immersif.\n     Procurez-vous d\u00e8s maintenant ce pack r\u00e9volutionnaire pour vivre l'exp\u00e9rience ultime de Midnight Drifter \u2013 ne laissez pas passer cette aventure am\u00e9lior\u00e9e !\n",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Plongez dans l'exp\u00e9rience ultime de drift avec Midnight Drifter - Bundle !",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Midnight Drifter-Drift Racing Car Racing Driving Simulator - PREMIUM EDITION",
-    "nsuId": 70070000019578,
-    "numberOfPlayers": null,
-    "publisher": "Erlano",
-    "rating": 13,
-    "ratingContent": [
-      "Langage"
-    ],
-    "region": null,
-    "releaseDate": 20231223,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/7e9dc0e9c724e039d4af34448e25b3513c34900927b34c38b05d5a24e27b3fa2.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/578b1b1ba857f53f0292937f62f07cee9c584ee643e552d3bbbd373f46a4f5f3.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/0b98837bf658fcd91953776d819198d08a2832a3b23f8595ab951d552686db84.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a997172c73ff96ca088e8a1c61502b5f44e693d1d796e5e0844f1879ac4fb9c8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/061e9b3de8777f45419d7fcba74f6e4b49e85c7d03f9c514506e325c9bb1155b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aaf8a8c00159f31c0992ac7bc8458b380bf86c159cfe5bf952587ee438550f5c.jpg"
-    ],
-    "size": 1379926016,
-    "version": null
-  },
-  "70070000019791": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/761f05c4a9709a7ce25e52b9ab0916063c64dcdf32bcf7eb62856f13ea7e922a.jpg",
-    "category": null,
-    "description": "P\u00eachez dans la mer, nagez, attrapez des esp\u00e8ces comme des poissons rouges, des \u00e9toiles de mer, des poissons ko\u00ef et ajoutez-les \u00e0 votre aquarium pour agrandir votre magasin d'aquariums ! \n\nConduisez un bateau \u00e0 moteur, un jet ski ou sautez simplement dans l'eau et plongez avec un ami en mode multijoueur ! \n\nCaract\u00e9ristiques :\n- votre propre chien qui vous suit partout ! \n- Un bonus actif qui augmente le montant de l'argent r\u00e9colt\u00e9 aupr\u00e8s des poissons.\n- Des poissons secrets que vous pouvez nourrir pour gagner des points de coupe de beaut\u00e9.\n- Nouvelle d\u00e9coration pour le bocal \u00e0 poissons.\n- 100 pierres pr\u00e9cieuses\n- de nombreux mondes aquatiques diff\u00e9rents\n- Plus de 100 esp\u00e8ces \u00e0 attraper\n- mode multijoueur jusqu'\u00e0 2 joueurs\n- 20 skins amusants \u00e0 choisir\n- Am\u00e9lioration des personnages, des clients et des employ\u00e9s \n- pilotage de bateaux \u00e0 moteur et de jet-skis\n- diff\u00e9rents styles de plong\u00e9e avec des animations cool\n- D\u00e9corations d'aquarium\n- exp\u00e9ditions en bateau\n\nD\u00e9couvrez des endroits \u00e9tonnants remplis d'une grande vari\u00e9t\u00e9 d'animaux magnifiques. D\u00e9couvrez des cr\u00e9atures gigantesques et l\u00e9gendaires pour attirer plus de visiteurs. Il y a un client pour chaque animal marin, qu'il soit grand ou petit, tout ce que vous avez \u00e0 faire c'est de p\u00eacher avec attitude !\n\nInvestissez dans votre magasin d'aquarium et explorez le monde marin comme un v\u00e9ritable magnat de la p\u00eache ! Plus vous gagnez d'argent, plus vous pouvez obtenir d'am\u00e9liorations et d'aquariums !",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Plongez dans un monde aquatique o\u00f9 des animaux \u00e9tonnants vous attendent !",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Aquarium Land: Puppy Edition",
-    "nsuId": 70070000019791,
-    "numberOfPlayers": null,
-    "publisher": "QubicGames",
-    "rating": 6,
-    "ratingContent": [
-      "Achats Intra-jeu"
-    ],
-    "region": null,
-    "releaseDate": 20231223,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/b8dd38e2d58655702fa9491502bf4711c1d94e0fc13d151620ed5f0427fc897e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5c922406d3a7f1b7e2dee774c1acbd02e0760319dd45c1d16f6d5384596511c2.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/760969ec6a925542c12eb5fd023afb48fe1be6264a7cd0ef1509b27b9d3cf1cd.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3243e4e0bfb5f3298e5e74b1ee6565989ebb5e3c47f11886940d8257b3d0f928.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3e0a588e190c166a783d15b7ade45a5c267d2e2763f441e2bd917283bb9afd99.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ad9cb66d6f0893745fa7bc9f44a837dd5436f329d6fc2e10ad12a2f9aa4de170.jpg"
-    ],
-    "size": 500170752,
-    "version": null
-  },
-  "70070000019927": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/48697c67c2079dc357ce24e9c28adab260837cf827924e8290c2f28cbf95d921.jpg",
-    "category": null,
-    "description": "Utilisez les leviers pour faire rouler et rebondir la balle sur les routes sinueuses, sans la laisser tomber ou heurter les pics ! \n\nGardez un \u0153il sur les tonnes d'obstacles super cool et d\u00e9licats \u00e0 sauter, \u00e0 rebondir ou \u00e0 \u00e9viter. Collectez des pierres pr\u00e9cieuses et des \u00e9toiles, qui ne sont pas faciles \u00e0 obtenir au fur et \u00e0 mesure que vous traversez les niveaux tortueux de Tricky Taps. Ne vous inqui\u00e9tez pas si vous ne r\u00e9ussissez pas la premi\u00e8re fois, r\u00e9essayez et trouvez un moyen de les obtenir !\n\nCaract\u00e9ristiques :\n- D\u00e9verrouillez instantan\u00e9ment le skin Paint Ball et le skin Flower Power Trail.\n- d\u00e9bloque l'option d'acheter de nouveaux skins de balle \u00e9pique : Love Struck, Star Eyed, Mr Sunglasses et Youful\n- Obtenez 10000 gemmes suppl\u00e9mentaires \u00e0 d\u00e9penser.\n- Essayez de terminer plus de 150 niveaux pleins d'action d'arcade et obtenez toutes les \u00e9toiles !\n- utilise les leviers pour faire rouler et rebondir ta balle\n- \u00c9vitez toutes sortes d'obstacles plac\u00e9s dans les niveaux. \n- battez vos records en mode sans fin !\n- \u00e9coutez une bande-son entra\u00eenante \n- Jouez \u00e0 votre nouveau jeu de course contre la montre. \n\nVous voulez relever d'autres d\u00e9fis ? Essayez le mode sans fin ! Jouez sur des niveaux al\u00e9atoires en passant de l'un \u00e0 l'autre sans interruption jusqu'\u00e0 ce que vous perdiez votre garde et que vous perdiez. Voyez jusqu'o\u00f9 vous pouvez aller en une seule fois et essayez de battre votre record !\n\nToutes les gemmes que vous gagnez peuvent \u00eatre d\u00e9pens\u00e9es pour acheter des skins de balles et leurs pistes. Achetez et s\u00e9lectionnez le skin d'une balle \u00e0 pointes ou d'un biscuit et ajoutez une tra\u00een\u00e9e d'arc-en-ciel ou de c\u0153urs. Changez l'apparence de votre balle et roulez avec vos skins pr\u00e9f\u00e9r\u00e9s !\n\nPr\u00eat \u00e0 faire rouler la balle ? Rebondissons !",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Vous pensez \u00eatre un ma\u00eetre du puzzle ? Prouvez-le ! Faites rouler la balle sur les routes sinueuses et voyez comment vous vous d\u00e9brouillez dans ce jeu de puzzle difficile !",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Tricky Taps: Complete Edition",
-    "nsuId": 70070000019927,
-    "numberOfPlayers": null,
-    "publisher": "QubicGames",
-    "rating": 6,
-    "ratingContent": [
-      "Achats Intra-jeu"
-    ],
-    "region": null,
-    "releaseDate": 20231223,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/0ee6a4ebcecaaad176516f004c9e2ab0b15fc204c41053de49dbdca3549894d1.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/8b7344c89526cba64c6c012a5fbd13496a06357d61a770aaee57a851edc14892.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5737e9787e2f4240365a784ee97109f78fba636499a2a1c548fe54d601c223ad.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/26bd42a2cc680324f38e98ee15fdd8ab210c03007cdecf1d2aa4313034a63b07.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/6609d5702d0d6825025073e57ae3f519a5264da440172f446d1ed6fa7b0ed9d0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/25cb4062c55372e9b1df37b9e84071b35011c25cea9ade28cc19c9f8def4bff1.jpg"
-    ],
-    "size": 236978176,
-    "version": null
-  },
-  "70070000019929": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0424a57e426fe7e3adb278af6f1dc3c64b250e771275768cbceb351b19ce0394.jpg",
-    "category": null,
-    "description": "Volez vers des plan\u00e8tes extraordinaires avec des terrains diff\u00e9rents et commencez \u00e0 extraire des min\u00e9raux pr\u00e9cieux pour les vendre dans votre base. Cr\u00e9ez des couloirs pour atteindre des piles de cristaux, ou faites-le \u00e0 votre fa\u00e7on et exploitez les minerais o\u00f9 vous le souhaitez \u00e0 l'aide de dynamites. Embauchez des ouvriers et construisez une machine d'extraction automatique pour acc\u00e9l\u00e9rer votre travail !\n\nAu fil du temps, l'exploitation mini\u00e8re devient de plus en plus difficile en raison des terrains plus accident\u00e9s. Collectez de l'argent pour acheter diverses am\u00e9liorations pour votre machine mini\u00e8re, vos ouvriers, votre pistolet \u00e0 vide, votre personnage et le sac \u00e0 dos que vous portez. De cette fa\u00e7on, vous serez bien pr\u00e9par\u00e9 et vous pourrez extraire tous les min\u00e9raux beaucoup plus rapidement ! \n\nCaract\u00e9ristiques :\n- Envolez-vous vers 12 niveaux bonus avec des lunes sur lesquelles vous trouverez de superbes r\u00e9compenses en argent qui vous permettront d'acheter des am\u00e9liorations bien plus t\u00f4t ! \n- Explorez 12 mines souterraines bonus o\u00f9 vous trouverez des tas de pi\u00e8ces d'or suppl\u00e9mentaires \u00e0 d\u00e9penser pour des bonus ou des skins.\n- d\u00e9bloque 4 nouveaux v\u00e9hicules sur lesquels tu peux rouler\n- voyagez \u00e0 travers de nombreuses plan\u00e8tes inconnues et myst\u00e9rieuses\n- exploite de pr\u00e9cieux cristaux sur diff\u00e9rents terrains \u00e0 l'aide de ton pistolet \u00e0 vide\n- vendez les cristaux collect\u00e9s dans votre base pour gagner beaucoup d'argent\n- jouez en mode coop\u00e9ratif jusqu'\u00e0 2 joueurs et partagez les t\u00e2ches !\n- d\u00e9pensez votre argent pour acheter diff\u00e9rentes am\u00e9liorations : capacit\u00e9, force, vitesse, travailleurs, vitesse d'extraction et stockage de votre machine d'extraction automatique\n- si vous avez des difficult\u00e9s \u00e0 miner, utilisez des bonus ou faites exploser la zone avec de la dynamite !\n- t\u00e9l\u00e9portez-vous dans les souterrains pour trouver des pi\u00e8ces d'or ou remplissez des missions pour les obtenir\n- visite la lune et d\u00e9couvre les r\u00e9compenses qui t'y attendent \n- d\u00e9pense tes pi\u00e8ces pour d\u00e9bloquer de superbes skins et un v\u00e9hicule hoverboard\n- trouve des fossiles de diverses cr\u00e9atures \u00e9tonnantes qui habitaient autrefois les plan\u00e8tes \n- ram\u00e8ne ces cr\u00e9atures \u00e0 la vie, demande-leur de te suivre et profite des bonus qu'elles t'offrent !\n\nUtilise des bonus tels qu'un sac \u00e0 dos de plus grande capacit\u00e9, un aimant qui attire les cristaux ou un jetpack qui, en plus d'augmenter la vitesse de d\u00e9placement, fait fondre le terrain. Cependant, ils ne sont pas gratuits. Pour les utiliser, vous devez passer par le portail situ\u00e9 sur la plan\u00e8te et vous t\u00e9l\u00e9porter dans les souterrains pour y trouver des pi\u00e8ces d'or. Vous pouvez \u00e9galement les d\u00e9penser pour acheter diff\u00e9rents skins de personnages, des aspirateurs et m\u00eame des v\u00e9hicules ! Oui, vous avez bien lu, car qui n'aurait pas envie de rouler en hoverboard sur une plan\u00e8te inconnue ? \n\nSi vous ne voulez pas miner seul, invitez un ami \u00e0 jouer en mode coop\u00e9ratif et partagez les t\u00e2ches ! Choisissez vos skins pr\u00e9f\u00e9r\u00e9s, montez sur les hoverboards et devenez riches ensemble en vendant des minerais color\u00e9s !\n\nAttention, vous pouvez trouver sur le terrain des fossiles de cr\u00e9atures qui vivaient autrefois sur la plan\u00e8te. Gr\u00e2ce \u00e0 une super technologie, tu peux les ramener dans le monde et leur demander de te suivre en te donnant divers bonus !\n\nEt maintenant, partez ! Enfilez votre combinaison spatiale, d\u00e9couvrez de nouvelles plan\u00e8tes avec leurs terrains et exploitez des cristaux pr\u00e9cieux !",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Embarquez pour un voyage color\u00e9 \u00e0 travers la galaxie ! \nExplore de nouvelles plan\u00e8tes et exploite divers min\u00e9raux \u00e0 l'aide de ton pistolet \u00e0 vide !",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Astro Miner: Complete Edition",
-    "nsuId": 70070000019929,
-    "numberOfPlayers": null,
-    "publisher": "QubicGames",
-    "rating": 6,
-    "ratingContent": [
-      "Achats Intra-jeu"
-    ],
-    "region": null,
-    "releaseDate": 20231223,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/d5444b10cb75de94934ed8750b6b9eccc91b3d6429c79bde2b7c694e77a9ed44.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c4631c5ee9263704cc697df0a7f1b6d39724e5afd54088f112e38a3d3543e28f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d732644cf6ffef52b0a6d8cffd34cec7bdc93fc94419bd8b29e44d59b7d17b8a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c7781a74f38bce1e39e68b696a9619a8c00fa2c21812c7ee61f3853fc28c494b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a4fb23cbf79d8a88097f0ce9f4e94952116464dda604a25ccaa0e5d9c72fe9f4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/8df0b144c624cdec2748e6f6f9f00da0b04abfd02f3db1d51d330b3d9a83a38d.jpg"
-    ],
-    "size": 286261248,
-    "version": null
-  },
-  "70070000019978": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0b656208c2baf423bfad665783678e5ee85ae5525c391b7b7b2cfe7d2107b7c6.jpg",
-    "category": null,
-    "description": "Prenez vos marqueurs n\u00e9on, vos peintures en a\u00e9rosol, vos diamants autocollants ou votre poudre scintillante et utilisez-les pour cr\u00e9er des chefs-d'\u0153uvre \u00e9tonnants ! \n\nDivise ton portrait pr\u00e9f\u00e9r\u00e9 ou n'importe quelle peinture en quatre parties. Choisissez ce que vous allez peindre, d\u00e9cidez des couleurs que vous allez utiliser, cr\u00e9ez une image parfaite et placez le tableau dans un cadre pour le vendre !\n\nCaract\u00e9ristiques :\n- obtenez 2 nouveaux styles pour peindre des monstres effrayants ou des portraits d'anime !\n- Utilisez le nouveau marqueur de panda ou d'os\n- D\u00e9pensez 2000 euros suppl\u00e9mentaires pour am\u00e9liorer votre exposition \n- Peignez de 5 fa\u00e7ons diff\u00e9rentes en utilisant diff\u00e9rents outils allant des sprays aux marqueurs n\u00e9on !\n- compl\u00e8te de nombreux tableaux avec des personnages, de la nourriture et des animaux peints\n- choisis le style dans lequel tu veux peindre une partie de l'image\n- choisis des couleurs \u00e0 partir d'une large palette de couleurs\n- lorsque tu as fini de peindre, choisis un cadre pour y placer ton dessin\n- diriger la vente de tes \u0153uvres et gagner de l'argent\n- au lieu d'utiliser des outils ordinaires, tu peux leur donner une apparence plus cool !\n- am\u00e9liorez l'aspect de votre exposition en achetant de nouveaux sols, murs et d\u00e9corations\n- peignez vos gribouillis, d\u00e9tendez-vous et amusez-vous !\n\nPeignez de mani\u00e8re traditionnelle avec des marqueurs ou faites des folies ! Coloriez par num\u00e9ros en collant des diamants lumineux, appliquez de la colle sur l'image et coloriez-la en la saupoudrant de paillettes, ou appliquez des pochoirs et utilisez des sprays pour obtenir des effets uniques !\n\nRemplissez les murs vides de l'exposition en accrochant vos \u0153uvres d'art et voyez comment les gens se rassemblent autour de votre tableau pour l'acheter. Choisissez la meilleure offre et gagnez autant d'argent que possible pour d\u00e9corer votre exposition. Changez l'aspect des murs ou des sols et achetez de nouvelles d\u00e9corations pour rendre cet endroit aussi beau que vos \u0153uvres !\n\nRejoignez le Carnaval du dessin et laissez libre cours \u00e0 votre cr\u00e9ativit\u00e9 !",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Lib\u00e8re l'artiste qui sommeille en toi et cr\u00e9e de superbes peintures dans diff\u00e9rents styles artistiques !",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Drawing Carnival: Complete Edition",
-    "nsuId": 70070000019978,
-    "numberOfPlayers": null,
-    "publisher": "QubicGames",
-    "rating": 6,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20231223,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/16ba26741e8dad3a0f83cf75dcad24079fd45fe5d7464a471b7a2133c54ec940.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5cab8c7aae0ee6a4a45851f4d5b04235815a0cb9f10a23a0957682875297b578.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/079ca415be7bfc6c2d1e4f8b65ce7653e5e0779ec93fcfa6e03169daa644bf7b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/242fc83301fb28c2532bf4d3ee4d87828f103d1ee4a9e641784e4cdc8e813c95.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9673c1bf26d3c496dfa4b539632d7132b1da8224014e72a93bf1c5ca655fa534.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/6f6f54dcf3e3c2be2d29c0466a7824d52fed9680c52f0b665c10beb7ae055905.jpg"
-    ],
-    "size": 336592896,
-    "version": null
-  },
-  "70070000019991": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d025f9d0c91ef85c10162962863e825f0d9d0a12bc184214c6ebc382105b5337.jpg",
-    "category": null,
-    "description": "Laisse libre cours \u00e0 ton imagination et embellis le look de ta poup\u00e9e gr\u00e2ce \u00e0 une grande vari\u00e9t\u00e9 de v\u00eatements, d'accessoires, de coiffures et de produits de maquillage !\n\nHabillez votre poup\u00e9e pour un rendez-vous au cin\u00e9ma, une f\u00eate d'anniversaire, une journ\u00e9e \u00e0 l'\u00e9cole ou une rencontre avec une amie au caf\u00e9. Participez activement aux \u00e9v\u00e9nements de la vie de votre poup\u00e9e, interagissez avec son environnement et observez le d\u00e9roulement de l'intrigue !\n\nChangez les tenues des autres personnages que votre poup\u00e9e rencontre. Habillez le chien qu'elle vient d'adopter pour une promenade ou le gar\u00e7on qu'elle aime pour le bal de l'\u00e9cole afin qu'ils soient assortis !\n\nAidez votre princesse de papier \u00e0 devenir une reine de la mode pendant sa premi\u00e8re ann\u00e9e \u00e0 l'universit\u00e9 ! \n\nCaract\u00e9ristiques : \n- Obtenez 13 nouvelles coiffures et 10 v\u00eatements pour habiller votre poup\u00e9e pour un d\u00eener aux chandelles ou un rendez-vous d\u00e9contract\u00e9 avec votre petit ami.\n- Utilisez 2500 pi\u00e8ces suppl\u00e9mentaires pour changer imm\u00e9diatement l'apparence de la maison de votre poup\u00e9e.\n- personnalise ta poup\u00e9e de papier avec plus de 100 articles !\n- d\u00e9bloque des collections de mode pour que le style de ta poup\u00e9e reste \u00e0 la mode\n- personnalise la tenue de ta poup\u00e9e, son teint, la couleur de ses yeux, sa coiffure et son maquillage\n- cr\u00e9ez des entr\u00e9es de journal avec des photos de vos poup\u00e9es dans diff\u00e9rents environnements et tenues\n- Assistez \u00e0 des histoires et \u00e0 des intrigues uniques.\n- cr\u00e9ez la maison de r\u00eave parfaite pour votre princesse de papier en achetant de nouvelles couleurs pour les meubles ou les murs. \n\nQue le plaisir de la m\u00e9tamorphose commence !",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Devenez un styliste de poup\u00e9es et cr\u00e9ez des tenues fabuleuses pour votre adorable princesse de papier !",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "DIY Paper Doll: Complete Edition",
-    "nsuId": 70070000019991,
-    "numberOfPlayers": null,
-    "publisher": "QubicGames",
-    "rating": 10,
-    "ratingContent": [
-      "Usage d'alcool",
-      "Achats Intra-jeu"
-    ],
-    "region": null,
-    "releaseDate": 20231223,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/e15017db2d86d6aee623f8f9495fd30b448617ddae1bc79d3d03960aac2ad763.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/68891a47dff37fcb070a47769389a825b38fe8fc4ab822840346a194dfb1db08.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a57b19c326a6c76a806662afbd97eea38c52969f93953bfe0e863c4d11fec4ab.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a73036fd677352fb267c7481d629bcadb31c91f992ec2e62ab22520a4e9716e7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aa0036fbae5c8ef9a14110b2e06ba30ab36b968f438e55cdb9de7bd017148347.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bbb61580220ed90d94053c4ef9d0de869844ca7ef63057d8030f8bbef7572cd8.jpg"
-    ],
-    "size": 223346688,
-    "version": null
-  },
-  "70070000020007": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1394684fc400f53ba654840189614bd92571313e3243f5b4480cea5130f262c6.jpg",
-    "category": null,
-    "description": "Choisis ton outil de coupe pr\u00e9f\u00e9r\u00e9, qu'il s'agisse d'une carte \u00e0 jouer, d'un fil dentaire ou d'un simple couteau de cuisine. Coupe, coupe, coupe et ressens ces sons ASMR satisfaisants !\nsatisfaisants ! D\u00e9coupe une vari\u00e9t\u00e9 d'objets color\u00e9s en sable cin\u00e9tique en forme d'aliments, de jouets, de b\u00e2timents, d'objets de tous les jours et de cubes ou blocs ordinaires !\n\nCaract\u00e9ristiques :\n- d\u00e9coupe 80 objets color\u00e9s de diff\u00e9rentes formes !\n- \u00c9quipe-toi de 33 lames \u00e9piques !\n- Obtiens 10000 pi\u00e8ces suppl\u00e9mentaires \u00e0 d\u00e9penser\n- \u00c9coute de superbes sons ASMR en d\u00e9coupant chaque objet.\n- Joue en mode d\u00e9fi avec diff\u00e9rentes t\u00e2ches \n- d\u00e9bloque des objets myst\u00e9rieux et d\u00e9coupe-les tous\n- \u00e9crase les biscuits avec des citations de vie \u00e0 l'aide d'un marteau.\n\nTu as besoin d'augmenter un peu le niveau de difficult\u00e9 ? Active le mode d\u00e9fi ! Coupe le bon poids, divise un objet en un nombre donn\u00e9 de parties, coupe un objet parfaitement en deux ou trouve des choses cach\u00e9es \u00e0 l'int\u00e9rieur !\n\nProgressez pour d\u00e9bloquer de nouveaux objets myst\u00e9rieux et collectez des pi\u00e8ces pour les niveaux termin\u00e9s afin d'acheter des lames \u00e9piques allant du sabre laser \u00e0 la carte de cr\u00e9dit en passant par la hache et la tron\u00e7onneuse !\n\nRel\u00e8ve les d\u00e9fis et deviens le ma\u00eetre ultime des tranches !",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Tranchez plusieurs objets en sable cin\u00e9tique dans le jeu de d\u00e9coupe ASMR le plus satisfaisant qui soit !",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "ASMR Slicing: Complete Edition",
-    "nsuId": 70070000020007,
-    "numberOfPlayers": null,
-    "publisher": "QubicGames",
-    "rating": 6,
-    "ratingContent": [
-      "Achats Intra-jeu"
-    ],
-    "region": null,
-    "releaseDate": 20231223,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/560ce9f69768fd707ba8387b8204924c60d8dad6899a413e4b13014adbf6d11d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/41adca514474f5ea518f49d80fcc85e3a329686fd0629c1aedfa9ca162f01e8f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/691876c0152f4d5e86d40804b82ec5fb08807b0ce9b0a77b60d026c179bbc197.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d916e44eba69bd39ba8e8c1a3b31e78148e2fbedccf4404f567854c3dca99062.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/8157d98a37f92f8c935d2e798a0832b1bd9f4a2b75b068b65c1c4031133c3852.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/0c64335bc3ea8aa8b13c9842ee11913fdc403b0f2b233b8a836dfa70ac0f800a.jpg"
-    ],
-    "size": 260046848,
-    "version": null
-  },
   "70010000028522": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/40b2e5a70c32922326de3732b6b2f17f7773e14caa70296ff43379e6ca92676e.jpg",
     "category": [
@@ -3768,6 +3495,44 @@
       "https://img-eshop.cdn.nintendo.net/i/303c94a2776e9984b190726f94ae2ba1c841a946dc476cbbd52b2c9a09917074.jpg"
     ],
     "size": 758120448,
+    "version": null
+  },
+  "70010000076587": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b99571bfae227b7f8da3dd4fbb2d2e35ed4bd120fdd97172e730968fe57da75.jpg",
+    "category": [
+      "Casse-t\u00eate",
+      "Action",
+      "Strat\u00e9gie"
+    ],
+    "description": "Le jeu de r\u00e9flexion classique de 1989 est de retour, avec plus de 140 niveaux qui mettront votre esprit et vos doigts \u00e0 rude \u00e9preuve.\n\nIncarnez Chip, obs\u00e9d\u00e9 par les \u00e9nigmes, qui veut d\u00e9sesp\u00e9r\u00e9ment rejoindre le club informatique de Melinda la Merveille Mentale. Son \u00e9preuve d'initiation consiste en une s\u00e9rie d\u2019\u00e9nigmes de plus en plus difficiles. Chip doit collecter des objets, faire glisser des blocs, \u00e9viter les dangers et bien plus encore pour collecter les puces informatiques n\u00e9cessaires pour passer chaque niveau. \u00cates-vous pr\u00eat \u00e0 relever le d\u00e9fi ?\n\nCette collection vous permet de jouer \u00e0 ces jeux classiques avec de nombreuses fonctionnalit\u00e9s modernes, notamment :\n\u2022\u00a0Filtres d'affichage, y compris des filtres r\u00e9tro LCD et CRT\n\u2022\u00a0Sauvegarde des parties\u00a0: sauvegardez et restaurez votre partie \u00e0 n'importe quel moment\n\u2022\u00a0Pr\u00e9r\u00e9glages de contr\u00f4le pour droitiers et gauchers",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2090d9b24ad6587779502b0e1c6d71debfef9b77f1ad731bc4d646eb24594c29.jpg",
+    "id": "010096201DE50000",
+    "intro": "Plus de 140 niveaux de casse-t\u00eate !",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Chip's Challenge",
+    "nsuId": 70010000076587,
+    "numberOfPlayers": 1,
+    "publisher": "Pixel Games UK",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/00a852de3ac14915e0642b1baff372bdee08149c6d4c53670971987e6fed5bf9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b11763bc8f754fed899cdbc2d8981a715542b3d3700b9ac151fea3d2dfb50567.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/90da781a42ec7b31c816f054e6303c069ddca3fbfc31078b0425c1c124355e08.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e29c6aef3969cdf4c561c9cd87b9736b25cb5353096706ea13d57def4f7d8390.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/45f872a653efe5008de6b269fff7d40cafa4529c7cca5a8bec062bce056979fe.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cb8171b3425576769ccca148e1ff9465d43015792cf92cb2236f3ee0f08c344d.jpg"
+    ],
+    "size": 136314880,
     "version": null
   },
   "70050000045345": {

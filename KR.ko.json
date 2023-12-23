@@ -1,36 +1,4 @@
 {
-  "70070000019777": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/18e780d3a01c1a5773b43750851607c66414c78c75872d56bc6d650d4d2807c6.jpg",
-    "category": null,
-    "description": "\ub1cc \uae30\uc5b5\uc740 \uba54\ubaa8\ub9ac \uac8c\uc784\uc758 \uace0\uc804\uc801\uc778 \uacf5\uc2dd\uc744 \uac1c\uc120\ud569\ub2c8\ub2e4. \uc790\uc2e0\uc758 \uc18d\ub3c4\uc5d0 \ub9de\uac8c \ub09c\uc774\ub3c4\ub97c \ub192\uc774\uace0 \uc790\uc2e0\uc758 \ucde8\ud5a5\uc5d0 \ub9de\uac8c \ub3c4\uc804 \uacfc\uc81c\ub97c \uc0ac\uc6a9\uc790 \uc815\uc758\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\n\uc6b0\ub9ac\uc758 \ub450\ub1cc\ub294 XXI \uc138\uae30\uc758 \uac00\uc7a5 \uc911\uc694\ud55c \ub3c4\uad6c\uc785\ub2c8\ub2e4. \uc790\ub140\uc5d0\uac8c \ud638\uc758\ub97c \ubca0\ud480\uace0 \uc7a0\uc7ac\ub825\uc744 \ucd5c\ub300\ud55c \ubc1c\ud718\ud558\ub294 \ub370 \ub3c4\uc6c0\uc774 \ub418\ub294 \uc120\ubb3c\uc744 \uc8fc\uc2ed\uc2dc\uc624.\n\n\ub2e4\uc591\ud55c \uce74\ub4dc\uac00 \ud3ec\ud568\ub41c \uccab \ubc88\uc9f8\uc640 \ub450 \ubc88\uc9f8 \ud329\uc758 \ub450 \uac00\uc9c0 DLC\ub85c \uc544\uc774\ub4e4\uc774 \ub9c8\uc74c\uc758 \uc8fc\uc778\uc774 \ub418\uac8c \ud574\uc8fc\uc138\uc694!\n\n\uc8fc\uc694 \ud2b9\uc9d5\ub4e4\n\n- \uae30\uc5b5\ub825 \ud5a5\uc0c1\n- \uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uce74\ub4dc\n- \uc870\uc808 \uac00\ub2a5\ud55c \ub09c\uc774\ub3c4\n- \ud3b8\uc548\ud55c \uc74c\uc545\n- 8\uac1c\uc758 \uce74\ub4dc \ub514\uc790\uc778\n- 20\uac1c\uc758 \ub09c\uc774\ub3c4",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "\uc790\ub140\uac00 \ub9c8\uc74c\uc758 \uc228\uaca8\uc9c4 \uc7a0\uc7ac\ub825\uc744 \ud65c\uc6a9\ud558\ub3c4\ub85d \ub3c4\uc640\uc8fc\uc2ed\uc2dc\uc624. \uc774 \ub2e4\ucc44\ub85c\uc6b4 \uce74\ub4dc\ub97c \uc0ac\uc6a9\ud558\uc5ec \uae30\uc5b5\ub825\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\uc138\uc694. \uadf8\ub4e4\uc774 \uadf8\ub4e4 \uc790\uc2e0\uc758 \ub9c8\uc74c\uc758 \uc8fc\uc778\uc774 \ub418\uac8c \ud558\uc2ed\uc2dc\uc624.",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "\ub1cc \uae30\uc5b5 \ud574\ud53c \uc5d0\ub514\uc158",
-    "nsuId": 70070000019777,
-    "numberOfPlayers": null,
-    "publisher": "RedDeer.Games",
-    "rating": 0,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20231223,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/9fe6d4f65d4e09733bdc1c3d46ab2dcd1c3b41a85174b1d036a23fd78b1aef69.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/310b802e16281ccea27e6e2f0ed6fcf804768a9495c1746332b084e1bd93cb8f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/22a42946a07b20184728251ce46c186f65afaab93727f63e68d00252185b6a07.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/53fac46d77e70e293292f1bb4aa7b0e21f4021e4a05e4379e335cf7903948b20.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a4150d9d9056068b41f7d81bffaf314cde8aaf9173bde9605b30e02b9b9c6f04.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9f1a7d718cfb5702eb3c59c495b6b0849a6390ff2b86c6a114832aaf25c30537.jpg"
-    ],
-    "size": 156237824,
-    "version": null
-  },
   "70050000038086": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66b6bf60bfc0281911dfb1ec381eb35a637be73ce16466e0019ea6e9205c9b82.jpg",
     "category": null,
