@@ -660,6 +660,45 @@
     "size": 68157440,
     "version": null
   },
+  "70010000076378": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/264d901cbaf5a01d1faa4392ff6af7e721a3ed9cf74947116053a899623ecef3.jpg",
+    "category": [
+      "Aventura",
+      "Educativo",
+      "Aprendizagem",
+      "M\u00fasica"
+    ],
+    "description": "\"Santa's Workshop Challenge: The North Pole Gift Adventure\" \u00e9 um videogame encantador da que leva os jogadores a uma jornada m\u00e1gica pelas hist\u00f3rias inexploradas do Papai Noel. Projetado como um livro de hist\u00f3rias interativo, este jogo revela segredos e anedotas nunca antes contados sobre o personagem ic\u00f4nico. Cada hist\u00f3ria \u00e9 uma mistura de fantasia e realidade, oferecendo uma vis\u00e3o \u00fanica das aventuras e desafios que o Papai Noel enfrenta.\n\n\u00b7 Descubra os segredos do Papai Noel e o que acontece depois do Natal no P\u00f3lo Norte.\n\n\u00b7 Descubra como \u00e9 a vida dos duendes, das renas, das fadas e como \u00e9 a oficina do Papai Noel.\n\n\u00b7 Mais de 100 imagens coloridas\n\n\u00b7 18 m\u00fasicas cl\u00e1ssicas de Natal.\n\n\u00b7 +8.000 palavras em 17 hist\u00f3rias.\n\nO jogo est\u00e1 repleto de ilustra\u00e7\u00f5es v\u00edvidas e detalhadas, tornando cada hist\u00f3ria uma experi\u00eancia visualmente deslumbrante. Os leitores mergulhar\u00e3o em diversos cen\u00e1rios, desde a oficina de brinquedos no P\u00f3lo Norte at\u00e9 locais ex\u00f3ticos ao redor do mundo, cada um com seu charme e mist\u00e9rio.\n\nA trilha sonora \u00e9 outra joia deste jogo, com melodias que captam a ess\u00eancia do Natal e a magia das hist\u00f3rias do Papai Noel. Cada faixa musical acompanha perfeitamente as narrativas, enriquecendo a experi\u00eancia de jogo e transportando os jogadores para um mundo de maravilhas e alegria.\n\n\"Desafio da Oficina do Papai Noel: A aventura de presentes no P\u00f3lo Norte\" n\u00e3o \u00e9 apenas uma hist\u00f3ria para curtir durante as festas de fim de ano, mas tamb\u00e9m uma experi\u00eancia atemporal que ir\u00e1 encantar leitores de todas as idades, enchendo-os de admira\u00e7\u00e3o, risos e talvez at\u00e9 um novo perspectiva sobre o lend\u00e1rio Papai Noel.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/74a90b77499b4d2ec88367b804c3573330c23145b99e9c1f51cfc7674cc9d66e.jpg",
+    "id": "010017201DE18000",
+    "intro": "Descubra hist\u00f3rias in\u00e9ditas e m\u00e1gicas do Papai Noel, com lindas ilustra\u00e7\u00f5es e m\u00fasicas encantadoras. \u00c9 uma aventura de Natal interativa para todas as idades.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Santa's Workshop Challenge: The North Pole Gift Adventure",
+    "nsuId": 70010000076378,
+    "numberOfPlayers": 1,
+    "publisher": "Aldora Games",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/0a4d3e1a976fbf75bf86cd1ade41d98eede93eeb84a4f7e0396c30ff22f78f0a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c32e9b9c4001f42869c47371afb8d96e796ac776e3c8f225198812f105d5afa3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc00db217df90095f2c38afa8786d1b2a3b3803e396567ef684acfe077c4e387.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b2ddca59fac6818b43d5f91440200a78b9b3107e21cf88388cbd3b94edc844a0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fece8eaf42896f785c2d673ed857b9aa4d9e45f63f22c0b29ce719606e6efa2e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4163934c577c923bc5c8b86c184c50bffe84f0f517ad45b4021720253ba73c08.jpg"
+    ],
+    "size": 299892736,
+    "version": null
+  },
   "70050000045730": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/522cb21496c8ce02528292bf3c2e0747101bfcced8748e1518fbd94dcec5f008.jpg",
     "category": null,

@@ -665,6 +665,45 @@
     "size": 68157440,
     "version": null
   },
+  "70010000076378": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/264d901cbaf5a01d1faa4392ff6af7e721a3ed9cf74947116053a899623ecef3.jpg",
+    "category": [
+      "Aventura",
+      "Educativo",
+      "Aprendizaje",
+      "M\u00fasica"
+    ],
+    "description": "\"Santa's Workshop Challenge: The North Pole Gift Adventure\" es un encantador videojuego que lleva a los jugadores a un viaje m\u00e1gico a trav\u00e9s de las historias inexploradas de Santa Claus. Dise\u00f1ado como un libro de cuentos interactivo, este juego revela secretos y an\u00e9cdotas nunca antes contadas sobre el personaje ic\u00f3nico. Cada historia es una mezcla de fantas\u00eda y realidad, y ofrece una visi\u00f3n \u00fanica de las aventuras y desaf\u00edos que enfrenta Santa Claus.\n\n\u00b7 Descubre los secretos de Santa Claus y lo que ocurre despu\u00e9s de la Navidad en el Polo Norte.\n\n\u00b7 Descubre como es la vida de los duendes, los renos, las hadas y c\u00f3mo es el taller de Santa Claus.\n\n\u00b7 M\u00e1s de 100 im\u00e1genes a todo color\n\n\u00b7 18 Canciones navide\u00f1as cl\u00e1sicas.\n\n\u00b7 +8000 palabras en 17 historias.\n\nEl juego est\u00e1 repleto de ilustraciones v\u00edvidas y detalladas, lo que hace de cada historia una experiencia visual impresionante. Los lectores se sumergir\u00e1n en diversos escenarios, desde el taller de juguetes en el Polo Norte hasta lugares ex\u00f3ticos de todo el mundo, cada uno con su propio encanto y misterio.\n\nLa banda sonora es otra joya de este juego, con melod\u00edas que captan la esencia de la Navidad y la magia de los cuentos de Pap\u00e1 Noel. Cada pista musical acompa\u00f1a perfectamente las narrativas, enriqueciendo la experiencia de juego y transportando a los jugadores a un mundo de maravillas y alegr\u00eda.\n\n\"Santa's Workshop Challenge: The North Pole Gift Adventure\" no es s\u00f3lo una historia para disfrutar durante la temporada navide\u00f1a, sino que tambi\u00e9n es una experiencia atemporal que deleitar\u00e1 a lectores de todas las edades, llen\u00e1ndolos de asombro, risas y tal vez incluso una nueva Perspectiva del legendario Pap\u00e1 Noel.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/74a90b77499b4d2ec88367b804c3573330c23145b99e9c1f51cfc7674cc9d66e.jpg",
+    "id": "010017201DE18000",
+    "intro": "Descubre historias m\u00e1gicas e in\u00e9ditas de Pap\u00e1 Noel, con bellas ilustraciones y m\u00fasica encantadora. Es una aventura navide\u00f1a interactiva para todas las edades.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Santa's Workshop Challenge: The North Pole Gift Adventure",
+    "nsuId": 70010000076378,
+    "numberOfPlayers": 1,
+    "publisher": "Aldora Games",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/0a4d3e1a976fbf75bf86cd1ade41d98eede93eeb84a4f7e0396c30ff22f78f0a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c32e9b9c4001f42869c47371afb8d96e796ac776e3c8f225198812f105d5afa3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc00db217df90095f2c38afa8786d1b2a3b3803e396567ef684acfe077c4e387.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b2ddca59fac6818b43d5f91440200a78b9b3107e21cf88388cbd3b94edc844a0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fece8eaf42896f785c2d673ed857b9aa4d9e45f63f22c0b29ce719606e6efa2e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4163934c577c923bc5c8b86c184c50bffe84f0f517ad45b4021720253ba73c08.jpg"
+    ],
+    "size": 299892736,
+    "version": null
+  },
   "70050000045730": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/522cb21496c8ce02528292bf3c2e0747101bfcced8748e1518fbd94dcec5f008.jpg",
     "category": null,
