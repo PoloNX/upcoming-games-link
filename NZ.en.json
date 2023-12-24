@@ -1,4 +1,46 @@
 {
+  "70010000073552": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7ad33e2d2c121036aebbd495931b6c710289bd8207fb7847f6dd7927c90d167d.jpg",
+    "category": [
+      "Action",
+      "Platformer",
+      "Multiplayer",
+      "Arcade"
+    ],
+    "description": "In Wood Guy, you play as a wooden puppet, exploring a world of handicrafts.\n\nWith only your arms to move, climb (and fly?), you will face many challenges across more than 300 levels and bosses. Make good use of the weapons and shields you find along the way and hit those targets! Remember that gravity and physics are just a barrier that mean almost nothing to a living wooden toy trying to escape!\n\nPlay alone to reach the end or ask a friend to join you and help. Also enjoy the Versus game mode where you can fight against up to 3 friends locally in a small arena to see who's the best puppet.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4f8a269bd1778db662b9257ca9c2a23c291f44d68dea647d751849a837bb4d43.jpg",
+    "id": "0100B9D01CFE8000",
+    "intro": "Defy the laws of physics with the wooden puppet and journey through this 2D platformer in a 3D world of handicrafts! Play alone or with friends... or against friends",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "name": "Wood Guy",
+    "nsuId": 70010000073552,
+    "numberOfPlayers": 4,
+    "publisher": "YSO Corp",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d17cb29a42a45e5db24c0abc0aa9dbb2841787c7684e382a091306b8d3322184.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6ac1f8441e1cc1df015b4707af67b01ea1c836c8e981e20e4a3cac231090179a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/66b51a16b0b7189b6cd4e62fa23351d90b53418899552a763c43f8d5bb4f466c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c3375e6fb7b1ccbf04f59cf6f162fe1ac19baf7e0c31b503b09b1b98c44edf0d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9727aa7ad6b0d487919ee6e1dce322c66bc653d607540365f65fa8de05cd17c2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3ca36cd3732f6cadfaebabe13ee084427fbb483297dd8e63d20bada423b50c6a.jpg"
+    ],
+    "size": 361758720,
+    "version": null
+  },
   "70010000073680": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8911afc05f7c7b60f4507cfc0981354cff68b8cb6f436787cceb476d0b71729b.jpg",
     "category": [
@@ -123,6 +165,46 @@
       "https://img-eshop.cdn.nintendo.net/i/63224409d9ef9d3ecbb83b151c2c7b7edadfce28a55e321b9ec4396f07560537.jpg"
     ],
     "size": 244318208,
+    "version": null
+  },
+  "70010000074519": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d90af9b2487513af2bfbd708eb48d430664246318bd987aa2458470bf74d0da5.jpg",
+    "category": [
+      "Puzzle",
+      "Action"
+    ],
+    "description": "It's a simple game where you draw your favorite shapes on the screen and aim for the goal.\n\nThere are various floors and gimmicks on the stage, and the characters are not only chicks, but also sparrows, penguins, etc.\nThere are so many characters with different sizes and characteristics that it's fun to watch!\nIt's fun to roll! It's a game.\n\n=== You can also create your own original stage! ===\nAlso includes the ability to create your own original stage!\n\n[how to play]\n\u30fbCreate blocks and lines freely by operating gyro of Joy-Con\u2122 or tracing the screen.\n\u30fbIf you hold down the button, you can create a heavy stone statue of a chick.\n- Hit the character with blocks and statues and aim for the flag.\n\u30fbBuild a bridge with wire where there is no floor.\n\nUnlimited number of times! It's okay no matter how many times you fail\nIf the conditions are met, you will be able to select a new character.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/86476d716e30e22edafb59da7334f3efc8eff1936ca7b297ab9e09daae1a98c3.jpg",
+    "id": "010098801D706000",
+    "intro": "A new sensation!?\nHit it and let it roll! A rolling puzzle game!\nRoll the cute chicks around and aim for the goal!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "name": "Piyokoro",
+    "nsuId": 70010000074519,
+    "numberOfPlayers": 1,
+    "publisher": "Inbility",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d099bd3ce143eddf0ca3ee7514bbd8153090e48afd8bec10cc1a55ab98039d94.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b343d6e78c8eca9aea15dfa67ba2c715ba8644830eeebcdfa83a21c59fb2e219.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/220023e1cfdb257ea55542ea9d56d017e772cd07c1088e2980a79610c2e86ae4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/54443ad19ff0c1a63a4e2600943f6b838cb0ae19c6ddd3fbc32ca78e67686ac9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/746e94f3bcc554966b855af5d41a673f4bfc147019c08324f8cf9d44d124f482.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d31ba4bd1e7567fb50e8ddc85053e5b5f658629d595c71f77a7e2d34c46f03f2.jpg"
+    ],
+    "size": 1067450368,
     "version": null
   },
   "70010000074554": {
@@ -380,6 +462,45 @@
     "size": 143654912,
     "version": null
   },
+  "70010000075043": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b73cd0f601ae7130a51fd7651bf18cec150604dbc826a8164dfdf991b3849943.jpg",
+    "category": [
+      "Puzzle",
+      "Board Game"
+    ],
+    "description": "\n\nMolecano is an all-new word puzzle game from the creator of Dadish! Help Molene the mole explore volcanoes using words as a bridge. String words together so Molene can cross safely and collect all the delicious food strewn across the lava loaded levels.\n\n\u2022 A unique and challenging word puzzle game\n\u2022 500 levels, with more to come\n\u2022 From the creator of Dadish and Super Fowlst\n\u2022 Cool characters to unlock\n\u2022 Playing this game will make you smart, probably\n\u2022 A good game for people who know some words\n\u2022 A chill soundtrack\n\u2022 Relax and unwind... in a volcano!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b933ab090415a968c323c1482e12ff22557ed8e13edfdd48a7741f56bcf39547.jpg",
+    "id": "010078201D90C000",
+    "intro": "A hot new word game!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Molecano",
+    "nsuId": 70010000075043,
+    "numberOfPlayers": 1,
+    "publisher": "Thomas K Young",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a94986b185726611c21c62c5a79bc79db1635c3403a0a70fd58bf92339bf6d73.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4158021c4dad88e2bd2cddc9ce35bf8342a7d8ab742c1c32a419d1d7c41d908c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0459e6ce0b4dafb806bcee1db4ba4b2570bb475a87ace0d6df78a4d802c93d9a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b503ecd8b46d0e8036f681084a5cb832f0d5604c36e78f4a9d21b9bef0128560.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/846d33958ae264c4c5c11c21ab1cb2b744ec2bc3f895d4f7dc5a65257a596112.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3bd8f6741525e8808cc7f498db0535e8055fd363c987e2a9fde9769c9d7a0a94.jpg"
+    ],
+    "size": 63963136,
+    "version": null
+  },
   "70010000075081": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b783af2b96c217b767de427afa7e0ba97f5f2b9db480924111b20b2d62a135b6.jpg",
     "category": [
@@ -556,6 +677,162 @@
     "size": 3145728,
     "version": null
   },
+  "70050000045820": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e73e328be5ff843703d6682a23a0bfb69a3e768fbb3c1403611d697a3713ad31.jpg",
+    "category": null,
+    "description": "Descend into the depths with the \"Subterranean Switch-Up\" DLC for Train Traffic Manager! This expansion digs into 10 brand new underground maps that challenge you to navigate the dimly lit and intricate tunnels. Are you ready to conquer the dark and keep the underground on the right track?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Subterranean Switch-Up",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Train Traffic Manager DLC #1 - Subterranean Switch-Up",
+    "nsuId": 70050000045820,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Games",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Themes"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/80ebb10e18f49456dd76ec3623011dc35622627d0b15e87d3ec96ba57aaa6144.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/32ae925d582fbdf8428c589ef746e9bf7ea04ae6e1580972ae2477b5719de2e5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d106acc526ab9fd7bc724b66b9768abce6b01f926302a434e3c14f01f39226d5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b0927e647a39a523451d74b4e21bff816ada9f1c73c1c1f5a8f108785d652319.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70050000045852": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4fcbc7f68767dfa0ad44483836641d02e3fc64da8ec0b0a73784881fe0e5a090.jpg",
+    "category": null,
+    "description": "Rediscover your favorite journeys with a twist in \"Classic Tracks: Reimagined.\" This remix DLC revitalizes 10 of the best campaign levels, transformed and remixed for an even more engaging challenge. Test your skills anew and see familiar routes in a whole new light!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Classic Tracks Reimagined",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Train Traffic Manager DLC #2 - Classic Tracks Reimagined",
+    "nsuId": 70050000045852,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Games",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Themes"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/86073a20d31e8bbf6b9dcf6a5f26bc0d1b91578d70a1f4a2d4f789cecd2929c5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b0e9e4266141f418cd598d795073752984c998f5c079c5f7dba52a52794590fa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2135c9b37e04c8b42e75f1604f87bece26dda10f31ade1b6da871263f122ace8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/55364608d65197525fee0a03c0a84b5cfe7a29bd7735a0a39edb440f4044fc06.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70050000045857": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4f5a24584a13f3b3b4a5f12b8a17597e86216e02ee0929098f2c90057b1d9e60.jpg",
+    "category": null,
+    "description": "Bring a burst of fun and speed to your railways with the \"Fleet Upgrade\" DLC! Adorn your locomotives with the vibrant colors of the circus or the sleek design of a jet. With these two new skins, your trains won't just be on time; they'll arrive with flair!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Fleet Upgrade - Jet & Circus",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Train Traffic Manager DLC #3 - Fleet Upgrade - Jet & Circus",
+    "nsuId": 70050000045857,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Games",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Themes"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/2ee4d6007345d5261ec9b07ea6ff95c3394b3433719592fc396aefd163202fb1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ae0ac3a8dac4e45630fe45597d6ef8f71b6121e8bcb712230efc11e84d8576de.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70050000045869": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4461930185b16e56acc431906bbdc20104081170890b7ebc27c4c346c325592b.jpg",
+    "category": null,
+    "description": "Elevate your Train Traffic Manager experience to Hollywood levels with the \"Fleet Upgrade\" DLC. This skin pack offers two uniquely themed trains - embrace the eerie with the Horror skin, or embark into the future with the SciFi skin. Whether you\u2019re evading ghostly apparitions or cruising in cyber-style, these skins add a new layer of excitement to your managerial prowess.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Fleet Upgrade - SciFi & Horror",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Train Traffic Manager DLC #4 - Fleet Upgrade - SciFi & Horror",
+    "nsuId": 70050000045869,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Games",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Themes"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/734ff783bfb2131ab9df2f6291f73cd14beb10ec1d5ed27741ca26be6175979c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6de4cafb3c6377866f9af14c631f618c60d227d8507566dd5fc1b9e2a0d47a37.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70050000045907": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e6607c1eb43a611a4ea8e43ee577c2929542ed8f9fdaa3c475c82b0d2a491b1e.jpg",
+    "category": null,
+    "description": "Dress up your favorite classic games in this Christmas-themed delight with the \"Classic Holiday Spirit\" DLC for \"Classic Games Collection Vol.1.\" Bring the joy of the holiday season to your gaming with festive designs that echo the beloved cozy patterns of holiday sweaters and decorations. ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "All the classic games you love in one place!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Classic Games Collection Vol.1 DLC#1 - Classic Holiday Spirit",
+    "nsuId": 70050000045907,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Minis",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/ef9565d56bb3bf469e1c5668c44d464dacfdfe2b7f3cff9a3713360de65a9ad5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a89f48d5b3f84be8e536cec5b722998764f5a17bed2eabbec8a38b9a47f0f695.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a66b30390b6d85ea15013610c733dfa8f2966c59902a16df219428638754b3a8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5cce91d55cf99c635baba321cbc1207855eec70de2f33e3720de0b613c746dac.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
   "70050000045916": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f1591c5a614486f013b869a6fc36262e79f9d7e7541e471be3c2b81fbd20fddb.jpg",
     "category": null,
@@ -632,6 +909,109 @@
     "size": 0,
     "version": null
   },
+  "70070000019584": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a42640bf4c93c5f6a4344f160ca4cdca0daa6ffd20c4c88750c23dd77621668a.jpg",
+    "category": null,
+    "description": "Enjoy these 6 games with cats.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "6 in 1",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cats",
+    "nsuId": 70070000019584,
+    "numberOfPlayers": null,
+    "publisher": "GAME NACIONAL",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f44e5fb83f5e4725ce9fadc043f3ae59ee8e97af3ed0b1f330acd7488fa51e2d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/71c22828b6836c8221734b25a37bdd273d684fcc24d5e073fcfc833f416d710a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/62d91cf5ecbafef8c2965aee04de96b43026836eb37693908c3203da02f99166.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0fa78226e3a674cc379806df0b7593d0e9abf1cd3c721bda4a6e77798d5aedba.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b0bf5eab575e5b719965bf16e94c49c04f31ccb6f281d79f16626e814ce236cd.jpg"
+    ],
+    "size": 365953024,
+    "version": null
+  },
+  "70070000019611": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a9da42811b0c411381c5a6f1922c9710c1b8a89aa215ea1fa1d4b47dafc40da1.jpg",
+    "category": null,
+    "description": "Make all your friends jealous on the green with:\nBase Game\nCaddy Pack\nBouncy Castle Course",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Tee yourself up for the perfect swing! Your first step into Golf With Your Friends has never looked so good!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Golf With Your Friends - Starter Edition",
+    "nsuId": 70070000019611,
+    "numberOfPlayers": null,
+    "publisher": "Team17",
+    "rating": 0,
+    "ratingContent": [
+      "Online interactivity",
+      "Very mild themes and violence"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/60d30b7b2f80cca057d0d8bcfed194f4fe3644f0280e1a06983d7ecc72a0522a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c0c9f515ee9a7818e766a5cf8676e78155560f5a63e5caa5383790cde0aaf2ff.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/29b176ee6f8a8f343a5f3179317fe854015d2e4a1830de8244452b5dda457aa4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fe404174b8b1276e91492f63deec89b3c8ba0da514c77e6e8f5ea17c202d28f0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4d5fe68b13e6f8968c7aeb3acb2ffa25061fe074e7a1c61fed5971e2c230b1ea.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d049e9d8fd293af6b3aa7bfd80225df1d42b34a1d1afa2cc673f54e2fefb26df.jpg"
+    ],
+    "size": 5315231744,
+    "version": null
+  },
+  "70070000019612": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c7062bb7587e1eea1eb7e44054aa99613d8941c01d3faef7a74510fc3b3c54d0.jpg",
+    "category": null,
+    "description": "Grab everything from hats to courses, and swing in style with this seriously decked out version.\n \nIncluding:\nBase Game\nCorrupted Forest Course\nBouncy Castle Course\nHorrifying Headgear Pack\nPizza Party Pack\nSports Pack\nSummer Party Pack\nRacing Pack\nCaddy Pack\nPeaceful Pines Course\nFantasy Fables Pack\nTeams Mode Pack",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "An easy hole in one for any Golf With Your Friends fan! ",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Golf With Your Friends - Ultimate Edition",
+    "nsuId": 70070000019612,
+    "numberOfPlayers": null,
+    "publisher": "Team17",
+    "rating": 0,
+    "ratingContent": [
+      "Online interactivity",
+      "Very mild themes and violence"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f6388d3c5af780c21ffbf853aa6ea2298be90a33a6af41422b90aba6a2aee0b8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0e2ee59dcc45c18d62f66549d59710f9cfdb19af61f7d45bbe35fd5a36906cb5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/be1ed0ba9d4ae98969ac98a7e4fb623fee369423bf87fe40cb79d289d330f07e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b1506b1e18563af436887262b33a4a68e8accab488f007b897d300f61238002a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/60d30b7b2f80cca057d0d8bcfed194f4fe3644f0280e1a06983d7ecc72a0522a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/29b176ee6f8a8f343a5f3179317fe854015d2e4a1830de8244452b5dda457aa4.jpg"
+    ],
+    "size": 5340397568,
+    "version": null
+  },
   "70070000019782": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/91a3232143171d64fa068756285675d24f731a01029bfa74c41aa386d4d5cc74.jpg",
     "category": null,
@@ -664,6 +1044,40 @@
       "https://img-eshop.cdn.nintendo.net/i/a8d246458e073511d6893cbb722ed48bbfd9ed19c51136d0c8fbf423393d79b9.jpg"
     ],
     "size": 4460642304,
+    "version": null
+  },
+  "70070000019925": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c47f056a837b270c6535ba444594076c0b3d0a562034dd28bc500fd326783e1e.jpg",
+    "category": null,
+    "description": "The Smurfs: Learn and Play will help the youngest to acquire basic knowledge, as well motivate them to study more. It will teach you writing, reading a clock and many more. All this in the lovely company of the Smurfs!\n\n\nPLAY AND LEARN!\nLearning has never been easier. Choose one of the four categories and start your lessons. \n\nIn addition to the learning mode, you can also train your perceptiveness by helping Clumsy Smurf find all the objects he lost. In return he will share with you some fascinating facts about places or cultures from around the world.\n\n\nADAPTED FOR THE YOUNGEST\nKnowledge gathered in the game is suited for the youngest to help them take first steps in education. Besides exploring new topics, Smurfs prepared mini-games to develop logical thinking skills. They bring tons of fun along them, so players stay entertained all the time.\n\nThis bundle includes Brainy Smurf Hidden Story DLC with 12 new hide and seek levels. \n\nKey features:\n- Learn the alphabet and numbers with your favorite characters!\n- Practice your imagination by helping Smurfs!\n- 4 different modes\n- Simple user interface",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Discover the world and learn by playing with Smurfs!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "The Smurfs: Learn and Play Deluxe Edition",
+    "nsuId": 70070000019925,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20231225,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/e549a7a4ef4bd9ccb35c8004736b76f63ce30c8c6012d648856ae51a6a6aba9a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6f43581cac67141772587a1e11399fa1560282410a2a9aa57b9f378a42b6d6cd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cdd6a720481a2a62c5f4799005b28d753e52f044284899d43e97e0987797572b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/67615294fae80230ae5eeda8959022a7fe53ca9e5c7c0471e05ea31eb5430e83.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/808ca959c76ef89cf304618c8f24cca231195fffe439dddc880eaa455bfa0587.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7540b1e015adc3b20bba9ce655fa70775b83e3be9b5baa15863bfacf89be669e.jpg"
+    ],
+    "size": 1815085056,
     "version": null
   },
   "70070000020196": {
@@ -1801,6 +2215,44 @@
     "size": 0,
     "version": null
   },
+  "70010000074704": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d2fb2c7a9d8c9fbdef8f692a9d1d4976d284a13fb3590fe47f2f1543dece4137.jpg",
+    "category": [
+      "Other"
+    ],
+    "description": "Immerse yourself in a delightfully captivating farming game. Get ready to earn a fortune by selling the freshest milk while building your empire. Achieving this goal is a journey in itself. Expand your herd with new cows, implement strategic genetic enhancements, and ensure they're well-fed. Your path to prosperity lies in the sound of every 'moo' as you transform your farm into a thriving business.\n\nAn extremely addictive and fun farming game.\n\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/931cfe2dbea50e277f6b339e6f425591a06eb685fdf5ec25ab7425b728e9bd53.jpg",
+    "id": "0100A9601D776000",
+    "intro": "Super Fun!\nSuper Fun!\nSuper Fun!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "Milk Seller",
+    "nsuId": 70010000074704,
+    "numberOfPlayers": 1,
+    "publisher": "GAME NACIONAL",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240106,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f087396685ddc24b3dbbee7b0579ddc2ef2e5d4853b97ec21c1d1a2ec3a10831.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e976eaf761dd6093213560defd93bf4b7ad55e224603a016cdeb43632027a512.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/932a7691a80b8c1fc2546e2da2351d002d3791f4e071fd207affe493d39b358a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/70472267f2e8271d2a15d5bddd228b2646c7d908f1866b769c1bb319e42b7b73.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3821372d7871a76d0087e486ab2b8218762f27ee46e017aa8f20e107446d5594.jpg"
+    ],
+    "size": 60817408,
+    "version": null
+  },
   "70010000070209": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
     "category": [
@@ -2459,6 +2911,39 @@
       "https://img-eshop.cdn.nintendo.net/i/9838b99553b5470e1218097a751542fbd8e3bba95b22d4ac06bdf2958d9bb7d6.jpg"
     ],
     "size": 77594624,
+    "version": null
+  },
+  "70070000019582": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/077fd579deeef492690867c621515389fdbd26119faa46879395fa13862a2628.jpg",
+    "category": null,
+    "description": "Hope's Farm\n\nEscape the big city stress and experience the quiet charm of rural life. Match your way through an incredible farming adventure. Grow crops, plant trees, raise adorable animals and customize a wonderful farm. Sell the farm goods through challenging match-3 levels and earn experience points to unlock lots of new items!\n\nDo you have what it takes to manage a successful farm? Find out on this amazing and unique blend of farming and matching game. And show your farming and decoration skills in Hope\u2019s Farm. It has never been so fun to take care of a farm.\n\nFeatures:\n* Countless hours of farming fun.\n* Grow crops, plant trees, raise adorable animals, and much more!\n* Solve puzzles with quick thinking and smart moves!\n* Earn experience points to unlock lots of new items!\n* Show your farming and decoration skills.\n* Great variety of crops, trees, flowers and animals.\n* Sell the farm goods through challenging match-3 levels.\n* Refill the well by playing incredible bonus Levels.\n* Complete daily quests and earn rewards.\n\n\nSecrets of Magic 3\n\nVictoria has become a teacher at Mystic Academy of Magic and your creativity is needed to help her decorate the schoolhouse for Halloween.\nMatch your way through this fun and phantasmal adventure game, overcome tough obstacles, use power ups to help you win gold to buy amazing Halloween decoration items and unlock new items as you progress in your game. Are you up for this spooky challenge?\n\nFeatures:\n\nGet into the Halloween mood with this clever match 3 game\nFun gameplay with tons of challenge levels\nPlan your moves, race against time or play it relaxed\nEnjoy a variety of game modes and difficulty modes\nCollect gold to buy Halloween decoration items\nTough obstacles and cool power ups",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Hope's Farm + Secrets of Magic 3",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Green Sauce Bundle",
+    "nsuId": 70070000019582,
+    "numberOfPlayers": null,
+    "publisher": "GAME NACIONAL",
+    "rating": 8,
+    "ratingContent": [
+      "Scary Scenes"
+    ],
+    "region": null,
+    "releaseDate": 20240113,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/3e89f058ab9d42ce79cf9d220bc275c87cd8952a506d50a759d3d303b3321a3b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e399fd37a0f36ca6cb04797dff7f607a0fdf53dac2cf3b2fc099dc22b5d8cc75.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aa3cadad28fbef875fa66799095f76d77be6da0ddca8478aaaed879299304c2a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/46aed2cf2843dc22d1e89a5aa5ad5ffd4d7dd29d3a6148975da9749c8e67770c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/27e5a27116e77fc8b63d82cec73c9823e1b16cdb9867e5c22d076bb14557ec4f.jpg"
+    ],
+    "size": 375390208,
     "version": null
   },
   "70050000041801": {
