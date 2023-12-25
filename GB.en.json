@@ -1282,6 +1282,42 @@
     "size": 0,
     "version": null
   },
+  "70010000074704": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d2fb2c7a9d8c9fbdef8f692a9d1d4976d284a13fb3590fe47f2f1543dece4137.jpg",
+    "category": [
+      "Other"
+    ],
+    "description": "Immerse yourself in a delightfully captivating farming game. Get ready to earn a fortune by selling the freshest milk while building your empire. Achieving this goal is a journey in itself. Expand your herd with new cows, implement strategic genetic enhancements, and ensure they're well-fed. Your path to prosperity lies in the sound of every 'moo' as you transform your farm into a thriving business.\n\nAn extremely addictive and fun farming game.\n\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/931cfe2dbea50e277f6b339e6f425591a06eb685fdf5ec25ab7425b728e9bd53.jpg",
+    "id": "0100A9601D776000",
+    "intro": "Super Fun!\nSuper Fun!\nSuper Fun!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "Milk Seller",
+    "nsuId": 70010000074704,
+    "numberOfPlayers": 1,
+    "publisher": "GAME NACIONAL",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240106,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f087396685ddc24b3dbbee7b0579ddc2ef2e5d4853b97ec21c1d1a2ec3a10831.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e976eaf761dd6093213560defd93bf4b7ad55e224603a016cdeb43632027a512.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/932a7691a80b8c1fc2546e2da2351d002d3791f4e071fd207affe493d39b358a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/70472267f2e8271d2a15d5bddd228b2646c7d908f1866b769c1bb319e42b7b73.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3821372d7871a76d0087e486ab2b8218762f27ee46e017aa8f20e107446d5594.jpg"
+    ],
+    "size": 60817408,
+    "version": null
+  },
   "70010000062861": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f9b17e9955d207deab36ceb95a2631205b35f0ad508b2077ea39a54dd7253f1f.jpg",
     "category": [
@@ -2016,6 +2052,37 @@
       "https://img-eshop.cdn.nintendo.net/i/3c0d461f8419ab9ad90d870d1d3501afc6d53bd4be72b9854e2765e53846645c.jpg"
     ],
     "size": 393216000,
+    "version": null
+  },
+  "70070000019582": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/077fd579deeef492690867c621515389fdbd26119faa46879395fa13862a2628.jpg",
+    "category": null,
+    "description": "Hope's Farm\n\nEscape the big city stress and experience the quiet charm of rural life. Match your way through an incredible farming adventure. Grow crops, plant trees, raise adorable animals and customize a wonderful farm. Sell the farm goods through challenging match-3 levels and earn experience points to unlock lots of new items!\n\nDo you have what it takes to manage a successful farm? Find out on this amazing and unique blend of farming and matching game. And show your farming and decoration skills in Hope\u2019s Farm. It has never been so fun to take care of a farm.\n\nFeatures:\n* Countless hours of farming fun.\n* Grow crops, plant trees, raise adorable animals, and much more!\n* Solve puzzles with quick thinking and smart moves!\n* Earn experience points to unlock lots of new items!\n* Show your farming and decoration skills.\n* Great variety of crops, trees, flowers and animals.\n* Sell the farm goods through challenging match-3 levels.\n* Refill the well by playing incredible bonus Levels.\n* Complete daily quests and earn rewards.\n\n\nSecrets of Magic 3\n\nVictoria has become a teacher at Mystic Academy of Magic and your creativity is needed to help her decorate the schoolhouse for Halloween.\nMatch your way through this fun and phantasmal adventure game, overcome tough obstacles, use power ups to help you win gold to buy amazing Halloween decoration items and unlock new items as you progress in your game. Are you up for this spooky challenge?\n\nFeatures:\n\nGet into the Halloween mood with this clever match 3 game\nFun gameplay with tons of challenge levels\nPlan your moves, race against time or play it relaxed\nEnjoy a variety of game modes and difficulty modes\nCollect gold to buy Halloween decoration items\nTough obstacles and cool power ups",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Hope's Farm + Secrets of Magic 3",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Green Sauce Bundle",
+    "nsuId": 70070000019582,
+    "numberOfPlayers": null,
+    "publisher": "GAME NACIONAL",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240113,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/3e89f058ab9d42ce79cf9d220bc275c87cd8952a506d50a759d3d303b3321a3b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e399fd37a0f36ca6cb04797dff7f607a0fdf53dac2cf3b2fc099dc22b5d8cc75.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aa3cadad28fbef875fa66799095f76d77be6da0ddca8478aaaed879299304c2a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/46aed2cf2843dc22d1e89a5aa5ad5ffd4d7dd29d3a6148975da9749c8e67770c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/27e5a27116e77fc8b63d82cec73c9823e1b16cdb9867e5c22d076bb14557ec4f.jpg"
+    ],
+    "size": 375390208,
     "version": null
   },
   "70050000041801": {
