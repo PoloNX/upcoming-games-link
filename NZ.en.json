@@ -1,4 +1,98 @@
 {
+  "70010000066943": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/33d1a5d15b14523884506f7cb5d867ef2f8c2c46cb6b1cfccebd1af24898fc8d.jpg",
+    "category": [
+      "Platformer",
+      "Arcade",
+      "Action",
+      "Other"
+    ],
+    "description": "In this action-packed platformer, the famous detective Sherlock Holmes pursues his criminal adversary Professor Moriarty, who has managed to pull off a spectacular diamond heist with his accomplices. The wild chase leads through chic and dingy corners of London, the Baskerville manor house in Dartmoor and the catacombs in Paris. Finally, Sherlock meets his final opponent Moriarty at the famous Reichenbach Falls. \n\n\u2022 Discover 5 exciting worlds in a subtle steampunk setting \n\u2022 Overcome difficult obstacles \n\u2022 Clear funny and scary enemies out of the way \n\u2022 Over 60 challenging levels\n\u2022 Minigames: Find out where Moriarty has escaped to",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/816c7cd1a6b767b19912d94e283c5dc8aa04302569ca92b483eed211561e0c49.jpg",
+    "id": "01004FD01B50C000",
+    "intro": "Attention sleuths!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "nl",
+      "ru"
+    ],
+    "name": "Sherlock Holmes \u2013 The Hunt for Moriarty",
+    "nsuId": 70010000066943,
+    "numberOfPlayers": 1,
+    "publisher": "TREVA",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20231226,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/faf6e9e9e0a32440862eea951f3f15de1c9ff7e2473bbeedb05904e31fa046ae.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e8c1df1085d111f5e00e5e0fabf1e142582fb956e0ff47d2e7a83e0511ee7300.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9cabc25177a6d6611b9cd847a0747ad0cffcd1e33cde7835802a38d03da6ba7d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3248b1ea01964a3bf20fdc9cf3c87bbd4c577c4f1243b25e2d00d378125d8ad8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ab6e423c0a15c95191422f7e3c65cf8ab9aa7c92d6b7656a5b4524d942a67da9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4dda1f0eacd2ed7ef080756723e50e4286b065ed5ead5859451412cb93e40fd8.jpg"
+    ],
+    "size": 262144000,
+    "version": null
+  },
+  "70010000072897": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c90573c0eb1154591a394dccc98cd15642f2801d238bdee2d6d14cdd9ea6653.jpg",
+    "category": [
+      "Board Game",
+      "Multiplayer",
+      "Puzzle",
+      "Other"
+    ],
+    "description": "Backgammon, checkers and mills are among the oldest strategic games in the world and are played around the globe. They require concentration, strategic thinking and a bit of luck with the dice. Lovingly designed game boards and the option of adapting the rules to your own habits ensure fun and variety. \nThe popular board game classics for two players are ideal for grey rainy days, cosy game evenings or simply as a pastime. If you don't have a game partner, you can play challenging games against artificial intelligence. An entertaining collection of games for all ages!\n\n\u2022 Game boards with different looks\n\u2022 Customisable rules\n\u2022 In pairs or alone against the AI",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8c890f8d9eaee86c68127b4bc9506ab7d4ac64abfd55230cfb77a06f5bb50b09.jpg",
+    "id": "010045E01D140000",
+    "intro": "Discover three exciting board games!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "nl",
+      "ru"
+    ],
+    "name": "3in1 Game Collection: Backgammon + Checkers + Mills",
+    "nsuId": 70010000072897,
+    "numberOfPlayers": 2,
+    "publisher": "TREVA",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20231226,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/973fd5b1e09f2efc6b458fa88cd47a578afc5001d167a4fb11e32c2657345936.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d8fdc8961ccb2a7ca196d050c3a5fdc39b3244b7f4830427eb2ea36ac35e5636.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/de522b59ec460abc69cb78a85c0f60db1cbf9eda178352b15ff83befb40f807f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/db3b1ad6327975d2d60dd663b2ad9fadadb35d0735bf220a50b6568b2fc539fe.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5e4406c4c6def32064798fa0c5a58dee555151c5463a3f3c17f21ae0e147a647.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/368dc504db336dc3ffb1083394afc6998f09c207f82c46cf4a7818c2fd569e1d.jpg"
+    ],
+    "size": 531628032,
+    "version": null
+  },
   "70010000073512": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1b4dc18e5603d15394208aa2f73221d3b930ec6d04597a0b32a1afb1e8b74152.jpg",
     "category": [
@@ -81,6 +175,156 @@
     "size": 838860800,
     "version": null
   },
+  "70010000074070": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e76e9c8953355be70cf2875b0f5382a27758dc54db70bf51b4559131a7738b6.jpg",
+    "category": [
+      "Action",
+      "Arcade",
+      "RPG",
+      "Other"
+    ],
+    "description": "Get ready for an exciting and refreshing adventure!\nIn this thrilling game, you will be in charge of manipulating immune cells and medical nanomachines to fight off invading pathogens and save unknown creatures from deadly diseases.\n\nPrepare for epic battles against hordes of enemies and wipe them out using various attack skills accompanied by fun cartoon-like onomatopoeic words.\n\nChoose from a variety of immune cells and nanomachines, each with unique equipment and abilities that allow for an infinite number of play styles.\n\nAs you take control of the body's systems, beware of enemy attacks on weak points. Your character will be weakened and vital signs will drop if attacked, so be sure to respond to any SOS signals immediately.\n\nExperience the thrill of skill inflation and power-up production as you evolve your skills with power-up kits. You never know when the \"slot game\" will activate, increasing the level of your skills or exploding the number of skills you possess. Collect more power-up kits to take on powerful bosses!\n\nYour success in defeating the enemy and saving the unknown creatures depends on your strategy and luck. So, which combination of characters and skills will you choose to kick the enemy's ass? Get ready to find out!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8a418d67ce0e0870df756a5612639637d3bd3110e5d6cba939c920e4714086dd.jpg",
+    "id": "01003F901A0CA000",
+    "intro": "Feel refreshed inside your body!!\nA new type of Rogue-lite action game is here!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "name": "Petit Petit Petit",
+    "nsuId": 70010000074070,
+    "numberOfPlayers": 1,
+    "publisher": "MOSS",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20231226,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d2d6684ea573b293bcb534d241c3ddf64b3caa3aa47d6bff55cc0fd263bf3595.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/05cee69a8df2057cdf3009d868907c497e521734808a407cf311d182e89b8ffd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6bbb35a8103ba79a643b7c54bcee1dd6a9037fb23febe588d741a749ab2fb648.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/91c6b086ff660f14be85b8c1bb72606c1a03f547881942bdd94f0fc131aaafbd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fbffced0ef7f2d04ba4d6e47732d2e815eeb93a458e4ffe6f1286072e0e56120.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/81cbb17a3c02dba0cae52546b053483404930378f35a77c78be400a167b1e389.jpg"
+    ],
+    "size": 739246080,
+    "version": null
+  },
+  "70010000074789": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f414245d208f46d55ef85d9c44170d9982be34699159be9f5af609a6760563a8.jpg",
+    "category": [
+      "Puzzle",
+      "Education",
+      "Training",
+      "Board Game"
+    ],
+    "description": "-Solve 45 unique puzzles in an ice world\n-Record your progress and come back later\n-Start with any level!\n-Try to reach 3 stars in every puzzle\n-Beautiful art for pet lovers",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c4802b9c8d86acfda47d2c8790395dd3fc5658f0d39e718a96b7bc91f2484300.jpg",
+    "id": "0100BD501D866000",
+    "intro": "Solve 45 beautiful puzzles of pets including dogs, cats, horses and some magical friends",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Jigsaw Pets",
+    "nsuId": 70010000074789,
+    "numberOfPlayers": 1,
+    "publisher": "Bigboot Studios",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20231226,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/bf30d712e30e2a58adc97f61aa043c93d898cdbe6526137311e1bd697edf9485.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f5c98702bf3c12d8bb81bbd014cec49f10f1a4e744fb859fe8bb3c684d86a7c1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d7378b338d665f868fc8942ec8b905df57e85a923685c5f997e9f72a37f7d319.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1a98478aaf2e28d864ddfe14b4788afe67a8ccbcad7701c86961ad5609389484.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/167f9b9771d0796a31ff1a21e661947f193f1dbd39c5364d86bc5dc3679e576c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/88d0e9f4a39cebc245acbdf0245fb127f0317ae543336c378433d5be3513d249.jpg"
+    ],
+    "size": 305135616,
+    "version": null
+  },
+  "70050000045802": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c57cfd7e49b8a9a211ae5a336dd8865dac74673c3dc039574d98edc38ae2070d.jpg",
+    "category": null,
+    "description": "\"Leave Stockholm for Reykjavik.\"\n\"It's your mother's hometown and where we first met.\"\n\nThe Edge of the World DLC comes with the following content:\n\nNew Main Character [Fiona]\nFiona, a Swedish merchant of Viking descent inherited her family's failing business and huge debts brought about by the Hanseatic League's sanctions. Despite the pain from losing her father, Fiona is determined to keep her family's hard work away from the hands of their creditors, and she is desperately in need of a large sum of money to turn things around.\n\nNew Sailor [Marlene]\nMarlene, an outstanding but grumpy shipwright and craftsman. She was raised by Fiona's father after losing her parents and treats Fiona like her own elder sister, even though they are of the same age. Upon hearing that Fiona plans to set sail in search of an opportunity to repay her family's debts, Marlene decides to join the adventure and contribute her outstanding skills as a shipwright.\n\nDLC Story-Exclusive Port [Reykjavik]\nFiona follows the clues and things her father left behind and discovers a port linked to her mother's origins, Reykjavik. In order to help Reykjavik prosper and thrive into a busy commercial port, Fiona decides to crush the Hanseatic League's monopoly rule...\n\nNew Story-Exclusive Enemy [The Hanseatic League]\nIn the bustling trade center known as L\u00fcbeck, a powerful business alliance was born\u2014the Hanseatic League.\nThey took the reins of the entire business world through carefully planned trade routes and commodities. Any port that refused cooperation with them would be hit with heavy sanctions and suffer being forcefully blocked off from all trade.\nMeanwhile, the Hanseatic League secretly built a powerful armed maritime force in preparation for any resistance they may face.\n\nTwenty years ago, Fiona's father attempted to resist them, yet their trade restrictions led to his debts piling up and eventual bankruptcy.\nTwenty years later, today, history is about to change by your hand...\nNew World Boss [the Fermor]\nGladio, a former admiral in the navy, was \"forced\" to become a deserter during a decisive battle, and the bounty on his head threw him into the abyss.\nUnlike his subordinates whose hearts are clouded with greed, Gladio has his own code, even after becoming a pirate.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Edge of the World",
+    "nsuId": 70050000045802,
+    "numberOfPlayers": null,
+    "publisher": "BILIBILI HK",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Sexual References",
+      "Mild Themes"
+    ],
+    "region": null,
+    "releaseDate": 20231226,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/b5274c8925b075d0e1820ab965ac59ff1c705827fef3bbab09362896b5fdb501.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ba579b4c08e15eccd25ee501961bee16c716f4c35d97cfb351c126b0a18ef434.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/08798f29b9e93170e659c6e414777aa29e2cc129392904651422ac6775e3e6d1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f8ed158aa8833d466c4b5cfb8dd59a353090940094d79d60b7192576dbb7c8e5.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70050000045888": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/725e106967b184f14865215591830390b5b6e58e762ec4edd316c095c1e37cf4.jpg",
+    "category": null,
+    "description": "Get ready for Thrilling Party Pack,\na new downloadable content pack for Party Party Time!\nEnjoy 10 brand new minigames!\nEveryone can enjoy this party\u2019s power!\n\nThe \"Party Power Pack\" includes the following content:\n\n10 New Minigames:\n5 Competitive Games\n- Bouncing Battle\n- Park Together\n- Tower Balance\n- Human Pinball\n- Dig Dig Diamond\n5 Co-op Games\n- Domino Domino\n- Silhouette Puzzle\n- Break Shot\n- Face Off! Tug of War\n- Align and Erase",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Ramp up the fun with even more power!\nEnjoy 10 new minigames!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Party Power Pack",
+    "nsuId": 70050000045888,
+    "numberOfPlayers": null,
+    "publisher": "SAT-BOX",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20231226,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4cc1a0909ec57600cc27fe21d90f97c7cab0a4df5a54d3bdd65c4e60c5f29d82.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/537876f2e4b949a3d848ec59809a1d27cf007c52ba2b0e0a80093abe43b48a18.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/75cbb2ff4e63aa80beb57730da8cd77fe302a4a68164540a10642a35b534f714.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/70735da0067dc342a8814e024a47caa44d66c878e90e9de21b9eb3d9e9961349.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e2a4f1a46531d8185fa9e8b7b7cd7951f669586a144fe4d0e3c23fdee5076988.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c257abee0839757d034b6cc3446d9ee0ffd5874f85b656983c51956f8d144138.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
   "70070000018786": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/206e577a7f07b8aab85652b693d0e3218ca17a8643bb83ea1dd4945b42236f0c.jpg",
     "category": null,
@@ -150,6 +394,111 @@
       "https://img-eshop.cdn.nintendo.net/i/0ef8156345d96a408900bd82371dbd53d221dcd43bc4768049067ed02429c73a.jpg"
     ],
     "size": 327155712,
+    "version": null
+  },
+  "70070000020127": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6dca3af3fb16a3d297ca55a8c401d99b4b32eeb0d96c830c97779ede2c7c7999.jpg",
+    "category": null,
+    "description": "Lacuna\nYou are Neil Conrad, CDI agent. Awoken by the news of a murder, you rush into a case that will soon turn your life and the whole solar system upside down. Ask questions, collect evidence, and put the pieces together until the ugly truth reveals itself... or not.\n\nEncodya\nNeo Berlin 2062. Tina \u2013 a nine-year-old orphan \u2013 lives with SAM-53 \u2013 her big clumsy robot guardian \u2013in a rooftop makeshift shelter in Neo-Berlin, a dark megalopolis controlled by corporations. Tina is an urban jungle kid, who has learned to live alone, scavenging from city dumpsters and eking out a living from scraps. Her funny robot is always with her, programmed to protect her no matter what.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "The sci-fi detective adventure Lacuna meets the cyberpunk world of Encodya",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Lacuna + Encodya Bundle",
+    "nsuId": 70070000020127,
+    "numberOfPlayers": null,
+    "publisher": "Assemble Entertainment",
+    "rating": 13,
+    "ratingContent": [
+      "Coarse Language",
+      "Mature Themes",
+      "Sexual References",
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20231226,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/ec54f9de8d5631bc0a6f2612fb875ff6c17320daed05475c5bffcc2fe67e888f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9c72abc6ac99944f2ca7346299c30e9a9cecb4e5f2904e5007e72c2575cf11ab.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b6ed8e5c32757a84311864850e8e2e71d508bf52c9b0b67d15f568915cb16c2a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/becc00e1a211cc91cc5921b2051f7b15014d89f40eb690bbd1b84cb1679d1957.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8d8a06d0919f0783fed52974d50ed4ffd6a5370af439ffbdeacdd29a9ceaff77.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c2eafb5f698de0f167c18b23ea5ccf72e8d5a35fe81a54e3942e9cb105287591.jpg"
+    ],
+    "size": 6815744000,
+    "version": null
+  },
+  "70070000020182": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/008381d8bfa240e2c20d93b7b4468721cfbd561df9ddbe807f2c342bf2206a77.jpg",
+    "category": null,
+    "description": "A party game with simple controls anyone can enjoy!\nPass around the Joy-Con\u2122 and play with up to six players!\nExperience a whole variety of intuitive, easy-to-play minigames.\nTry to find your new favorite!\n\nThe party never stops with the Party Harder Pack, Party Fever Pack, Party Even Harder Pack, Excitement Pack, Happy Happy Pack, Thrilling Party Pack and Party Power Pack downloadable content bundle for Party Party Time!\nEveryone can enjoy this party\u2019s power!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "It's time to get this party started!\nEndless fun in a bash everyone can join!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Party Party Time + Royal Pack Set",
+    "nsuId": 70070000020182,
+    "numberOfPlayers": null,
+    "publisher": "SAT-BOX",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20231226,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/537876f2e4b949a3d848ec59809a1d27cf007c52ba2b0e0a80093abe43b48a18.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9d048c6f4f022ca38a9710855ea7521405f1ed924d6620dc5b3370bc16558dfd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0cdedb042f84e274bf43a5a7fb95db6c17055f72a6e07d400ab9974ce72c2173.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/70735da0067dc342a8814e024a47caa44d66c878e90e9de21b9eb3d9e9961349.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e7a1a834bcbb0732be9f0d63b80d14a0011065590531836da2fdcfff0d62c18b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1bfc29465ebfce882576ab24d0c6ac518a4f127fde3ddb66eb4b933278a4e5d4.jpg"
+    ],
+    "size": 778043392,
+    "version": null
+  },
+  "70070000020183": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c3bca625447b6990f8ea01c41a7740cf923dd64968c12197df23d327f874a1c1.jpg",
+    "category": null,
+    "description": "Party on!\nThe Excitement Pack and Happy Happy Pack and Thrilling Party Pack and Party Power Pack are now available as a downloadable content bundle!\n\n\"The Excitement Happy Thrilling Power 4 Pack Set\" includes the following contents:\n\n40 New Minigames:\n23 Competitive Games\n- Runaway Balls\n- Dance This Way\n- Stack 'n' Block\n- Dodgebomb\n- Sucker Punch\n- Bouncing Ball Bazooka\n- Strike Spin\n- Arrow Aim\n- Ball Darts\n- High and Low\n- Quick Draw\n- Shoot to Score\n- Buoyant Battle\n- Swing 'n' Jump\n- Robot Race\n- Jetpack Flight\n- Block Walls\n- Coin Slide\n- Bouncing Battle\n- Park Together\n- Tower Balance\n- Human Pinball\n- Dig Dig Diamond\n17 Co-op Games\n- UFO Collectors!\n- Try-Umph\n- Block Labyrinth\n- Bang! Bang! Hammer\n- Boss Fight\n- Floating Blocks\n- Sheep Herding\n- Block Fit\n- Wash It Clean!\n- Point Ball\n- Perfect Gears\n- Maze Together\n- Domino Domino\n- Silhouette Puzzle\n- Break Shot\n- Face Off! Tug of War\n- Align and Erase",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "The party has only just begun!\nEnjoy 40 new Party Party Time minigames!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Excitement Happy Thrilling Power 4 Pack Set",
+    "nsuId": 70070000020183,
+    "numberOfPlayers": null,
+    "publisher": "SAT-BOX",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20231226,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/537876f2e4b949a3d848ec59809a1d27cf007c52ba2b0e0a80093abe43b48a18.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c257abee0839757d034b6cc3446d9ee0ffd5874f85b656983c51956f8d144138.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fc95bdc8a51165cdcd40843f2a138cc6477878bf19390e331deba286016ff784.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/49980897383bf2322b39c9e2a808b166df9847db69aa49474d7a6f458c4eb855.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3a6327e447583aa10ad7e97c169f41384495a2334c97c16ea27982fab0f56f0f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0ab0830014a7d62e0e196d11eaab2bde4760174c157f7490bbf70aa6d919440a.jpg"
+    ],
+    "size": 12582912,
     "version": null
   },
   "70070000019423": {
@@ -1563,6 +1912,99 @@
     "size": 0,
     "version": null
   },
+  "70010000068638": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6dcce36a8a9357e8bcd43846aa51d48b7ffb50efea057f7012a9dbdeba85e344.jpg",
+    "category": [
+      "Adventure",
+      "Puzzle",
+      "Action",
+      "Other"
+    ],
+    "description": "A third-person, stealth, adventure game focused on the story of the Moonshadow Huntress: Cynthia Stranborg. Take control of the young adept and learn new stealth skills during your journey. Find out what happened in the home village and follow your desired path to rescue the ones you love the most. Travel through Tesana Valley to find a secretly hidden missing piece of artifact to enhance your bow. The Dark Power is coming from the north. You need to destroy the source of this power before it's too late. You are the last one that can reach that destination. At least you need to try, for your loved ones!\n\nKey features:\n-Stylized and colorful world\n-Fully voice acted emotional story\n-Stealth mechanics, arrows crafting, climbing sequences and light puzzle solving\n-A short story-driven game (to finish in one evening)\n-Several alternative outfits to unlock throughout the game.\n-A dedicated photo mode with multiple options to modify: pose, camera effects, stickers, face mimics etc.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/53ac70656204423dd4de8c5423f19e89a425b4c648a25c9ca0acd6798796ba1c.jpg",
+    "id": "010001C01BCAC000",
+    "intro": "3rd-person Action-Adventure game with stealth and puzzle solving.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de"
+    ],
+    "name": "Cynthia: Hidden in the Moonshadow",
+    "nsuId": 70010000068638,
+    "numberOfPlayers": 1,
+    "publisher": "Catthia Games",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "Very Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f0ae3ad081003723c2211a26db1754f2c8744f14c0a1e7afdccaeb2315876292.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cc7a71b80f8e7df4e030aa001bad97ef9bca442b354f2ad8dcb5557d6ce054c6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/274b64039101ef7e1ab94ff04ad7a23f1376e4b1cd7de6ca9583b6f02a3818e7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/55103c7f7180aa1f433d5b6b33fa0ab9a9fb3c295bac4deee92115e9b8dcee7c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cd35ab9ff0358579c9d4369ed7f91034b2c13f33b1c9a8fe1a7b0bfeb8f84a72.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ffa4c8aeb0e067e5d71c13e31173c612fb8dffbd1a2922f77c66ba61077cc1ca.jpg"
+    ],
+    "size": 2554331136,
+    "version": null
+  },
+  "70010000069236": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d61d2f097ed50a288e3bbd8a07e0cafc6af2eb46e8306670102fc66108581db6.jpg",
+    "category": [
+      "Simulation",
+      "Adventure"
+    ],
+    "description": "We were inspired by sandbox and simulation games, where players can create something of their own, set up processes, develop their creation, put their soul into it and show their creativity. In Cafe Owner Simulator you have such an opportunity, our goal is to give the world a game - in which everyone can realize his dream and open his own restaurant business.\n\nCleaning and Restoration.\nWhen you buy a room for your own restaurant - you will need to free it from trash and make major repairs, it is not an easy task, but what can be better than to clean up the future of a successful restaurant or cafe?\n\nCovering Surfaces.\nAfter cleaning and repairing - you will have to choose the best wallpaper, carpet or coverings of different materials, this is where your design will begin.\n\nKitchen and equipment.\nSo how do you do without kitchen equipment? Decide on the type of your future establishment and buy all the necessary equipment for it. Also, do not forget to connect it to the outlets.\n\nMenu and products\nTo open a place - you need to add a minimum of 5 dishes to the menu.\nTo prepare these dishes - you'll need products, you can buy them at the grocery store.\n\nManagement and employees\nThe game has a job market. To hire a staff member, pay a headhunter and he will find a marketable staff member for you. Every worker has his own characteristics, so choose the best ones.\nThe higher the characteristics - the higher the salary the worker wants. Over time, the motivation to work decreases - pay bonuses or hire new workers, here the choice is yours.\n\nDevelopment of the restaurant, levels\nFor performing various actions in the game - you earn experience points.\nWhen you reach a certain limit - the level grows and you get a lot of opportunities:\nnew furniture and equipment to set up, new dishes on the menu, new features on your tablet, cash rewards and more.\n\nRestaurant expansion and new features\nEarning money - you will be able to open new areas of your cafe to make all your design ideas come true. In the future it will be possible to build a hotel near the restaurant and create a square for recreation and entertainment of visitors.\n\nDuties of a restaurant owner\nLike any owner or manager of a restaurant business - there is a lot of work and daily tasks waiting for you. Paying bills, managing employees, ordering food, checking the condition of the equipment and its repair, controlling various pests and cleaning the premises, working at the cash register and at the cafe counter (until you hire employees for this), passing inspections by the fire inspector, setting up and ordering advertising, marketing, if necessary you can take a loan from the bank, but it is better to pay back in time, otherwise there will be problems, and much more.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/82ab54c0c0f0112cfa2d97798062b411b5385af51a68f9a5723d39f68eb24f46.jpg",
+    "id": "01000FD01BF7A000",
+    "intro": "Open your dream restaurant. Create a unique exterior and interior, hire the best workers and chefs, create a place where people will love to eat, spend time and spend their money. ",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "zh"
+    ],
+    "name": "Cafe Owner Simulator",
+    "nsuId": 70010000069236,
+    "numberOfPlayers": 1,
+    "publisher": "RockGame",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Themes"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/751508c8b734e0f4b5e7a9bda5fbcdfa6eaa8711f2e25da29e0f9188da28571e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/74232010b62d24ea7e6f1ff994c541e74de4d7c038e4f3466b204cd5ccec210d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d4a394a40c7bc9b8df056cf809343c8c31c9b8ec408cdd417000ccbdc6088469.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/abf56635c7dee933d27fc1b7ed086f33e2c292d2b6bdaa8288f361e714afc61c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/277bc1bf3232f38bb0e20039006dfa548410cf67c5c2c153a2bf228d2d2e75ee.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1daaa403a3bab842ac29d408521386747aa941fffeba55a06a78bc5007480703.jpg"
+    ],
+    "size": 2037383168,
+    "version": null
+  },
   "70010000069702": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/647be45a4db1f1e8b0d6a96f08896420c030d5c0dc92aaecce424087512a6c4a.jpg",
     "category": [
@@ -1682,6 +2124,150 @@
       "https://img-eshop.cdn.nintendo.net/i/c27357528da93b69137f2601584610e53cd7129f43bb327e69a02300c15ebd7b.jpg"
     ],
     "size": 890241024,
+    "version": null
+  },
+  "70050000045889": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f8ce732d47c4456509197eb68cec59ab3c62b76d989d0b6a700a18004894e6ab.jpg",
+    "category": null,
+    "description": "\"Cyberthia\" Costume DLC contains alternative outfit for Cynthia character.\n\nThank you so much <3 ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cynthia: Hidden in the Moonshadow - 'Cyberthia' Costume",
+    "nsuId": 70050000045889,
+    "numberOfPlayers": null,
+    "publisher": "Catthia Games",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "Very Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/de84954fead4994d58421b07e5b1a485df8f7a395e089f81b06aa403da6cbaaa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b5b9e4b4e7b881bd39dc8dca264326bc1fb7a8aff18910e5af0144c2bb1058e6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/687e7e7c5cd9f13034b9489b03317763167b1a99f33573fd4c2ae696c3274d8f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ad280163f120976bb812cd5bca1c13f72deafb60437c10d1b6b86f588df2542c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8f87ec7a31e24088925918bb88f8ffb1c978af2033dd8a7b7153122c8d200f30.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70050000045890": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1522da59f72d65d84e6b560f1124bd7998b2a4adf5ae535d0ed751714eae3b13.jpg",
+    "category": null,
+    "description": "To celebrate summer we are releasing a brand new 'Tropical Blossom' Costume DLC, which contains alternative outfit for Cynthia character.\n\nThank you so much <3 ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cynthia: Hidden in the Moonshadow - 'Tropical Blossom' Costume",
+    "nsuId": 70050000045890,
+    "numberOfPlayers": null,
+    "publisher": "Catthia Games",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "Very Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/6950aa02dffc09694e6cedf6089b4da5dbce414e50db72567c5fa175f1a46cd6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/43658ea2e4083b242716b1dc118d59d91a2b6cc62b9266f4b2d3f7cfe153f6af.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9797202d4a397903cbe14335884e13285800db54d4d2f3d8ef54be87b0058938.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bdb030e7c2451a74e7c2a72e0fdcf79a9774472abeeeab91dc181fb592202600.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ad0ec78cebe3b93c1ffc6c15acc6b28bc6588368a1182cb42b4b27c7c580c9c4.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70050000045891": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d59faf1fc5203cabcb27b953e883744fe00b3ca4118cba2b4800286b82ff26dc.jpg",
+    "category": null,
+    "description": "\"Xmas\" Costume DLC is here! Cynthia is now fully ready for the winter season. Celebrate this time with us and our third (and the last) DLC that contains alternative outfit for Cynthia.\n\nMuch love <3",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010001C01BCAD003",
+    "ids": [
+      "010001C01BCAD003"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cynthia: Hidden in the Moonshadow - 'Xmas' Costume",
+    "nsuId": 70050000045891,
+    "numberOfPlayers": null,
+    "publisher": "Catthia Games",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "Very Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a19b505aad8ffe16488e17d32654cca6103d7c87cd94df523e276f3d2d110130.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3344f14a838a6faf3dd0913f56345e1320e383d24ede505db6550d0333e04810.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4cc21fe1c11b9283e12e16c914877a2b1515826a4f5d0873192d24b16426cd95.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aee66f188370b0c5f49d01117a0d6d51595f2a3f5327109f1d97089e1969cdb2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b0c28cf3ce7650d3353baaf4545a324b6ea6b464012e5a959bb038364d224a7e.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70070000020208": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/826c5cb9410dc8fb4c4fad46e429d3aa631db6be179503580f4928b373316fd7.jpg",
+    "category": null,
+    "description": "A third-person, stealth, adventure game focused on the story of the Moonshadow Huntress: Cynthia Stranborg. Take control of the young adept and learn new stealth skills during your journey. Find out what happened in the home village and follow your desired path to rescue the ones you love the most. Travel through Tesana Valley to find a secretly hidden missing piece of artifact to enhance your bow. The Dark Power is coming from the north. You need to destroy the source of this power before it's too late. You are the last one that can reach that destination. At least you need to try, for your loved ones!\n\nKey features:\n-Stylized and colorful world\n-Fully voice acted emotional story\n-Stealth mechanics, arrows crafting, climbing sequences and light puzzle solving\n-A short story-driven game (to finish in one evening)\n-Several alternative outfits to unlock throughout the game.\n-A dedicated photo mode with multiple options to modify: pose, camera effects, stickers, face mimics etc.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cynthia: Hidden in the Moonshadow - Complete Edition",
+    "nsuId": 70070000020208,
+    "numberOfPlayers": null,
+    "publisher": "Catthia Games",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "Very Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f0ae3ad081003723c2211a26db1754f2c8744f14c0a1e7afdccaeb2315876292.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cc7a71b80f8e7df4e030aa001bad97ef9bca442b354f2ad8dcb5557d6ce054c6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/274b64039101ef7e1ab94ff04ad7a23f1376e4b1cd7de6ca9583b6f02a3818e7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/55103c7f7180aa1f433d5b6b33fa0ab9a9fb3c295bac4deee92115e9b8dcee7c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cd35ab9ff0358579c9d4369ed7f91034b2c13f33b1c9a8fe1a7b0bfeb8f84a72.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ffa4c8aeb0e067e5d71c13e31173c612fb8dffbd1a2922f77c66ba61077cc1ca.jpg"
+    ],
+    "size": 2557476864,
     "version": null
   },
   "70010000057394": {
@@ -3184,6 +3770,52 @@
     "size": 212860928,
     "version": null
   },
+  "70010000070536": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/101b68328ce9e680ef66ea7da5865a10578285c7bfe5e3456df9f9fb5ee46113.jpg",
+    "category": [
+      "Puzzle",
+      "Training",
+      "Arcade",
+      "Simulation"
+    ],
+    "description": "Classic Piczle nonograms x Story of Seasons\nEnjoy the bucolic charm of Story of Seasons while relaxing and exercising your brain with classic logic-puzzles. All your favourite villagers and bachelors, tools and crops, animals and upgrades in nonogram form will provide you with countless hours of puzzling!\n\nNo end of nonograms\nWith 350 puzzles featuring a wealth of different Story of Seasons mainstays you\u2019ll have a veritable pasture-full of puzzling pleasure!\n\nGrow your farm\nAs you clear puzzles the seasons progress, your farm expands, livestock appears and crops grow.\u00a0\n\nBigger together\n5 unlockable collage puzzles celebrate Story of Seasons\u2019 festivals by combining dozens of puzzles into a bigger picture.\n\nPlay it your way!\nTrue to the Piczle series, Piczle Cross; Story of Seasons provides the most feature-rich and option-abundant experience available to cater the puzzling experience to your exact liking. From hiding away the timer to correcting your mistakes, from choosing the puzzles\u2019 themes to managing how completed clues are marked off, you can play exactly how you want. There is no wrong way to play!\n\nExplore the almanac\nClearing specific puzzles will unlock entries in the in-game 100+ page almanac that celebrates all your favourite characters and critters from the Story of Seasons games.\u00a0\n\nDetailed statistics\nKeep an eye on your progress with detailed statistics and achievements. Replay puzzles to improve your time, or to hone your skills without using helpful gameplay options. \n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/faaea4b709bd32b80ccbd726dde7c0dd5e17db0c625b36289f2635082a0b5f37.jpg",
+    "id": "01003F201C5BA000",
+    "intro": "Piczle meets Story of Seasons with over 350 nonogram puzzles from the beloved farm life game series!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Piczle Cross: Story of Seasons",
+    "nsuId": 70010000070536,
+    "numberOfPlayers": 1,
+    "publisher": "RAINYFROG",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240228,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/5e89546954d50dc558c88512a453c200d2e04a33db4336512221560053829c3b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/144030fc87c338809f23ea410fc172f1d5de379f0082128f98fd574401967f9a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c476e5ece304e733a257f8f7b5baa41da84217c6568b7f0741800c7ffe62c1cb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5f446869e452e8adfd9201e82c72e70077cc0f063cfa5b843ac66e9c3ba55c02.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dde1844324095b8cfe6816cb9170d94e3c834172cda83cbf54d2e7016b09a105.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5e3b9a9eaaa413dd58bec934b2b85267ef30ce178606e4f1ceabdd7fc8428220.jpg"
+    ],
+    "size": 476053504,
+    "version": null
+  },
   "70050000042854": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2923f71643f5032d2b5786cc3fd896e3eb1d168b4a64ecc84ef0422295f73dee.jpg",
     "category": null,
@@ -3289,6 +3921,44 @@
     "rightsId": null,
     "screenshots": null,
     "size": 3145728,
+    "version": null
+  },
+  "70010000066560": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/36426f576b1cbeaf4d5ce7ea86b9994548798029fe8426bf55e6a0b19b9df35f.jpg",
+    "category": [
+      "Adventure"
+    ],
+    "description": "This jam-packed collection features Touch Detective 3, the biggest and best adventure of junior detective Mackenzie and her faithful sidekick Funghi, playable in English for the first time. With the arrival in town of the highly competitive detective Norman Touche, the pressure's on Mackenzie to solve cases before her rival does!\n\nTouch Detective 3 + The Complete Case Files also includes the entire original Touch Detective and Touch Detective 2\u00bd games, plus two bonus cases starring Funghi and an extensive gallery of artwork from the entire history of the Touch Detective series. Help Mackenzie and her friends as they examine clues, interview suspects and get to the bottom of one zany mystery after another!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/714c7a862f53e6cb426f81b23b1f262187d37b25116a42f1d073b806c59a0f81.jpg",
+    "id": "0100B1801B398000",
+    "intro": "The Cutest and Quirkiest Detective Adventures, Now Collected With Bonuses!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Touch Detective 3 + The Complete Case Files",
+    "nsuId": 70010000066560,
+    "numberOfPlayers": 1,
+    "publisher": "Nicalis",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Themes"
+    ],
+    "region": null,
+    "releaseDate": 20240329,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/e689493ef14a4f4df087f6c7ef7e910b0b22c61ebfc60a0c86c02bf0a8411379.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/47feb5e14a4a5a7b77225d3bd1e60cce1d6c9d1126bc2691c026a2f59d344665.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b1be1d072a099b208c17853b8aebf07429183a55420d5eaf42f83ff2ef74b376.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/60c984b3e0dbc1777d7658bf90185933f1c6645e1420b33af66a6508c2365c34.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fbca9a0da6e665942ef8d4c5feb57cc7af9eb62dd29f64033789e554e8203345.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f8d4094340c3ff27cd16b48e51483a6ec10809ee1c5acf3aa91a1ea0df8e75e1.jpg"
+    ],
+    "size": 2791309312,
     "version": null
   },
   "70050000042855": {

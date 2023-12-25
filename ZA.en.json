@@ -1617,6 +1617,96 @@
     "size": 0,
     "version": null
   },
+  "70010000068638": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6dcce36a8a9357e8bcd43846aa51d48b7ffb50efea057f7012a9dbdeba85e344.jpg",
+    "category": [
+      "Adventure",
+      "Puzzle",
+      "Action",
+      "Other"
+    ],
+    "description": "A third-person, stealth, adventure game focused on the story of the Moonshadow Huntress: Cynthia Stranborg. Take control of the young adept and learn new stealth skills during your journey. Find out what happened in the home village and follow your desired path to rescue the ones you love the most. Travel through Tesana Valley to find a secretly hidden missing piece of artifact to enhance your bow. The Dark Power is coming from the north. You need to destroy the source of this power before it's too late. You are the last one that can reach that destination. At least you need to try, for your loved ones!\n\nKey features:\n-Stylized and colorful world\n-Fully voice acted emotional story\n-Stealth mechanics, arrows crafting, climbing sequences and light puzzle solving\n-A short story-driven game (to finish in one evening)\n-Several alternative outfits to unlock throughout the game.\n-A dedicated photo mode with multiple options to modify: pose, camera effects, stickers, face mimics etc.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/53ac70656204423dd4de8c5423f19e89a425b4c648a25c9ca0acd6798796ba1c.jpg",
+    "id": "010001C01BCAC000",
+    "intro": "3rd-person Action-Adventure game with stealth and puzzle solving.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de"
+    ],
+    "name": "Cynthia: Hidden in the Moonshadow",
+    "nsuId": 70010000068638,
+    "numberOfPlayers": 1,
+    "publisher": "Catthia Games",
+    "rating": 12,
+    "ratingContent": [
+      "Moderate Violence",
+      "In-game purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240110,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f0ae3ad081003723c2211a26db1754f2c8744f14c0a1e7afdccaeb2315876292.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cc7a71b80f8e7df4e030aa001bad97ef9bca442b354f2ad8dcb5557d6ce054c6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/274b64039101ef7e1ab94ff04ad7a23f1376e4b1cd7de6ca9583b6f02a3818e7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/55103c7f7180aa1f433d5b6b33fa0ab9a9fb3c295bac4deee92115e9b8dcee7c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cd35ab9ff0358579c9d4369ed7f91034b2c13f33b1c9a8fe1a7b0bfeb8f84a72.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ffa4c8aeb0e067e5d71c13e31173c612fb8dffbd1a2922f77c66ba61077cc1ca.jpg"
+    ],
+    "size": 2554331136,
+    "version": null
+  },
+  "70010000069236": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d61d2f097ed50a288e3bbd8a07e0cafc6af2eb46e8306670102fc66108581db6.jpg",
+    "category": [
+      "Simulation",
+      "Adventure"
+    ],
+    "description": "We were inspired by sandbox and simulation games, where players can create something of their own, set up processes, develop their creation, put their soul into it and show their creativity. In Cafe Owner Simulator you have such an opportunity, our goal is to give the world a game - in which everyone can realize his dream and open his own restaurant business.\n\nCleaning and Restoration.\nWhen you buy a room for your own restaurant - you will need to free it from trash and make major repairs, it is not an easy task, but what can be better than to clean up the future of a successful restaurant or cafe?\n\nCovering Surfaces.\nAfter cleaning and repairing - you will have to choose the best wallpaper, carpet or coverings of different materials, this is where your design will begin.\n\nKitchen and equipment.\nSo how do you do without kitchen equipment? Decide on the type of your future establishment and buy all the necessary equipment for it. Also, do not forget to connect it to the outlets.\n\nMenu and products\nTo open a place - you need to add a minimum of 5 dishes to the menu.\nTo prepare these dishes - you'll need products, you can buy them at the grocery store.\n\nManagement and employees\nThe game has a job market. To hire a staff member, pay a headhunter and he will find a marketable staff member for you. Every worker has his own characteristics, so choose the best ones.\nThe higher the characteristics - the higher the salary the worker wants. Over time, the motivation to work decreases - pay bonuses or hire new workers, here the choice is yours.\n\nDevelopment of the restaurant, levels\nFor performing various actions in the game - you earn experience points.\nWhen you reach a certain limit - the level grows and you get a lot of opportunities:\nnew furniture and equipment to set up, new dishes on the menu, new features on your tablet, cash rewards and more.\n\nRestaurant expansion and new features\nEarning money - you will be able to open new areas of your cafe to make all your design ideas come true. In the future it will be possible to build a hotel near the restaurant and create a square for recreation and entertainment of visitors.\n\nDuties of a restaurant owner\nLike any owner or manager of a restaurant business - there is a lot of work and daily tasks waiting for you. Paying bills, managing employees, ordering food, checking the condition of the equipment and its repair, controlling various pests and cleaning the premises, working at the cash register and at the cafe counter (until you hire employees for this), passing inspections by the fire inspector, setting up and ordering advertising, marketing, if necessary you can take a loan from the bank, but it is better to pay back in time, otherwise there will be problems, and much more.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/82ab54c0c0f0112cfa2d97798062b411b5385af51a68f9a5723d39f68eb24f46.jpg",
+    "id": "01000FD01BF7A000",
+    "intro": "Open your dream restaurant. Create a unique exterior and interior, hire the best workers and chefs, create a place where people will love to eat, spend time and spend their money. ",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "zh"
+    ],
+    "name": "Cafe Owner Simulator",
+    "nsuId": 70010000069236,
+    "numberOfPlayers": 1,
+    "publisher": "RockGame",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240110,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/751508c8b734e0f4b5e7a9bda5fbcdfa6eaa8711f2e25da29e0f9188da28571e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/74232010b62d24ea7e6f1ff994c541e74de4d7c038e4f3466b204cd5ccec210d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d4a394a40c7bc9b8df056cf809343c8c31c9b8ec408cdd417000ccbdc6088469.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/abf56635c7dee933d27fc1b7ed086f33e2c292d2b6bdaa8288f361e714afc61c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/277bc1bf3232f38bb0e20039006dfa548410cf67c5c2c153a2bf228d2d2e75ee.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1daaa403a3bab842ac29d408521386747aa941fffeba55a06a78bc5007480703.jpg"
+    ],
+    "size": 2037383168,
+    "version": null
+  },
   "70010000071990": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/99cc815d95db9600abf37945cf38361166cff84434d700692d35422a4d900466.jpg",
     "category": [
@@ -1655,6 +1745,146 @@
       "https://img-eshop.cdn.nintendo.net/i/2328d5c8097675a29b1fe08ef163767ce03414864836196ff52a3a95e90a13a5.jpg"
     ],
     "size": 184549376,
+    "version": null
+  },
+  "70050000045889": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f8ce732d47c4456509197eb68cec59ab3c62b76d989d0b6a700a18004894e6ab.jpg",
+    "category": null,
+    "description": "\"Cyberthia\" Costume DLC contains alternative outfit for Cynthia character.\n\nThank you so much <3 ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cynthia: Hidden in the Moonshadow - 'Cyberthia' Costume",
+    "nsuId": 70050000045889,
+    "numberOfPlayers": null,
+    "publisher": "Catthia Games",
+    "rating": 12,
+    "ratingContent": [
+      "Moderate Violence",
+      "In-game purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240110,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/de84954fead4994d58421b07e5b1a485df8f7a395e089f81b06aa403da6cbaaa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b5b9e4b4e7b881bd39dc8dca264326bc1fb7a8aff18910e5af0144c2bb1058e6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/687e7e7c5cd9f13034b9489b03317763167b1a99f33573fd4c2ae696c3274d8f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ad280163f120976bb812cd5bca1c13f72deafb60437c10d1b6b86f588df2542c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8f87ec7a31e24088925918bb88f8ffb1c978af2033dd8a7b7153122c8d200f30.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70050000045890": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1522da59f72d65d84e6b560f1124bd7998b2a4adf5ae535d0ed751714eae3b13.jpg",
+    "category": null,
+    "description": "To celebrate summer we are releasing a brand new 'Tropical Blossom' Costume DLC, which contains alternative outfit for Cynthia character.\n\nThank you so much <3 ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cynthia: Hidden in the Moonshadow - 'Tropical Blossom' Costume",
+    "nsuId": 70050000045890,
+    "numberOfPlayers": null,
+    "publisher": "Catthia Games",
+    "rating": 12,
+    "ratingContent": [
+      "Moderate Violence",
+      "In-game purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240110,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/6950aa02dffc09694e6cedf6089b4da5dbce414e50db72567c5fa175f1a46cd6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/43658ea2e4083b242716b1dc118d59d91a2b6cc62b9266f4b2d3f7cfe153f6af.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9797202d4a397903cbe14335884e13285800db54d4d2f3d8ef54be87b0058938.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bdb030e7c2451a74e7c2a72e0fdcf79a9774472abeeeab91dc181fb592202600.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ad0ec78cebe3b93c1ffc6c15acc6b28bc6588368a1182cb42b4b27c7c580c9c4.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70050000045891": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d59faf1fc5203cabcb27b953e883744fe00b3ca4118cba2b4800286b82ff26dc.jpg",
+    "category": null,
+    "description": "\"Xmas\" Costume DLC is here! Cynthia is now fully ready for the winter season. Celebrate this time with us and our third (and the last) DLC that contains alternative outfit for Cynthia.\n\nMuch love <3",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010001C01BCAD003",
+    "ids": [
+      "010001C01BCAD003"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cynthia: Hidden in the Moonshadow - 'Xmas' Costume",
+    "nsuId": 70050000045891,
+    "numberOfPlayers": null,
+    "publisher": "Catthia Games",
+    "rating": 12,
+    "ratingContent": [
+      "Moderate Violence",
+      "In-game purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240110,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a19b505aad8ffe16488e17d32654cca6103d7c87cd94df523e276f3d2d110130.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3344f14a838a6faf3dd0913f56345e1320e383d24ede505db6550d0333e04810.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4cc21fe1c11b9283e12e16c914877a2b1515826a4f5d0873192d24b16426cd95.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aee66f188370b0c5f49d01117a0d6d51595f2a3f5327109f1d97089e1969cdb2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b0c28cf3ce7650d3353baaf4545a324b6ea6b464012e5a959bb038364d224a7e.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70070000020208": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/826c5cb9410dc8fb4c4fad46e429d3aa631db6be179503580f4928b373316fd7.jpg",
+    "category": null,
+    "description": "A third-person, stealth, adventure game focused on the story of the Moonshadow Huntress: Cynthia Stranborg. Take control of the young adept and learn new stealth skills during your journey. Find out what happened in the home village and follow your desired path to rescue the ones you love the most. Travel through Tesana Valley to find a secretly hidden missing piece of artifact to enhance your bow. The Dark Power is coming from the north. You need to destroy the source of this power before it's too late. You are the last one that can reach that destination. At least you need to try, for your loved ones!\n\nKey features:\n-Stylized and colorful world\n-Fully voice acted emotional story\n-Stealth mechanics, arrows crafting, climbing sequences and light puzzle solving\n-A short story-driven game (to finish in one evening)\n-Several alternative outfits to unlock throughout the game.\n-A dedicated photo mode with multiple options to modify: pose, camera effects, stickers, face mimics etc.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cynthia: Hidden in the Moonshadow - Complete Edition",
+    "nsuId": 70070000020208,
+    "numberOfPlayers": null,
+    "publisher": "Catthia Games",
+    "rating": 12,
+    "ratingContent": [
+      "Moderate Violence",
+      "In-game purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240110,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f0ae3ad081003723c2211a26db1754f2c8744f14c0a1e7afdccaeb2315876292.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cc7a71b80f8e7df4e030aa001bad97ef9bca442b354f2ad8dcb5557d6ce054c6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/274b64039101ef7e1ab94ff04ad7a23f1376e4b1cd7de6ca9583b6f02a3818e7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/55103c7f7180aa1f433d5b6b33fa0ab9a9fb3c295bac4deee92115e9b8dcee7c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cd35ab9ff0358579c9d4369ed7f91034b2c13f33b1c9a8fe1a7b0bfeb8f84a72.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ffa4c8aeb0e067e5d71c13e31173c612fb8dffbd1a2922f77c66ba61077cc1ca.jpg"
+    ],
+    "size": 2557476864,
     "version": null
   },
   "70010000069702": {
@@ -3424,6 +3654,50 @@
     "size": 212860928,
     "version": null
   },
+  "70010000070536": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/101b68328ce9e680ef66ea7da5865a10578285c7bfe5e3456df9f9fb5ee46113.jpg",
+    "category": [
+      "Puzzle",
+      "Training",
+      "Arcade",
+      "Simulation"
+    ],
+    "description": "Classic Piczle nonograms x Story of Seasons\nEnjoy the bucolic charm of Story of Seasons while relaxing and exercising your brain with classic logic-puzzles. All your favourite villagers and bachelors, tools and crops, animals and upgrades in nonogram form will provide you with countless hours of puzzling!\n\nNo end of nonograms\nWith 350 puzzles featuring a wealth of different Story of Seasons mainstays you\u2019ll have a veritable pasture-full of puzzling pleasure!\n\nGrow your farm\nAs you clear puzzles the seasons progress, your farm expands, livestock appears and crops grow.\u00a0\n\nBigger together\n5 unlockable collage puzzles celebrate Story of Seasons\u2019 festivals by combining dozens of puzzles into a bigger picture.\n\nPlay it your way!\nTrue to the Piczle series, Piczle Cross; Story of Seasons provides the most feature-rich and option-abundant experience available to cater the puzzling experience to your exact liking. From hiding away the timer to correcting your mistakes, from choosing the puzzles\u2019 themes to managing how completed clues are marked off, you can play exactly how you want. There is no wrong way to play!\n\nExplore the almanac\nClearing specific puzzles will unlock entries in the in-game 100+ page almanac that celebrates all your favourite characters and critters from the Story of Seasons games.\u00a0\n\nDetailed statistics\nKeep an eye on your progress with detailed statistics and achievements. Replay puzzles to improve your time, or to hone your skills without using helpful gameplay options.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/faaea4b709bd32b80ccbd726dde7c0dd5e17db0c625b36289f2635082a0b5f37.jpg",
+    "id": "01003F201C5BA000",
+    "intro": "Piczle meets Story of Seasons with over 350 nonogram puzzles from the beloved farm life game series!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Piczle Cross: Story of Seasons",
+    "nsuId": 70010000070536,
+    "numberOfPlayers": 1,
+    "publisher": "Rainy Frog",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240227,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/5e89546954d50dc558c88512a453c200d2e04a33db4336512221560053829c3b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/144030fc87c338809f23ea410fc172f1d5de379f0082128f98fd574401967f9a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c476e5ece304e733a257f8f7b5baa41da84217c6568b7f0741800c7ffe62c1cb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5f446869e452e8adfd9201e82c72e70077cc0f063cfa5b843ac66e9c3ba55c02.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dde1844324095b8cfe6816cb9170d94e3c834172cda83cbf54d2e7016b09a105.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5e3b9a9eaaa413dd58bec934b2b85267ef30ce178606e4f1ceabdd7fc8428220.jpg"
+    ],
+    "size": 476053504,
+    "version": null
+  },
   "70050000042854": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2923f71643f5032d2b5786cc3fd896e3eb1d168b4a64ecc84ef0422295f73dee.jpg",
     "category": null,
@@ -3496,6 +3770,42 @@
       "https://img-eshop.cdn.nintendo.net/i/e66b11e93febb8f50ecdb5be9ce1f124f18933cc1126c696bce6e12bce7897c0.jpg"
     ],
     "size": 0,
+    "version": null
+  },
+  "70010000066560": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/36426f576b1cbeaf4d5ce7ea86b9994548798029fe8426bf55e6a0b19b9df35f.jpg",
+    "category": [
+      "Adventure"
+    ],
+    "description": "This jam-packed collection features Touch Detective 3, the biggest and best adventure of junior detective Mackenzie and her faithful sidekick Funghi, playable in English for the first time. With the arrival in town of the highly competitive detective Norman Touche, the pressure's on Mackenzie to solve cases before her rival does!\n\nTouch Detective 3 + The Complete Case Files also includes the entire original Touch Detective and Touch Detective 2\u00bd games, plus two bonus cases starring Funghi and an extensive gallery of artwork from the entire history of the Touch Detective series. Help Mackenzie and her friends as they examine clues, interview suspects and get to the bottom of one zany mystery after another!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/714c7a862f53e6cb426f81b23b1f262187d37b25116a42f1d073b806c59a0f81.jpg",
+    "id": "0100B1801B398000",
+    "intro": "The Cutest and Quirkiest Detective Adventures, Now Collected With Bonuses!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Touch Detective 3 + \nThe Complete Case Files",
+    "nsuId": 70010000066560,
+    "numberOfPlayers": 1,
+    "publisher": "Nicalis",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240328,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/e689493ef14a4f4df087f6c7ef7e910b0b22c61ebfc60a0c86c02bf0a8411379.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/47feb5e14a4a5a7b77225d3bd1e60cce1d6c9d1126bc2691c026a2f59d344665.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b1be1d072a099b208c17853b8aebf07429183a55420d5eaf42f83ff2ef74b376.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/60c984b3e0dbc1777d7658bf90185933f1c6645e1420b33af66a6508c2365c34.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fbca9a0da6e665942ef8d4c5feb57cc7af9eb62dd29f64033789e554e8203345.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f8d4094340c3ff27cd16b48e51483a6ec10809ee1c5acf3aa91a1ea0df8e75e1.jpg"
+    ],
+    "size": 2791309312,
     "version": null
   },
   "70050000045350": {
