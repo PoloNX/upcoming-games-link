@@ -1,711 +1,4 @@
 {
-  "70010000073535": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b925d0bd593d03eef09537444dac85c676ea32943eb777e095f0f3e996524058.jpg",
-    "category": [
-      "Puzzelspel"
-    ],
-    "description": "A new type of soothing puzzle game where you guide cats to their dens (warp holes) by manipulating a Joy-Con\u2122 cat wand. When you guide the cats with the designated patterns into the holes in the correct order, a combo occurs. Successful combos extend the time limit. Once the game starts, carefully observe the patterns of the cats and plan your route to the dens. Sometimes, you have to solve the mysteries placed on the stage for the dens to appear. Users who participated in the crowdfunding can see their own cats' photos and names featured as card items in the game. Lead the special cats that appear on the stage to the dens in large numbers to complete your card collection.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ff90891d0830f2962cc86fbe5ce93a3130a30bac79b13ed87aeb3b675de5c318.jpg",
-    "id": "0100BD0010FE4000",
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "zh"
-    ],
-    "name": "Nekomin",
-    "nsuId": 70010000073535,
-    "numberOfPlayers": 1,
-    "publisher": "JETMAN",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/1a44f99accbf6f3bc83929a9bdc651dd4576e4303dbeb642c7f4e08e75762391.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/1c35a467f3ba1986ee851892d75d462ea3909dc1bc3ba44171f35b1803082f34.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bceb0b92434a10187ae1a7c988eafc4035bd94d7fa8047800456d496ffa5f6d2.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/10981cf626ff5b9caa0f292f2e476f6db7b16a658ae4f3a02508ea42a1d1a083.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e7fbff683f56ca11e720bd1c5cff04f766a3d58cffce115ba0979d64c4209146.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aca112418fc0646cc0c850855204bbc5dfd4b921c1920a1adaf41c2888cfa8c4.jpg"
-    ],
-    "size": 838860800,
-    "version": null
-  },
-  "70010000073680": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8911afc05f7c7b60f4507cfc0981354cff68b8cb6f436787cceb476d0b71729b.jpg",
-    "category": [
-      "Avonturenspel",
-      "Simulatiespel",
-      "Puzzelspel",
-      "Anders"
-    ],
-    "description": "Become the best police officer of the intergalactic patrol, watch over the planet's border and protect the galaxy. Analyze papers from all types of aliens and check their luggage!\n\nParasites are the main galactic threat and will do anything for universal domination. How good are you at identifying them? Remember that the goal is to keep the galactic airport's security and find criminal parasites to arrest them!\n\nYour main objective is to check the traveler's passports and discover dangerous objects they can use, like bananas... THAT'S RIGHT, BANANAS!! Our lives depend on checking the aliens' papers, X-rays and luggage! The more enemies you find on the planet's border, the more money you'll get to upgrade your equipment.\n\nFeatures:\n- become a real border patrol officer!\n- carefully check the documents of people traveling because they might be fake!\n- find false data on documents and send unauthorized people home \n- scan travelers using special machines and find forbidden items under their clothes or in suitcases\n- get a daily target of correctly checked travelers and earn rewards\n- upgrade your machines to reduce scanning time and increase the number of rewards per traveler \n- complete all levels with different objectives while avoiding activities that cause you to fail the level. Stay focused and don't make any mistakes!\n- watch the levels with a storyline and see what happens!\n\nGrab your space suit, prepare your intergalactic equipment, and secure the planet's border! ",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ef44988d9228c9d593f7280d38ed6188e664b98995ee927ee7b20c2d32b2ef45.jpg",
-    "id": "01009EB01C1FE000",
-    "intro": "Attention, Earthwad! Welcome to Nations United by Convenience, the NUC. You have just called up for a great mission on Earth as an intergalactic border patrol officer!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Space Papers: Planet's Border",
-    "nsuId": 70010000073680,
-    "numberOfPlayers": 1,
-    "publisher": "QubicGames",
-    "rating": 16,
-    "ratingContent": [
-      "Heftig geweld"
-    ],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/9b2778930b8d7c66761d3801b41820d96037722ad47ca888b2bba95d2fc95e06.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/199c58d79e038c5b7f3ad093d2f1cf88cbcf75b5ae2e922a0658ad9164057f2f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e9b0c4b96c97460f3ddac3ebb1d490fa798728ff446dc671bb39bfc3f7f78aa2.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/0552e4199239763f82f273e29efdaffd825e20f68f1b87e4643f9513db1063fb.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9276ed7420208976be6c07e732b3c3c4a9b0d5273118d8d87e1a0cba1d3b4fe2.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/af4d28fc6ea828534d75cb6a9a3e9aa8547868656765260c0ff0a73590b36c98.jpg"
-    ],
-    "size": 224395264,
-    "version": null
-  },
-  "70010000074169": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/596711896f2f5ab58f70f3733484fcb291822b577dbea0c60d6c418c23ba0b00.jpg",
-    "category": [
-      "Speelhalspel",
-      "Actiespel",
-      "Party",
-      "Sportspel"
-    ],
-    "description": "Duik in een wereld van tafelvoetbal, gemaakt voor de Nintendo Switch-ervaring. Of je nu wacht op de volgende wedstrijd van je team of thuis aan het chillen bent, de spanning van de tafelvoetbaltafel is slechts een Joy-Con-glijbaan verwijderd.\n\nKies uit een set ontworpen tafels, spelersfiguren en ballen die bij uw stemming passen. \nKies voor rasterindelingen met 3 of 4 rijen, zodat u de uitdaging kunt afstemmen op uw vaardigheidsniveau.\nSolo spelen? Geen probleem. Heb je een vriend? Nog beter! Duik in onderlinge gevechten op een gedeeld scherm.\n\nHoud je voortgang bij, pak de felbegeerde trofee\u00ebn en leg de handschoen neer als de Pocket Foosball-maestro waar iedereen het over heeft.\n\nJoy-Cons klaar? Laten we die tafelactie tot leven brengen!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b1ea4c0bc6261375f25e1365661fb613b7a169897edd757a2b6398a6047d9ab8.jpg",
-    "id": "01006E401D5C2000",
-    "intro": "Pocket Foosball - Tafelvoetbal-opwinding, Switch-stijl!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "es",
-      "fr",
-      "de",
-      "it"
-    ],
-    "name": "Pocket Foosball",
-    "nsuId": 70010000074169,
-    "numberOfPlayers": 2,
-    "publisher": "Baltoro Minis",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/7b808c5a2c47d2a6729d3ea903f5fb00cd545ba5e2ca812f6c252c925d54cc46.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ab05c65d170b3da4d1c9ff6154273d3a1b48ce8fe577efcf8d623f6eac10577c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7e82d46f3dc0119798d8026898beb3de80055d3578894375ba7ea745ff22b865.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/09c4d05497d8f3df65266bcc2aca3be37289005bc83ba8b5261a5bf7e2248d46.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/66840eb5b095630e110abc024cd230a2a943df946ab069c341c7975bf8c09463.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/63224409d9ef9d3ecbb83b151c2c7b7edadfce28a55e321b9ec4396f07560537.jpg"
-    ],
-    "size": 244318208,
-    "version": null
-  },
-  "70010000074554": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/210680b47c0cd9632fb1bf68c1ceddc5896ac2a9183f3be10d82854fd20d6ef5.jpg",
-    "category": [
-      "Speelhalspel",
-      "Platformspel",
-      "Actiespel",
-      "Avonturenspel"
-    ],
-    "description": "In this big, dark world, you're a little stickman with a huge mission. Get ready to ignite the excitement and light your way through an epic adventure! Light up each figure, bringing it to life with vibrant colors. Get ready to test your reflexes and agility as you navigate through this colorful world of shapes and light!\n\nJust when you start to feel like a stickman boss and love that color glow, things get complicated as you jump, flip and pass levels. Color shapes start moving, rotating, and even exploding, and lethal spikes become a constant threat to your little stickman's life. If you miss a jump, if your swing\u2019s a dud, if your flip isn\u2019t on point, or if you hit a spike\u2026 you fall into oblivion!\n\nFeatures:\n- jump, flip, slide and swing as a little stickman \n- light up 150 levels!  \n- think how to use obstacles to your advantage \n- avoid falling and touching the spikes \n- use 3 different boosters when you have trouble passing any of the levels\n- collect stars to unlock next levels\n- listen to satisfying sounds as shapes become lit up \n- unlock and wear all the skins that will make your stickman look awesome!\n\nSo what do you say, stickman? Ready to swing, jump, flip, light-it up and glow, in the brightest of all jumping games?",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/449e743a3b6b148e4f300a6579802dae70329bf5a11c24ca79d63576030bf859.jpg",
-    "id": "0100B8F01D320000",
-    "intro": "Swing, jump, flip and slide your stickman body from one neon color shape to another to make them glow and light-it up.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Light-It Up",
-    "nsuId": 70010000074554,
-    "numberOfPlayers": 1,
-    "publisher": "QubicGames",
-    "rating": 3,
-    "ratingContent": [
-      "In-game-aankopen"
-    ],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/b54d13155f88d0539e32ee7b9a21fb84db7c59379df5e59fdf753c823ba7d826.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bae48331f296021897a6fb8dab5e13b7c51b455d2ff1bc2a15d5c4357f58371d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/643e729c92ca2a9d347970f6534829b3e9f277e1e7f790b9f0b4fa165a4da300.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ccb5c249cfe28a82373ae87ae101c603ff0c9525f88f7fd600a53ff5ff3c2e9f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/f2c0b69d197bf0c7d019b4bad5870032aab3fa4c7259f2eb8ed64ac1a8917fcb.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cea39b5f7e75010d539ce3b928423faf267a055db267bb4004ee411855409434.jpg"
-    ],
-    "size": 276824064,
-    "version": null
-  },
-  "70010000074610": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6994164597a9da4928343c678c1275ffb85123651ce39e23f60eaa5692eb6847.jpg",
-    "category": [
-      "Puzzelspel",
-      "Simulatiespel",
-      "Speelhalspel",
-      "Lifestyle"
-    ],
-    "description": "Welkom in de glamoureuze \"Fashion World\", waar stijl en puzzel samenkomen in een schitterend arcade-avontuur!\n\nAls je een flair hebt voor mode en een passie voor puzzels, is \"Fashion World\" jouw podium om te schitteren. Transformeer in een chique stylist met als doel de meest fantastische outfits vast te leggen en word een gevierde modefotograaf.\n\n- 80 niveaus vol modieus plezier!\n- Cre\u00eber verbluffende looks met talloze combinaties van kostuums, accessoires en schilderachtige achtergronden!\n- Leg je creaties vast in Foto Modus!\n- Streef naar perfectie met het drie-sterren beoordelingssysteem, verhogend de replay-waarde van je spel.\n- Ontworpen voor modeliefhebbers van alle leeftijden!\n",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ca7ed98c698dcd2ebeb61b0c14765c0f5058e1fcc5621e2b59f920d556237469.jpg",
-    "id": "0100DEA01D742000",
-    "intro": "Maak je stempel in de modewereld!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "pt",
-      "es",
-      "fr",
-      "de",
-      "it",
-      "ko",
-      "zh"
-    ],
-    "name": "Fashion World",
-    "nsuId": 70010000074610,
-    "numberOfPlayers": 1,
-    "publisher": "Baltoro Games",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/034226d7054a505d17ab073f3483ade789d7f40f6609f46a3083d8ee5d9eaede.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d8149aa721fda3a7a99de55c69532f28bf28ca7ef586555b0ae09b32f589bb3d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/12eb8f9a7b8ec570fd1bb4e4fa659206fb81e579def77265d8fabaf340e843f3.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/74687e1272e5af647bf4f3c81d3496f1453f64f9cf6be980e1cc7581ce2b66b7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e7e7ca58ee9a26bf88e3132e0ef563569b0f3c65db86a833e023866e6804f73d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/af10beb4199cb772e2359d8fe5eea11e9412c7256a161e6bd547b60d9df4f062.jpg"
-    ],
-    "size": 238026752,
-    "version": null
-  },
-  "70010000074713": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5f5de0dcc4f1d207ab78af57a60307079278bc71f5f222cfedc74e6c3ee5de06.jpg",
-    "category": [
-      "Actiespel",
-      "Avonturenspel",
-      "Vechtspel",
-      "RPG"
-    ],
-    "description": "The main characters, two shrine maiden sisters named \"Kaguya\" and \"Setsuna,\" were living a peaceful life. However, their life changes dramatically when the seal of a powerful demon clan is broken. This demon clan was once a ferocious family that devoured most of humanity. With their revival, humanity faces a crisis. They are trying to eradicate almost all of humanity. Only \"Kaguya\" and \"Setsuna,\" who possess the power of the seal, can reseal them. The fate of humanity lies in the hands of these sisters. Can they indeed save humanity!?\n\nGame Systems:\n\n-Lock-On System\n-Triple attack, guard, dash, evade, jump, and more.\nIf you can't avoid an enemy, please guard.\n-When you successfully dodge or dash away from an enemy's attack, it's your chance.\n-Deliver a triple attack!\n-Stamina System\n-You can't perform continuous attacks or continuous evasions! -Stamina management is important in this game!\n-It's dangerous to be surrounded by multiple enemies!\n-Use evasion, jump, or dash to reposition yourself.\n-You can use recovery items even during combat.\n-Save & Load System\nVarious biomes including forests, deserts, labyrinths, lava castles, and underground castles.\n\nTime to hunt down some demons!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7ab35b3453a65dd471e876e9d63f3e00a9035bd498810fac1827c23084952fa6.jpg",
-    "id": "0100A6901D7BC000",
-    "intro": "The lives of the shrine maiden sisters Kaguya and Setsuna change drastically with the appearance of the demon clan, whose seal has been broken.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en"
-    ],
-    "name": "100 Demon Fantasia",
-    "nsuId": 70010000074713,
-    "numberOfPlayers": 1,
-    "publisher": "Elushis",
-    "rating": 12,
-    "ratingContent": [
-      "Seksuele insinuatie"
-    ],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/883261a86bb220c240dd94a9216eb81f5340a976f68996e1e8a28ed7a7f3cf24.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/acb99f4a0ab51701f3eb3d71a65733e041672be7faae9b4b855f9cb2c6e34c1a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/2f402570618ae250aac61939324acfe89b01945717a12a57311ae55a107a77e7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4e516d7414b97b4619a2f3adc70374252b00f3fc1f0ecd01bbc3088551e2390c.jpg"
-    ],
-    "size": 778043392,
-    "version": null
-  },
-  "70010000074748": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/efca6b2499f7fb0fd7882175f0284faedf2ded9a16d9a487e02035d7e21aeefe.jpg",
-    "category": [
-      "RPG",
-      "Avonturenspel",
-      "Puzzelspel",
-      "Bordspel"
-    ],
-    "description": "Welcome to the captivating and dangerous world of violence and darkness. Take on the role of a Hunter, Warrior or Warlock, choose your gender, grab your weapons, then swap and match gems to win the battle! \n\nTraverse through impoverished towns, vast oceans, dark mines, dense forests, and other undiscovered places. Fight a variety of enemies from tame rats and boars to giant orcs and trolls. Earn loot from your travels and deck your hero with legendary weapons and armor! \n\nMatch the gems with your strategy and attack! Combine multiple gems and skulls in one turn to unleash devastating combos on your foes!\n\nChallenge your friend to battle in local multiplayer versus mode. Choose your characters, build an equipment card and face off in different environments. Show him that you are the most powerful legend in these lands!\n\nFeatures:\n- choose your hero class with its unique attacks and items\n- build your hero card with weapons and armor\n- combine gems well in Match-3 mechanics to bring out attacks\n- fight epic battles with rats, boars, orcs, goblins, trolls and other deadly creatures\n- compete against another player in local multiplayer versus mode\n- explore all of the 65 levels in Story Mode\n- try out all the weapons in battle and choose your favorite\n- put each class's skill to the test\n- discover 42 hidden artifacts\n- become a Pocket Quest legend!\n\nPick a hero and start your quest today!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f6071f562d7e75565cd036bfd4fdbee7dea0aed93079790aa72f7803239222a9.jpg",
-    "id": "010012A01D7A0000",
-    "intro": "Step into an enchanting RPG world where you will fight in epic Match-3 battles as you traverse the lands to become a Pocket Quest legend!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Pocket Quest",
-    "nsuId": 70010000074748,
-    "numberOfPlayers": 2,
-    "publisher": "QubicGames",
-    "rating": 7,
-    "ratingContent": [
-      "Licht geweld"
-    ],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/cbf1b636edd3eaa10d7bdafa6e468e0ddeae69926950d258f57c3872484e04d5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5ca2119ab1756ce906951e6b28749731e1c354f4065cfe998f489f4e55ae5ab0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/77b20b9868533effe9d47bceb95d7f1eb4498f69fdca31d6a878047aedfcee79.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5a8b53dcfac8789b6ed3ae3e000655c40087b16527f9a5769ab66dd32c959239.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/27216779546c6755b2ec3be645cb00107d9ff80b5e27ef120c59a656882ac100.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7d704dd56d5a5b1aa015c5f68f179811fcb91674b9224962383ec6e0b70df3d5.jpg"
-    ],
-    "size": 639631360,
-    "version": null
-  },
-  "70010000074856": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f9374c38854e4c8738a344d0abf4142b6d9475d03fae231e542cfe2dd670f6b4.jpg",
-    "category": [
-      "Simulatiespel",
-      "Schietspel"
-    ],
-    "description": "Dive into the immersive world of Poly Shooting Simulator, a thrilling 3D experience that blends the nostalgia of low-poly graphics with heart-pounding action! Your mission is simple: traverse the expansive open-world map, strategically navigating through a vibrant landscape, and engage in intense shootouts to climb the leaderboard and establish your dominance.\n\nKey Features:\n\n- Dynamic Open World: Explore a visually captivating low-poly universe filled with surprises and challenges. Every corner of the map holds new opportunities and threats.\n\n- Intense Shooting Action: Test your reflexes and accuracy in adrenaline-pumping shootouts against a variety of enemies. Master the art of precision shooting to maximize your score.\n\n- Leaderboard Competition: Compete with players worldwide for the top spot on the leaderboard. Every bullet counts as you strive to become the ultimate Poly Shooting champion.\n\n- Dynamic Soundtrack: Immerse yourself in the action with a dynamic soundtrack that intensifies as the stakes rise. The music enhances the thrill of the hunt as you strive for glory.\n\nAre you ready to dominate the leaderboard and become the ultimate Poly Shooting legend? Jump into the action now and let the bullets fly!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fe1e788c80b7140ea59b2924fcf259bbe308d7fe7fdae53366ebfe4978c28e81.jpg",
-    "id": "010027001D890000",
-    "intro": "Are you ready to dominate the leaderboard and become the ultimate Poly Shooting legend?",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Poly Shooting Simulator",
-    "nsuId": 70010000074856,
-    "numberOfPlayers": 1,
-    "publisher": "DEMENCI Games",
-    "rating": 16,
-    "ratingContent": [
-      "Heftig geweld"
-    ],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/c4f61952a4f9bf26d9e24538ef84ec5281595fce2ca70f04921ecb8502f29b57.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/30e70f6fc36b15158f0b2f220134f81bcd9aaab82dbd9eba96b0ceb60087e427.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ceb46e922c2df1029980cca3d9c35a36cf2cf96c1e096d954fc04ac8df61227a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3a0daef54b0e484298ed1d8699763d0028dbf15f85c99aa4eee811cabb58a0f1.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/157cfbb59538cf1cd74ceed30a6cb8cc76fbbb1d2be5c4d366b788d62da2bbe5.jpg"
-    ],
-    "size": 1091567616,
-    "version": null
-  },
-  "70010000074894": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4e25c75512174ab5d342447dd287fb53a2af72ce08960789acede56d437b59a4.jpg",
-    "category": [
-      "Lifestyle",
-      "Simulatiespel",
-      "Avonturenspel",
-      "Training"
-    ],
-    "description": "Learn how to bake delicious, mouth-watering desserts like cupcakes, smoothies, donuts and cakes! With your assistance as a cake maker, Lizzie will become the most talented pastry chef ever! \n\nTake specific orders from customers and serve them with a smile. Make sure they get what they asked for, whether it\u2019s cookies with pink frosting and sprinkles, donuts with colored glaze, or rainbow cakes! You\u2019ll LOVE this tasty bakery story game, and here\u2019s a little warning - it will make you hungry!\n\nHave fun opening up many delicious bakeries, baking with Lizzie, and becoming a true baking professional famous for beautiful, tasty delights! Build your bakery business and immerse yourself in the aromatic wonders of a bustling bake shop with a hint of cookie jam sweetness!\n\nFeatures:\n- learn how to bake tons of desserts from so many yummy recipes!\n- take specific orders from your customers and make sure they get what they asked for\n- bake the tastiest dessert ever, from apple yogurt smoothies and scrumptiously delicious cupcakes to princess birthday cakes!\n- make your cakes extra fancy with colorful cake decorations\n- dress up Lizzie like the true baker she is! Give her a pretty chef\u2019s hat and a cute apron\n- show off your sweet bakery skills and win first prize in baking contests and cake fairs!\n- help Lizzie open up a cake bakery\u2026 and then another cake bakery\u2026 and another cake bakery!\n\nCooking delicious dessert recipes in Lizzie\u2019s kitchen has never been easier! Feel the cooking fever and help her bake the tastiest pastries ever!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/85658bedb8a8eb6fa8f50113207219fad3d2afdd99a6c356d7ec81b3a33e7e39.jpg",
-    "id": "0100B6501D516000",
-    "intro": "Enjoy this yummy cake-baking story and help Lizzie fulfill her dream of opening her own sweet bakery!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "My Bakery Empire",
-    "nsuId": 70010000074894,
-    "numberOfPlayers": 1,
-    "publisher": "QubicGames",
-    "rating": 3,
-    "ratingContent": [
-      "In-game-aankopen"
-    ],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/65f80cc1e29a310468c7e5f260d312143a59c78edeca3a016159bd581bdc5d9f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/de2fa80074859bf4689f95d018e01b649e2cfe0ea65e062963eae9c07304f29c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/64e5cdd05e56a3a130adcd9f169adf2b6b7c3e6ad859e68246e42fd8c0ace9f9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5c253df66aa26abb3b4809bf96e2bc92aaba7b9857e56e645ad54a5f2f743644.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/df7ae6d13a3794c666d43ccf43cc4f39e61623372a672e62707282910dd342cc.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/556d011cd9ac85a6f16167ea34951d9302a783127ac9b7d59024da989943e806.jpg"
-    ],
-    "size": 143654912,
-    "version": null
-  },
-  "70010000075295": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1eb9225b146b3070e9d64793d0ef68d9cca399d08fa21e6db96ae4f6356241db.jpg",
-    "category": [
-      "Speelhalspel",
-      "Actiespel",
-      "Schietspel"
-    ],
-    "description": "\"Trash Punk\" is waar anarchie heerst, en jij bent de punk opossum die de apocalyps rockt! Dit is niet zomaar een schutter; het is een top-down, adrenaline pompende rel in een wereld die heerlijk gek geworden is.\n\nGewapend met alles van gruwelijke vuurwapens tot gemene melee wapens, maak je klaar om door hordes van gemuteerde rariteiten te beuken en te knallen. Melee is niet alleen voor de show - baan je een weg naar munitie terwijl je een pad door de chaos hakt. Bij elke verwrongen beurt, neem moeilijke beslissingen: grijp een nieuw wapen, een upgrade of wat broodnodige genezing.\n\nDe wereld van het spel is een wilde mix van punkrock rebellie en post-apocalyptische chaos, waar elke razernij een unieke mix van chaos is, met procedureel gegenereerde niveaus die ervoor zorgen dat geen twee runs hetzelfde zijn. Met een soundtrack gedomineerd door zware riffs, is elk niveau een moshpit van gevaar en opwinding.\n\nPak je wapens en start de rebellie. Hoe ver kun jij gaan?",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/63df5aaf05d207f0973fd8896a756b418ed57f6c9d8a697975c4ab9e9dda533b.jpg",
-    "id": "01008D801D9E6000",
-    "intro": "Rock de apocalyps in punkstijl!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "pt",
-      "es",
-      "fr",
-      "de",
-      "ko",
-      "zh"
-    ],
-    "name": "Trash Punk",
-    "nsuId": 70010000075295,
-    "numberOfPlayers": 1,
-    "publisher": "Baltoro Games",
-    "rating": 7,
-    "ratingContent": [
-      "Licht geweld"
-    ],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/f2592208808a03c8b2d309472587536ff60cefb89c988240d0e53bcd8d94f731.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ae5b24d17483fa36ef776d05dd38706db8d772297f0deb1bc81d270b608cab62.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7c5e37dbce5caffd6167b16f39860a20b028d921b3a929495c531a1bf8efa6c4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/fc1412f2fc2c8bc07fbce0a296dabc5e2d770491f2b01d797152f8049befb337.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/1f5873fe4604e609c7c3ea820e8a63b490480ad2e0b691edf4efd668dc9651a3.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/2e8e344c9f9ccd873569fca7029726c8ae5f5e8db57dc8689b9e61ae687bd6df.jpg"
-    ],
-    "size": 162529280,
-    "version": null
-  },
-  "70010000075371": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/93eedc8d5c852f87b2195d21ccef8655bec60c80c9d38d4bad4f3f3dbfc396e9.jpg",
-    "category": [
-      "Simulatiespel",
-      "Strategiespel",
-      "Puzzelspel",
-      "Avonturenspel"
-    ],
-    "description": "Hoor het sissen van de grill als jouw nieuwe symfonie in \"Kebabzaakmagnaat\". Met zestig diverse levels die dienen als jouw speeltuin orkestreer je een ballet van vleesspitten, groenten en kruiden tot de perfecte kebab. \n\nGeniet van verbeterde graphics en animaties die je culinaire veroveringen tot leven brengen.\n\nTrakteer je virtuele klanten op een brede selectie aan exotische gerechten die ver buiten de klassieke kebab gaan. Klaar om op smakelijk avontuur te vertrekken?\n\nIn \"\"Kebabzaakmagnaat\"\" vind je:\n\n- 60 levels aan culinaire uitdagingen\n- 150+ combinaties van smakelijke schotels \n- Ontelbare updates aan de bar en versieringen \n- 25+ prestaties om te behalen\n- Gemakkelijk te spelen, moeilijk onder de knie te krijgen\n\n Ontgrendel de geheimen van kruiden en bestendig je nalatenschap als kebabmagnaat!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7cfb65e8edd68fe0305f2a4a6c68c16e5a4d0a5d447eefa26e0f55ad6bdb2f2e.jpg",
-    "id": "010026101DAB4000",
-    "intro": "Sis je weg naar kebabkoningschap!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "es",
-      "fr",
-      "de",
-      "it",
-      "pt",
-      "ko",
-      "zh"
-    ],
-    "name": "Kebab Bar Tycoon",
-    "nsuId": 70010000075371,
-    "numberOfPlayers": 1,
-    "publisher": "Baltoro Games",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/793a46d7326aac67089a441d85bb075e6dbf683231e1a0cb9164a6f1f196586e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ba1e68c4e4659ad2ad54eb9e90dc4d19a8b30201f53bf455bb164020286b4a07.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e689729a8abd45081b336b7486909c2e7b33910ec267418e7f6efe509f466c18.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5664c351a7b754171e09f3b07f5e5992a40465ad4e1f1e38f3d8ddcdfaff14fc.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5f30c712df65588ec0b6a7bf281ec5982bb99402a7ca3dd06156fb6c6a109b4e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9ebf17130bb74f57756c772607a4712c7f5ac9d75cd57f8a83cb627d5988e71a.jpg"
-    ],
-    "size": 659554304,
-    "version": null
-  },
-  "70050000045731": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/522cb21496c8ce02528292bf3c2e0747101bfcced8748e1518fbd94dcec5f008.jpg",
-    "category": null,
-    "description": "With this DLC you will unlock:\n\n- 131 additional levels full of colorful neon shapes that are waiting for you to light them up! \n- 2000 additional gems that you can use to buy skins for your little stickman\n\nChallenge yourself with additional levels full of obstacles and get extra gems to buy awesome skins! \n",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "0100B8F01D321001",
-    "ids": [
-      "0100B8F01D321001"
-    ],
-    "intro": "Embark on a neon adventure through more than 130 new levels!",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Light-It Up: Neon Adventure DLC",
-    "nsuId": 70050000045731,
-    "numberOfPlayers": null,
-    "publisher": "QubicGames",
-    "rating": 3,
-    "ratingContent": [
-      "In-game-aankopen"
-    ],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/988b5c7a2ef7ac13c2abe810b71a4b63ce6af9ac676ebc8a2bf9ccc0bae85fd9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9501cbd615e45dd03b2c29dffe3401ac84b518ecb867e9a1bd8fe20cd4afedb4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e1378540d9183ef93802ee8b9a3326b90c84ee5f9590a2c1a613aacfbea1275f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5f4c14d891e2aa55d207b51b719decb3e8fb474f57ba49a607ef16fdd0da00f4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/8ff6b5f59f7060c51c61fede56161e8b2b748133857c643716518edbab06a3cb.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c4daf9905cbb6b7608162d52e1f1e2cf6498ab9255008dd462fb8f1b82fe6f83.jpg"
-    ],
-    "size": 3145728,
-    "version": null
-  },
-  "70050000045916": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f1591c5a614486f013b869a6fc36262e79f9d7e7541e471be3c2b81fbd20fddb.jpg",
-    "category": null,
-    "description": "With this DLC you will unlock:\n\n- access to VIP competitions!\n- 20 decorations and straws for cocktails\n- 6 sprinkles for cookies\n- 14 decorations for cupcakes\n- 7 sprinkles for donuts\n- 37 toppers and 3D decorations for birthday cakes\n- 33 toppers and 3D decorations for wedding cakes\n- 33 2D decorations and 3D decorations for princess cakes\n- additional 1500 coins to buy, dessert decorations, clothes or bakeries\n\nDecorate donuts, cookies, cupcakes, cocktails, and cakes just how you want using your new lovely decorations and taste the sweet victory in VIP contests!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "0100B6501D517001",
-    "ids": [
-      "0100B6501D517001"
-    ],
-    "intro": "Make your cakes look special with new colorful decorations and compete in VIP competitions to win big prizes!",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "My Bakery Empire: Bake With Taste DLC",
-    "nsuId": 70050000045916,
-    "numberOfPlayers": null,
-    "publisher": "QubicGames",
-    "rating": 3,
-    "ratingContent": [
-      "In-game-aankopen"
-    ],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/4f7993d4d9070f416ad6799bf6e7c7e394c24824e0bc7739d4fcad6d473631f8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c0016e4e889ab5538a8d8a563ba67afb465d9180b57cd443f892ac5617490ad6.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cdaca6adac3ee3695bb227197481ff088d398adb22dbea301f6a51869722c4b8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/f7143c2be0de3f7bfaf059961c4285093e18627abf96fd3f425eb8ea22c5dc5f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7a649f82ff212f1244d9575aff06ed3a29bcfb79dd3cc87ef881efbb5c7558b7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/84c0d6ac4b437a6658566b2ab0eb941d5a6e6ee5f11ffa66eb5c7a362d1ae71e.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
-  "70050000045919": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f632426f6c6ebda71c8e9eb09bac53e231334e6d6629cef4c4f06bef8d040bdd.jpg",
-    "category": null,
-    "description": "With this DLC you will unlock:\n\n- 26 trendy shirts\n- 26 stylish skirts and pants\n- 15 chic aprons\n- 15 professional chef's caps\n- 15 fashionable shoes\n- 52 diverse hairstyles\n- 26 exquisite jewelry pieces\n- 7 captivating eye colors \n- additional 6000 coins to buy, dessert decorations, clothes or bakeries\n\nTransform Lizzie's style with a delightful array of over 180 new and captivating makeover items that will add a touch of sparkle to her look!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "0100B6501D517002",
-    "ids": [
-      "0100B6501D517002"
-    ],
-    "intro": "Give Lizzie a new look with cute, brand-new clothes, hairstyles, and accessories!",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "My Bakery Empire: Bake With Style DLC",
-    "nsuId": 70050000045919,
-    "numberOfPlayers": null,
-    "publisher": "QubicGames",
-    "rating": 3,
-    "ratingContent": [
-      "In-game-aankopen"
-    ],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/ce48f2c5a88ecf849c52ed3a7f70f07df516017085458819e0c8e5604cfda863.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c521c59d52fca9ccf36f4ea7e1bdb96d01ecf923cd78c835c5ae1f81a7d7c6b8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ab8300d7e58283509832b05bc7442df70eabbbe43659d02401fdc4361178c0a7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3fd15b023379672551b52cb15c2e4896d9314125d9408f0dc85da39c70e7e162.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/82dd308ecc6cc02cb41e0fd6c60d6bbf285318b86f69e070b49ea3be6ee848c8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/35a8711770c7885f806174e5d5430a45320f60b64e40477f20e6ad75595ff337.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
-  "70070000020196": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/45f72a8c5607162cd45a92cf2329278e6599a67319b6dbc851b8114fd2ad32a5.jpg",
-    "category": null,
-    "description": "Kook een heleboel heerlijke gerechten van over de hele wereld en wordt de beste chef in de stad! \n\nKook honderden lekkere schotels met alle mogelijke keukentoestellen en ontelbare ingredi\u00ebnten! \nProbeer het allemaal: koffiezetapparaten, sapmachines, pizzaovens, koekenpannen, frituurmachines en ijsmachines. \n\nUpgrade en decoreer je restaurant om meer klanten aan te trekken. \n\nUpgrade je keukenmachines en ingredi\u00ebnten om de lekkere schotels sneller te koken en verdien meer geld! \n\nDeze uitgebreide collectie bevat drie geweldige kookspellen: Foodtruck Tycoon, Burgerchef Tycoon, Pizzabar Tycoon!\n\nKenmerken: \n* Meer dan 100 gerecht om op te dienen \n* 3 unieke locaties\n* Meer dan 200 levels om te onderzoeken\n* Ontelbare upgrades\n* Ontgrendel nieuwe items om je keukentoestellen, interieurs en ingredi\u00ebnten te upgraden\n* 100+ prestaties om te winnen\n\nDeze bundel bevat het basisspel en Food Truck Tycoon Multiplayer Mode, Burger Chef Tycoon Multiplayer Mode, Pizza Bar Tycoon New Levels #1, Pizza Bar Tycoon New Levels #2, Burger Chef Tycoon New Levels #1, Burger Chef Tycoon New Levels #2, Food Truck Tycoon New Levels #1 and Pizza Bar Tycoon Multiplayer Mode met:\n- Food Truck Tycoon lokale multiplayer-gameplay-modus\n- Pizza Bar Tycoon lokale multiplayer-gameplay-modus\n- Burger Chef Tycoon lokale multiplayer-gameplay-modus\n- 40 gloednieuwe niveaus voor Pizza Bar Tycoon\n- 40 gloednieuwe niveaus voor Burger Chef Tycoon\n- 45 gloednieuwe niveaus voor Food Truck Tycoon\n- 19 nieuwe prestaties",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Deze reeks geweldige kookspellen verschijnt in een nieuwe collectie!",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Cooking Tycoons - 3 in 1 Bundle Complete Edition",
-    "nsuId": 70070000020196,
-    "numberOfPlayers": null,
-    "publisher": "Baltoro Games",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/c3b792dc44f3c0b8339d35fdb1dd90576e3f4036eb31ea725d110c39ab3a979b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/06b20a16905b1217e959d452d189d65a7705fb72d6c1d6ae632ecba59e53d309.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4f9adbb7971d7a0e31750d1f17b851a95c4e4ee40db47c433c69f27e11ec4ee7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dd910ee16ab159bd59b5c7c0d2fa7cbbd6d627690eb689d1bffad509bdb6f2fa.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7c1aba24c9063f88e63469e7b2590b30cca72ae05c341c6a4d64ca5479689d04.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c4db2936581b04d0d08fe7f1f85153d4c6d426dafe4b7125975b3b772d676b16.jpg"
-    ],
-    "size": 908066816,
-    "version": null
-  },
-  "70070000020201": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/317aea90464b437bde9d2e4822087643a4f13179466d8a0bac754fbd12f532e8.jpg",
-    "category": null,
-    "description": "Train Traffic Manager is niet zoals de modeltreinset van je opa. Denk snel, plan sneller en zorg ervoor dat je treinen niet in vlammen opgaan. In dit strategisch puzzelspel ben jij verantwoordelijke voor alles van wissels en signalen tot valbruggen en, oh ja, het vermijden van catastrofale treinrampen.\n\nGa meer dan 80 levels aan in verscheidene omgevingen van zonnige woestijnen tot mysterieuze nachtelijke decors. Dit is leuker dan een distel in je derri\u00e8re!\n\nElke plek heeft zijn eigen unieke uitdagingen. De woestijn heeft meteorenregens (uiteraard), bossen hebben omgevallen bomen (wat is een bos zonder wat wrakhout?), winter zorgt voor vries op je wissels, en 's nachts, wel, dat moet je maar zien.\n\nAnd als de chaos van de normale spelmodus te veel wordt, neem dan even een adempauze in de eindeloze spelmodus. Geen doelstellingen, enkel jijzelf, de sporen en een oneindig aantal treinen. Het is als de zentuin van treinmanagement!\n\nKlaar om de gekte in te duiken? Neem nu de controle over je treinsporen en toon aan wie de baas is in Train Traffic Manager.\n\nEn onthoud: niet in slaap vallen tijdens je shift!\n\nDeze bundel bevat het basisspel en DLC #1 (Subterranean Switch-Up) met:\n\n- tien gloednieuwe ondergrondse kaarten toe die je uitdagen om de donkere en complexe tunnels te navigeren. \n",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Allemaal aan boord van de Chaos & Strategie Express!",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Train Traffic Manager Extended Edition",
-    "nsuId": 70070000020201,
-    "numberOfPlayers": null,
-    "publisher": "Baltoro Games",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/4670ba7d42e087d932a7e4e534ddd79f19e51566868a8629018754396e222863.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bbb797785e772749c223144350a69d3e9616ee58665adb7ef910578e0bdb0eca.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/767ed866c4477bc6b8b862926766ad32ec674bfd0b32c376c3625f96e849a039.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/80ebb10e18f49456dd76ec3623011dc35622627d0b15e87d3ec96ba57aaa6144.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/32ae925d582fbdf8428c589ef746e9bf7ea04ae6e1580972ae2477b5719de2e5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d106acc526ab9fd7bc724b66b9768abce6b01f926302a434e3c14f01f39226d5.jpg"
-    ],
-    "size": 2191523840,
-    "version": null
-  },
-  "70070000020223": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c7fd984c0676c52cceed996f0b842b18842527642b686c820335580dfb55b19.jpg",
-    "category": null,
-    "description": "Welkom bij de \"Classic Games Collectie vol. 1\"!\n\nWe hebben vijf van de meest geliefde logicaspellen geselecteerd en samengebundeld!\n\nJe kan ze spelen tegen de computer of tegen een vriend (op dezelfde spelconsole).\n\nVul je koffiepauzes op met wat breinstimulatie!\n\nIn deze bundel vind je:\n\nTIC-TAC-TOE (ook gekend als X-O en boter-kaas-en-eieren)\nTwee spelers wisselen elkaar af in het plaatsen van X'en en O's op het rooster.\nDe eerste speler die een rechte lijn kan maken met drie van zijn/haar symbolen wint!\n\nDAMMEN\nSpelers bewegen hun stukken diagonaal van het ene naar het andere vak. \nAls een speler over een stuk van de tegenstander springt, mag je dat stuk van het bord nemen. \nDe eerste speler die al zijn stukken kwijt is, verliest het spel.\n\nMEMORY\nHet doel van het spel is om een rechthoekig bord vrij te maken van alle kaarten die omgedraaid liggen, in zo weinig mogelijk bewegingen. In elke beweging mag je twee kaarten omdraaien. Als ze dezelfde zijn, mag je ze van het bord nemen. Als ze verschillen, moet je ze weer omdraaien.\n\nMIJNENVEGER\nHet doel van het spel is om een rechthoekig bord vrij te maken zonder de verborgen mijnen te laten ontploffen. De nummers op vrijgemaakte vierkanten tonen aan hoeveel mijnen rond dat vak liggen.\n\nGOMOKU\nTwee spelers wisselen elkaar af in het plaatsen van witte en zwarte stenen op een rooster.\nDe eerste speler die een rechte lijn kan leggen met vijf van zijn/haar stenen wint!\n\nDeze bundel bevat het basisspel en DLC #1 Classic Holiday Spirit met:\n- Verrukking met kerstthema. Breng de vreugde van de feestdagen naar je gaming met feestelijke ontwerpen die de geliefde knusse patronen van kersttruien en decoraties weerspiegelen.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Al je favoriete klassiekers op \u00e9\u00e9n plek!",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Classic Games Collection Vol.1 Holiday Edition",
-    "nsuId": 70070000020223,
-    "numberOfPlayers": null,
-    "publisher": "Baltoro Minis",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/ef9565d56bb3bf469e1c5668c44d464dacfdfe2b7f3cff9a3713360de65a9ad5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a89f48d5b3f84be8e536cec5b722998764f5a17bed2eabbec8a38b9a47f0f695.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a66b30390b6d85ea15013610c733dfa8f2966c59902a16df219428638754b3a8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5b320de4ed61ee79bbc5d63e13c0c64a18c41df8bd18b201645fc28d3e22621d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/407700cbe601cea75b893dc541086dd8e77812be798f503f48e6b666d63a83b2.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/12dd547bf5f299640fd12cce387ca86337b3ed000fff417f0da47aa379f4f8da.jpg"
-    ],
-    "size": 456130560,
-    "version": null
-  },
-  "70070000020256": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8c362d922384b1cdcb315285a992288baea37fd37d233200fc5e016755128a81.jpg",
-    "category": null,
-    "description": "You'll be able to chat with attractive girls, know their engaging storylines, receive spicy pictures, and solve Match-3 Puzzles to unlock new and cool pick-up lines for your waifu!\n\nIn this bundle you get content from the base game, Spicy Pack and Passion Pack which includes:\n- 29 romanceable women to meet\n- 170+ hot pics to unlock\n- over 30 routes to go with each waifu, with between 5.000 to 10.000 words each\n- 360 levels to beat\n- 35+ hours of gameplay so get ready for flirting and pics!\n\nBrowse hot profiles and start a romance. Each girl you meet unveils a mix of storytelling, visuals and desires, from bishoujo women to anime klutz. Exchange intimate messages and flirty selfies, use cool pick-up lines and ask provocative questions - every choice you make will shape the outcome of your relationships.\n\nCannot take romance to another level? Solve puzzles and reach your true potential as a pick-up artist! With over 200 handcrafted levels and neat mechanics, expect addictive gameplay that goes far beyond basic blast puzzles. \n\nUncover the interesting stories behind each waifu, unlock pictures, but be aware, some of these pictures are quite spicy so viewer discretion is advised ;)",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "We found 29 Spicy and Passion Anime Girls in your area",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Eroblast: Spicy Twixmas",
-    "nsuId": 70070000020256,
-    "numberOfPlayers": null,
-    "publisher": "QubicGames",
-    "rating": 16,
-    "ratingContent": [
-      "Extreem taalgebruik",
-      "Naaktheid",
-      "In-game-aankopen"
-    ],
-    "region": null,
-    "releaseDate": 20231225,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a7e5d70e6461cc9ecf4424768b6bcff91f820d022e7385a2cabf6f3955faa4f7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c16742d1feafafd5ba7a4524281b96038e9fb687f8336f9ae2389d9b82329f70.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/15a85c942f52f5a0eb5f39252700b6bff9821b8ee1d6281ab4eb7d275ef0f93f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/fb83352f69d3769a3fddc8eb3d1473f0c6e1d8b21235dd5b7fd72d6ff0884d6f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5d43f8327fd066af56deddbb7ffa2f346cae4ebbbdeee86fb4e8a47ef67b2d4b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c1551ab9f36823f02c8fa58a20495c7310a988185463c2a46e49a293b0aa93dc.jpg"
-    ],
-    "size": 986710016,
-    "version": null
-  },
   "70010000067927": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3abfc7ff9e9623ad59a853e51b0cfee6f03a874b4bbbe20f95a7e3b79aad10af.jpg",
     "category": [
@@ -1989,6 +1282,42 @@
     "size": 0,
     "version": null
   },
+  "70010000074704": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d2fb2c7a9d8c9fbdef8f692a9d1d4976d284a13fb3590fe47f2f1543dece4137.jpg",
+    "category": [
+      "Anders"
+    ],
+    "description": "Immerse yourself in a delightfully captivating farming game. Get ready to earn a fortune by selling the freshest milk while building your empire. Achieving this goal is a journey in itself. Expand your herd with new cows, implement strategic genetic enhancements, and ensure they're well-fed. Your path to prosperity lies in the sound of every 'moo' as you transform your farm into a thriving business.\n\nAn extremely addictive and fun farming game.\n\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/931cfe2dbea50e277f6b339e6f425591a06eb685fdf5ec25ab7425b728e9bd53.jpg",
+    "id": "0100A9601D776000",
+    "intro": "Super Fun!\nSuper Fun!\nSuper Fun!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "Milk Seller",
+    "nsuId": 70010000074704,
+    "numberOfPlayers": 1,
+    "publisher": "GAME NACIONAL",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240106,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f087396685ddc24b3dbbee7b0579ddc2ef2e5d4853b97ec21c1d1a2ec3a10831.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e976eaf761dd6093213560defd93bf4b7ad55e224603a016cdeb43632027a512.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/932a7691a80b8c1fc2546e2da2351d002d3791f4e071fd207affe493d39b358a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/70472267f2e8271d2a15d5bddd228b2646c7d908f1866b769c1bb319e42b7b73.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3821372d7871a76d0087e486ab2b8218762f27ee46e017aa8f20e107446d5594.jpg"
+    ],
+    "size": 60817408,
+    "version": null
+  },
   "70010000062861": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f9b17e9955d207deab36ceb95a2631205b35f0ad508b2077ea39a54dd7253f1f.jpg",
     "category": [
@@ -2723,6 +2052,37 @@
       "https://img-eshop.cdn.nintendo.net/i/3c0d461f8419ab9ad90d870d1d3501afc6d53bd4be72b9854e2765e53846645c.jpg"
     ],
     "size": 393216000,
+    "version": null
+  },
+  "70070000019582": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/077fd579deeef492690867c621515389fdbd26119faa46879395fa13862a2628.jpg",
+    "category": null,
+    "description": "Hope's Farm\n\nEscape the big city stress and experience the quiet charm of rural life. Match your way through an incredible farming adventure. Grow crops, plant trees, raise adorable animals and customize a wonderful farm. Sell the farm goods through challenging match-3 levels and earn experience points to unlock lots of new items!\n\nDo you have what it takes to manage a successful farm? Find out on this amazing and unique blend of farming and matching game. And show your farming and decoration skills in Hope\u2019s Farm. It has never been so fun to take care of a farm.\n\nFeatures:\n* Countless hours of farming fun.\n* Grow crops, plant trees, raise adorable animals, and much more!\n* Solve puzzles with quick thinking and smart moves!\n* Earn experience points to unlock lots of new items!\n* Show your farming and decoration skills.\n* Great variety of crops, trees, flowers and animals.\n* Sell the farm goods through challenging match-3 levels.\n* Refill the well by playing incredible bonus Levels.\n* Complete daily quests and earn rewards.\n\n\nSecrets of Magic 3\n\nVictoria has become a teacher at Mystic Academy of Magic and your creativity is needed to help her decorate the schoolhouse for Halloween.\nMatch your way through this fun and phantasmal adventure game, overcome tough obstacles, use power ups to help you win gold to buy amazing Halloween decoration items and unlock new items as you progress in your game. Are you up for this spooky challenge?\n\nFeatures:\n\nGet into the Halloween mood with this clever match 3 game\nFun gameplay with tons of challenge levels\nPlan your moves, race against time or play it relaxed\nEnjoy a variety of game modes and difficulty modes\nCollect gold to buy Halloween decoration items\nTough obstacles and cool power ups",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Hope's Farm + Secrets of Magic 3",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Green Sauce Bundle",
+    "nsuId": 70070000019582,
+    "numberOfPlayers": null,
+    "publisher": "GAME NACIONAL",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240113,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/3e89f058ab9d42ce79cf9d220bc275c87cd8952a506d50a759d3d303b3321a3b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e399fd37a0f36ca6cb04797dff7f607a0fdf53dac2cf3b2fc099dc22b5d8cc75.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aa3cadad28fbef875fa66799095f76d77be6da0ddca8478aaaed879299304c2a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/46aed2cf2843dc22d1e89a5aa5ad5ffd4d7dd29d3a6148975da9749c8e67770c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/27e5a27116e77fc8b63d82cec73c9823e1b16cdb9867e5c22d076bb14557ec4f.jpg"
+    ],
+    "size": 375390208,
     "version": null
   },
   "70050000041801": {
