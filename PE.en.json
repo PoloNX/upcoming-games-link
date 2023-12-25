@@ -1070,6 +1070,51 @@
     "size": 38797312,
     "version": null
   },
+  "70010000068637": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6bf6ebeabeacf04ed255a627536a73c63a52e27f014c160e5d39259516adca8f.jpg",
+    "category": [
+      "Adventure",
+      "Puzzle",
+      "Action",
+      "Other"
+    ],
+    "description": "A third-person, stealth, adventure game focused on the story of the Moonshadow Huntress: Cynthia Stranborg. Take control of the young adept and learn new stealth skills during your journey. Find out what happened in the home village and follow your desired path to rescue the ones you love the most. Travel through Tesana Valley to find a secretly hidden missing piece of artifact to enhance your bow. The Dark Power is coming from the north. You need to destroy the source of this power before it's too late. You are the last one that can reach that destination. At least you need to try, for your loved ones!\n\nKey features:\n-Stylized and colorful world\n-Fully voice acted emotional story\n-Stealth mechanics, arrows crafting, climbing sequences and light puzzle solving\n-A short story-driven game (to finish in one evening)\n-Several alternative outfits to unlock throughout the game.\n-A dedicated photo mode with multiple options to modify: pose, camera effects, stickers, face mimics etc.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/53ac70656204423dd4de8c5423f19e89a425b4c648a25c9ca0acd6798796ba1c.jpg",
+    "id": "010001C01BCAC000",
+    "intro": "3rd-person Action-Adventure game with stealth and puzzle solving.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de"
+    ],
+    "name": "Cynthia: Hidden in the Moonshadow",
+    "nsuId": 70010000068637,
+    "numberOfPlayers": 1,
+    "publisher": "Catthia Games",
+    "rating": 13,
+    "ratingContent": [
+      "Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240110,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f0ae3ad081003723c2211a26db1754f2c8744f14c0a1e7afdccaeb2315876292.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cc7a71b80f8e7df4e030aa001bad97ef9bca442b354f2ad8dcb5557d6ce054c6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/274b64039101ef7e1ab94ff04ad7a23f1376e4b1cd7de6ca9583b6f02a3818e7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/55103c7f7180aa1f433d5b6b33fa0ab9a9fb3c295bac4deee92115e9b8dcee7c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cd35ab9ff0358579c9d4369ed7f91034b2c13f33b1c9a8fe1a7b0bfeb8f84a72.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ffa4c8aeb0e067e5d71c13e31173c612fb8dffbd1a2922f77c66ba61077cc1ca.jpg"
+    ],
+    "size": 2554331136,
+    "version": null
+  },
   "70010000071989": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c18e9efef8f1a340d7222e8639225065f37857e7cfd04a0e9ac7e37d5ad134eb.jpg",
     "category": [
@@ -1110,6 +1155,146 @@
       "https://img-eshop.cdn.nintendo.net/i/2328d5c8097675a29b1fe08ef163767ce03414864836196ff52a3a95e90a13a5.jpg"
     ],
     "size": 184549376,
+    "version": null
+  },
+  "70050000045897": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f8ce732d47c4456509197eb68cec59ab3c62b76d989d0b6a700a18004894e6ab.jpg",
+    "category": null,
+    "description": "\"Cyberthia\" Costume DLC contains alternative outfit for Cynthia character. By purchasing this DLC you are helping our small (2 person) indie studio to make more improvements to the main game, as well as supporting our next title :3\n\nThank you so much <3 ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cynthia: Hidden in the Moonshadow - 'Cyberthia' Costume",
+    "nsuId": 70050000045897,
+    "numberOfPlayers": null,
+    "publisher": "Catthia Games",
+    "rating": 13,
+    "ratingContent": [
+      "Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240110,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/de84954fead4994d58421b07e5b1a485df8f7a395e089f81b06aa403da6cbaaa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b5b9e4b4e7b881bd39dc8dca264326bc1fb7a8aff18910e5af0144c2bb1058e6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/687e7e7c5cd9f13034b9489b03317763167b1a99f33573fd4c2ae696c3274d8f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ad280163f120976bb812cd5bca1c13f72deafb60437c10d1b6b86f588df2542c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8f87ec7a31e24088925918bb88f8ffb1c978af2033dd8a7b7153122c8d200f30.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70050000045898": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1522da59f72d65d84e6b560f1124bd7998b2a4adf5ae535d0ed751714eae3b13.jpg",
+    "category": null,
+    "description": "To celebrate summer we are releasing a brand new 'Tropical Blossom' Costume DLC, which contains alternative outfit for Cynthia character. By purchasing this DLC you are helping our small (2 person) indie studio to make more improvements to the main game, as well as supporting our next title :3\n\nThank you so much <3 ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cynthia: Hidden in the Moonshadow - 'Tropical Blossom' Costume",
+    "nsuId": 70050000045898,
+    "numberOfPlayers": null,
+    "publisher": "Catthia Games",
+    "rating": 13,
+    "ratingContent": [
+      "Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240110,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/6950aa02dffc09694e6cedf6089b4da5dbce414e50db72567c5fa175f1a46cd6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/43658ea2e4083b242716b1dc118d59d91a2b6cc62b9266f4b2d3f7cfe153f6af.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9797202d4a397903cbe14335884e13285800db54d4d2f3d8ef54be87b0058938.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bdb030e7c2451a74e7c2a72e0fdcf79a9774472abeeeab91dc181fb592202600.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ad0ec78cebe3b93c1ffc6c15acc6b28bc6588368a1182cb42b4b27c7c580c9c4.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70050000045899": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d59faf1fc5203cabcb27b953e883744fe00b3ca4118cba2b4800286b82ff26dc.jpg",
+    "category": null,
+    "description": "\"Xmas\" Costume DLC is here! Cynthia is now fully ready for the winter season. Celebrate this time with us and our third (and the last) DLC that contains alternative outfit for Cynthia. By purchasing this DLC you are helping our small (2 person) indie studio to make more improvements to the main game, as well as supporting our next title :3\n\nMuch love <3",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010001C01BCAD003",
+    "ids": [
+      "010001C01BCAD003"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cynthia: Hidden in the Moonshadow - 'Xmas' Costume",
+    "nsuId": 70050000045899,
+    "numberOfPlayers": null,
+    "publisher": "Catthia Games",
+    "rating": 13,
+    "ratingContent": [
+      "Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240110,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a19b505aad8ffe16488e17d32654cca6103d7c87cd94df523e276f3d2d110130.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3344f14a838a6faf3dd0913f56345e1320e383d24ede505db6550d0333e04810.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4cc21fe1c11b9283e12e16c914877a2b1515826a4f5d0873192d24b16426cd95.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aee66f188370b0c5f49d01117a0d6d51595f2a3f5327109f1d97089e1969cdb2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b0c28cf3ce7650d3353baaf4545a324b6ea6b464012e5a959bb038364d224a7e.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70070000020215": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/826c5cb9410dc8fb4c4fad46e429d3aa631db6be179503580f4928b373316fd7.jpg",
+    "category": null,
+    "description": "A third-person, stealth, adventure game focused on the story of the Moonshadow Huntress: Cynthia Stranborg. Take control of the young adept and learn new stealth skills during your journey. Find out what happened in the home village and follow your desired path to rescue the ones you love the most. Travel through Tesana Valley to find a secretly hidden missing piece of artifact to enhance your bow. The Dark Power is coming from the north. You need to destroy the source of this power before it's too late. You are the last one that can reach that destination. At least you need to try, for your loved ones!\n\nKey features:\n-Stylized and colorful world\n-Fully voice acted emotional story\n-Stealth mechanics, arrows crafting, climbing sequences and light puzzle solving\n-A short story-driven game (to finish in one evening)\n-Several alternative outfits to unlock throughout the game.\n-A dedicated photo mode with multiple options to modify: pose, camera effects, stickers, face mimics etc.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cynthia: Hidden in the Moonshadow - Complete Edition",
+    "nsuId": 70070000020215,
+    "numberOfPlayers": null,
+    "publisher": "Catthia Games",
+    "rating": 13,
+    "ratingContent": [
+      "Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240110,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f0ae3ad081003723c2211a26db1754f2c8744f14c0a1e7afdccaeb2315876292.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cc7a71b80f8e7df4e030aa001bad97ef9bca442b354f2ad8dcb5557d6ce054c6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/274b64039101ef7e1ab94ff04ad7a23f1376e4b1cd7de6ca9583b6f02a3818e7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/55103c7f7180aa1f433d5b6b33fa0ab9a9fb3c295bac4deee92115e9b8dcee7c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cd35ab9ff0358579c9d4369ed7f91034b2c13f33b1c9a8fe1a7b0bfeb8f84a72.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ffa4c8aeb0e067e5d71c13e31173c612fb8dffbd1a2922f77c66ba61077cc1ca.jpg"
+    ],
+    "size": 2560622592,
     "version": null
   },
   "70010000073706": {
@@ -1196,6 +1381,48 @@
       "https://img-eshop.cdn.nintendo.net/i/fb588d26a9629227f3e5c38fac64e4b93704eee634ecc7fa48facb4e1b0184e4.jpg"
     ],
     "size": 238026752,
+    "version": null
+  },
+  "70010000074840": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/627b56f5fc68ddc47a266ffeeeb1eefd31303a938228170cf92c2f1738f65fda.jpg",
+    "category": [
+      "Racing",
+      "Arcade",
+      "Multiplayer",
+      "Other"
+    ],
+    "description": "Top Racer Collection brings back the 90s classic in one incredible package, bringing together three iconic games from the renowned racing franchise. With online features, get up to speed and experience the nostalgic mix of action and addictive gameplay!\n\nThe Top Racer Collection features classic titles such as Top Racer, Top Racer 2 and Top Racer 3000. In addition, the collection will feature new and exclusive content.\n\nOriginally released for older systems, Top Racer won over gamers with its engaging gameplay, vibrant graphics and iconic soundtracks.\n\nFeatures\n- Filters for a nostalgic experience;\n- Online mode for multiplayer races;\n- Challenges with friends and opponents from around the world in ranking mode;\n- Time Attack mode to test your racing skills against the clock.\n- Campaign Mode and Custom Cup Mode",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bdfbbf48fdfba0906bc260f998e3ae8bdff7240618d29b3c16f5f2ecd1175fc5.jpg",
+    "id": "010029001D8A8000",
+    "intro": "The Top Racer Collection showcases the renowned 16-bit racing game franchise, featuring Top Racer, Top Racer 2, and Top Racer 3000, along with exciting new and exclusive content!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Top Racer Collection",
+    "nsuId": 70010000074840,
+    "numberOfPlayers": 2,
+    "publisher": "QUByte Interactive",
+    "rating": 6,
+    "ratingContent": [
+      "Mild Fantasy Violence",
+      "Mild Language"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f4f93816063d36e8b2ac57fad0f818e19db80bfee38751695d91b597660e2a08.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/73ca25d89b58d87a441d6e3ca922bbd2b2d6c6b4a36b029395183d4e3b9302fe.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/75290aafafa9834b080da5408733985963a0954e2942dca143521e7ef78028eb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7906ec448ad92b3453a45e59f8b4f10990825914f3badafcac0a6a8e76876499.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/56ea3e0fcb832db20fb5cfcd6821f8398eb374703016915d58fb9761891285fa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c27357528da93b69137f2601584610e53cd7129f43bb327e69a02300c15ebd7b.jpg"
+    ],
+    "size": 890241024,
     "version": null
   },
   "70010000041413": {
@@ -1794,6 +2021,45 @@
       "https://img-eshop.cdn.nintendo.net/i/2605d8fa85c7d0b9b4a0c884edd81312390d58158ed8b05b5fa5e90c133558ed.jpg"
     ],
     "size": 1281359872,
+    "version": null
+  },
+  "70010000075476": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dab5af92eade158e47eca858a6b4b6724871dd352901de3170e18920f045faae.jpg",
+    "category": [
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Action"
+    ],
+    "description": "Features:\n\n- 7 Single player game modes\n- 3 Multiplayer game modes on local Wi-Fi network\n- 6 Trucks, each with 4 different styles\n- Vehicle tuning\n- Real driving experience\n- Incredible amount of fun",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4c41ec1def94cad5c9bf1947316d38399021a991971080c5e04a0649286731ab.jpg",
+    "id": "010046C01DB04000",
+    "intro": "Your craziest Monster Truck driving experience ever!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Monster Truck Freestyle",
+    "nsuId": 70010000075476,
+    "numberOfPlayers": 1,
+    "publisher": "IntuitiveComputers",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240120,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/2129cc3974fd8fb8d3c68df089ce77889efc6b024e45503a34676c2c8b85c8cb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3a2dc1aa738701e1469b6605c6c1676332d268652b467bbebb5cd5618dcea64e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/477e0cb21b493ff007df30ce97ac6fa2a86ef3b0bed0f562fe8197424393da13.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0409943f95889770608ad9f3457182d62620a0089e98e7db2e3379dfd68db0e0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9302f1e936a9dd5390048d2303994b0c4e95c1b039313ff546b7afe6dc8666b4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c752f3f6f836bbb4e5f6f11521785f1b4decc2934827c6f270c8e18b88ae7b1a.jpg"
+    ],
+    "size": 243269632,
     "version": null
   },
   "70010000069406": {
@@ -3391,6 +3657,34 @@
     "size": 0,
     "version": null
   },
+  "70050000045562": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/059739576097255ae97843d3899387963cdf1894d8af3c73631bc511f190c606.jpg",
+    "category": null,
+    "description": "Clue - Millionaire Forest Retreat includes a Location, 6 Suspects, 4 Customisation Items, and 6 Tokens to unlock!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Clue - Millionaire Forest Retreat",
+    "nsuId": 70050000045562,
+    "numberOfPlayers": null,
+    "publisher": "Marmalade Game Studio",
+    "rating": 10,
+    "ratingContent": [
+      "Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240617,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 0,
+    "version": null
+  },
   "70050000042874": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2923f71643f5032d2b5786cc3fd896e3eb1d168b4a64ecc84ef0422295f73dee.jpg",
     "category": null,
@@ -3646,6 +3940,34 @@
     ],
     "region": null,
     "releaseDate": 20241031,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 0,
+    "version": null
+  },
+  "70050000045564": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/059739576097255ae97843d3899387963cdf1894d8af3c73631bc511f190c606.jpg",
+    "category": null,
+    "description": "Clue - Polar Research Station includes a Location, 6 Suspects, 4 Customisation Items, and 6 Tokens to unlock!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Clue - Polar Research Station",
+    "nsuId": 70050000045564,
+    "numberOfPlayers": null,
+    "publisher": "Marmalade Game Studio",
+    "rating": 10,
+    "ratingContent": [
+      "Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20241204,
     "rightsId": null,
     "screenshots": null,
     "size": 0,
@@ -4445,6 +4767,62 @@
     "size": 0,
     "version": null
   },
+  "70050000045568": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/059739576097255ae97843d3899387963cdf1894d8af3c73631bc511f190c606.jpg",
+    "category": null,
+    "description": "Clue - Magic School includes a Location, 6 Suspects, 4 Customisation Items, and 6 Tokens to unlock!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Clue - Magic School",
+    "nsuId": 70050000045568,
+    "numberOfPlayers": null,
+    "publisher": "Marmalade Game Studio",
+    "rating": 10,
+    "ratingContent": [
+      "Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20250609,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 0,
+    "version": null
+  },
+  "70050000045566": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/059739576097255ae97843d3899387963cdf1894d8af3c73631bc511f190c606.jpg",
+    "category": null,
+    "description": "Clue - Murder at Versailles includes a Location, 6 Suspects, 4 Customisation Items, and 6 Tokens to unlock!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Clue - Murder at Versailles",
+    "nsuId": 70050000045566,
+    "numberOfPlayers": null,
+    "publisher": "Marmalade Game Studio",
+    "rating": 10,
+    "ratingContent": [
+      "Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20250616,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 0,
+    "version": null
+  },
   "70050000045617": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/55f934c98542df79b2e2b9d90e0572caefaa083ec6fdb28d93a3887d5c9b592c.jpg",
     "category": null,
@@ -4470,6 +4848,146 @@
     ],
     "region": null,
     "releaseDate": 20250828,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 0,
+    "version": null
+  },
+  "70050000045570": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/059739576097255ae97843d3899387963cdf1894d8af3c73631bc511f190c606.jpg",
+    "category": null,
+    "description": "Clue - Murder in the Void includes a Location, 6 Suspects, 4 Customisation Items, and 6 Tokens to unlock!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Clue - Murder in the Void",
+    "nsuId": 70050000045570,
+    "numberOfPlayers": null,
+    "publisher": "Marmalade Game Studio",
+    "rating": 10,
+    "ratingContent": [
+      "Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20251215,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 0,
+    "version": null
+  },
+  "70050000045574": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/059739576097255ae97843d3899387963cdf1894d8af3c73631bc511f190c606.jpg",
+    "category": null,
+    "description": "Clue - Neon Noir includes a Location, 6 Suspects, 4 Customisation Items, and 6 Tokens to unlock!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Clue - Neon Noir",
+    "nsuId": 70050000045574,
+    "numberOfPlayers": null,
+    "publisher": "Marmalade Game Studio",
+    "rating": 10,
+    "ratingContent": [
+      "Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20260615,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 0,
+    "version": null
+  },
+  "70050000045572": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/059739576097255ae97843d3899387963cdf1894d8af3c73631bc511f190c606.jpg",
+    "category": null,
+    "description": "Clue - Ancient Gods Mausoleum includes a Location, 6 Suspects, 4 Customisation Items, and 6 Tokens to unlock!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Clue - Ancient Gods Mausoleum",
+    "nsuId": 70050000045572,
+    "numberOfPlayers": null,
+    "publisher": "Marmalade Game Studio",
+    "rating": 10,
+    "ratingContent": [
+      "Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20261214,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 0,
+    "version": null
+  },
+  "70050000046329": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/059739576097255ae97843d3899387963cdf1894d8af3c73631bc511f190c606.jpg",
+    "category": null,
+    "description": "The Painted Red Crime Scene includes a Location, 6 Suspects, 4 Customisation Items, and 6 Tokens to unlock!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Clue - Painted Red",
+    "nsuId": 70050000046329,
+    "numberOfPlayers": null,
+    "publisher": "Marmalade Game Studio",
+    "rating": 10,
+    "ratingContent": [
+      "Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20270505,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 0,
+    "version": null
+  },
+  "70050000045576": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/059739576097255ae97843d3899387963cdf1894d8af3c73631bc511f190c606.jpg",
+    "category": null,
+    "description": "Clue - Lost City of Atlantis includes a Location, 6 Suspects, 4 Customisation Items, and 6 Tokens to unlock!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Clue - Lost City of Atlantis",
+    "nsuId": 70050000045576,
+    "numberOfPlayers": null,
+    "publisher": "Marmalade Game Studio",
+    "rating": 10,
+    "ratingContent": [
+      "Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20270614,
     "rightsId": null,
     "screenshots": null,
     "size": 0,
