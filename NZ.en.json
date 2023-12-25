@@ -1,4 +1,46 @@
 {
+  "70010000073512": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1b4dc18e5603d15394208aa2f73221d3b930ec6d04597a0b32a1afb1e8b74152.jpg",
+    "category": [
+      "Adventure",
+      "Other",
+      "Action"
+    ],
+    "description": "After a terrible shipwreck, Percy finds himself stranded on a mysterious island teeming with hostile creatures. Still devastated by his situation and tormented by fragmented memories, he must undertake various tasks to ensure his survival and search for a way to escape from this dangerous island, which is infested by a mysterious infection that affects him every moment. To increase his despair in this adventure, Percy loses his vitality every minute until he finds the cure. Try to survive this perilous adventure of Percy in both the story mode and the survival mode.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eb5d921aa2e342d1dea19dde7fe2ce8fb910b548531ec70348ad95ddc1d77edf.jpg",
+    "id": "01009E501D3AA000",
+    "intro": "story mode and survival mode",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "pt"
+    ],
+    "name": "Escape From The Island",
+    "nsuId": 70010000073512,
+    "numberOfPlayers": 1,
+    "publisher": "Nerd Games",
+    "rating": 13,
+    "ratingContent": [
+      "Horror Themes",
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20231226,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/5f1c3bde511ac348f14230eb8019f9bcb603aab49b37051ada19a0a0f0841697.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7a00e29c3595ff4a7655f6bd5712c98a6f444119993b3609f5e77011e4de89f0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a7a11dbfe2a6b89921ac5eee7eb2395ce9182ebb4e3a11ea58f6069201a54dd6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/25afb32b3278ddb0836a9a4785fa51b9c0bd5fbba4d167c4e2195bf5615e53f1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/169719c37850ef361737056ef64e589403dda78f637b24c12d3433beddcfefca.jpg"
+    ],
+    "size": 516947968,
+    "version": null
+  },
   "70010000073535": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b925d0bd593d03eef09537444dac85c676ea32943eb777e095f0f3e996524058.jpg",
     "category": [
@@ -37,6 +79,77 @@
       "https://img-eshop.cdn.nintendo.net/i/aca112418fc0646cc0c850855204bbc5dfd4b921c1920a1adaf41c2888cfa8c4.jpg"
     ],
     "size": 838860800,
+    "version": null
+  },
+  "70070000018786": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/206e577a7f07b8aab85652b693d0e3218ca17a8643bb83ea1dd4945b42236f0c.jpg",
+    "category": null,
+    "description": "Pick your favorite\n\nChoose one of the heros and challenge other players in this family-friendly version of Chess. Thanks to the cartoony graphics, this variation can be enyojed by people of all ages.\n\nHone your skills\n\nIf you want to improve on your own, try out one of five difficulty options and play with an NPC. Find your favorite opening and improve with every game. If you are looking for a real challenge try out the expert mode.\n\nThis bundle includes the Elf DLC.\n\nKey features:\n\n- local multiplayer\n- family friendly\n- balanced gameplay\n- charming aesthetic\n- invigorating music track",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Prepare for loads of fun with this cartoon version of the most popular board game in the world. ",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Fun Chess Extended Edition",
+    "nsuId": 70070000018786,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "Very Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20231226,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/72be25bba27cc6dab81cb48647788517d3c6d2afacd9eca102f1df2677c48b92.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/81825a464e63219771c9a7fb0fc45c40fd7383689146f0567ac444b0d13f2eac.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/77c903c62b0125bb414f15c8eab0a07406eecccf0f390c81f5fc0034c3333bcd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9abeb8bb91c1de04add07fd686e2b90736c1412b2a3f4c38e440816608d7f849.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c9c6a2d2364d61eeed9e3d036d17592fd67ec864aaf2dc28c3568fb35993d894.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1fbfcaeca377bffa701e6427bb43ca7a0d68261a06f27b56b94c9d004cbc760d.jpg"
+    ],
+    "size": 394264576,
+    "version": null
+  },
+  "70070000019658": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/52e57430fcb9f952de0390e99f609976bcf6b479c06eb03054ebf8f0f0567313.jpg",
+    "category": null,
+    "description": "Take on a series of epic battles against powerful bosses. Unlock new abilities and power-ups and become the ultimate warrior. Dodge a barrage of laser beams, and explosions and make sure YOU are the last one standing.\n\nWith its vibrant graphics, pulse-pounding soundtrack, and intuitive controls, Mixx Island Remix is a game that's easy to pick up but hard to put down. \n\nWhether you're a seasoned gamer or a newcomer to the world of side-scrolling games, you'll find plenty to love in this thrilling adventure.\n\nIn this bundle, in addition to the main game, you will get access to Summer and Winter Islands.\n\nKey Features:\n\n- 2D World\n- High-action gameplay\n- Rewarding gameplay loop\n- Cute characters\n- Astounding soundtrack\n- Anime style aesthetic",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Mixx Island Remix Plus is a high-energy, action-packed shooter set in a fantastic 2D world. Gather your wits, sharpen your reflexes, and prepare for the ultimate challenge. ",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Mixx Island: Remix Plus Legendary Edition",
+    "nsuId": 70070000019658,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Violence",
+      "Scary Scenes"
+    ],
+    "region": null,
+    "releaseDate": 20231226,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/76ac7c418fde15f525f99548cf695011895cb6e47e543e873c384875ba558273.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fa6e114c6d5c38fa2be4bf68582c1c82b7f0b37221c70a702a06c9227ebd67f8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/107c5288cacf319aaaf387306f4035d580af30c3e7784e507691c2f0bfaaf390.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4ed7500da119185bc62291a52165c5ba990eb2a5dcbf909d2ed1b81d481782c1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/931e3d10644811307329da6517115a786aa6f1a3cffade6e82ae60d80a79ac6e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0ef8156345d96a408900bd82371dbd53d221dcd43bc4768049067ed02429c73a.jpg"
+    ],
+    "size": 327155712,
     "version": null
   },
   "70070000019423": {
@@ -787,6 +900,47 @@
       "https://img-eshop.cdn.nintendo.net/i/d2c9ee19f328bf77e0739456a1e0e778ce8f8daec3a7e5c5aa9bd02f2bbb3467.jpg"
     ],
     "size": 385875968,
+    "version": null
+  },
+  "70010000066892": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a9627bead1934e0c4de1402b96898d05490137ea230393027542158d3250c30d.jpg",
+    "category": [
+      "Simulation",
+      "Racing",
+      "Action",
+      "Strategy"
+    ],
+    "description": "  Embark on an exhilarating virtual journey across the vast landscapes of America with \"Truck Simulator 2024 - USA Driver Zone\" While navigating through the expansive virtual world, you'll come across a diverse array of missions and tasks awaiting your engagement.\n   Key Features:\n\u2022 Diverse Truck Selection: Choose from a fleet of meticulously detailed trucks, each with its own unique characteristics and handling.\n\u2022 Open World Exploration: Roam freely through a meticulously crafted open-world map inspired by the stunning American landscape. \n\u2022 Mission Variety: Take on a multitude of missions and jobs that will put your driving skills to the test. \n\u2022 Upgrades Galore: Enhance your truck's performance with a range of upgrades, including powerful engines, advanced transmissions, and responsive brakes. \n\u2022 Business Expansion: Build your trucking empire by wisely investing in your fleet. \n\u2022 Realistic Physics: Experience the authentic feel of trucking with realistic physics that respond to every turn, acceleration, and brake. \n       \"Truck Simulator 2024 - USA Driver Zone\" offers not only a gaming experience but a captivating journey into the world of long-haul trucking. Strap in, hit the road, and make your mark on the American highways.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9c960d8a5d30298d769259943f292f54ff92e03ae2ee76611674fad833f12bd3.jpg",
+    "id": "0100D7E01B4EA000",
+    "intro": "  Rev up your virtual journey, conquer the open roads, and build your trucking empire in the heart of America \u2013 where every mile is a new adventure! ",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Truck Simulator 2024 - USA Driver Zone",
+    "nsuId": 70010000066892,
+    "numberOfPlayers": 1,
+    "publisher": "SUCCESS GAMES",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240102,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f2e385004041ca64e1f2f7d05c3441e18c2cddda6f954b8253e54264edbea2ab.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a9097319fdf6faf3a0452f93ca373adf9abde4f1cf6f75be2324eb538912416d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/726477617da21c7f4a64f09fd504fe7668edebd176cd276c7e8eb38e30b2694d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8fce30df3a447b070486fabe13eab821f515ed058f706fd7347263bb68a06657.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/68849f30e2d761bb1ecb67ba561251fca72f0f150029083e94830bf91b122776.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cb56f9866f0a2f5a3fee8bb7c1ba1c05db7a85515889f36f9f08858c21ae80e3.jpg"
+    ],
+    "size": 720371712,
     "version": null
   },
   "70010000065866": {
