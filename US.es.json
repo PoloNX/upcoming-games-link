@@ -292,6 +292,45 @@
     "size": 375390208,
     "version": null
   },
+  "70010000066891": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a9627bead1934e0c4de1402b96898d05490137ea230393027542158d3250c30d.jpg",
+    "category": [
+      "Simulaci\u00f3n",
+      "Carreras",
+      "Acci\u00f3n",
+      "Estrategia"
+    ],
+    "description": "       Embark on an exhilarating virtual journey across the vast landscapes of America with \"Truck Simulator 2024 - USA Driver Zone.\" While navigating through the expansive virtual world, you'll come across a diverse array of missions and tasks awaiting your engagement.\n   Key Features:\n\u2022 Diverse Truck Selection: Choose from a fleet of meticulously detailed trucks, each with its own unique characteristics and handling.\n\u2022 Open World Exploration: Roam freely through a meticulously crafted open-world map inspired by the stunning American landscape. \n\u2022 Mission Variety: Take on a multitude of missions and jobs that will put your driving skills to the test. \n\u2022 Upgrades Galore: Enhance your truck's performance with a range of upgrades, including powerful engines, advanced transmissions, and responsive brakes. \n\u2022 Business Expansion: Build your trucking empire by wisely investing in your fleet. \n\u2022 Realistic Physics: Experience the authentic feel of trucking with realistic physics that respond to every turn, acceleration, and brake. \n       \"Truck Simulator 2024 - USA Driver Zone\" offers not only a gaming experience but a captivating journey into the world of long-haul trucking. Strap in, hit the road, and make your mark on the American highways.\n\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9c960d8a5d30298d769259943f292f54ff92e03ae2ee76611674fad833f12bd3.jpg",
+    "id": "0100D7E01B4EA000",
+    "intro": " Rev up your virtual journey, conquer the open roads, and build your trucking empire in the heart of America \u2013 where every mile is a new adventure! ",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Truck Simulator 2024 - USA Driver Zone",
+    "nsuId": 70010000066891,
+    "numberOfPlayers": 1,
+    "publisher": "SUCCESS GAMES",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240102,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f2e385004041ca64e1f2f7d05c3441e18c2cddda6f954b8253e54264edbea2ab.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a9097319fdf6faf3a0452f93ca373adf9abde4f1cf6f75be2324eb538912416d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/726477617da21c7f4a64f09fd504fe7668edebd176cd276c7e8eb38e30b2694d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8fce30df3a447b070486fabe13eab821f515ed058f706fd7347263bb68a06657.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b7c9b0d82811c4ccab999d8c6cf178769b93443f1c1b65aa8f07fbf71b6e3b03.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cb56f9866f0a2f5a3fee8bb7c1ba1c05db7a85515889f36f9f08858c21ae80e3.jpg"
+    ],
+    "size": 720371712,
+    "version": null
+  },
   "70010000065865": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fdb29fbaea13f52cabeb14c6c6288f054145916279f2724eccbfbb547a6082f6.jpg",
     "category": [
@@ -370,6 +409,46 @@
       "https://img-eshop.cdn.nintendo.net/i/30f4776e2437f5a8e1ec45390ed3b3b3a764e9eb1d97d8553a3ae7a6d670b346.jpg"
     ],
     "size": 63963136,
+    "version": null
+  },
+  "70010000074210": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ad8e431677a0b078cd967d8a09ad7205a415d31b1d409b1a90fc685b9eab646d.jpg",
+    "category": [
+      "Aventura",
+      "Simulaci\u00f3n",
+      "Entrenamiento",
+      "Fiesta"
+    ],
+    "description": "The smartphone you got...\nIt had a special ability to see the spirits......\n\nA picture of a mundane, ordinary day...\nBut inside, there was an invisible spirit......!\n\nAn earthbound spirit after a regrettable death, a spirit with a grudge on the person in the picture, sometimes a guardian angel, and even things that are not a spirit......\n\nNow let\u2019s hold up your spiritual-vision-smartphone, and open your eyes to the existence of the hidden spirits...!\nThere must be a terrifying experience waiting for you......\n\nIf you get scared easily and are playing alone, beware and make sure to light up the room and take a bath before you play the game...!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/04550e235f0890edfe2bfc1245c047d0a261c03e878b2f8b1fee4ebd7e67f295.jpg",
+    "id": "010023E01D5E6000",
+    "intro": "Find the hiding invisible spirit in the photo by using your spiritual-vision-smartphone!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Forbidden Ghost Photo",
+    "nsuId": 70010000074210,
+    "numberOfPlayers": 1,
+    "publisher": "MASK",
+    "rating": 13,
+    "ratingContent": [
+      "Bajo contenido de sangre",
+      "Violencia"
+    ],
+    "region": null,
+    "releaseDate": 20240104,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/526eb0260f459c06d68573f6beb1f6d73329cdff7d8140434ca7f75b7f019e19.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1231004e4a17c56c6b4b3e897ad29dbb033ce8ee71fd994e06fae362a3d14028.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b0f6d1f943f896fc740150f5c607f01fe74b1a6301a228b14719d2771eaeff95.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d925c5535b21f070bcf89984ddb6ddf84bcb4fd1754adb0849e1c903444e6fbf.jpg"
+    ],
+    "size": 277872640,
     "version": null
   },
   "70070000020461": {
@@ -888,6 +967,37 @@
       "https://img-eshop.cdn.nintendo.net/i/2328d5c8097675a29b1fe08ef163767ce03414864836196ff52a3a95e90a13a5.jpg"
     ],
     "size": 184549376,
+    "version": null
+  },
+  "70050000044660": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4282389d8664b966ececd9b3f32768c6772e9a0e20f6707a918dff9449ed6038.jpg",
+    "category": null,
+    "description": "La legendaria campeona oce\u00e1nica de lucha libre Toni Storm se incorpora al plantel de luchadores jugables de Fight Forever y viene con 10 temas nuevos bajo el brazo.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "AEW: Fight Forever The STORM is coming!",
+    "nsuId": 70050000044660,
+    "numberOfPlayers": null,
+    "publisher": "THQ Nordic",
+    "rating": 13,
+    "ratingContent": [
+      "Sangre",
+      "Lenguaje",
+      "Temas insinuantes moderados",
+      "Uso de Alcohol y Tabaco",
+      "Violencia"
+    ],
+    "region": null,
+    "releaseDate": 20240110,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
     "version": null
   },
   "70050000045897": {
@@ -2200,6 +2310,47 @@
     "size": 758120448,
     "version": null
   },
+  "70010000076075": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/06cb905ca47d8b88dda36861bc2d697e0459991ee92b9c4f5546d3af3ad01af1.jpg",
+    "category": [
+      "Aventura",
+      "Otros"
+    ],
+    "description": "Sinopsis.\nEl protagonista empieza a trabajar a tiempo parcial en un cibercaf\u00e9 cercano para pagar su beca...\n\n\nContenido\nSelling Souls es un juego de simulaci\u00f3n a pie en el que explorar\u00e1s tu entorno, encontrar\u00e1s objetos y avanzar\u00e1s en la historia.\nRevivir\u00e1s la historia de terror mientras realizas las tareas del cibercaf\u00e9.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/afad73ab644d8929eb713e7a7d8f34b5cd50998092bc1e0094a305a2e79b4bd3.jpg",
+    "id": "0100B9A01DCB0000",
+    "intro": "Algo va mal en esta tienda",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "name": "Selling Souls",
+    "nsuId": 70010000076075,
+    "numberOfPlayers": 1,
+    "publisher": "Taiga",
+    "rating": 13,
+    "ratingContent": [
+      "Sangre",
+      "Violencia"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8efe84bc22039694e9ee4bbcc4ae5bbda74769577d5e7fdc9c7147ef10e0b197.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3f7f101205ab2ecb41c316097ce14b5ef3fef0ee2e8484cea1fad2d650264263.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c94127064478e387ece8b0231f4baa13588804a6277897b69e89cd1c0a97b485.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/359b0a4aa97e0bf9417ec79044601d00f3edfcf8ddf237f164c142645eabd6fa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2053bdc20d68760e4e2b8d4223ed1dff10d530cbab39f2f623f11caae22a58c8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ad466ee4d5bf1ceabad807637cb6ffc1ba6ee381006df4023d231d7e3b7d4ff4.jpg"
+    ],
+    "size": 1021313024,
+    "version": null
+  },
   "70010000076587": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b99571bfae227b7f8da3dd4fbb2d2e35ed4bd120fdd97172e730968fe57da75.jpg",
     "category": [
@@ -2443,6 +2594,42 @@
       "https://img-eshop.cdn.nintendo.net/i/30834b39aba50ba87cdaac849870e9b454d7c0462ce689ae9811df4772671ff0.jpg"
     ],
     "size": 3397386240,
+    "version": null
+  },
+  "70070000019409": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8840806b249d923902c09e0e52ca48e4773b2cc7b4302b7bf2e6c4fef0a36574.jpg",
+    "category": null,
+    "description": "En S.N.I.P.E.R.: Hunter Scope, dispara, lucha y gana.\n\nJuega a S.N.I.P.E.R., el \u00faltimo juego de francotiradores en el que debes apuntar, luchar y destruir enemigos virtuales. Prueba distintos tipos de misiones, inspirados tanto en los shooters cl\u00e1sicos sobre ra\u00edles como en los m\u00e1s modernos con cobertura. \u00c1brete paso luchando de d\u00eda o de noche, destruye las fuerzas del mal y desbloquea nuevas armas y potenciadores.\n\nCaracter\u00edsticas:\nM\u00e1s de 15 FASES\nM\u00e1s de 30 ARMAS\nM\u00e1s de 30 OBJETOS DE GALER\u00cdA\nM\u00e1s de 60 LOGROS ESPECIALES \n\n\u00a1Convi\u00e9rtete en cazador, pon tu mira y lucha por nuestra libertad!\n\nEste paquete incluye el juego b\u00e1sico, Expansion Pack, Weaponry Upgrade, Elite Arsenal y Target Acquired con:\n\n-Con este Pack de Expansi\u00f3n podr\u00e1s luchar y sobrevivir al apocalipsis zombi en un nuevo modo de juego.\n-Juega mapas nuevos o visita los antiguos con nuevas armas.\n-Pistola PIS-30-ARM: un arma secundaria caracterizada por la fiabilidad\n-Fusil FMS-1-LEO: un arma vers\u00e1til y adaptable para cualquier situaci\u00f3n\n-Fusil de francotirador SN-1000-FUT: un arma de alta tecnolog\u00eda con las m\u00e1s modernas caracter\u00edsticas para obtener la m\u00e1xima precisi\u00f3n\n-Pistola RVL-357-WES: un rev\u00f3lver cl\u00e1sico con un dise\u00f1o atemporal \n-Fusil BK-47-CAM: un fusil tan resistente como fiable, inspirado en el salvaje oeste \n-Fusil de francotirador SN-1100-TRI: un fusil de francotirador para vaqueros modernos \n-Rifle RIF-16-DOT: un rifle de alta tecnolog\u00eda con mira de punto para apuntar mejor\n- Rifle de francotirador SN-200-FOR: un potente y preciso rifle para el combate a larga distancia \n- Rifle de francotirador SN-300-FFD: un arma vers\u00e1til para misiones especiales\n- Rifle de francotirador SN-400-SKY: un dise\u00f1o esbelto combinado con la m\u00e1s moderna tecnolog\u00eda \n\n\u00a1Derrota a tus enemigos al estilo del Far West!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "\u00a1CONVI\u00c9RTETE EN EL MEJOR FRANCOTIRADOR!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "S.N.I.P.E.R. - Hunter Scope GOTY Edition",
+    "nsuId": 70070000019409,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Games",
+    "rating": 17,
+    "ratingContent": [
+      "Sangre",
+      "Violencia intensa",
+      "Compras dentro del juego"
+    ],
+    "region": null,
+    "releaseDate": 20240126,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/117af13340cce4500b6a3aab508f42ca5d00cf65f74dd8963d29a92ea5edd9b4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cd7b25dbf3a83777f86d755459c496e981a2d1564edcdbb2781016b6dadf7f7c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7fa1f138a99543d600a8454110220429edc8b5e180e01e6c33fc46104e0e85b5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d5b3cef70e513b143afa805b846d58ce2312e5d2f99141332ca1d50c4a6ad828.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/57c0a306bde192e868538553db3ba562e69eafaf8da54be7171179cfd971b1ad.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/93ab9b57642f44a83b7dbca14cbf96d8a1194eb4626b667a430303a82ddc7ca7.jpg"
+    ],
+    "size": 2659188736,
     "version": null
   },
   "70050000044386": {
@@ -2978,6 +3165,50 @@
       "https://img-eshop.cdn.nintendo.net/i/69540341418dfc841cfb24a11e441a20c9ad18065280d5984c4a56bb46734f61.jpg"
     ],
     "size": 212860928,
+    "version": null
+  },
+  "70010000071163": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/94ac22d9b86685619fef564135a6ca6d8eddd0dd9be112d91ed803969459f4d4.jpg",
+    "category": [
+      "Juego de rol",
+      "Estrategia"
+    ],
+    "description": "\u25a0\u300eYohane the Parhelion - NUMAZU in the MIRAGE -\u300f\nYohane the Parhelion es un spin-off oficial de \"Love Live! Sunshine\".\n\u300eYohane the Parhelion  - NUMAZU in the MIRAGE -\u300f \u00a1es una luz deshonesta de construcci\u00f3n de mazos en ese mundo!\nMientras trabaja como adivino en Numazu, Yohane pasa sus d\u00edas con sus amigos. Por casualidad, se pone en posesi\u00f3n de un viejo espejo.\n\nPreocupado de que su fortuna no sea precisa, Yohane decide jugar \"Magic Mirror Fortune-Telling\" usando el espejo,\nDe repente, es absorbida por el espejo, que comienza a brillar.\n\n\u00a1Lo que encuentra en el espejo es el \"Ura-Numazu\", que es el reverso exacto del Numazu real!\nAdem\u00e1s, era un mundo misterioso donde la magia podr\u00eda usarse con el poder de las cartas.\n\nAl mismo tiempo, les suceden cosas extra\u00f1as a los amigos en el mundo real uno tras otro.\n\u00a1Para salvarlos, ella debe pasar por el \"Ura-Numazu\"!\n\u00bfQu\u00e9 le espera?\n\nUn mundo de espejos que cambia su apariencia cada vez que entra.\nDespu\u00e9s de innumerables opciones, \u00bfcu\u00e1l es el futuro que yohane elegir\u00e1?\n\u00a1Una nueva historia comienza en el otro Numazu!\n\n\u25a0 Building y batallas de cartas en \"Ura-Numazu\" donde se puede usar magia.\nAventura a trav\u00e9s de Numazu en el espejo.\nExplore Numazu en el espejo y use las tarjetas que adquiere para su ventaja.\n\u00a1Apunte al nivel m\u00e1s profundo del \"Ura-Numazu\" haciendo el uso completo de las tarjetas que ha obtenido!\n\n\u25a0 \u00a1Una amplia gama de construcci\u00f3n de mazos con m\u00e1s de 100 tipos de cartas!\n\u00a1Aventura a trav\u00e9s de Ura-Numazu, recolecte cartas y construya su propio poderoso mazo!\n\u00a1Construye el mazo m\u00e1s fuerte propio!\n\n\u25a0 Invoca a tus amigos de confianza con tarjetas de invocaci\u00f3n!\nPuedes convocar a amigos poderosos en Ura-Numazu.\n\u00a1Invoca a los amigos de Yohane para que te ayuden en caso de apuro!\n\n\u25a0 Mapas sin fin con estructuras cambiantes! \u00a1Formas infinitas de atacar!\nUna vez borrado, el mapa cambia su estructura cada vez que ingresa.\n\u00a1Un sistema de gangas que te permite jugar para siempre!\n\n\u25a0 \u00a1Encantos para hacerte m\u00e1s fuerte que el m\u00e1s fuerte! \u00a1Crea tu fuerza con Cards x Charms!\nLos \"encantos\" son elementos con efectos poderosos.\n\u00a1Comb\u00ednalos con cartas para volverse m\u00e1s poderosos que el m\u00e1s fuerte!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b19bc1db32f8391b68c2c48150c7c53f7e07e2c2f72725f11414188065665ecd.jpg",
+    "id": "0100F2101C9A6000",
+    "intro": "\u00a1Una luz p\u00edcaro de construcci\u00f3n de mazos con cartas m\u00e1gicas!\n\u00a1Otra historia de Yohane est\u00e1 aqu\u00ed!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "zh",
+      "zh"
+    ],
+    "name": "Yohane the Parhelion - NUMAZU in the MIRAGE -",
+    "nsuId": 70010000071163,
+    "numberOfPlayers": 1,
+    "publisher": "BeXide",
+    "rating": 10,
+    "ratingContent": [
+      "Violencia de fantasia",
+      "Lenguaje moderado",
+      "Compras dentro del juego"
+    ],
+    "region": null,
+    "releaseDate": 20240222,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a7209cd6568d5da9b2f6ffc66e4953b53efc6316b003fe7089ff4cd2b6809088.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bb44869413ff5a584730228bb875a8e0592f6ab825d3f73d51f7366e50e0a46e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d8a7f162e53937758463fe7c2030ee7a59c82f48e9e65c7030eb0ac6317387b2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f31483aa1858b1f717d51749bc6bc4b1a6b7c2f9e23f0b51cfe779839c7d8b18.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bcab15bbd8ca7b41f8d3e6cc8b5a6739b5b30de9351e5f7b75a3e6c7aaf74566.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c18744e357953334c4dba0b571486e6ef72f7372c9a8bc939a30386c15c14731.jpg"
+    ],
+    "size": 732954624,
     "version": null
   },
   "70010000070535": {

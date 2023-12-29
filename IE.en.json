@@ -1307,6 +1307,34 @@
     "size": 184549376,
     "version": null
   },
+  "70050000044658": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4282389d8664b966ececd9b3f32768c6772e9a0e20f6707a918dff9449ed6038.jpg",
+    "category": null,
+    "description": "The legendary women's wrestling champion from down under Toni Storm joins the Fight Forever playable wrestler roster along with 10 new tracks.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "AEW: Fight Forever The STORM is coming!",
+    "nsuId": 70050000044658,
+    "numberOfPlayers": null,
+    "publisher": "THQ Nordic",
+    "rating": 16,
+    "ratingContent": [
+      "Violence",
+      "In-game purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240110,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
   "70050000045889": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f8ce732d47c4456509197eb68cec59ab3c62b76d989d0b6a700a18004894e6ab.jpg",
     "category": null,
@@ -1610,6 +1638,40 @@
     "size": 890241024,
     "version": null
   },
+  "70070000020379": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c158eb2a9ad1751c37f3ed8801b8d216f7b3c37820f17014e9bbcb76674b166.jpg",
+    "category": null,
+    "description": "In Stellar Interface be prepared to run through the universe, discover the numerous perks/consumables and their synergistic effects. Explore the randomly-generated galaxy to find merchants, unlock spacecrafts, collect StellarNetES Cartridges, checkmark your kills of the various galactic overlords.\nAnd die. A lot!\n\nSudoku Zenkai is a game for beginners and advanced Sudoku players.\nIt lets you play cooperatively with your friends! You can start a new puzzle with a friend or simply ask one to help you on that tricky one, two heads are always better than one (usually).\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Explore the randomly generated galaxy and destroy all the galactic overlords. Solve Sudokus with your friends!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Stellar Interface + Sudoku Zenkai",
+    "nsuId": 70070000020379,
+    "numberOfPlayers": null,
+    "publisher": "ImaginationOverflow",
+    "rating": 7,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/336fe18a86cb075c531587b1791be3b98765c403c11b2152c03829123b316d0a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e7005cc0d72ecb3aa23b754144131fab5a6b3915ab5285c27924ccd7cc5f200e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a51beea12ec144627fd59468c188d768b0a0dc7f298359829194def1a2711e11.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d1b6d86db29572db5448940c5b4709f5ddd9476b681157a01b72a9a6d3d314b7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc8282b197ce964e370c3938b808fde8c40d7692f5d4c37935a1d4f84154f6a1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/61d51a5dec511a86f62b41f466b6e7b8366f26f850ead3868d276fb6037c5296.jpg"
+    ],
+    "size": 666894336,
+    "version": null
+  },
   "70010000041414": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1ec03c75011d6e14cdd421d24b6cd91f826aea9c950f96a4debf2f9bf3727c74.jpg",
     "category": [
@@ -1816,6 +1878,49 @@
     "size": 393216000,
     "version": null
   },
+  "70010000074647": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8f2d0bd3cf00e1e34b837af003b79c6450e603290d8ef8786d6c2691402361e4.jpg",
+    "category": [
+      "Arcade",
+      "Simulation",
+      "Sports",
+      "Action"
+    ],
+    "description": "Immerse yourself in the world of bowling with Bowling Fever!\n\nTest your skills in countless game modes, visit amazingly realistic 3D locations, play fantastic mini-games and discover dozens of new bowling balls and pins!\n\nNeed a hand? Various power-ups and boosts will help you to meet the challenges.\n\nA bowling game has never been this exciting!\n\n- Fantastic bowling alleys from around the world.\n- Fantastic 20+ balls, pins and lanes to show off!\n- Multiple mini-games to complete.\n- Multiple game modes to play!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/06e40923b397f82e3fac8572dfd0ced02b6bf90a2f68699bdcd26c15075c9d25.jpg",
+    "id": "010077701D772000",
+    "intro": "Fire up \"Bowling Fever\" and be carried away by the emotions!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Bowling Fever",
+    "nsuId": 70010000074647,
+    "numberOfPlayers": 4,
+    "publisher": "Baltoro Minis",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/b185a4194397117ef3b1cea3c6427596a03c8c147063145748a016779eafcf4a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1d12d10692d46a951a60b649395acb38a7fe1c5f4ea8b3bdc33288743fdfe48a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9cc45d42478defcfa18e439f24b4b8a9242e6037351a91d6b01b4efaddee3a32.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/da0e2cac263f111ade2d383e56538bdca59cdc9f0a6837d180eb742f6116aa3b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7e5ce88d8b5f7e8058ed81663bd6f9ceffc1631027a34ac026f56e67d672dcf2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/35937982939c725f4bf34ddc42f8fb7945f101f5f8cc13fcd71a46f551f63ccf.jpg"
+    ],
+    "size": 476053504,
+    "version": null
+  },
   "70070000019582": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/077fd579deeef492690867c621515389fdbd26119faa46879395fa13862a2628.jpg",
     "category": null,
@@ -1845,6 +1950,47 @@
       "https://img-eshop.cdn.nintendo.net/i/27e5a27116e77fc8b63d82cec73c9823e1b16cdb9867e5c22d076bb14557ec4f.jpg"
     ],
     "size": 375390208,
+    "version": null
+  },
+  "70010000057408": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/803fcd9dc3e4de93e42cd47302a8ac6045699d95e612b945abed1fc43daeb07d.jpg",
+    "category": [
+      "RPG",
+      "Adventure",
+      "Simulation",
+      "Lifestyle"
+    ],
+    "description": "Farm Knight Adventures is a simple fantasy farming simulation with RPG elements and epic adventures. You start as a small farmer and start building your farm. You harvest the fruits you grow and sell them to the nearby hamlet, of course to buy more seeds and other useful things for your farm. With the newly bought items, you can level up and transform your small yard into a large farm with animals, growing fields of delicious vegetables and busy work stations in no time. Experience epic adventures in the gold or iron mine. Go on serious adventures in the dungeon or the crypt. However, these adventures are for experienced adventurers. A vibrant world awaits you with many places to explore and treasure maps lying around waiting for you to be discovered.\nSo if you like farming and would like to go on epic adventures, then grab a shovel and start your farm or take your sword and start your adventure today!\n\nFeatures:\n- Farming simulation with RPG elements\n- Many items from crafting, equipment, weapons, armour or seeds and even wings!\n- Four different disciplines to master (Farming, Hunting, Mining, Cooking)\n- Loving living world\n- Procedurally generated dungeons",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/629965246ff0824d8f0b3a5b46dc391ace85bf16063fd1803cd61120c84b1d98.jpg",
+    "id": "01009A1016AAA000",
+    "intro": "Build up your farm,grow fruits, cook food and grab your sword and go on epic adventures!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Farm Knight Adventures",
+    "nsuId": 70010000057408,
+    "numberOfPlayers": 1,
+    "publisher": "Kistler Studios",
+    "rating": 7,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240115,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/2fa5454ba10b67e093512945d5945d5a55fe12979007c5317bb5644f646e05aa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/041aec581cea0f36521c195067b52cfe4369b2977c56a6611b107e9bd22a87c4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3be455fee722818cf924093d3c7f179222e1bfdaada0e5bbb6df9019b034e2f5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/022abf58b7be765d8e917d9fb3d7e7f27261f1548fea00441385374f0a5ef7fa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b50631da445edad03f615af00540e0b6d0b903811b2d17ab9a44d05cc82957ad.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bdb5b561d7d9c43229e9c6be56c1c8b5a4181533c6ba558dffc6e2cef6908edd.jpg"
+    ],
+    "size": 347078656,
     "version": null
   },
   "70050000041801": {
@@ -2663,6 +2809,80 @@
     "size": 758120448,
     "version": null
   },
+  "70010000076076": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/06cb905ca47d8b88dda36861bc2d697e0459991ee92b9c4f5546d3af3ad01af1.jpg",
+    "category": [
+      "Adventure",
+      "Other"
+    ],
+    "description": "Synopsis.\nThe protagonist starts a part-time job at a nearby Internet cafe to pay off his scholarship...\n\n\nContents\nSelling Souls is a walking simulator game where you explore your surroundings, find items, and advance the story.\nYou will relive the tale of terror while performing the duties of the Internet cafe.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/afad73ab644d8929eb713e7a7d8f34b5cd50998092bc1e0094a305a2e79b4bd3.jpg",
+    "id": "0100B9A01DCB0000",
+    "intro": "Something is wrong with this store",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "name": "Selling Souls",
+    "nsuId": 70010000076076,
+    "numberOfPlayers": 1,
+    "publisher": "Taiga",
+    "rating": 16,
+    "ratingContent": [
+      "Strong Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8efe84bc22039694e9ee4bbcc4ae5bbda74769577d5e7fdc9c7147ef10e0b197.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3f7f101205ab2ecb41c316097ce14b5ef3fef0ee2e8484cea1fad2d650264263.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c94127064478e387ece8b0231f4baa13588804a6277897b69e89cd1c0a97b485.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/359b0a4aa97e0bf9417ec79044601d00f3edfcf8ddf237f164c142645eabd6fa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2053bdc20d68760e4e2b8d4223ed1dff10d530cbab39f2f623f11caae22a58c8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ad466ee4d5bf1ceabad807637cb6ffc1ba6ee381006df4023d231d7e3b7d4ff4.jpg"
+    ],
+    "size": 1021313024,
+    "version": null
+  },
+  "70070000019225": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71333172b5513919b31fbab8940a32f993436605a77a606406fd2b5911fd4bdc.jpg",
+    "category": null,
+    "description": "Urban Flow is a game about the subtle beauty of city streets filled with cars moving in perfect harmony. But such order does not happen all by itself - the city needs YOU to control the traffic lights and to make sure everything goes smoothly. That means no crashes, no jams. Everything will run perfectly - as long as you stay focused!\n\nImmerse yourself in a beautiful, hand-crafted, low-poly world to discover the enormous satisfaction of watching the hundreds of tiny, colorful cars flowing through the streets \u2013 all while listening to the chill, urban music.\n\nOver 100 levels, each with its own busy intersection. You have one job: operate the lights and keep it safe.\n\nParty Game (even if you party all alone!)\n-----\n Play by yourself or with friends in scalable drop-in, drop-out local co-op mode for two, three, or four players!\nYou can help your friends or be a little rascal and spread the chaos!\n\nAvoid accidents by paying close attention to special vehicles and to the other players. Special vehicles include the ambulance, which can\u2019t wait for long, and the tank \u2013 which will plow through anything in its way.\n\nDon\u2019t want to play the campaign?\n-----\n Try our score-based Endless Mode or the Chill Mode - where you play for as long as you want, no rush and no score - only you and the music. Urban Flow is designed to be a great single player experience!\n\nDiscover various environments and weather conditions. Play with touch controls, Pro Controllers or Joy-Con\u2122. Complete challenges and unlock rewards.\n\nThis bundle includes base game, Expansion Pack, Winter Expansion Pack, London Rules and Streets Supplement with:\n\n\u2022    New challenge mode offers medals - no more star system in challenge mode! You have to pass the challenge bar to pass the challenge mode stages.\n\u2022    50 new stages!\n\u2022    Winter theme and new music!\n\u2022    7 new vehicles - the firetruck and snow plow!\n\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Manage the city lights and try to avoid the chaos!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Urban Flow GOTY Edition",
+    "nsuId": 70070000019225,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Games",
+    "rating": 3,
+    "ratingContent": [
+      "In-game purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240126,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/0784019d3a559cb63c761cd5613cf9eab2546e81007c303dd00cc21e7ba2760d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b41fac66323b616f1046747257b0454aa48a3c42e3a0c59149e598d59f818bf2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9b2175dcfaf0f4dcbcc0107492e46818857327efaa25bc0d78c258e69dcca228.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/af8e3b3560b508e52fc60e5da735815849a359b455039df6c5b7bb6ba5c87137.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b8ba2f8af1cb789922d2f62e29b519206c742ee9bedbc9eb8caef50a9d25bdd7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/872ddcc76bd5095bb635d97f7ea7e5735a4c6cc5fdcbc352ad86d7058bf72c57.jpg"
+    ],
+    "size": 5116002304,
+    "version": null
+  },
   "70070000019259": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/79d52ba1106810d6aa5d9c9209d7488f3a212c6a16b36adb5a5f3ce9142558ad.jpg",
     "category": null,
@@ -3251,6 +3471,49 @@
       "https://img-eshop.cdn.nintendo.net/i/abddd9bc714fe983840f3cb0110c85fd31b5f1e21faac8621606f9eff35b9cd9.jpg"
     ],
     "size": 212860928,
+    "version": null
+  },
+  "70010000071164": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/94ac22d9b86685619fef564135a6ca6d8eddd0dd9be112d91ed803969459f4d4.jpg",
+    "category": [
+      "RPG",
+      "Strategy"
+    ],
+    "description": "\u25a0\u300eYohane the Parhelion - NUMAZU in the MIRAGE -\u300f\nYohane the Parhelion is an official spin-off of \"Love Live! Sunshine\".\n\u300eYohane the Parhelion - NUMAZU in the MIRAGE -\u300f is a deck-building rogue light set in that world!\n\nWhile working as a fortune teller in Numazu, Yohane spends her days with her friends.\nBy chance, she comes into possession of an old mirror.\n\nWorried that her fortune-telling is not accurate, Yohane decides to play \"Magic Mirror Fortune-Telling\" using the mirror,\nSuddenly, she is sucked into the mirror, which begins to glow.\n\nWhat she finds in the mirror is the \"Ura-Numazu,\" which is the exact reverse of the real Numazu!\nMoreover, it was a mysterious world where magic could be used with the power of cards.\nAt the same time, strange things happen to the friends in the real world one after another.\nIn order to save them, she must go through the \"Ura-Numazu\"!\nWhat awaits her?\n\nA world of mirrors that changes its appearance every time she enters.\nAfter countless choices, what is the future that Yohane will choose?\nA new story begins in the other Numazu!\n\n\u25a0Deck building and card battles in \"Ura-Numazu\" where magic can be used!\nAdventure through Numazu in the mirror.\nExplore Numazu in the mirror and use the cards you acquire to your advantage.\nAim for the deepest level of the \"Ura-Numazu\" by making full use of the cards you have obtained!\n\n\u25a0A wide range of deck construction with more than 100 types of cards!\nAdventure through Ura-Numazu, collect cards, and build your own powerful deck!\nBuild the strongest deck of your own!\n\n\u25a0Summon your trusty friends with Summon Cards!\nYou can summon powerful friends in Ura-Numazu.\nSummon Yohane's friends to help you out in a pinch!\n\n\u25a0Endless maps with changing structures! Infinite ways to attack!\nOnce cleared, the map changes its structure every time you enter.\nA bargain system that lets you play forever!\n\n\u25a0Charms to make you stronger than the strongest! Create your strength with Cards x Charms!\n\"Charms\" are items with powerful effects.\nCombine them with cards to become more powerful than the strongest!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b19bc1db32f8391b68c2c48150c7c53f7e07e2c2f72725f11414188065665ecd.jpg",
+    "id": "0100F2101C9A6000",
+    "intro": "A deck-building rogue light played by magic cards!\nAnother story of Yohane is here!!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "zh",
+      "zh"
+    ],
+    "name": "Yohane the Parhelion - NUMAZU in the MIRAGE -",
+    "nsuId": 70010000071164,
+    "numberOfPlayers": 1,
+    "publisher": "BeXide",
+    "rating": 7,
+    "ratingContent": [
+      "Mild Violence",
+      "In-game purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240222,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a7209cd6568d5da9b2f6ffc66e4953b53efc6316b003fe7089ff4cd2b6809088.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bb44869413ff5a584730228bb875a8e0592f6ab825d3f73d51f7366e50e0a46e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d8a7f162e53937758463fe7c2030ee7a59c82f48e9e65c7030eb0ac6317387b2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f31483aa1858b1f717d51749bc6bc4b1a6b7c2f9e23f0b51cfe779839c7d8b18.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bcab15bbd8ca7b41f8d3e6cc8b5a6739b5b30de9351e5f7b75a3e6c7aaf74566.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c18744e357953334c4dba0b571486e6ef72f7372c9a8bc939a30386c15c14731.jpg"
+    ],
+    "size": 732954624,
     "version": null
   },
   "70010000070536": {
