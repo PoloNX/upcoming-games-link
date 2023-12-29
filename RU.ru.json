@@ -1,29 +1,4 @@
 {
-  "70050000044634": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/60ab002ada67de77de88e7c1f89d491ad795796090cc18ebdda74ca6eecb159f.jpg",
-    "category": null,
-    "description": "Her skin is so white that it is almost transparent, long blonde hair, and has gold and silver odd-eye. She is works as a SEED hunter together with Mika and Grave, who she first met in Mexico. They created \"El-Al Canhel\" to readicate the SEED.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "QUARTZ",
-    "nsuId": 70050000044634,
-    "numberOfPlayers": null,
-    "publisher": "IGGYMOB",
-    "rating": 16,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20231229,
-    "rightsId": null,
-    "screenshots": null,
-    "size": 0,
-    "version": null
-  },
   "70010000064015": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/be039ef8cd57408b40d342359091e62ba51e06b9d62953c8e1ba74175f3714f1.jpg",
     "category": [
