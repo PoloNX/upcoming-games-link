@@ -4043,6 +4043,45 @@
     "size": 0,
     "version": null
   },
+  "70010000074162": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/adbb596695f81fd7742f31bd46c88732a12b2022651b0ce3e3952d48b9cda41e.jpg",
+    "category": [
+      "Arcade",
+      "Jeu de plateformes",
+      "Casse-t\u00eate",
+      "Action"
+    ],
+    "description": "Pr\u00e9parez-vous pour un voyage \u00e9mouvant dans le monde pix\u00e9lis\u00e9 de la magie de No\u00ebl avec \"Santa's Chimney Quest\". Dans ce jeu vid\u00e9o enchanteur en 2D d'art pixel, enfilez les grandes bottes rouges du P\u00e8re No\u00ebl lui-m\u00eame alors qu'il se lance dans une aventure extraordinaire pour livrer des cadeaux dans les chemin\u00e9es du monde entier.\n\nCaract\u00e9ristiques :\n\n    Mission du P\u00e8re No\u00ebl : Rejoignez le P\u00e8re No\u00ebl alors qu'il navigue \u00e0 travers un monde minutieusement fa\u00e7onn\u00e9 \u00e0 la main, orn\u00e9 de charmants graphismes en 2D d'art pixel. Des toits enneig\u00e9s aux chemin\u00e9es douillettes, chaque d\u00e9tail est con\u00e7u pour capturer l'essence d'une veill\u00e9e de No\u00ebl classique.\n\n    D\u00e9fis de distribution de cadeaux : Pour livrer des cadeaux aux enfants impatients, vous devrez affronter une vari\u00e9t\u00e9 de niveaux cr\u00e9atifs. Man\u0153uvrez \u00e0 travers les chemin\u00e9es, contournez les obstacles et r\u00e9solvez des d\u00e9fis ing\u00e9nieux pour r\u00e9pandre la joie et la gaiet\u00e9.\n\n    Enchantement festif : Le jeu d\u00e9borde de l'esprit des f\u00eates. Plongez-vous dans la d\u00e9licieuse bande-son des f\u00eates, les flocons de neige qui tombent et les effets sonores joyeux qui vous transportent directement au c\u0153ur de la saison de No\u00ebl.\n\n    Joie pixel-parfaite : \"Santa's Chimney Quest\" capture le charme nostalgique de l'art pixel classique, insufflant une ambiance r\u00e9tro intemporelle dans les jeux modernes. L'attention m\u00e9ticuleuse port\u00e9e aux graphismes en pixel renforce le charme global du jeu.\n\n    Aventure adapt\u00e9e \u00e0 toute la famille : Parfait pour les joueurs de tous \u00e2ges, \"Santa's Chimney Quest\" offre une opportunit\u00e9 id\u00e9ale pour les familles de se r\u00e9unir et de partager l'esprit des f\u00eates dans une exp\u00e9rience de jeu magique et \u00e9mouvante.\n\nRejoignez le P\u00e8re No\u00ebl dans une aventure \u00e9mouvante pour rendre ce No\u00ebl inoubliable pour les enfants du monde entier. \"Santa's Chimney Quest\" est un jeu d'art pixel 2D d\u00e9licieux et enchanteur qui remplira votre c\u0153ur de l'authentique esprit de la saison. Faites en sorte que chaque pixel compte alors que vous r\u00e9pandez le bonheur, une chemin\u00e9e \u00e0 la fois !",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1f616ce383693904702315173224c619751bab7ae3dd2d78920338a08150a7a8.jpg",
+    "id": "01000D301D5BE000",
+    "intro": "Aidez le P\u00e8re No\u00ebl \u00e0 livrer \u00e0 temps",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Santa's Chimney Quest",
+    "nsuId": 70010000074162,
+    "numberOfPlayers": 1,
+    "publisher": "Nerdvision Games",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20241127,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/244d0b65e8e8f5167be5d90a1dc628f91ede6c0b687939f49751a83633285ed2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b8b3791221ac8c5c06183cb68f37d8d9253c5cfee362bf0d5cb8262a1a883ea2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c299f0b1199efccacfcb251ee7edb3399aa0c7175dbba94109848eb2a70bdd7a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8dafb18c76c2a5d3ba667d6d8f39323dfe772f31ec273f4225c304b29d299a2c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e1a7d4b7516909bd85f92df6398286ae3c7218ccc0e5412773cdd76d27f54dcb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/520dca925bb67041bd7c1e185ce8334de09cc3257b3a4881fa361530d29dabdb.jpg"
+    ],
+    "size": 118489088,
+    "version": null
+  },
   "70050000045564": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/059739576097255ae97843d3899387963cdf1894d8af3c73631bc511f190c606.jpg",
     "category": null,
