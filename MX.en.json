@@ -967,7 +967,10 @@
     "developer": null,
     "frontBoxArt": null,
     "iconUrl": null,
-    "id": null,
+    "id": "010001C01BCAD001",
+    "ids": [
+      "010001C01BCAD001"
+    ],
     "intro": null,
     "isDemo": false,
     "key": null,
@@ -1001,7 +1004,10 @@
     "developer": null,
     "frontBoxArt": null,
     "iconUrl": null,
-    "id": null,
+    "id": "010001C01BCAD002",
+    "ids": [
+      "010001C01BCAD002"
+    ],
     "intro": null,
     "isDemo": false,
     "key": null,

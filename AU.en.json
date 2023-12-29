@@ -1,4 +1,46 @@
 {
+  "70010000073624": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6f73a6bfb03cb9abd6899ebb6c207b301068544c79d7514d995663c16f313088.jpg",
+    "category": [
+      "Action",
+      "Adventure",
+      "Other",
+      "Arcade"
+    ],
+    "description": "Face deadly enemies while moving swiftly and precisely through complex and perilous environments. This game is a brutal test of reflexes and reasoning, where every decision you make can be the difference between success and failure, or even life and death. Get ready for a breathtaking challenge that will push your mind and skills to the limit.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4204452e0f87cc51537166f76c7e00cd99ab21a5f681ad59420248bfeab74720.jpg",
+    "id": "010011101D3A8000",
+    "intro": "Embark on an electrifying adventure that combines action and agility in a relentless challenge.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "MisBloody",
+    "nsuId": 70010000073624,
+    "numberOfPlayers": 1,
+    "publisher": "GAME NACIONAL",
+    "rating": 13,
+    "ratingContent": [
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20231230,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/040758ce7d329ca8f233dfcc899b77b8892148a2d48f08be7ecb850c480fe4e9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8b6f4ae1d0c125968dd88903bb377df711ea2d204a9f4d7ff2ba5d6b954e83d7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dfb8ac22b66024d470009c24a95805d9d4c8dccf4b0577ef845a296dd767c716.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9753a90ef7e5d2e68551d1b7b4ce09ea6c9ca67fbbbdda913a342d36b123e059.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f79a007df4566d640a7af71260db55b89a7d86d8dd233653b16f60dfafca56d0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e206bc5fde2f1ae77adaf1800d14c5f31b66d23f5c7374aba626671527541ae1.jpg"
+    ],
+    "size": 69206016,
+    "version": null
+  },
   "70010000074506": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c4e2f830dbfce5fca506c646bdda88b9ecf6dd58d5e11923648aa462d21fb4d.jpg",
     "category": [
@@ -74,6 +116,41 @@
       "https://img-eshop.cdn.nintendo.net/i/7c7255ac674108e16f6c06fa23d2c3a4f0a77b3c6e864cb6b4198f8dcd5ec67a.jpg"
     ],
     "size": 569376768,
+    "version": null
+  },
+  "70070000019998": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/15ea06a7d79f5df02aa448b655a5033c605bad8321b7162cac5895733db3c9d4.jpg",
+    "category": null,
+    "description": "These girls want to invite you into the most tempting puzzle game experience Nintendo Switch\u2122 has to offer.\n\nHENTAI IS ART\n\nA familiar anime art style of Hentai Girls brings you right into the lives of these young and beautiful women. Progress through the story by solving their respective puzzles. These lovely girls will keep you company.\n\nINCREASING DIFFICULTY\n\nThe gameplay mechanics are simple yet challenging \u2013 increasing difficulty as you progress. Their lovely outfit might distract you... so maybe help them get rid of it? Every success on your part will make them happier.\n\nIn this bundle, you will have lots of fun with Shirayuki, Etsuko and Yui - three girls from the main game.\n\nKey Features:\n\n- Hand-drawn Hentai art\n- Relaxing music track\n- Simple gameplay mechanics\n- Unique premise",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Immerse yourself in the captivating world inhabited by Yui, Shirayuki, and Etsuko. ",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Hentai Girls Complete Edition",
+    "nsuId": 70070000019998,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 15,
+    "ratingContent": [
+      "Sexualised Imagery",
+      "Strong Nudity"
+    ],
+    "region": null,
+    "releaseDate": 20231230,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/3f7e83bd54cbed86e9bf46782df7c459433b633513d99861299fd38f6db6f57a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ad8e427ae8068f768249da6a4533e881115f377c94491257eabb2ac23bbfa5c6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d3fbe3aed7968e1e9b68aca50f4312ec7a928709b07b7892e3fd25e6b5c73861.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a793f1c926e6ae3462a482c0b0b1de435c37d5fe47b47273a85667ce7dd37ffc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d7ad52ac193dd963171d0be0cd0bb946691770286946fce272c326cfa2702e4e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6e42ff0e84a563878d98048b27f1524da195025fdcc4464ac08db75cf09df581.jpg"
+    ],
+    "size": 550502400,
     "version": null
   },
   "70010000064015": {
@@ -1550,7 +1627,10 @@
     "developer": null,
     "frontBoxArt": null,
     "iconUrl": null,
-    "id": null,
+    "id": "010001C01BCAD001",
+    "ids": [
+      "010001C01BCAD001"
+    ],
     "intro": null,
     "isDemo": false,
     "key": null,
@@ -1585,7 +1665,10 @@
     "developer": null,
     "frontBoxArt": null,
     "iconUrl": null,
-    "id": null,
+    "id": "010001C01BCAD002",
+    "ids": [
+      "010001C01BCAD002"
+    ],
     "intro": null,
     "isDemo": false,
     "key": null,
@@ -4362,6 +4445,47 @@
     "rightsId": null,
     "screenshots": null,
     "size": 0,
+    "version": null
+  },
+  "70010000074163": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/adbb596695f81fd7742f31bd46c88732a12b2022651b0ce3e3952d48b9cda41e.jpg",
+    "category": [
+      "Arcade",
+      "Platformer",
+      "Puzzle",
+      "Action"
+    ],
+    "description": "Prepare for a heartwarming journey into the pixelated world of Christmas magic with \"Santa's Chimney Quest.\" In this enchanting 2D pixel art video game, you step into the big, red boots of Santa Claus himself as he embarks on an extraordinary adventure to deliver presents down chimneys all around the globe.\n\nFeatures:\n- Santa's Mission: Join Santa Claus as he navigates through a meticulously hand-crafted world adorned with charming 2D pixel art. From snow-covered rooftops to cozy chimneys, every detail is designed to capture the essence of a classic Christmas Eve.\n\n- Gift-Dropping Challenges: To deliver presents to eager children, you must tackle a variety of creative levels. Maneuver through chimneys, circumvent obstacles, and solve ingenious challenges to spread joy and merriment.\n\n- Festive Enchantment: The game is brimming with the holiday spirit. Immerse yourself in the delightful holiday soundtrack, falling snow and cheerful sound effects that transport you straight into the heart of the Christmas season.\n\n- Pixel-Perfect Joy: \"Santa's Chimney Quest\" captures the nostalgic allure of classic pixel art, infusing a timeless, retro vibe into modern gaming. The meticulous attention to pixel graphics enhances the overall charm of the game.\n\n- Family-Friendly Adventure: Perfect for players of all ages, \"Santa's Chimney Quest\" offers an ideal opportunity for families to come together and share the holiday spirit in a magical and heartwarming gaming experience.\n\nJoin Santa Claus on a heartwarming adventure to make this Christmas unforgettable for children worldwide. \"Santa's Chimney Quest\" is a delightful and enchanting 2D pixel art game that will fill your heart with the true spirit of the season. Make every pixel count as you spread happiness, one chimney at a time!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1f616ce383693904702315173224c619751bab7ae3dd2d78920338a08150a7a8.jpg",
+    "id": "01000D301D5BE000",
+    "intro": "Help Santa to deliver at time",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Santa's Chimney Quest",
+    "nsuId": 70010000074163,
+    "numberOfPlayers": 1,
+    "publisher": "Nerdvision Games",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20241127,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/244d0b65e8e8f5167be5d90a1dc628f91ede6c0b687939f49751a83633285ed2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b8b3791221ac8c5c06183cb68f37d8d9253c5cfee362bf0d5cb8262a1a883ea2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c299f0b1199efccacfcb251ee7edb3399aa0c7175dbba94109848eb2a70bdd7a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8dafb18c76c2a5d3ba667d6d8f39323dfe772f31ec273f4225c304b29d299a2c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e1a7d4b7516909bd85f92df6398286ae3c7218ccc0e5412773cdd76d27f54dcb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/520dca925bb67041bd7c1e185ce8334de09cc3257b3a4881fa361530d29dabdb.jpg"
+    ],
+    "size": 118489088,
     "version": null
   },
   "70050000038049": {
