@@ -41,6 +41,47 @@
     "size": 0,
     "version": null
   },
+  "70010000075191": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a05f227a85f243f39f27e0bb8a975f961b44f9b5c9d94c8eb0426ad5f7f7badb.jpg",
+    "category": [
+      "Sports",
+      "Simulation",
+      "Arcade",
+      "Action"
+    ],
+    "description": "  In \"Ski Simulator: Winter Sports,\" players are on a quest to earn points and unlock new levels by mastering the art of skiing or snowboarding. Navigate through the exhilarating slopes, collecting checkpoints along the way to progress further in the game. But beware, time is of the essence \u2013 the clock is ticking, and every second counts!\n  Feel the rush as you soar through the air, leaping off natural ramps and performing gravity-defying tricks. Each trick adds a specific number of points to your score, so the more daring and creative you get, the higher your chances of dominating the leaderboard.\n  As you weave through the picturesque landscapes, keep an eye out for strategically placed markers guiding you to hidden points. It's not just about speed and tricks; it's about strategy and precision. Collect these points to boost your score and solidify your position as the ultimate winter sports champion.\n  The key to success lies in your ability to perform a variety of tricks on demand. With a dedicated button for each move, you can execute flips, leg bends, spins, and jumps effortlessly. The trick button adds an element of surprise, randomly selecting one of the four spectacular moves \u2013 Salto, Leg Bend, Rotation, or Jump \u2013 each time you press it. It's all about creativity, timing, and pushing your limits to achieve the highest score possible.\n  This is is not just a game; it's an immersive experience that captures the essence of winter sports. Get ready for an avalanche of excitement, where every jump and trick brings you closer to victory!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cec5d56e2572ff4f6222b6c7521b27416e98ea8e33d2571b841368ae4db5fa1a.jpg",
+    "id": "010028A01D9AC000",
+    "intro": "Welcome to the adrenaline-packed world of \"Ski Simulator: Winter Sports\" \u2013 the ultimate winter adventure awaits you!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Ski Simulator : Winter Sports",
+    "nsuId": 70010000075191,
+    "numberOfPlayers": 1,
+    "publisher": "SUCCESS GAMES",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20231231,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d3f18b35d16bb608ddf01787d734a581a75b275aea9cd3d03a4b80338b882a95.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4fcbb22a4c7e3fee5b9ef223e66258d8e933bc3e9279e68c6753c3d08b81a495.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a4eb5abb36301c5498f0ed4ab34492a585fb17ca45e535ca09f6c8627d667e3b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3d95163ffbaa955b1b83a039b88020b460e716c39b7729413d75e7073282fe03.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ec15c004a8d8c90da0dab3d16baf72ecaa89b553b93b37747b50882e533c2891.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/26486927e27a3c881aca074853af06434ab204ad9c6125aed71b2c187075610a.jpg"
+    ],
+    "size": 373293056,
+    "version": null
+  },
   "70050000032849": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4bd6bac50652ff9ae3b99c7bb955250246866ba6cc1c327de060d7e0158d4130.jpg",
     "category": null,
