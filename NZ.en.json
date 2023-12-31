@@ -1,4 +1,52 @@
 {
+  "70010000073345": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ce7e71f2671db21466e36547aaf6a3825a89f85aba1a37db31544cf28a9fb304.jpg",
+    "category": [
+      "Arcade",
+      "Action",
+      "Puzzle",
+      "Party"
+    ],
+    "description": "Dive into the festive world of \"Christmas Bubble Puzzle,\" a delightful and captivating game that blends the excitement of bubble-popping challenges with the joy of the holiday season. Immerse yourself in a winter wonderland filled with cheerful decorations, snowflakes, and charming characters.\nEmbark on a merry adventure as you strategically aim and shoot colorful bubbles to create combinations and clear levels. With each successful burst, you'll uncover enchanting surprises, helping Santa and his friends prepare for the most magical day of the year. The game features a plethora of uniquely designed levels, each more challenging than the last, ensuring hours of engaging gameplay with 100 levels!\nGet ready for a cheerful soundtrack that complements the festive atmosphere, and enjoy the satisfying sound of popping bubbles as you progress through the game. \"Christmas Bubble Puzzle\" is the perfect companion for cozy winter evenings, providing a joyful gaming experience for players of all ages. Spread the holiday cheer and immerse yourself in this enchanting bubble-popping extravaganza!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f0967d8b90c8d72f58146db52a1de95f844ebfbc8963811f969b9be568053b09.jpg",
+    "id": "01002AC01D2F8000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "ko",
+      "zh"
+    ],
+    "name": "Christmas Bubble Puzzle",
+    "nsuId": 70010000073345,
+    "numberOfPlayers": 2,
+    "publisher": "RuWaMo Games",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240101,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/5c1acabac78700ae8a604ba820c73e7b49db6482f673accced218d6670e72134.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8084d9950e62dbc7a56ad9475f034f776d67d03339f9403c64a357cc532838b2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/420a9fef83ba2a992c1039fe3ebfa9714d7e3451836d092e0e27c0620da3f87f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f5c468d6c0acfa92667f84fe87522fe4de25ad5a445bd1f5ea97ef1baa6295bd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e1c336c428cc69edf304ae1536d50d8bb668adb41957f60bd695a314af1f3f90.jpg"
+    ],
+    "size": 306184192,
+    "version": null
+  },
   "70010000075030": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b53eec1f42dbd082e822fe873d9d65915a4683aaeee37964c6e956535e014c42.jpg",
     "category": [
@@ -36,6 +84,194 @@
       "https://img-eshop.cdn.nintendo.net/i/d2c9ee19f328bf77e0739456a1e0e778ce8f8daec3a7e5c5aa9bd02f2bbb3467.jpg"
     ],
     "size": 385875968,
+    "version": null
+  },
+  "70050000045474": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/05757e11ef363148d48d7efaacd129e4cdb5efc9a0718079101d8953b199e84a.jpg",
+    "category": null,
+    "description": "Set off on adventure and try to complete special mission full of dangerous traps by collecting items scattered all across the map.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Join Kung in his challenge and check what he has prepared for you.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Kung's Challenge",
+    "nsuId": 70050000045474,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Crude Humour"
+    ],
+    "region": null,
+    "releaseDate": 20240101,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8c9466b1ca64179d84eebb5dd8c7888163baaa34a1a86a646c590c822dcc6294.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3320292280a10e79697c7bba7d36bb3146939e42d022fdf95379fa79eddabbe1.jpg"
+    ],
+    "size": 13631488,
+    "version": null
+  },
+  "70050000045625": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/90d1101617a5f8f1537cb4f3a689f39ff6765bb44ddb4be6b84ff62d156285b9.jpg",
+    "category": null,
+    "description": "Set off on adventure and try to complete special mission full of dangerous traps by collecting items scattered all across the map.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Join Boo in his challenge and check what he has prepared for you.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Boo's Challenge",
+    "nsuId": 70050000045625,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Crude Humour"
+    ],
+    "region": null,
+    "releaseDate": 20240101,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f139f22da73537a00427c0b1b30bd3743c6b430e104f367f31064c545181766b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/048202d54a5b3de1193af3c51b68a88ad4a4bfed19fefc35d7dcabac37a116fa.jpg"
+    ],
+    "size": 13631488,
+    "version": null
+  },
+  "70050000045631": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a21f8f406652499739b8a119beabded2b60f39338061edb9bbff5c39beb65c5f.jpg",
+    "category": null,
+    "description": "Set off on adventure and try to complete special mission full of dangerous traps by collecting items scattered all across the map.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Join Tary in her challenge and check what she has prepared for you.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Tary's Challenge",
+    "nsuId": 70050000045631,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Crude Humour"
+    ],
+    "region": null,
+    "releaseDate": 20240101,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/26a9ce708ffa12cf785bf2d73e689f85ee90b750e94cf28c584802c80d426d4b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8da89253d0d12a62bb2a95f4023c411c3e8d5dd2b48b009c8597611cb6357864.jpg"
+    ],
+    "size": 12582912,
+    "version": null
+  },
+  "70050000045632": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d511f420086b9941dfa3ca92833bea8159fa896d75a357fc36f08e179b4bb7a1.jpg",
+    "category": null,
+    "description": "Set off on adventure and try to complete special mission full of dangerous traps by collecting items scattered all across the map.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Join Ta in his challenge and check what he has prepared for you.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Ta's Challenge",
+    "nsuId": 70050000045632,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Crude Humour"
+    ],
+    "region": null,
+    "releaseDate": 20240101,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a5bd4df508747360772310a8e683ea7e20637c2a1106f3a84474237c2082a506.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/22272a51399dd8bb0cc29933c6229c2c004f8272292362dd2a90ff7dd68f0c4c.jpg"
+    ],
+    "size": 13631488,
+    "version": null
+  },
+  "70050000045926": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6dd3482bbc764c6a658cda4a20545d8ba2b76ba120718a64b5ce50ec34a53b50.jpg",
+    "category": null,
+    "description": "Enjoy this pack featuring a collaboration of Sixtar Gate: STARTRAIL and Marvelous's WACCA!\n\nThis DLC includes a total of 8 songs, 4 gear skins, 1 note skin, and 1 original theme.\n\n< New Songs >\n1. Let you DIVE! - HARDCORE TANO*C & \u30a8\u30ea\u30b6\u30d9\u30b9(CV:\u5927\u897f\u6c99\u7e54)\n2. Chariot - USAO\n3. ONOMATO Pairing!!! - t+pazolite feat. \u306a\u306a\u3072\u3089\n4. with U - t+pazolite & Massive New Krew feat. \u30ea\u30ea\u30a3(CV:\u9752\u6728\u5fd7\u8cb4)\n5. Ouvert\u00fcre - USAO & DJ Genki feat. \u30eb\u30fc\u30f3(CV:\u6cb3\u702c\u8309\u5e0c)\n6. EPHMR - aran\n7. DUAL BREAKER XX - Srav3R vs Getty\n8. Invisible Frenzy - Kobaryo\n\n< Gear skin >\n1. WACCA S\n2. WACCA Lily\n3. WACCA Lily R\n4. WACCA Reverse\n\n< Note skin >\n1. WACCA\n\n< Theme >\n\"In Memory of WACCA\"\n- This theme is exclusive to the WACCA pack.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Sixtar Gate: STARTRAIL X WACCA Collaboration Pack",
+    "nsuId": 70050000045926,
+    "numberOfPlayers": null,
+    "publisher": "CFK",
+    "rating": 8,
+    "ratingContent": [
+      "Sexualised Imagery"
+    ],
+    "region": null,
+    "releaseDate": 20240101,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d92f3c6844b3ac63a5c8f78cca93b6ec2edd6b606d1acec3cf3016f8f6eb186e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/75d7d978533f1154d14f29bcad401ae31fff878b8d273d9fdd8bb2a42750fcab.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/709059c075e4136042a7278f83c6c95615a8b34336f7639c69411a37376954e1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ab473b60872d639a19bcfb0df7fa044bdf9d3926c107e3cba48fab5702fa2cc7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/777589699926552d0dab71761d6153376a93e274807015df211f219fec059808.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bc83c5c40bac89a5fc1de7d15f07b889e0c5a399c1c1de795729f457293d0d8f.jpg"
+    ],
+    "size": 493879296,
+    "version": null
+  },
+  "70070000020190": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d867210cb956a04e0e38829fbaa677607ee5ce11c0cd0e887c5a01b85c793f33.jpg",
+    "category": null,
+    "description": "Meet your new golf buddies, grab a club, and embark on a hilariously absurd golfing journey through the most ridiculous places.\n\n\nSWAP BALLS FOR BANANAS, TEE OFF AND LET THE CRAZINESS BEGIN!\nIn Uzzuzzu\u2019s universe, everything can be a golf ball. Sausage, egg, tuna \u2013 everything you can think of\u2026 Check with Boo what other surprises are waiting for you, and be aware of the item shape, because every \u201cgolf ball\u201d bounces differently. \n\n\nMORE THAN AN ORDINARY GOLF ROUND\nYou won\u2019t experience only casual levels in this game. Running away from enormous basketball or defending your friends from danger as a hot dog. Not to mention traps on your way like falling crates, moving knives or even bursts of pressure.\n\n\nGO WITH THE FLOW\nAfter you complete a certain amount of levels, you will earn a badge. It allows you to track your progress, and make a step forward into collecting all the trophies! Kung will be proud if you can make your collection extra shiny.\n\nTest your skills in Kung's Challenge DLC added to this bundle.\n\nKEY FEATURES:\n- 4 well-known, adorable characters like Tary or Ta\n- Over 70 challenging levels to beat\n- 60 FPS on Nintendo Switch\u2122 console\n- Funky and twirky soundtrack\n- Lots of humor and funny scenarios",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Swing into action and tee off on the craziest golf course ever with Uzzuzzu pack! ",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Uzzuzzu My Pet - Golf Dash Deluxe Edition",
+    "nsuId": 70070000020190,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Crude Humour"
+    ],
+    "region": null,
+    "releaseDate": 20240101,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/5708f2a83c4ddda95b8ec213018845ef65cd01f692d5729062cb5ac0639e0b26.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ae6643ee6346c771eaf656e89329cef34a700a2b8f91ce2c05a48faae6720054.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6bc8db59159e2132322635a1637b5912d0d6887c0519e1cf20ad3a31b84964ea.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4f2629d942c3b77ac8587543f99c317f093abdfef80711ab583026078f1288b1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/50cb4fb344c50c6ae636760302b25a7bd2bc3f870a9027f0e3d2e192530aebf7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e9b9f0e9a5dbacb08895d5f2bdb5561942d5807e34dafa6c3ec062ed8603b403.jpg"
+    ],
+    "size": 2708471808,
     "version": null
   },
   "70010000066892": {
@@ -407,6 +643,47 @@
       "https://img-eshop.cdn.nintendo.net/i/d29619033a21f6df2a8f29ac01e2a332f01018201679a6e7112d7a96349551c5.jpg"
     ],
     "size": 153092096,
+    "version": null
+  },
+  "70010000074124": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/086605613880f3b50f0531b2aa8dc8722be71adf60a4b7b012fe0e87e1dd8310.jpg",
+    "category": [
+      "Platformer",
+      "Arcade",
+      "Action",
+      "Adventure"
+    ],
+    "description": "Experience the story of Monty Mole, British subterranean mammal turned international criminal, in this fantastic collection of five games.\n\nAll Monty wanted was a quiet life, but when faced with an unbearably cold winter found himself stealing coal to survive, and that led to a life on the run from the authorities, a journey that would take him all across Europe! The Monty Mole series of adventure platformer games for home microcomputers were the brainchild of Peter Harrap, the teenage son of a mining inspector, and inspired by the 1984 mining strikes in the UK.\n\nNow you can experience the original Monty Mole saga. This collection includes the main trilogy of Wanted! Monty Mole, Monty on the Run, and Auf Wiedersehen Monty, plus two bonus games: Moley Christmas (a seasonal adventure originally given away with copies of a magazine) and Sam Stoat: Safebreaker (the solo adventure of Sam Stoat, a supporting character from the main Monty Mole games).\n\nThis collection allows you to play these classic games with many modern features, including:\n\u2022 Difficulty modes\n\u2022 Display filters, including an 80s-style CRT filter\n\u2022 Suspend points - save and restore up to 4 suspend points per game\n\u2022 Live Rewind - rewind up to 10 seconds of live gameplay with the push of a button\n\nWanted! Monty Mole\nWith a long, cold winter ahead, Monty Mole makes a daring, coal snatching raid to his local South Yorkshire pit. Do battle with flying pickets, mammal eating fish, crushers, roaming drills, hovering hairspray and more. Surfacing in Arthur\u2019s castle, you must find the only thing that can defeat him: a ballot paper.\n\nMonty on the Run\nAfter being sprung from Scudmore Prison by Sam Stoat, Monty Mole now makes a bid for freedom. Dodge tricky enemies and hazards, collect gold coins, and get to the cross-channel ferry.\n\nAuf Wiedersehen Monty\nHaving fled the UK, Monty continues to be hounded by the authorities, and has now caught the attention of Intermole, who are in hot pursuit! He must travel across Europe, gathering enough cash to finally settle down on his own private Mediterranean island, away from persecution.\n\nBonus Game: Moley Christmas\nIt\u2019s Christmas, and Monty is celebrating the season with a brand new game to be given away with copies of a computer magazine. Bizarrely, the game itself tells the story of Monty delivering the very same game to the magazine\u2019s offices! Jump, climb, dodge hazards and pick up items across four levels.\n\nBonus Game: Sam Stoat: Safebreaker\nThe mustelid malefactor Sam Stoat, who previously sprung Monty Mole from Scudmore prison, returns in his own game, looking for a big score.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/541c9e728688aafafafd200b1370ab6eb3901af0adcb50ff13a65e8d1dfcbe37.jpg",
+    "id": "0100BFA01D4AC000",
+    "intro": "The saga of a British computer game icon",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "The Monty Mole Collection",
+    "nsuId": 70010000074124,
+    "numberOfPlayers": 1,
+    "publisher": "Pixel Games UK",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Themes"
+    ],
+    "region": null,
+    "releaseDate": 20240108,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/6b0f23f52c1e8ad5673726dac2881091cb0086d424681feb1064a2ccc1d90d1c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f31e038e66aa247490014f33bb5f92fbfc9ffb3ea8ae8b368cd32b3d13a740ea.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d0e40241eee06465fa20b0b71bd5f9e5c2fc6efe0e6bab0a9094a16a7fc97cd5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b87fd13aed2eede6c0a1173f02a00ebf588cf79be068fa06392fccf13e8a6045.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1a1aa5360de64080aa272176a06cc565685da40d4a12a6dd0cbd9cea2d35e80d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/82042e4925689a701a263c95effdc5dff230ec083371d6da4fa4064cc459f143.jpg"
+    ],
+    "size": 105906176,
     "version": null
   },
   "70010000075707": {
@@ -2981,6 +3258,57 @@
       "https://img-eshop.cdn.nintendo.net/i/f8d4094340c3ff27cd16b48e51483a6ec10809ee1c5acf3aa91a1ea0df8e75e1.jpg"
     ],
     "size": 2791309312,
+    "version": null
+  },
+  "70010000075310": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/378aae28fe9e8d0d2df4cff70b87d37494ccd6c7e8951d9d04f8920b33063830.jpg",
+    "category": [
+      "Strategy",
+      "Action",
+      "Fighting",
+      "Puzzle"
+    ],
+    "description": "Are you looking for a unique and exciting strategy game that focuses on the essentials? Then you are exactly right here.\n\nEmbark on a journey across the universe and save as many human colonies as possible from mysterious attacking creeps in our ultimate, addictive, minimalist tower defense / base defense game.\n\nIn COLONY DEFENSE we have combined classic strategy games with puzzle logic and removed all unnecessary complex elements. Combined with tactics and planning, this creates a unique, fascinating gaming experience. A very addictive one!\n\nWill you stand up to the overwhelming number of attacking aliens and successfully defend the space colonies? Can you do it without using heavy special weapons, or will you bomb the battlefield?\n\nEmbark on a journey into the depths of space and enjoy the ultimate, unique, atmospheric and unparalleled tower defense experience.\n\nCOLONY DEFENSE has what it takes to captivate you for a very long time.\n\nPlease note: This game is only using the touch screen functionality to play!\n\nYour McPeppergames team",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ef9961b414b5a70c99a6e5c943e70471653ea51da300b9da09a883cbb841cce6.jpg",
+    "id": "010017601D902000",
+    "intro": "The Ultimate Highly Addictive Minimalist Tower Base Defense Game.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "nl",
+      "pt",
+      "ru",
+      "ko",
+      "zh"
+    ],
+    "name": "Colony Defense - The Ultimate Minimalist Tower Base Defense Game",
+    "nsuId": 70010000075310,
+    "numberOfPlayers": 1,
+    "publisher": "McPeppergames",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Coarse Language"
+    ],
+    "region": null,
+    "releaseDate": 20240404,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/1f0b5b767b5426f1490e7522027429f43e767d97be4f64449a14664821db2ad1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/915471ca49b35bac3286556f1efd29916904be6802486f396ee882f224ab8e90.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c255e0076a102f9c8272d08159150bb4456f305abe1f27c087b8d3303c670a3e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5cc9fb9fba6813773f26b5106aa1cfab032a42903d8968428fa413c1ab2a4473.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/060a898ce097b8fbfeadd718d90cfb40d3e804ad6cde1d5aec20a1679e7abd84.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/216c842ebb60c64c7866c59e96512c34f94198d49bf45b395366aa58014ffef6.jpg"
+    ],
+    "size": 195035136,
     "version": null
   },
   "70050000042855": {
