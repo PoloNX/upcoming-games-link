@@ -2304,6 +2304,110 @@
     "size": 2659188736,
     "version": null
   },
+  "70010000051837": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/79e1ce73d910dec229f123847afda531c29181fe741f556b770ca57ce4f86292.jpg",
+    "category": [
+      "Casse-t\u00eate",
+      "Jeu de soci\u00e9t\u00e9",
+      "Style de vie",
+      "Arcade"
+    ],
+    "description": "KUBIC est un NOUVEAU jeu comme vous ne l'avez jamais vu, entendu ou ressenti auparavant \u2013 un jeu de puzzle incroyablement addictif, unique et \u00e9blouissant de tous les temps.\nDans KUBIC, les joueurs compl\u00e8tent des anneaux circulaires en faisant pivoter et d\u00e9placer diff\u00e9rentes pi\u00e8ces de formes et de couleurs tombantes (CUBES), qui descendent sur le terrain de jeu. Les anneaux compl\u00e9t\u00e9s disparaissent et le joueur marque des points, et le joueur peut ensuite remplir les espaces lib\u00e9r\u00e9s. Le jeu se termine lorsque les anneaux non d\u00e9gag\u00e9s atteignent le sommet du terrain de jeu.\n\nMusique, arri\u00e8re-plans, sons, effets sp\u00e9ciaux, tout, jusqu'aux effets parfaitement synchronis\u00e9s avec votre fa\u00e7on de jouer, font du jeu quelque chose que vous voudrez vivre encore et encore. D\u00e9fiez-vous en atteignant le sommet du classement. Des heures infinies de plaisir!\n\nAstuce : Visez les combos 4x pour atteindre les scores les plus \u00e9lev\u00e9s.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6b6a67a1c9c4db944333b7e493145ba374c1bb4ce5f6c8b3083661b35d9193eb.jpg",
+    "id": "0100B23017E0A000",
+    "intro": "Pouvez-vous battre les meilleurs scores?",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "KUBIC",
+    "nsuId": 70010000051837,
+    "numberOfPlayers": 1,
+    "publisher": "Max Interactive Studio",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/250861dd54e72a181ee3482287c2b46b6ff0252c40f558f2fc4ab267a071eecc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/689c624e21d8a229f229f98f642cd0f38e4e799fb8930e5005ccc1208d8c8751.jpg"
+    ],
+    "size": 121634816,
+    "version": null
+  },
+  "70010000070579": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fbb8d3e5bd479937fbcb0b814df6cd0cf2ca969e1d00c91947324f0af4032af0.jpg",
+    "category": [
+      "Casse-t\u00eate",
+      "Jeu de soci\u00e9t\u00e9",
+      "Style de vie",
+      "Arcade"
+    ],
+    "description": "Vous placez une tuile qui tombe du haut de la grille. Chaque tuile a un num\u00e9ro de 1 \u00e0 7, ou est vide.\nChaque fois que le num\u00e9ro d'une tuile correspond au nombre de tuiles contigu\u00ebs dans une rang\u00e9e ou une colonne, cette tuile dispara\u00eet et touche \u00e9galement toutes les tuiles vides qu'elle touche. Le jeu se termine lorsque les tuiles non effac\u00e9es atteignent le haut du champ de jeu.\n\nVous gagnez des points en faisant correspondre le num\u00e9ro d'une tuile au nombre de tuiles dans sa rang\u00e9e ou colonne.\nMaintenant, augmentons un peu la difficult\u00e9 en introduisant ces tuiles blanches que vous voyez. Ce sont des tuiles solides qui se fissurent lorsqu'une tuile explose \u00e0 c\u00f4t\u00e9 d'elles. Lorsque vous cassez la tuile solide, elle r\u00e9v\u00e9lera le num\u00e9ro cach\u00e9 \u00e0 l'int\u00e9rieur !\n\nMusique, arri\u00e8re-plans, sons, effets sp\u00e9ciaux, tout est synchronis\u00e9 parfaitement avec votre fa\u00e7on de jouer, faisant du jeu quelque chose que vous voudrez vivre encore et encore. D\u00e9fiez-vous en atteignant le sommet du classement. Des heures infinies de plaisir !\n\nAstuce : Plus la combo de cha\u00eene est longue, plus vos points sont \u00e9lev\u00e9s !\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e572c63377a7341206de11005d513d77902ab8385e5fbad06f3e6dec21e84f39.jpg",
+    "id": "0100A1C01C614000",
+    "intro": "Meilleur jeu de casse-t\u00eate avec des tuiles num\u00e9rot\u00e9es !",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Seven",
+    "nsuId": 70010000070579,
+    "numberOfPlayers": 1,
+    "publisher": "Max Interactive Studio",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/dd03eecebf4503342059718a7ed6f9a0b0dfd0a355e090945e3b0be3c12dcd5d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/39bc02f80d1d04ff7feaafa8a4fcbf36150b6c87c3d99fedc19383c4a2fc817a.jpg"
+    ],
+    "size": 50331648,
+    "version": null
+  },
+  "70010000075493": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20d358e53e6eae2e7227efb61812cc0d3302e990fa5913e98f9cd90dba4ca8ec.jpg",
+    "category": [
+      "Casse-t\u00eate",
+      "Jeu de soci\u00e9t\u00e9",
+      "Arcade",
+      "Strat\u00e9gie"
+    ],
+    "description": "L'objectif du jeu est d'obtenir un score \u00e9lev\u00e9 en laissant tomber des fruits dans un r\u00e9cipient sans les laisser d\u00e9border. Pour gagner des points, le joueur doit combiner deux fruits identiques, cr\u00e9ant ainsi un nouveau fruit dans le cycle des fruits du jeu.\n\nLe but du jeu est d'atteindre un score \u00e9lev\u00e9 en d\u00e9posant strat\u00e9giquement des fruits dans un r\u00e9cipient sans les laisser d\u00e9border. Les joueurs gagnent des points en combinant avec succ\u00e8s deux fruits identiques, ce qui entra\u00eene la cr\u00e9ation d'un nouveau fruit dans le cycle \u00e9volutif des fruits du jeu. Les combinaisons de fruits habiles et efficaces contribuent non seulement \u00e0 un score plus \u00e9lev\u00e9, mais ajoutent \u00e9galement une dimension strat\u00e9gique au gameplay. Pouvez-vous ma\u00eetriser l'art de l'association de fruits et atteindre le sommet du classement?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f6fa1bd10e6ed59e9b66162a27aa25b6c9905b7c5baef89d7f7aec327342d4ee.jpg",
+    "id": "010038501DB06000",
+    "intro": "Associez des fruits pour cr\u00e9er des fruits plus gros",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Big Watermelon Match",
+    "nsuId": 70010000075493,
+    "numberOfPlayers": 1,
+    "publisher": "Max Interactive Studio",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/356e18549e72af0981f033d553534bd6d68bd0d4592c101e9dff63b1a495c354.jpg"
+    ],
+    "size": 112197632,
+    "version": null
+  },
   "70050000044386": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8ab4ada08378de4cf6442200911413e7484ff82aeb819139735f20de0201c73.jpg",
     "category": null,

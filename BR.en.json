@@ -1129,6 +1129,45 @@
     "size": 3530555392,
     "version": null
   },
+  "70010000067874": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69553c508e5a2739c9f81d4c28533b5a6ac7727187bb5be9c54d88fd589b7454.jpg",
+    "category": [
+      "RPG",
+      "Adventure"
+    ],
+    "description": "A group of prisoners are sentenced to certain death by exiling them to the secluded Mount Grimrock for vile crimes they may or may not have committed. If they ever wish to see daylight again and reclaim their freedom the ragtag group of prisoners must form a team and descend through the mountain, level by level.\n\nThe game brings back the oldschool challenge with highly tactical real-time combat and grid-based movement, devious hidden switches and secrets as well as deadly traps and horrible monsters. Legend of Grimrock puts an emphasis on puzzles and exploration and the wits and perception of the player are more important tools than even the sharpest of swords could be. Are you ready to venture forth and unravel the mysteries of Mount Grimrock?\n\n- Explore a vast network of ancient tunnels, discover secrets and find a way to survive in the perilous dungeons of Mount Grimrock.\n- Cast spells with runes, craft potions with herbs and fight murderous monsters with a wide variety of weaponry.\n- Create a party of four characters and customize them with different races, classes, skills and traits.\n- Pure blooded dungeon crawling game with grid-based movement and thousands of squares riddled with hidden switches, pressure plates, sliding walls, floating crystals, forgotten altars, trapdoors and more.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bc9bf51b8bbd2fee4cae9b6d5cd568c9fe2753206a0a2f0be19ce35a05a9f223.jpg",
+    "id": "0100A2501B3B2000",
+    "intro": "Legend of Grimrock is a dungeon crawling role playing game with an oldschool heart but a modern execution. ",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Legend of Grimrock",
+    "nsuId": 70010000067874,
+    "numberOfPlayers": 1,
+    "publisher": "Almost Human",
+    "rating": 10,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Medo"
+    ],
+    "region": null,
+    "releaseDate": 20240115,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8878c84db2f489f02c9b1011f27709b8325aee1beffca5b8384eb9c61765a61d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/acdca677ba540bdbdeb7b349432db9715fd6cc4b41609164dcbadbc678e9be94.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0d918190d919b380702a483ff82e1f2f4892e2a2997f6e0682ddaf15aaddd495.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f1b5808a10aae9c93a15615a3d925b62b76bac528d3c27c268c505d3ea591db8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/557d2a6d8128b0091cbdcae687442c833eef0ea12377a9e54c34ec8ab7e10229.jpg"
+    ],
+    "size": 642777088,
+    "version": null
+  },
   "70010000069990": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1e135a10f4ea761e7c1d1bbc150405a313115bd9329187f013a60ac72787471b.jpg",
     "category": [
@@ -2183,6 +2222,110 @@
       "https://img-eshop.cdn.nintendo.net/i/93ab9b57642f44a83b7dbca14cbf96d8a1194eb4626b667a430303a82ddc7ca7.jpg"
     ],
     "size": 2659188736,
+    "version": null
+  },
+  "70010000051837": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/79e1ce73d910dec229f123847afda531c29181fe741f556b770ca57ce4f86292.jpg",
+    "category": [
+      "Puzzle",
+      "Board Game",
+      "Lifestyle",
+      "Arcade"
+    ],
+    "description": "KUBIC is a NEW game like you've never seen it, or heard it, or felt it before\u2014an incredibly addictive, unique, and breathtakingly gorgeous puzzle games of all time.\nIn KUBIC, players complete circular rings by rotating and moving different falling color-shaped pieces (CUBES), which descend onto the playing field. The completed rings disappear and the player scores points, and the player can proceed to fill the vacated spaces. The game ends when the uncleared rings reach the top of the playing field. \n\nMusic, backgrounds, sounds, special effects\u2014everything, down to the effects in perfect sync with how you're playing, making the game something you'll want to experience over and over again. Challenge yourself by reaching the top of the leaderboard. Infinite hours of fun!\n\nHint: Aim for 4xCOMBOs to achieve the highest scores. ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6b6a67a1c9c4db944333b7e493145ba374c1bb4ce5f6c8b3083661b35d9193eb.jpg",
+    "id": "0100B23017E0A000",
+    "intro": "Can you beat the high scores?\n",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "KUBIC",
+    "nsuId": 70010000051837,
+    "numberOfPlayers": 1,
+    "publisher": "Max Interactive Studio",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/250861dd54e72a181ee3482287c2b46b6ff0252c40f558f2fc4ab267a071eecc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/689c624e21d8a229f229f98f642cd0f38e4e799fb8930e5005ccc1208d8c8751.jpg"
+    ],
+    "size": 121634816,
+    "version": null
+  },
+  "70010000070579": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fbb8d3e5bd479937fbcb0b814df6cd0cf2ca969e1d00c91947324f0af4032af0.jpg",
+    "category": [
+      "Puzzle",
+      "Board Game",
+      "Lifestyle",
+      "Arcade"
+    ],
+    "description": "You place a tile that falls from the top of the grid. Each tile has a number 1\u20137, or a blank. \nWhenever the number of any tile matches the number of contiguous tiles in a row or column, that tile disappears and also hits any blank tiles it touches. The game ends when the uncleared tiles reach the top of the playing field. \n\nYou earn points by matching the number on a tile to the number of tiles in its row or column. \nNow let's up the difficulty a bit by introducing those white tiles that you see. These are solid tiles that crack when a tile explodes next to them. When you break the solid tile, it will reveal the hidden number inside!\n\n\nMusic, backgrounds, sounds, special effects\u2014everything, down to the effects in perfect sync with how you're playing, making the game something you'll want to experience over and over again. Challenge yourself by reaching the top of the leaderboard. Infinite hours of fun!\n\nHint: The longer the Chain Combo, the higher your points is!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e572c63377a7341206de11005d513d77902ab8385e5fbad06f3e6dec21e84f39.jpg",
+    "id": "0100A1C01C614000",
+    "intro": "Best drop number tiles puzzle game!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Seven",
+    "nsuId": 70010000070579,
+    "numberOfPlayers": 1,
+    "publisher": "Max Interactive Studio",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/dd03eecebf4503342059718a7ed6f9a0b0dfd0a355e090945e3b0be3c12dcd5d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/39bc02f80d1d04ff7feaafa8a4fcbf36150b6c87c3d99fedc19383c4a2fc817a.jpg"
+    ],
+    "size": 50331648,
+    "version": null
+  },
+  "70010000075493": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20d358e53e6eae2e7227efb61812cc0d3302e990fa5913e98f9cd90dba4ca8ec.jpg",
+    "category": [
+      "Puzzle",
+      "Board Game",
+      "Arcade",
+      "Strategy"
+    ],
+    "description": "The goal of the game is to achieve a high score by strategically dropping fruits into a container without letting them overflow. Players earn points by successfully combining two identical fruits, resulting in the creation of a new fruit in the game's evolving fruit cycle. Skillful and efficient fruit combinations not only contribute to a higher score but also add a layer of strategic depth to the gameplay. Can you master the art of fruit pairing and reach the top of the leaderboard?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f6fa1bd10e6ed59e9b66162a27aa25b6c9905b7c5baef89d7f7aec327342d4ee.jpg",
+    "id": "010038501DB06000",
+    "intro": "Match Fruits to create bigger fruits",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Big Watermelon Match",
+    "nsuId": 70010000075493,
+    "numberOfPlayers": 1,
+    "publisher": "Max Interactive Studio",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/356e18549e72af0981f033d553534bd6d68bd0d4592c101e9dff63b1a495c354.jpg"
+    ],
+    "size": 112197632,
     "version": null
   },
   "70050000044386": {

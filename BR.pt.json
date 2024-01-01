@@ -1129,6 +1129,45 @@
     "size": 3530555392,
     "version": null
   },
+  "70010000067874": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69553c508e5a2739c9f81d4c28533b5a6ac7727187bb5be9c54d88fd589b7454.jpg",
+    "category": [
+      "RPG",
+      "Aventura"
+    ],
+    "description": "A group of prisoners are sentenced to certain death by exiling them to the secluded Mount Grimrock for vile crimes they may or may not have committed. If they ever wish to see daylight again and reclaim their freedom the ragtag group of prisoners must form a team and descend through the mountain, level by level.\n\nThe game brings back the oldschool challenge with highly tactical real-time combat and grid-based movement, devious hidden switches and secrets as well as deadly traps and horrible monsters. Legend of Grimrock puts an emphasis on puzzles and exploration and the wits and perception of the player are more important tools than even the sharpest of swords could be. Are you ready to venture forth and unravel the mysteries of Mount Grimrock?\n\n- Explore a vast network of ancient tunnels, discover secrets and find a way to survive in the perilous dungeons of Mount Grimrock.\n- Cast spells with runes, craft potions with herbs and fight murderous monsters with a wide variety of weaponry.\n- Create a party of four characters and customize them with different races, classes, skills and traits.\n- Pure blooded dungeon crawling game with grid-based movement and thousands of squares riddled with hidden switches, pressure plates, sliding walls, floating crystals, forgotten altars, trapdoors and more.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bc9bf51b8bbd2fee4cae9b6d5cd568c9fe2753206a0a2f0be19ce35a05a9f223.jpg",
+    "id": "0100A2501B3B2000",
+    "intro": "Legend of Grimrock is a dungeon crawling role playing game with an oldschool heart but a modern execution. ",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Legend of Grimrock",
+    "nsuId": 70010000067874,
+    "numberOfPlayers": 1,
+    "publisher": "Almost Human",
+    "rating": 10,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Medo"
+    ],
+    "region": null,
+    "releaseDate": 20240115,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8878c84db2f489f02c9b1011f27709b8325aee1beffca5b8384eb9c61765a61d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/acdca677ba540bdbdeb7b349432db9715fd6cc4b41609164dcbadbc678e9be94.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0d918190d919b380702a483ff82e1f2f4892e2a2997f6e0682ddaf15aaddd495.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f1b5808a10aae9c93a15615a3d925b62b76bac528d3c27c268c505d3ea591db8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/557d2a6d8128b0091cbdcae687442c833eef0ea12377a9e54c34ec8ab7e10229.jpg"
+    ],
+    "size": 642777088,
+    "version": null
+  },
   "70010000069990": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1e135a10f4ea761e7c1d1bbc150405a313115bd9329187f013a60ac72787471b.jpg",
     "category": [
@@ -2183,6 +2222,110 @@
       "https://img-eshop.cdn.nintendo.net/i/93ab9b57642f44a83b7dbca14cbf96d8a1194eb4626b667a430303a82ddc7ca7.jpg"
     ],
     "size": 2659188736,
+    "version": null
+  },
+  "70010000051837": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/79e1ce73d910dec229f123847afda531c29181fe741f556b770ca57ce4f86292.jpg",
+    "category": [
+      "Puzzle",
+      "Tabuleiro",
+      "Estilo de vida",
+      "Arcade"
+    ],
+    "description": "KUBIC \u00e9 um NOVO jogo como voc\u00ea nunca viu, ouviu ou sentiu antes - um jogo de quebra-cabe\u00e7a incrivelmente viciante, \u00fanico e deslumbrantemente lindo de todos os tempos. Em KUBIC, os jogadores completam an\u00e9is circulares girando e movendo diferentes pe\u00e7as em forma de cores que caem (CUBOS), que descem para o campo de jogo. Os an\u00e9is completos desaparecem e o jogador marca pontos, podendo ent\u00e3o preencher os espa\u00e7os desocupados. O jogo termina quando os an\u00e9is n\u00e3o eliminados alcan\u00e7am o topo do campo de jogo.\n\nM\u00fasica, cen\u00e1rios, sons, efeitos especiais - tudo, at\u00e9 os efeitos em perfeita sincronia com a forma como voc\u00ea est\u00e1 jogando, tornando o jogo algo que voc\u00ea vai querer experimentar repetidamente. Desafie-se alcan\u00e7ando o topo do placar. Horas infinitas de divers\u00e3o!\n\nDica: Tente obter combos de 4x para alcan\u00e7ar as pontua\u00e7\u00f5es mais altas.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6b6a67a1c9c4db944333b7e493145ba374c1bb4ce5f6c8b3083661b35d9193eb.jpg",
+    "id": "0100B23017E0A000",
+    "intro": "Voc\u00ea consegue superar as pontua\u00e7\u00f5es mais altas?\n",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "KUBIC",
+    "nsuId": 70010000051837,
+    "numberOfPlayers": 1,
+    "publisher": "Max Interactive Studio",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/250861dd54e72a181ee3482287c2b46b6ff0252c40f558f2fc4ab267a071eecc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/689c624e21d8a229f229f98f642cd0f38e4e799fb8930e5005ccc1208d8c8751.jpg"
+    ],
+    "size": 121634816,
+    "version": null
+  },
+  "70010000070579": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fbb8d3e5bd479937fbcb0b814df6cd0cf2ca969e1d00c91947324f0af4032af0.jpg",
+    "category": [
+      "Puzzle",
+      "Tabuleiro",
+      "Estilo de vida",
+      "Arcade"
+    ],
+    "description": "Voc\u00ea coloca uma pe\u00e7a que cai do topo da grade. Cada pe\u00e7a tem um n\u00famero de 1 a 7, ou \u00e9 vazia.\nSempre que o n\u00famero de qualquer pe\u00e7a corresponde ao n\u00famero de pe\u00e7as cont\u00edguas em uma linha ou coluna, essa pe\u00e7a desaparece e tamb\u00e9m atinge qualquer pe\u00e7a vazia que ela toca. O jogo termina quando as pe\u00e7as n\u00e3o eliminadas alcan\u00e7am o topo do campo de jogo.\n\nVoc\u00ea ganha pontos ao combinar o n\u00famero em uma pe\u00e7a com o n\u00famero de pe\u00e7as em sua linha ou coluna. Agora, vamos aumentar um pouco a dificuldade introduzindo aquelas pe\u00e7as brancas que voc\u00ea v\u00ea. Estas s\u00e3o pe\u00e7as s\u00f3lidas que racham quando uma pe\u00e7a explode ao lado delas. Quando voc\u00ea quebra a pe\u00e7a s\u00f3lida, ela revelar\u00e1 o n\u00famero escondido dentro!\n\nM\u00fasica, fundos, sons, efeitos especiais - tudo, at\u00e9 os efeitos em perfeita sincronia com a forma como voc\u00ea est\u00e1 jogando, tornando o jogo algo que voc\u00ea vai querer experimentar v\u00e1rias e v\u00e1rias vezes. Desafie-se alcan\u00e7ando o topo do placar. Horas infinitas de divers\u00e3o!\n\nDica: Quanto maior a Combina\u00e7\u00e3o de Cadeia, mais altos s\u00e3o seus pontos!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e572c63377a7341206de11005d513d77902ab8385e5fbad06f3e6dec21e84f39.jpg",
+    "id": "0100A1C01C614000",
+    "intro": "Melhor jogo de quebra-cabe\u00e7a com pe\u00e7as numeradas!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Seven",
+    "nsuId": 70010000070579,
+    "numberOfPlayers": 1,
+    "publisher": "Max Interactive Studio",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/dd03eecebf4503342059718a7ed6f9a0b0dfd0a355e090945e3b0be3c12dcd5d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/39bc02f80d1d04ff7feaafa8a4fcbf36150b6c87c3d99fedc19383c4a2fc817a.jpg"
+    ],
+    "size": 50331648,
+    "version": null
+  },
+  "70010000075493": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20d358e53e6eae2e7227efb61812cc0d3302e990fa5913e98f9cd90dba4ca8ec.jpg",
+    "category": [
+      "Puzzle",
+      "Tabuleiro",
+      "Arcade",
+      "Estrat\u00e9gia"
+    ],
+    "description": "O objetivo do jogo \u00e9 obter uma pontua\u00e7\u00e3o alta ao soltar frutas em um recipiente sem deix\u00e1-las transbordar. Para ganhar pontos, o jogador deve combinar duas frutas iguais, criando uma nova fruta no ciclo de frutas do jogo.\n\nO objetivo do jogo \u00e9 alcan\u00e7ar uma pontua\u00e7\u00e3o alta ao soltar estrategicamente frutas em um recipiente sem deix\u00e1-las transbordar. Os jogadores ganham pontos ao combinar com sucesso duas frutas id\u00eanticas, resultando na cria\u00e7\u00e3o de uma nova fruta no ciclo de frutas em constante evolu\u00e7\u00e3o do jogo. Combina\u00e7\u00f5es habilidosas e eficientes de frutas n\u00e3o apenas contribuem para uma pontua\u00e7\u00e3o mais alta, mas tamb\u00e9m adicionam uma camada de profundidade estrat\u00e9gica \u00e0 jogabilidade. Voc\u00ea consegue dominar a arte da combina\u00e7\u00e3o de frutas e alcan\u00e7ar o topo do quadro de l\u00edderes?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f6fa1bd10e6ed59e9b66162a27aa25b6c9905b7c5baef89d7f7aec327342d4ee.jpg",
+    "id": "010038501DB06000",
+    "intro": "Combine Frutas para criar frutas maiores",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Big Watermelon Match",
+    "nsuId": 70010000075493,
+    "numberOfPlayers": 1,
+    "publisher": "Max Interactive Studio",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/356e18549e72af0981f033d553534bd6d68bd0d4592c101e9dff63b1a495c354.jpg"
+    ],
+    "size": 112197632,
     "version": null
   },
   "70050000044386": {
