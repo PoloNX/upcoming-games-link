@@ -79,6 +79,55 @@
     "size": 425721856,
     "version": null
   },
+  "70010000071811": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b9773b3e97c08bf16c20b5df04eb83bd055702f70f75e24774182a1b4619f7d7.jpg",
+    "category": [
+      "A\u00e7\u00e3o",
+      "Simula\u00e7\u00e3o",
+      "Estilo de Vida",
+      "Arcada"
+    ],
+    "description": "Tools Up! Ultimate Edition d\u00e1 aos jogadores acesso total ao conte\u00fado de Tools Up!, incluindo o jogo base, todos os DLCs e atualiza\u00e7\u00f5es.\n\n\u00c9 hora da reforma!\n\nPegue suas ferramentas e capacete, temos casas para reformar. Tools Up! \u00e9 um jogo cooperativo local ca\u00f3tico que p\u00f5e suas habilidades de reforma e trabalho em equipe \u00e0 prova. Trabalhe em um amplo complexo de apartamentos renovando lares cada vez mais intricados e atenda \u00e0s expectativas (comumente bizarras) dos inquilinos.\n\nCooperativo local para at\u00e9 4 jogadores\n\nJogue com at\u00e9 4 amigos para contribuir para a efici\u00eancia (ou caos absoluto) da sua equipe de reformas. ATEN\u00c7\u00c3O: este jogo suporta apenas o modo cooperativo local, n\u00e3o h\u00e1 modo cooperativo online. Ele pode ser jogado por apenas um jogador, mas recomendamos jogar com pelo menos mais uma pessoa.\n\nH\u00e1 muito o que fazer!\n\nN\u00e3o existe servi\u00e7o simples, mas contamos com a ajuda de profissionais. Bom, mais ou menos\u2026 Cada fase exige que voc\u00ea encare diversos servi\u00e7os sem fazer muita bagun\u00e7a. Cuide da limpeza ap\u00f3s demoli\u00e7\u00f5es, pinte paredes, instale azulejos, fa\u00e7a o reboco, cole o papel de parede, colete entregas e deixe tudo limpinho \u2014 s\u00f3 para come\u00e7ar.\n\nNovo modo competitivo JxJ\n\nUm modo in\u00e9dito JxJ que coloca as equipes de reforma umas contra as outras! Corra para cumprir o m\u00e1ximo de tarefas poss\u00edvel, e n\u00e3o deixe de interferir nas equipes advers\u00e1rias em cada etapa do processo. Diversos modificadores de jogabilidade deixar\u00e3o todos em alerta, e podem ser combinados de diversas formas para at\u00e9 4 jogadores, como: 1x1, 2x2, 1x2x1, 1x1x1, 1x1x1x1 etc.\n\nRetoque exteriores com todos os DLCs inclusos\n\nTools Up! Ultimate Edition inclui todas as 45 fases do DLC Garden Party. Mergulhe em fases ambientadas nas esta\u00e7\u00f5es primavera, ver\u00e3o e outono enquanto sua equipe de reforma constr\u00f3i p\u00e1tios, planta \u00e1rvores, enfeita o gramado e cuida de alguns guaxinins e toupeiras inconvenientes.\n\nPada pacote tem\u00e1tico de esta\u00e7\u00e3o vem com novas mec\u00e2nicas, configura\u00e7\u00f5es e um chef\u00e3o poderoso no final!\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1bdc00682eb9408cd7dc5764b4c26737f3ac06c908efbfb05eac720e023dbbef.jpg",
+    "id": "010075001CDAA000",
+    "intro": "Reforme lares em meio ao caos em modo cooperativo local, tudo em um s\u00f3 pacote!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Tools Up! Ultimate Edition",
+    "nsuId": 70010000071811,
+    "numberOfPlayers": 4,
+    "publisher": "Untold Tales",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240105,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/40112ebfe04ca2e0b527b92eee329782d10472080e1692d51b82978384deb8e8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cfc8e87e4058b8e4e8b1786c0738d2849b15a1a06d2282b19facdee510cdcbf5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/890ca5c8beedcd24ed95f505a3499a0add1101cf774cb8dcc888df548a6752ee.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/34a2b3ba403c931a2ab2ea0a99966365aef35ae482d00b2281119303f61a50a5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1131bc7f4ac99c7a909f96fa5c2b4c0c7253f54f16b0de7856ac488d6dbbb6ac.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e7ea5c205b5d2bdf337a5e84b3b8c95e3ce35be6c914430a290ff84b473bf82e.jpg"
+    ],
+    "size": 1807745024,
+    "version": null
+  },
   "70010000071916": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f296e4a78b6c489964516fbed8f8b56348243f57d6e99981bc4eda909d38d570.jpg",
     "category": [
@@ -688,6 +737,42 @@
       "https://img-eshop.cdn.nintendo.net/i/37b30d3cfe555951d0cef5fdedcb517e95e04f39ec97d05c54e403fa8926024b.jpg"
     ],
     "size": 3145728,
+    "version": null
+  },
+  "70070000020153": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3bcdcb862bfe2d4c09b8a53614880f01872e1bc0319b4b045d70e9093b16c86c.jpg",
+    "category": null,
+    "description": "O que \u00e9 a Jackbox Party Trilogy 3.0?\n\nA Jackbox Party Trilogy 3.0 \u00e9 uma cole\u00e7\u00e3o dos 15 \u00eaxitos dos Jackbox Party Packs 7, 8 e 9. Desenha \u00e0 vontade com Drawful Animate, faz os teus amigos rir com um jogo de Quiplash 3 ou mente at\u00e9 \u00e0 vit\u00f3ria com Fibbage 4. Independentemente do jogo que escolheres, as op\u00e7\u00f5es para toda a fam\u00edlia e a participa\u00e7\u00e3o de um p\u00fablico de at\u00e9 10.000 pessoas garantem que todos podem jogar.\n\nQue jogos est\u00e3o inclu\u00eddos?\n\nA Jackbox Party Trilogy 3.0 inclui todos os \u00eaxitos do Jackbox Party Pack 7 (Quiplash 3, The Devils and the Details, Champ\u2019d Up, Talking Points, Blather Round), do Jackbox Party Pack 8 (Job Job, Weapons Drawn, The Wheel of Enormous Proportions, Drawful Animate, The Poll Mine) e do Jackbox Party Pack 9 (Fibbage 4, Quixort, Junktopia, Nonsensory, Roomerang).\n\n\nDefini\u00e7\u00f5es e Caracter\u00edsticas\n\nOs jogos Jackbox s\u00e3o f\u00e1ceis de jogar: o teu telem\u00f3vel \u00e9 o comando, por isso, s\u00f3 tens de iniciar o jogo e divertires-te! A Jackbox Party Trilogy 3.0 tamb\u00e9m cont\u00e9m novas ferramentas de modera\u00e7\u00e3o e participa\u00e7\u00e3o do p\u00fablico para at\u00e9 10.000 pessoas, o que significa que podes desfrutar de um jogo protegido e seguro com todos os amigos e familiares que quiseres. Os jogos do Jackbox Party Pack 9 at\u00e9 est\u00e3o localizados em franc\u00eas, italiano, alem\u00e3o, castelhano, espanhol e espanhol latino-americano, o que significa que todos se podem juntar \u00e0 festa, mesmo que n\u00e3o falem ingl\u00eas.\n\nCita\u00e7\u00f5es de avalia\u00e7\u00f5es \n\n\"N\u00e3o interessa se nunca tiverem jogado antes ou se as vossas habilidades art\u00edsticas forem basicamente inexistentes, o Jackbox Party Pack 7 vai encher a vossa casa de alegria.\"\n90/100 \u2013 COGconnected\n\n\"[O Jackbox Party Pack 8] \u00e9 um t\u00edtulo s\u00f3lido da s\u00e9rie Jackbox, com v\u00e1rios jogos que conseguem manter qualquer pessoa entretida durante v\u00e1rias horas, independentemente do que gostem de jogar.\"\nWIRED\n\n\"O Jackbox Party Pack 9 \u00e9 divertid\u00edssimo.\"\n9/10 \u2013 PC Invasion\n\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Escreve, desenha e ri at\u00e9 \u00e0 vit\u00f3ria com os 15 jogos dos Jackbox Party Packs 7, 8 e 9.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "The Jackbox Party Trilogy 3.0",
+    "nsuId": 70070000020153,
+    "numberOfPlayers": null,
+    "publisher": "Jackbox Games",
+    "rating": 12,
+    "ratingContent": [
+      "Palavr\u00f5es Ligeiros",
+      "Insinua\u00e7\u00f5es Sexuais",
+      "Os Utilizadores Interagem"
+    ],
+    "region": null,
+    "releaseDate": 20240108,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/31f45a7f56e1ddeb6a4db43c79a09d9b1d9dd7b722836f8f377970e65a72e429.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/04857dd84fe001a5a2d0b50cc53e91cb0e073c3f55e9b67cd565f961eedbadf7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/adeaaff133eaa26f06ae85bec31df704bab6cc35854244c957487a0da3f94817.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/833c47c595f4ed57460f436ab6fb9c305245b8e99de2667810509a751e160d4a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/670da587c037530d3f315186aec44cb3ebc4629caf6df60b7f422c380e9d5762.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fb8e2b3d0f705076c07b9aee17cf718c2aae94f1c5e4a8392c2f26db7e6414a1.jpg"
+    ],
+    "size": 13399752704,
     "version": null
   },
   "70050000046285": {
@@ -1547,6 +1632,46 @@
     "size": 347078656,
     "version": null
   },
+  "70010000067875": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69553c508e5a2739c9f81d4c28533b5a6ac7727187bb5be9c54d88fd589b7454.jpg",
+    "category": [
+      "RPG",
+      "Aventura"
+    ],
+    "description": "A group of prisoners are sentenced to certain death by exiling them to the secluded Mount Grimrock for vile crimes they may or may not have committed. If they ever wish to see daylight again and reclaim their freedom the ragtag group of prisoners must form a team and descend through the mountain, level by level.\n\nThe game brings back the oldschool challenge with highly tactical real-time combat and grid-based movement, devious hidden switches and secrets as well as deadly traps and horrible monsters. Legend of Grimrock puts an emphasis on puzzles and exploration and the wits and perception of the player are more important tools than even the sharpest of swords could be. Are you ready to venture forth and unravel the mysteries of Mount Grimrock?\n\n- Explore a vast network of ancient tunnels, discover secrets and find a way to survive in the perilous dungeons of Mount Grimrock.\n- Cast spells with runes, craft potions with herbs and fight murderous monsters with a wide variety of weaponry.\n- Create a party of four characters and customize them with different races, classes, skills and traits.\n- Pure blooded dungeon crawling game with grid-based movement and thousands of squares riddled with hidden switches, pressure plates, sliding walls, floating crystals, forgotten altars, trapdoors and more.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bc9bf51b8bbd2fee4cae9b6d5cd568c9fe2753206a0a2f0be19ce35a05a9f223.jpg",
+    "id": "0100A2501B3B2000",
+    "intro": "Legend of Grimrock is a dungeon crawling role playing game with an oldschool heart but a modern execution. ",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Legend of Grimrock",
+    "nsuId": 70010000067875,
+    "numberOfPlayers": 1,
+    "publisher": "Almost Human",
+    "rating": 7,
+    "ratingContent": [
+      "Medo",
+      "Viol\u00eancia Impl\u00edcita",
+      "Viol\u00eancia Ligeira"
+    ],
+    "region": null,
+    "releaseDate": 20240115,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8878c84db2f489f02c9b1011f27709b8325aee1beffca5b8384eb9c61765a61d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/acdca677ba540bdbdeb7b349432db9715fd6cc4b41609164dcbadbc678e9be94.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0d918190d919b380702a483ff82e1f2f4892e2a2997f6e0682ddaf15aaddd495.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f1b5808a10aae9c93a15615a3d925b62b76bac528d3c27c268c505d3ea591db8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/557d2a6d8128b0091cbdcae687442c833eef0ea12377a9e54c34ec8ab7e10229.jpg"
+    ],
+    "size": 642777088,
+    "version": null
+  },
   "70050000041801": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b88756ec57bf724a571e02a9e205d725af407f9ffe1f21efcfd265dc9afdc31f.jpg",
     "category": null,
@@ -1790,6 +1915,52 @@
       "https://img-eshop.cdn.nintendo.net/i/0a23a40421489afb595dc4144edb55e1981d731ff1784bb3c5dc83fe12162d1e.jpg"
     ],
     "size": 308281344,
+    "version": null
+  },
+  "70010000074598": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b6c6afd3024d6e16947231a29b04017f99233cd18d336872e9d97ec8c88e5edb.jpg",
+    "category": [
+      "Aventura",
+      "Puzzle",
+      "Arcada",
+      "Plataformas"
+    ],
+    "description": "Inspirado pelos cl\u00e1ssicos, feito para o S\u00e9c. XXI\nJogo de plataformas e parkour inspirado nos cl\u00e1ssicos SEGA dos anos 90 - The Jungle Book, Aladdin, Lion King - mas com pormenores e ideias modernos. Faz parkour em plataformas nos despojos da humanidade. Leva a melhor sobre a vida selvagem e a perigosa flora h\u00edbrida. Resolve quebra-cabe\u00e7as ambientais desafiantes. Mant\u00e9m-te um passo \u00e0 frente dos vis humanos que te perseguem, neste safari apocal\u00edptico bizarro.\n\nA hist\u00f3ria de uma cria perseguida\nDepois da Grande Cat\u00e1strofe Ecol\u00f3gica, os ultramilion\u00e1rios fugiram para Marte e abandonaram o resto da humanidade. Mas entre eles, permanece uma pequena crian\u00e7a que ter\u00e1 desenvolvido imunidade \u00e0s hostilidades do planeta. V\u00e1rias d\u00e9cadas passam e os habitantes de Marte regressam para explorar a Terra. Quando encontram uma pequena crian\u00e7a, The Cub, tentam imediatamente captur\u00e1-la. Agora, ter\u00e1s de escapar, explorar e descobrir as ru\u00ednas urbanas da humanidade, enquanto foges a persegui\u00e7\u00f5es.\n\nUm mundo que conta hist\u00f3rias\nExplora as ru\u00ednas da humanidade depois de a Grande Cat\u00e1strofe Ecol\u00f3gica ter eliminado a maior parte da civiliza\u00e7\u00e3o, deixando despojos para serem reclamados pela m\u00e3e natureza. Descobre a hist\u00f3ria e pistas sobre como a humanidade tombou no mundo inteiro. Blocos de pr\u00e9dios em ru\u00ednas e laborat\u00f3rios gen\u00e9ticos abandonados. Minas de qu\u00edmicos esvaziadas e campos de batalha entregues ao mato. Cada n\u00edvel tem uma hist\u00f3ria para contar.\n\nA m\u00fasica perfeita acompanha-te\nExplora na companhia da Radio Nostalgia de Marte, uma banda sonora personalizada que vai entrar na tua mente. Escuta hist\u00f3rias de sobreviv\u00eancia contadas pelos ultramilion\u00e1rios de Marte, alternadas por uma cole\u00e7\u00e3o de m\u00fasicas p\u00f3s-apocal\u00edpticas.\n\nRevive mem\u00f3rias\nCom um estilo semelhante aos filmes animados do final da d\u00e9cada de 90 - Atlantis, Tarzan, O Caminho para El Dorado - e um toque de Primal, a famosa s\u00e9rie de Genndy Tartakovsky, criador de Samurai Jack.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0c116fa5b54767b61bd1c9cd7870c33b6eff677195191cdd99cc46ce32832713.jpg",
+    "id": "0100D6501D73C000",
+    "intro": "O Livro da Selva apocal\u00edptico.\n",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "fr",
+      "de"
+    ],
+    "name": "The Cub",
+    "nsuId": 70010000074598,
+    "numberOfPlayers": 1,
+    "publisher": "Untold Tales",
+    "rating": 12,
+    "ratingContent": [
+      "Palavr\u00f5es Ligeiros",
+      "Viol\u00eancia Moderada"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/40aede9e5518e8851e62b323dcb6e7b70d9c4b72208398fcdd13c8cf0e15801d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/78379935c2b1b272bb6464aacd767fdd042e69a51f631fa56dadd75e59b09a45.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dd014b538ffa513d9e38b56df2cb58d068457ef7b0dc8801f858da4063e828f3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6aff0b38c1fcfdf2773d318749d6e2c12226e8a8a9fbf8fa326d278662ccc2e4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dfd7aaf6b7e6b543feaf0ab43014d8aae0a2c546db7d5c3e8b015efffe160f66.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2605d8fa85c7d0b9b4a0c884edd81312390d58158ed8b05b5fa5e90c133558ed.jpg"
+    ],
+    "size": 1281359872,
     "version": null
   },
   "70010000072197": {
@@ -2469,6 +2640,75 @@
       "https://img-eshop.cdn.nintendo.net/i/2ae48c85d81e2bfc8c196e7b2758503d5405cd1c94e343dbc2d0fbf89b3e28a2.jpg"
     ],
     "size": 5324668928,
+    "version": null
+  },
+  "70010000051840": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/79e1ce73d910dec229f123847afda531c29181fe741f556b770ca57ce4f86292.jpg",
+    "category": [
+      "Puzzle",
+      "Jogo de Tabuleiro",
+      "Estilo de Vida",
+      "Arcada"
+    ],
+    "description": "KUBIC \u00e9 um NOVO jogo como voc\u00ea nunca viu, ouviu ou sentiu antes - um jogo de quebra-cabe\u00e7a incrivelmente viciante, \u00fanico e deslumbrantemente lindo de todos os tempos.\nEm KUBIC, os jogadores completam an\u00e9is circulares girando e movendo diferentes pe\u00e7as em queda em forma de cor (CUBOS), que descem para o campo de jogo. Os an\u00e9is completos desaparecem e o jogador marca pontos, e o jogador pode continuar a preencher os espa\u00e7os desocupados. O jogo termina quando os an\u00e9is n\u00e3o eliminados alcan\u00e7am o topo do campo de jogo.\n\nM\u00fasica, fundos, sons, efeitos especiais - tudo, at\u00e9 os efeitos em perfeita sincronia com a forma como voc\u00ea est\u00e1 jogando, tornando o jogo algo que voc\u00ea vai querer experimentar repetidamente. Desafie-se alcan\u00e7ando o topo do placar de l\u00edderes. Horas infinitas de divers\u00e3o!\n\nDica: Procure por combos de 4x para alcan\u00e7ar as pontua\u00e7\u00f5es mais altas.\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6b6a67a1c9c4db944333b7e493145ba374c1bb4ce5f6c8b3083661b35d9193eb.jpg",
+    "id": "0100B23017E0A000",
+    "intro": "Voc\u00ea consegue superar os recordes?",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "KUBIC",
+    "nsuId": 70010000051840,
+    "numberOfPlayers": 1,
+    "publisher": "Max Interactive Studio",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/250861dd54e72a181ee3482287c2b46b6ff0252c40f558f2fc4ab267a071eecc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/689c624e21d8a229f229f98f642cd0f38e4e799fb8930e5005ccc1208d8c8751.jpg"
+    ],
+    "size": 121634816,
+    "version": null
+  },
+  "70010000075494": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20d358e53e6eae2e7227efb61812cc0d3302e990fa5913e98f9cd90dba4ca8ec.jpg",
+    "category": [
+      "Puzzle",
+      "Jogo de Tabuleiro",
+      "Arcada",
+      "Estrat\u00e9gia"
+    ],
+    "description": "O objetivo do jogo \u00e9 obter uma pontua\u00e7\u00e3o alta ao deixar frutas ca\u00edrem em um recipiente sem que elas transbordem. Para ganhar pontos, o jogador deve combinar duas frutas iguais, criando uma nova fruta no ciclo de frutas do jogo.\n\nO objetivo do jogo \u00e9 alcan\u00e7ar uma pontua\u00e7\u00e3o alta ao deixar estrategicamente as frutas ca\u00edrem em um recipiente sem deix\u00e1-las transbordar. Os jogadores ganham pontos ao combinar com sucesso duas frutas id\u00eanticas, resultando na cria\u00e7\u00e3o de uma nova fruta no ciclo de frutas em evolu\u00e7\u00e3o do jogo. Combina\u00e7\u00f5es de frutas habilidosas e eficientes n\u00e3o apenas contribuem para uma pontua\u00e7\u00e3o mais alta, mas tamb\u00e9m adicionam uma camada de profundidade estrat\u00e9gica \u00e0 jogabilidade. Voc\u00ea consegue dominar a arte da combina\u00e7\u00e3o de frutas e alcan\u00e7ar o topo do placar?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f6fa1bd10e6ed59e9b66162a27aa25b6c9905b7c5baef89d7f7aec327342d4ee.jpg",
+    "id": "010038501DB06000",
+    "intro": "Combine frutas para criar frutas maiores",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Big Watermelon Match",
+    "nsuId": 70010000075494,
+    "numberOfPlayers": 1,
+    "publisher": "Max Interactive Studio",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/356e18549e72af0981f033d553534bd6d68bd0d4592c101e9dff63b1a495c354.jpg"
+    ],
+    "size": 112197632,
     "version": null
   },
   "70050000044385": {

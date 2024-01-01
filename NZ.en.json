@@ -40,6 +40,87 @@
     "size": 720371712,
     "version": null
   },
+  "70010000071573": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8bb7a3ce86f3f44d42c3b26de0f2bdfe39294cb399e9e0a69af5cec928296daf.jpg",
+    "category": [
+      "Puzzle",
+      "Simulation",
+      "Party",
+      "Multiplayer"
+    ],
+    "description": "As a kid, have you ever dreamed of being an air traffic controller, managing the flights of hundreds of toy planes and passengers? Well, now you can with Airport, the new traffic management game for Nintendo Switch\u2122!\n\nAirport is a perfect party game, or a challenge to play alone. Each level is a beautiful and intricate clockwork machine, waiting for its players. Up to four players can team up and control the airport together, or you can play solo and see how good you are.\n\nIf you like games that are easy to pick up and play, but hard to master, you will love Airport. It is a game that will make you feel like a kid again, playing with your favorite toys and having fun. \n\nAirport has more than 50 levels of increasing difficulty and complexity, each with its own objectives and challenges. If you are looking for even more challenge, you can try the unlockable hard mode, which will test your skills and coordination even more.\n\nAirport is available now on Nintendo Switch\u2122, so grab your controllers and get ready for takeoff!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/41fd4edb3162cd60f0e5c763790fd971cbfafeccc46b032f2edc8d45c425d691.jpg",
+    "id": "010093B01BCF8000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Airport",
+    "nsuId": 70010000071573,
+    "numberOfPlayers": 4,
+    "publisher": "Run-Down Games",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240102,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4d382c61067b406b378bf68778a194ac61d2f8588775ce820705927efe34d7f3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc6c2bd2a816f4c554088bb54a2931873bdbf9fa74d5696dd4db0dc05a56d3a8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/54fd7f26dad952524f45af8b1e0e91a073195379aeed6a13d13b9234cf41ee0c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e192e5dc6adf452af967700fc7a86052ab1421d1816ecf95685b28328c56b0a1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/40bd655259749e53ad3bab94d7d6a14ae4a3f381838c5573ad6bccf38eb8c8f5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5b010369253a4d5f97116ad04f284f706dfd944d1fc2c274a0bb930d95ca3d0d.jpg"
+    ],
+    "size": 1821376512,
+    "version": null
+  },
+  "70010000075635": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9ef2e4317454d685f6490c684c2891fc65f690cb989de150405a6a1cb6331284.jpg",
+    "category": [
+      "Arcade",
+      "Board Game",
+      "Lifestyle",
+      "Other"
+    ],
+    "description": "Meander your way through dozens of snakes and avoid your opponnents by any means and let them crash into your tail. Eat the orbs of your crushed opponents and be the biggest ! \n\nSNQZ is a casual top down singleplayer arcade game where you control your snake like animal and eat orbs to get bigger and try to be the biggest snake like animal in the game. To get even bigger you can try to let other computer controlled snake like animals crash into your body and eat their orbs.\nEarn coins and buy new skins for your snake like animal.\n\nEnjoy a casual game in a short break or just for in between.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0fd5a7e10af8350043050d323a6a9815028eb3df4beeb97e20d8c01f478ede1c.jpg",
+    "id": "010012101DB6C000",
+    "intro": "Try to be the biggest and meander your way to the top.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "SNQZ",
+    "nsuId": 70010000075635,
+    "numberOfPlayers": 1,
+    "publisher": "Kistler Studios",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240102,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/e8401885b8c61908f6ef0283bd8ea0ed6b9db209d86f2e8adfcae13c02c37b0b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3127dc5c09a1137865394b964df39cebd5692e04fa23e901b02b56c3d48a6650.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c384d5417eadb025775e0d793c5806aa9717b8845585c3c53240c254a9156b56.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/03556b6f9c39e5bfed83eb5964ea381296638ee28e5c5ab563932e719b70ce45.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c781bc58f58993bbaeb286c607bd58ff8279fb64c62b172ce17240db5d731a65.jpg"
+    ],
+    "size": 83886080,
+    "version": null
+  },
   "70070000019687": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7ff1224fd5c740dad10a8664a5d3f75ba63f4c59bf8f5873972fb8f73276866b.jpg",
     "category": null,
@@ -92,6 +173,71 @@
     "rightsId": null,
     "screenshots": null,
     "size": 2832203776,
+    "version": null
+  },
+  "70070000019759": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cc82db56e0af8becf00d3ba933eaa2d2789b88f645cdc30bb04220c903aa5546.jpg",
+    "category": null,
+    "description": "In 2013 the world was devastated by an apocalyptic event, annihilating almost all mankind and turning the earth\u2019s surface into a poisonous wasteland. A handful of survivors took refuge in the depths of the Moscow underground, and human civilization entered a new Dark Age.\n\nThe year is 2033. An entire generation has been born and raised underground, and their besieged Metro Station-Cities struggle for survival, with each other, and the mutant horrors that await outside.\n\nYou are Artyom, born in the last days before the fire, but raised underground. Having never ventured beyond the city limits, one fateful event sparks a desperate mission to the heart of the Metro system, to warn the remnants of mankind of a terrible impending threat.\n\nBut will they even listen? Rather than stand united, the factions of the Metro are locked in a struggle for the ultimate power, a doomsday device from the military vaults of D6. A civil war is stirring that could wipe humanity from the face of the earth forever.\n\nIncluding the epic single-player campaigns of both Metro 2033 and Metro: Last Light, Metro Redux takes you on a journey from the forgotten catacombs beneath the subway to the desolate wastelands above, where your actions will determine the fate of mankind.\n\nMetro Redux is the ultimate double game collection, including the definitive versions of both Metro 2033 and Metro: Last Light, now available on Nintendo Switch\u2122\n\nNewcomers to the series will get the chance to experience two of the finest story-driven shooters of all time in one vast package; an epic adventure combining gripping survival horror, exploration and tactical combat and stealth.\n\nThose who favoured the more survival-horror oriented gameplay of \u2018Metro 2033\u2019 can play both campaigns in the \u2018Survival\u2019 Play-Style, a fraught, slow burn fight for survival. Those who enjoyed the more action-oriented gameplay of \u2018Metro: Last Light\u2019 can try the \u2018Spartan\u2019 Play-Style, providing Artyom with a powerful set of combat skills.\n\nWith the legendary Ranger Mode  included to offer an extra layer of challenge and immersion, and all previous released DLC, Metro Redux offers 50+ hours of AAA FPS gameplay for an incredible price.\n\nFeatures :\n\n\u2022 Immerse yourself in the Moscow Metro \u2013 witness one of the most atmospheric worlds in gaming brought to life on Nintendo Switch\u2122\n\n\u2022 Brave the horrors of the Russian apocalypse \u2013 equip your gasmask and an arsenal of hand-made weaponry as you face the threat of deadly mutants, human foes, and the terrifying environment itself \n\n\u2022 Two campaigns, and all DLC included \u2013 Metro Redux includes two complete campaigns that combine to create one epic solo adventure, plus a further 10 hours of bonus content. Two unique Play Styles and  Ranger Mode add hours more replayability !\n\n\u2022 Two unique Play Styles : \u2018Spartan\u2019 and \u2018Survival\u2019 \u2013 approach the campaign as a slow burn Survival Horror , or tackle it with the combat skills of a Spartan Ranger in these two unique modes \n\n\u2022 The legendary Ranger Mode returns \u2013 dare you play the fearsome Ranger Mode? No HUD, UI, deadlier combat and  limited resources combine to create the ultimate immersive experience ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Metro Redux",
+    "nsuId": 70070000019759,
+    "numberOfPlayers": null,
+    "publisher": "PLAION",
+    "rating": 16,
+    "ratingContent": [
+      "Sexual themes",
+      "Offensive language",
+      "Violence",
+      "Horror"
+    ],
+    "region": null,
+    "releaseDate": 20240102,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 14941159424,
+    "version": null
+  },
+  "70070000019760": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cceff471937ce33b9c8b12fe198807f0819bdb61b04eec38d9277f8ee09de73c.jpg",
+    "category": null,
+    "description": "Saints Row\u00ae: The Third\u2122 - The Full Package gives you control of the Saints at the height of their power, and you live the life to show for it. \nPut the wildest chapter of the Saints Row saga in the palms of your hands for the first time on Nintendo Switch\u2122.  You bring the fight to Steelport, a sordid city of sin drowning in sex, drugs, and (a lot of) guns.  This is your City.  These are your rules.\n\nSaints Row IV\u00ae: Re-Elected\u2122: \nYou are the President of the United States of America, and you must save all of us on Earth.\nThe Boss of the Saints has been elected to the Presidency of the United States but the Saints are just getting started. ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "The digital Saints Row The Big Purple Package bundle contains both Saints Row\u00ae: The Third\u2122 - The Full Package & Saints Row IV\u00ae: Re-Elected\u2122 including additional DLC packs.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Saints Row: The Big Purple Package",
+    "nsuId": 70070000019760,
+    "numberOfPlayers": null,
+    "publisher": "PLAION",
+    "rating": 18,
+    "ratingContent": [
+      "Violence & offensive language",
+      "Sexual themes"
+    ],
+    "region": null,
+    "releaseDate": 20240102,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/1cd2040175088429a92b968ba763be3e7665352a87fa400a650086005afc5ef7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7661f8f5badd2e30c1cb715ebcd381f75beb9aa7ffc435a9d1b82a0be8398410.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/36285a01f1ac7ac4cc30ae2b33399fec0f06429f20d523d421e52a0eaea7bf34.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1f99dbbf7fd7c725a1007480c71c48d741eaeb6a96c1678158f604cd26706fb4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a4d08eacedc1b0d2b2b3016376f6088e479c971f311b0f7702fd2fbafe9b8ce1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/99e2a34d09c582f95fa159dcbe44eb39b6cd0bfb4bb7ea39e320fbc054475d6e.jpg"
+    ],
+    "size": 16893607936,
     "version": null
   },
   "70010000065866": {
@@ -335,6 +481,57 @@
       "https://img-eshop.cdn.nintendo.net/i/ea0263b70a644132804924ad7a63b249950bace9a70b1a3950951de921f4a0a3.jpg"
     ],
     "size": 0,
+    "version": null
+  },
+  "70010000071811": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b9773b3e97c08bf16c20b5df04eb83bd055702f70f75e24774182a1b4619f7d7.jpg",
+    "category": [
+      "Action",
+      "Simulation",
+      "Lifestyle",
+      "Arcade"
+    ],
+    "description": "Tools Up! Ultimate Edition gives players access to the entire chaos-filled Tools Up! package, including base game, all DLCs, and updates.\n\nTime To Get Renovating\n\nGrab your tools and hard hats; we have some home makeovers to do. Tools Up! is a chaotic local co-op game that puts your renovation and teamwork skills to the test. Work your way up a sprawling apartment complex as you renovate more and more intricate homes to meet the exact (yet often bizarre) requirements of the local tenants.\n\nLocal Couch Co-Op for Up to 4 People\n\nPlay with up to 4 friends to add to the efficiency or outright chaos of your home renovation team. NOTE: This game supports local couch co-op only; there is no online multiplayer mode. The game can be played in single-player, but it is recommended to play with at least one other person.\n\nPlenty to Do Here\n\nThis isn\u2019t a simple job, so we brought in some professionals - well, kinda. Every level requires you to tackle a lot of jobs and not make a mess of it. Sweeping up after the demolition crews, painting walls, laying tiles, plastering wallpaper, collecting deliveries, and cleaning up after yourself just to start.\n\nCompetitive Home Makeovers - New PvP Mode\n\nA brand new player vs. player mode that pits your team of renovators against each other! Race to complete the most tasks possible but also interfere with the other teams every step of the way. Various gameplay modifiers will keep everyone on their toes and can be played in various combinations for up to 4 players, e.g., 1v1, 2v2, 1v2v1, 1v1v1, 1v1v1v1, etc.\n\nTouch Up The Outdoors - All DLC Included\n\nThe Tools Up! Ultimate Edition includes all 45 levels of the Garden Party DLC. Dive into levels set in the seasons of spring, summer, and autumn as your outdoor renovation crew rebuilds patios, plants trees, spruces up lawns, and deals with a few pesky raccoons or moles.\n\nEach pack of season-themed levels comes with new mechanics, settings, and a mighty boss fight at the end!\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1bdc00682eb9408cd7dc5764b4c26737f3ac06c908efbfb05eac720e023dbbef.jpg",
+    "id": "010075001CDAA000",
+    "intro": "Chaos-filled, home renovation couch coop in one package!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Tools Up! Ultimate Edition",
+    "nsuId": 70010000071811,
+    "numberOfPlayers": 4,
+    "publisher": "Untold Tales",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240106,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/40112ebfe04ca2e0b527b92eee329782d10472080e1692d51b82978384deb8e8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cfc8e87e4058b8e4e8b1786c0738d2849b15a1a06d2282b19facdee510cdcbf5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/890ca5c8beedcd24ed95f505a3499a0add1101cf774cb8dcc888df548a6752ee.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/34a2b3ba403c931a2ab2ea0a99966365aef35ae482d00b2281119303f61a50a5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1131bc7f4ac99c7a909f96fa5c2b4c0c7253f54f16b0de7856ac488d6dbbb6ac.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e7ea5c205b5d2bdf337a5e84b3b8c95e3ce35be6c914430a290ff84b473bf82e.jpg"
+    ],
+    "size": 1807745024,
     "version": null
   },
   "70010000074704": {
@@ -768,6 +965,45 @@
       "https://img-eshop.cdn.nintendo.net/i/027973fec7fe328ca9f721e42c700266a98fc56efb8eacca86ecf7353e295eb8.jpg"
     ],
     "size": 112197632,
+    "version": null
+  },
+  "70070000020153": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3bcdcb862bfe2d4c09b8a53614880f01872e1bc0319b4b045d70e9093b16c86c.jpg",
+    "category": null,
+    "description": "What is The Jackbox Party Trilogy 3.0?\n\nThe Jackbox Party Trilogy 3.0 is a collection of the 15 hit games from The Jackbox Party Packs 7, 8 and 9. Draw your heart out with Drawful Animate, crack your friends up with a game of Quiplash 3, or bluff your way to victory with Fibbage 4. No matter which game you choose, family-friendly options and audience play-along for up to 10,000 people guarantee that just about anyone can play along.\n\nWhich games are included?\n\nThe Jackbox Party Trilogy 3.0 contains all of the hit games from The Jackbox Party Pack 7 (Quiplash 3, The Devils and the Details, Champ\u2019d Up, Talking Points, Blather Round), The Jackbox Party Pack 8 (Job Job, Weapons Drawn, The Wheel of Enormous Proportions, Drawful Animate, The Poll Mine), and The Jackbox Party Pack 9 (Fibbage 4, Quixort, Junktopia, Nonsensory, Roomerang).\n\n\nSettings + Features\n\nIt\u2019s easy to play Jackbox games: your phone is your controller, so all you have to do is fire up a game and go! The Jackbox Party Trilogy 3.0 also boasts new moderation tools and audience play-along for up to 10,000 people, which means that you can enjoy safe, secure play with as many friends or family as you want. Games in The Jackbox Party Pack 9 are even localized in French, Italian, German, Castilian Spanish, and Latin American Spanish, which means that everyone can join the party - not just English speakers.\n\nReview quotes \n\n\u201cIt doesn\u2019t matter if you\u2019ve never played the games before or if your artistic ability is basically zero, Jackbox Party Pack 7 is sure to bring a lot of joy into your home.\u201d\n90/100 \u2013 COGconnected\n\n\u201c[The Jackbox Party Pack 8]  is a solid entry in the Jackbox series, with multiple games that can keep everyone entertained for several hours, no matter their gaming preferences.\u201d\nWIRED\n\n\u201cJackbox Party Pack 9 is a blast.\u201d\n9/10 \u2013 PC Invasion",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Write, draw, and laugh your way to victory with all 15 games from The Jackbox Party Packs 7, 8 & 9.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "The Jackbox Party Trilogy 3.0",
+    "nsuId": 70070000020153,
+    "numberOfPlayers": null,
+    "publisher": "Jackbox Games",
+    "rating": 13,
+    "ratingContent": [
+      "Caution: Online Interactivity",
+      "Crude Sexual References",
+      "Drug Reference",
+      "Online Interactivity",
+      "Sexual References",
+      "Users Interact"
+    ],
+    "region": null,
+    "releaseDate": 20240109,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/31f45a7f56e1ddeb6a4db43c79a09d9b1d9dd7b722836f8f377970e65a72e429.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/04857dd84fe001a5a2d0b50cc53e91cb0e073c3f55e9b67cd565f961eedbadf7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/adeaaff133eaa26f06ae85bec31df704bab6cc35854244c957487a0da3f94817.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/833c47c595f4ed57460f436ab6fb9c305245b8e99de2667810509a751e160d4a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/670da587c037530d3f315186aec44cb3ebc4629caf6df60b7f422c380e9d5762.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fb8e2b3d0f705076c07b9aee17cf718c2aae94f1c5e4a8392c2f26db7e6414a1.jpg"
+    ],
+    "size": 13399752704,
     "version": null
   },
   "70050000046285": {
@@ -1649,6 +1885,44 @@
     "size": 347078656,
     "version": null
   },
+  "70010000067875": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69553c508e5a2739c9f81d4c28533b5a6ac7727187bb5be9c54d88fd589b7454.jpg",
+    "category": [
+      "RPG",
+      "Adventure"
+    ],
+    "description": "A group of prisoners are sentenced to certain death by exiling them to the secluded Mount Grimrock for vile crimes they may or may not have committed. If they ever wish to see daylight again and reclaim their freedom the ragtag group of prisoners must form a team and descend through the mountain, level by level.\n\nThe game brings back the oldschool challenge with highly tactical real-time combat and grid-based movement, devious hidden switches and secrets as well as deadly traps and horrible monsters. Legend of Grimrock puts an emphasis on puzzles and exploration and the wits and perception of the player are more important tools than even the sharpest of swords could be. Are you ready to venture forth and unravel the mysteries of Mount Grimrock?\n\n- Explore a vast network of ancient tunnels, discover secrets and find a way to survive in the perilous dungeons of Mount Grimrock.\n- Cast spells with runes, craft potions with herbs and fight murderous monsters with a wide variety of weaponry.\n- Create a party of four characters and customize them with different races, classes, skills and traits.\n- Pure blooded dungeon crawling game with grid-based movement and thousands of squares riddled with hidden switches, pressure plates, sliding walls, floating crystals, forgotten altars, trapdoors and more.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bc9bf51b8bbd2fee4cae9b6d5cd568c9fe2753206a0a2f0be19ce35a05a9f223.jpg",
+    "id": "0100A2501B3B2000",
+    "intro": "Legend of Grimrock is a dungeon crawling role playing game with an oldschool heart but a modern execution. ",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Legend of Grimrock",
+    "nsuId": 70010000067875,
+    "numberOfPlayers": 1,
+    "publisher": "Almost Human",
+    "rating": 13,
+    "ratingContent": [
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240116,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8878c84db2f489f02c9b1011f27709b8325aee1beffca5b8384eb9c61765a61d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/acdca677ba540bdbdeb7b349432db9715fd6cc4b41609164dcbadbc678e9be94.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0d918190d919b380702a483ff82e1f2f4892e2a2997f6e0682ddaf15aaddd495.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f1b5808a10aae9c93a15615a3d925b62b76bac528d3c27c268c505d3ea591db8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/557d2a6d8128b0091cbdcae687442c833eef0ea12377a9e54c34ec8ab7e10229.jpg"
+    ],
+    "size": 642777088,
+    "version": null
+  },
   "70010000072366": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71f4953b94e5487a6ae29532ce0f90808e1fc5fd4e0d94d7828765a6cab77e0b.jpg",
     "category": [
@@ -1864,6 +2138,51 @@
       "https://img-eshop.cdn.nintendo.net/i/382b51bfa82b9ec040f52eca0f4a65acf52356af6e433fd29833c9d8867b4525.jpg"
     ],
     "size": 39845888,
+    "version": null
+  },
+  "70010000074598": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b6c6afd3024d6e16947231a29b04017f99233cd18d336872e9d97ec8c88e5edb.jpg",
+    "category": [
+      "Adventure",
+      "Puzzle",
+      "Arcade",
+      "Platformer"
+    ],
+    "description": "Inspired By the Classics, Made for the 21st Century\nChallenging platform parkour inspired by classic SEGA games of the 90s - The Jungle Book, Aladdin, Lion King \u2013 but with modern twists and ideas. Platform parkour through the remains of humanity. Outwit evolved wildlife and dangerous hybrid flora. Crack environmental puzzles that keep you guessing. And stay one step ahead of the wicked humans who are pursuing you in a twisted apocalyptic safari hunt.\n\nThe Story of a Hunted Cub\nAfter the Great Ecological Catastrophe, the ultrarich flee to Mars and leave the rest to perish. But among them a small child who developed immunity to the hostile planet remains. Decades pass and those on Mars venture back to Earth to do recon. When they spot a small human child, The Cub, they immediately try to capture it. This sets off a journey of escape, exploration and discovery through the urban ruins of humanity coupled with frantic cat and mouse chases.\n\nThis World Tells Tales\nExplore the ruins of humanity after the Great Ecological Catastrophe wipes out most of the civilization and leaves our remains to be reclaimed by an evolved mother nature. The story and clues of how and why humanity fell is strewn throughout the world. Crumbling brutalist tower blocks and abandoned genetics labs. Depleted chemical mines and overgrown battlefields. Each level has a story to tell.\n\nThe Perfect Tunes to Keep You Company\nAccompanying you on the journey is Radio Nostalgia From Mars, a custom soundtrack that\u2019ll crash land into your psyche. Sink into thought-provoking survivor stories from the few ultrarich living on Mars, while a smooth-voiced radio DJ keeps the show moving with a collection of chill apocalypse-wave tunes.\n\nIf Looks Could Bring Back Memories\nMeticulously drawn and stylized to look like the classic animated films of the late 90s - Atlantis, Tarzan, Road to El Dorado - while also taking a page from Samurai Jack\u2019s creator Genndy Tartakovsky critically acclaimed series, Primal.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0c116fa5b54767b61bd1c9cd7870c33b6eff677195191cdd99cc46ce32832713.jpg",
+    "id": "0100D6501D73C000",
+    "intro": "The Jungle Book meets the armageddon.\n",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "fr",
+      "de"
+    ],
+    "name": "The Cub",
+    "nsuId": 70010000074598,
+    "numberOfPlayers": 1,
+    "publisher": "Untold Tales",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Coarse Language"
+    ],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/40aede9e5518e8851e62b323dcb6e7b70d9c4b72208398fcdd13c8cf0e15801d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/78379935c2b1b272bb6464aacd767fdd042e69a51f631fa56dadd75e59b09a45.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dd014b538ffa513d9e38b56df2cb58d068457ef7b0dc8801f858da4063e828f3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6aff0b38c1fcfdf2773d318749d6e2c12226e8a8a9fbf8fa326d278662ccc2e4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dfd7aaf6b7e6b543feaf0ab43014d8aae0a2c546db7d5c3e8b015efffe160f66.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2605d8fa85c7d0b9b4a0c884edd81312390d58158ed8b05b5fa5e90c133558ed.jpg"
+    ],
+    "size": 1281359872,
     "version": null
   },
   "70010000076246": {
@@ -2366,6 +2685,79 @@
     "rightsId": null,
     "screenshots": null,
     "size": 0,
+    "version": null
+  },
+  "70010000051840": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/79e1ce73d910dec229f123847afda531c29181fe741f556b770ca57ce4f86292.jpg",
+    "category": [
+      "Puzzle",
+      "Board Game",
+      "Lifestyle",
+      "Arcade"
+    ],
+    "description": "KUBIC is a NEW game like you've never seen it, or heard it, or felt it before\u2014an incredibly addictive, unique, and breathtakingly gorgeous puzzle games of all time.\nIn KUBIC, players complete circular rings by rotating and moving different falling color-shaped pieces (CUBES), which descend onto the playing field. The completed rings disappear and the player scores points, and the player can proceed to fill the vacated spaces. The game ends when the uncleared rings reach the top of the playing field. \n\nMusic, backgrounds, sounds, special effects\u2014everything, down to the effects in perfect sync with how you're playing, making the game something you'll want to experience over and over again. Challenge yourself by reaching the top of the leaderboard. Infinite hours of fun!\n\nHint: Aim for 4xCOMBOs to achieve the highest scores. ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6b6a67a1c9c4db944333b7e493145ba374c1bb4ce5f6c8b3083661b35d9193eb.jpg",
+    "id": "0100B23017E0A000",
+    "intro": "Can you beat the high scores?",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "KUBIC",
+    "nsuId": 70010000051840,
+    "numberOfPlayers": 1,
+    "publisher": "Max Interactive Studio",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/250861dd54e72a181ee3482287c2b46b6ff0252c40f558f2fc4ab267a071eecc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/689c624e21d8a229f229f98f642cd0f38e4e799fb8930e5005ccc1208d8c8751.jpg"
+    ],
+    "size": 121634816,
+    "version": null
+  },
+  "70010000075494": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20d358e53e6eae2e7227efb61812cc0d3302e990fa5913e98f9cd90dba4ca8ec.jpg",
+    "category": [
+      "Puzzle",
+      "Board Game",
+      "Arcade",
+      "Strategy"
+    ],
+    "description": "Game objective is to obtain high-score through dropping fruits into a container without having them overflow out of the container. \nTo earn points the player must combine two of the same fruits together, which creates a new fruit in the game's fruit cycle. \n\nThe goal of the game is to achieve a high score by strategically dropping fruits into a container without letting them overflow. Players earn points by successfully combining two identical fruits, resulting in the creation of a new fruit in the game's evolving fruit cycle. Skillful and efficient fruit combinations not only contribute to a higher score but also add a layer of strategic depth to the gameplay. Can you master the art of fruit pairing and reach the top of the leaderboard?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f6fa1bd10e6ed59e9b66162a27aa25b6c9905b7c5baef89d7f7aec327342d4ee.jpg",
+    "id": "010038501DB06000",
+    "intro": "Match Fruits to create bigger fruits",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Big Watermelon Match",
+    "nsuId": 70010000075494,
+    "numberOfPlayers": 1,
+    "publisher": "Max Interactive Studio",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/356e18549e72af0981f033d553534bd6d68bd0d4592c101e9dff63b1a495c354.jpg"
+    ],
+    "size": 112197632,
     "version": null
   },
   "70050000042851": {
