@@ -1,400 +1,4 @@
 {
-  "70010000073345": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ce7e71f2671db21466e36547aaf6a3825a89f85aba1a37db31544cf28a9fb304.jpg",
-    "category": [
-      "Arcade",
-      "Action",
-      "Puzzle",
-      "Party"
-    ],
-    "description": "Dive into the festive world of \"Christmas Bubble Puzzle,\" a delightful and captivating game that blends the excitement of bubble-popping challenges with the joy of the holiday season. Immerse yourself in a winter wonderland filled with cheerful decorations, snowflakes, and charming characters.\nEmbark on a merry adventure as you strategically aim and shoot colorful bubbles to create combinations and clear levels. With each successful burst, you'll uncover enchanting surprises, helping Santa and his friends prepare for the most magical day of the year. The game features a plethora of uniquely designed levels, each more challenging than the last, ensuring hours of engaging gameplay with 100 levels!\nGet ready for a cheerful soundtrack that complements the festive atmosphere, and enjoy the satisfying sound of popping bubbles as you progress through the game. \"Christmas Bubble Puzzle\" is the perfect companion for cozy winter evenings, providing a joyful gaming experience for players of all ages. Spread the holiday cheer and immerse yourself in this enchanting bubble-popping extravaganza!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f0967d8b90c8d72f58146db52a1de95f844ebfbc8963811f969b9be568053b09.jpg",
-    "id": "01002AC01D2F8000",
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "pt",
-      "es",
-      "fr",
-      "de",
-      "it",
-      "ko",
-      "zh"
-    ],
-    "name": "Christmas Bubble Puzzle",
-    "nsuId": 70010000073345,
-    "numberOfPlayers": 2,
-    "publisher": "RuWaMo Games",
-    "rating": 0,
-    "ratingContent": [
-      "General"
-    ],
-    "region": null,
-    "releaseDate": 20240101,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/5c1acabac78700ae8a604ba820c73e7b49db6482f673accced218d6670e72134.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/8084d9950e62dbc7a56ad9475f034f776d67d03339f9403c64a357cc532838b2.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/420a9fef83ba2a992c1039fe3ebfa9714d7e3451836d092e0e27c0620da3f87f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/f5c468d6c0acfa92667f84fe87522fe4de25ad5a445bd1f5ea97ef1baa6295bd.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e1c336c428cc69edf304ae1536d50d8bb668adb41957f60bd695a314af1f3f90.jpg"
-    ],
-    "size": 306184192,
-    "version": null
-  },
-  "70010000074295": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6984313ec050fa1fde671c339b3bb7dbef794299d581a0daa6e6e04a3c3f2c01.jpg",
-    "category": [
-      "Simulation",
-      "First-Person Shooter",
-      "Shooter",
-      "Action"
-    ],
-    "description": " Warzone Chronicles: Virtual Warfare Shooter immerses you in a gripping struggle for survival, where the only certainty is the ceaseless advance of the undead. The abandoned building, a desolate playground for the apocalypse, becomes the stage for your desperate struggle.\n   The map, though small, is a labyrinth of danger and opportunity. Weapons, carefully hidden in the shadows, become your lifeline as you face off against increasingly formidable waves of zombies. The thrill of discovery intertwines with the constant threat of the unknown, creating an atmosphere of suspense that keeps you on the edge of your seat.\n   The post-processing effects, reminiscent of a gritty VHS recording, immerse you in a world that feels both raw and authentic. The fish-eye lens adds a surreal touch, amplifying the tension as you navigate the narrow hallways and dimly lit rooms.\n   This short yet intense game delivers an unforgettable experience where every shot, every decision, and every narrow escape is etched into the annals of your own personal Warzone Chronicle. \nKey Features of Warzone Chronicles: Virtual Warfare Shooter:\n \u2022 Intense Survival Gameplay: Face relentless waves of zombies in a compact, abandoned building, requiring quick thinking and strategic movement.\n \u2022 Hidden Weapons: Uncover an arsenal of diverse weapons strategically placed throughout the map, each offering a unique advantage in the fight for survival.\n \u2022 Resource Management: Zombies drop health and ammo, forcing players to make tactical decisions on the fly to stay alive and keep the onslaught at bay.\n \u2022  Immersive Visuals: Experience the apocalypse through a nostalgic lens with VHS camera effects and a fish-eye perspective, adding a unique and gritty atmosphere.\n   How long can you survive in this nightmarish arena? The answer lies within the decaying walls of the abandoned building, waiting to be uncovered.\n",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/af8e0e4f0ce1aa648b252ace809e2c5b6864261391f3eec210000887b615a701.jpg",
-    "id": "010024101D628000",
-    "intro": "Survive the Unforgiving Horde: Uncover, Strategize, and Outlast!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Warzone Chronicles: Virtual Warfare Shooter",
-    "nsuId": 70010000074295,
-    "numberOfPlayers": 1,
-    "publisher": "SUCCESS GAMES",
-    "rating": 15,
-    "ratingContent": [
-      "Strong Violence"
-    ],
-    "region": null,
-    "releaseDate": 20240101,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/2c7bbace58df54327c8f76896444a79eb943546f162982a5d35b57d17ea46216.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/74e0516ee5dbee3392945a2a94dc818e0e9ebdd21586b29d67076fd6f42d398c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dd03fe40e1435b3df882816a0b08e2a01342628fab97984915fd8e43f95ad631.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/830d52acd119b1a4aae15fefd634b641644007242dd09d6e6094ddb54b36c07d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9d46dea6f4324b2d1ce6fe7a4683eddfef9abc4b7771b192e9752dd499580cc9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/1bc86c830ef7a4761a09725dcb9bec702a299989f8c1aef3a267c07699ada228.jpg"
-    ],
-    "size": 748683264,
-    "version": null
-  },
-  "70010000074471": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3734bbaf98f9649ed26c7e9b85a39773398cff280d66ced54e567e3bfbc80c1f.jpg",
-    "category": [
-      "Sports",
-      "Simulation",
-      "Arcade"
-    ],
-    "description": "Head to the golf course after a hard day at work, and meet three stunning business women: Yumiko, Narumi, Misa and show them how to become a master of the golf field.\n\n\nSHOW THEM HOW TO DO IT\nPick one of the available golf clubs, choose the direction, feel the wind and swing! Every single factor matters and can decide on your score. Prepare your tactic, check the surroundings and impress girls with your skills. \n\n\nDON\u2019T DISTRACT YOURSELF\nGirls will watch your every move and as you hit more holes they will feel more comfortable around you. Hopefully it won\u2019t make you lose your focus even for a second. Admire their suits and spend more time with them later in the game menu. \n\n\nAUTHENTIC MECHANICS\nAs every professional, you should use all the information given in order to become a good teacher. Check the direction of wind and its speed. Choose the correct golf club for the situation. Plan your route using minimap and many more!\n\nRemember to avoid tanks of water and use sand piles to stop your ball if necessary.\n\n\nKEY FEATURES:\n- Three amazing girls that will cheer you up after hard day at work\n- Classical golf gameplay\n- 40 maps with unique layouts\n- Energetic soundtrack",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7b1eab23de020dae5f344acf5c7c858280ca3199a4e31be25e5584e529c90d5a.jpg",
-    "id": "01009D801D6E4000",
-    "intro": "Experience the best date ever and become champion in golf with little help from beautiful girls!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "ko",
-      "zh"
-    ],
-    "name": "Hentai Golf",
-    "nsuId": 70010000074471,
-    "numberOfPlayers": 1,
-    "publisher": "RedDeer.Games",
-    "rating": 15,
-    "ratingContent": [
-      "Sexualised Imagery"
-    ],
-    "region": null,
-    "releaseDate": 20240101,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/9078849ee61d0dae33226aa2bd79e4e32482c4103973eee59f9908b6623a8cea.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/420ec65f9333ae4ce63979a7ce1c9ff2fedf78eeab4439e80775680bb3c41be1.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/85533a202b133ec2abd16312f6049145c9f0e84b67dcdb86e7df5e482f751012.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d5b1d50f614802b30f68dc738ba54a6677872e99fb76fca50eddaed8300a0770.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3e6137b8d59b73624c8ad519d211501063f5caa34c13d3d999e39f20564a2a75.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3037237443efdbb8a5613867379c84717e80b8804e90f4398f4a3432725bc28f.jpg"
-    ],
-    "size": 1603272704,
-    "version": null
-  },
-  "70010000075030": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b53eec1f42dbd082e822fe873d9d65915a4683aaeee37964c6e956535e014c42.jpg",
-    "category": [
-      "Simulation",
-      "Action"
-    ],
-    "description": "Experience the Thrill of the City Roads in City Bus Driver Simulator!\n\nGet ready to embark on a 3D low-poly adventure where you take the wheel as a skilled bus driver navigating the bustling streets of the city. In this immersive simulation game, you're not just a driver; you're the lifeline of the city, responsible for ferrying passengers to their destinations and making every journey a smooth ride.\n\nKey Features:\n-Diverse Bus Fleet: Start your journey with a basic bus and work your way up to a fleet of powerful and stylish buses. Use your hard-earned money wisely to upgrade your vehicles for enhanced performance and a touch of luxury.\n- Dynamic City Exploration: Explore a vibrant, open-world city filled with challenging routes, traffic scenarios, and diverse environments. Each neighborhood presents a unique set of challenges, keeping you on your toes and testing your driving skills.\n- Complete Tasks and Earn Rewards: Take on a variety of tasks and missions to earn rewards and advance in your career. The more passengers you transport, the more money you make. Use your earnings to unlock new buses and customize your driving experience.\n- Realistic Driving Simulation: Immerse yourself in the realistic driving physics and responsive controls. Feel the thrill of navigating through traffic, mastering tight turns, and responding to various road conditions.\n- Economic Strategy: Manage your earnings strategically. Invest in new buses, upgrade existing ones, and watch your fleet evolve. The better your buses, the more satisfied your passengers, and the higher your income.\n- Graphics and Sound: Enjoy the visually stunning low-poly art style that brings the city to life. The game's immersive sound effects and dynamic soundtrack enhance the overall gaming experience.\n\nAre you ready to become the ultimate City Bus Driver? Strap in, start your engine, and let the journey begin!\n\nCity Bus Driver Simulator \u2013 Where every ride is an adventure.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1fb5c846daf802fa1b35d6726a63a514862fea96f403062afffc7b64fe39ff6c.jpg",
-    "id": "0100A5B01D920000",
-    "intro": "Experience the Thrill of the City Roads in City Bus Driver Simulator!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "City Bus Driver Simulator",
-    "nsuId": 70010000075030,
-    "numberOfPlayers": 1,
-    "publisher": "DEMENCI Games",
-    "rating": 0,
-    "ratingContent": [
-      "General"
-    ],
-    "region": null,
-    "releaseDate": 20240101,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/348cbbb1b4d6b6af844806ddc657813b599cfd523b44db6b505f06204d8813ec.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3dbce65b091fed4e29bbbeecd778944d9d2f1e43fbec1b524dd1e0187e34b063.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/6690ae9cc3cde115e53a29dedce33daa90bf0fcc1e60773efc06f5cbd365a429.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/50a3f395c997f36852a32d09759b4f778c21fce21661f747e3684ac625ca2750.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/09e38591c32ac4947959213ff56b64cece766bb80642ee209ba4f8802a27d532.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d2c9ee19f328bf77e0739456a1e0e778ce8f8daec3a7e5c5aa9bd02f2bbb3467.jpg"
-    ],
-    "size": 385875968,
-    "version": null
-  },
-  "70050000045474": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/05757e11ef363148d48d7efaacd129e4cdb5efc9a0718079101d8953b199e84a.jpg",
-    "category": null,
-    "description": "Set off on adventure and try to complete special mission full of dangerous traps by collecting items scattered all across the map.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Join Kung in his challenge and check what he has prepared for you.",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Kung's Challenge",
-    "nsuId": 70050000045474,
-    "numberOfPlayers": null,
-    "publisher": "RedDeer.Games",
-    "rating": 0,
-    "ratingContent": [
-      "Very Mild Crude Humour"
-    ],
-    "region": null,
-    "releaseDate": 20240101,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/8c9466b1ca64179d84eebb5dd8c7888163baaa34a1a86a646c590c822dcc6294.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3320292280a10e79697c7bba7d36bb3146939e42d022fdf95379fa79eddabbe1.jpg"
-    ],
-    "size": 13631488,
-    "version": null
-  },
-  "70050000045625": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/90d1101617a5f8f1537cb4f3a689f39ff6765bb44ddb4be6b84ff62d156285b9.jpg",
-    "category": null,
-    "description": "Set off on adventure and try to complete special mission full of dangerous traps by collecting items scattered all across the map.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Join Boo in his challenge and check what he has prepared for you.",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Boo's Challenge",
-    "nsuId": 70050000045625,
-    "numberOfPlayers": null,
-    "publisher": "RedDeer.Games",
-    "rating": 0,
-    "ratingContent": [
-      "Very Mild Crude Humour"
-    ],
-    "region": null,
-    "releaseDate": 20240101,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/f139f22da73537a00427c0b1b30bd3743c6b430e104f367f31064c545181766b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/048202d54a5b3de1193af3c51b68a88ad4a4bfed19fefc35d7dcabac37a116fa.jpg"
-    ],
-    "size": 13631488,
-    "version": null
-  },
-  "70050000045631": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a21f8f406652499739b8a119beabded2b60f39338061edb9bbff5c39beb65c5f.jpg",
-    "category": null,
-    "description": "Set off on adventure and try to complete special mission full of dangerous traps by collecting items scattered all across the map.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Join Tary in her challenge and check what she has prepared for you.",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Tary's Challenge",
-    "nsuId": 70050000045631,
-    "numberOfPlayers": null,
-    "publisher": "RedDeer.Games",
-    "rating": 0,
-    "ratingContent": [
-      "Very Mild Crude Humour"
-    ],
-    "region": null,
-    "releaseDate": 20240101,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/26a9ce708ffa12cf785bf2d73e689f85ee90b750e94cf28c584802c80d426d4b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/8da89253d0d12a62bb2a95f4023c411c3e8d5dd2b48b009c8597611cb6357864.jpg"
-    ],
-    "size": 12582912,
-    "version": null
-  },
-  "70050000045632": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d511f420086b9941dfa3ca92833bea8159fa896d75a357fc36f08e179b4bb7a1.jpg",
-    "category": null,
-    "description": "Set off on adventure and try to complete special mission full of dangerous traps by collecting items scattered all across the map.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Join Ta in his challenge and check what he has prepared for you.",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Ta's Challenge",
-    "nsuId": 70050000045632,
-    "numberOfPlayers": null,
-    "publisher": "RedDeer.Games",
-    "rating": 0,
-    "ratingContent": [
-      "Very Mild Crude Humour"
-    ],
-    "region": null,
-    "releaseDate": 20240101,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a5bd4df508747360772310a8e683ea7e20637c2a1106f3a84474237c2082a506.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/22272a51399dd8bb0cc29933c6229c2c004f8272292362dd2a90ff7dd68f0c4c.jpg"
-    ],
-    "size": 13631488,
-    "version": null
-  },
-  "70050000045926": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6dd3482bbc764c6a658cda4a20545d8ba2b76ba120718a64b5ce50ec34a53b50.jpg",
-    "category": null,
-    "description": "Enjoy this pack featuring a collaboration of Sixtar Gate: STARTRAIL and Marvelous's WACCA!\n\nThis DLC includes a total of 8 songs, 4 gear skins, 1 note skin, and 1 original theme.\n\n< New Songs >\n1. Let you DIVE! - HARDCORE TANO*C & \u30a8\u30ea\u30b6\u30d9\u30b9(CV:\u5927\u897f\u6c99\u7e54)\n2. Chariot - USAO\n3. ONOMATO Pairing!!! - t+pazolite feat. \u306a\u306a\u3072\u3089\n4. with U - t+pazolite & Massive New Krew feat. \u30ea\u30ea\u30a3(CV:\u9752\u6728\u5fd7\u8cb4)\n5. Ouvert\u00fcre - USAO & DJ Genki feat. \u30eb\u30fc\u30f3(CV:\u6cb3\u702c\u8309\u5e0c)\n6. EPHMR - aran\n7. DUAL BREAKER XX - Srav3R vs Getty\n8. Invisible Frenzy - Kobaryo\n\n< Gear skin >\n1. WACCA S\n2. WACCA Lily\n3. WACCA Lily R\n4. WACCA Reverse\n\n< Note skin >\n1. WACCA\n\n< Theme >\n\"In Memory of WACCA\"\n- This theme is exclusive to the WACCA pack.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Sixtar Gate: STARTRAIL X WACCA Collaboration Pack",
-    "nsuId": 70050000045926,
-    "numberOfPlayers": null,
-    "publisher": "CFK",
-    "rating": 8,
-    "ratingContent": [
-      "Sexualised Imagery"
-    ],
-    "region": null,
-    "releaseDate": 20240101,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/d92f3c6844b3ac63a5c8f78cca93b6ec2edd6b606d1acec3cf3016f8f6eb186e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/75d7d978533f1154d14f29bcad401ae31fff878b8d273d9fdd8bb2a42750fcab.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/709059c075e4136042a7278f83c6c95615a8b34336f7639c69411a37376954e1.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ab473b60872d639a19bcfb0df7fa044bdf9d3926c107e3cba48fab5702fa2cc7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/777589699926552d0dab71761d6153376a93e274807015df211f219fec059808.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bc83c5c40bac89a5fc1de7d15f07b889e0c5a399c1c1de795729f457293d0d8f.jpg"
-    ],
-    "size": 493879296,
-    "version": null
-  },
-  "70070000019922": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cceff471937ce33b9c8b12fe198807f0819bdb61b04eec38d9277f8ee09de73c.jpg",
-    "category": null,
-    "description": "Saints Row\u00ae: The Third\u2122 - The Full Package gives you control of the Saints at the height of their power, and you live the life to show for it. \nPut the wildest chapter of the Saints Row saga in the palms of your hands for the first time on Nintendo Switch\u2122.  You bring the fight to Steelport, a sordid city of sin drowning in sex, drugs, and (a lot of) guns.  This is your City.  These are your rules.\n\nSaints Row IV\u00ae: Re-Elected\u2122: \nYou are the President of the United States of America, and you must save all of us on Earth.\nThe Boss of the Saints has been elected to the Presidency of the United States but the Saints are just getting started. ",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "The digital Saints Row\u00ae: The Big Purple Package bundle contains both Saints Row\u00ae: The Third\u2122 - The Full Package\u00a0 &\u00a0 Saints Row IV\u00ae: Re-Elected\u2122 including additional DLC packs.",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Saints Row\u00ae: The Big Purple Package",
-    "nsuId": 70070000019922,
-    "numberOfPlayers": null,
-    "publisher": "PLAION",
-    "rating": 15,
-    "ratingContent": [
-      "Gaming experience may change online",
-      "Strong violence",
-      "Online interactivity",
-      "Strong sexual and crime themes, violence and coarse language"
-    ],
-    "region": null,
-    "releaseDate": 20240101,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/1f99dbbf7fd7c725a1007480c71c48d741eaeb6a96c1678158f604cd26706fb4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a4d08eacedc1b0d2b2b3016376f6088e479c971f311b0f7702fd2fbafe9b8ce1.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/99e2a34d09c582f95fa159dcbe44eb39b6cd0bfb4bb7ea39e320fbc054475d6e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/1cd2040175088429a92b968ba763be3e7665352a87fa400a650086005afc5ef7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7661f8f5badd2e30c1cb715ebcd381f75beb9aa7ffc435a9d1b82a0be8398410.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/36285a01f1ac7ac4cc30ae2b33399fec0f06429f20d523d421e52a0eaea7bf34.jpg"
-    ],
-    "size": 16893607936,
-    "version": null
-  },
-  "70070000020190": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d867210cb956a04e0e38829fbaa677607ee5ce11c0cd0e887c5a01b85c793f33.jpg",
-    "category": null,
-    "description": "Meet your new golf buddies, grab a club, and embark on a hilariously absurd golfing journey through the most ridiculous places.\n\n\nSWAP BALLS FOR BANANAS, TEE OFF AND LET THE CRAZINESS BEGIN!\nIn Uzzuzzu\u2019s universe, everything can be a golf ball. Sausage, egg, tuna \u2013 everything you can think of\u2026 Check with Boo what other surprises are waiting for you, and be aware of the item shape, because every \u201cgolf ball\u201d bounces differently. \n\n\nMORE THAN AN ORDINARY GOLF ROUND\nYou won\u2019t experience only casual levels in this game. Running away from enormous basketball or defending your friends from danger as a hot dog. Not to mention traps on your way like falling crates, moving knives or even bursts of pressure.\n\n\nGO WITH THE FLOW\nAfter you complete a certain amount of levels, you will earn a badge. It allows you to track your progress, and make a step forward into collecting all the trophies! Kung will be proud if you can make your collection extra shiny.\n\nTest your skills in Kung's Challenge DLC added to this bundle.\n\nKEY FEATURES:\n- 4 well-known, adorable characters like Tary or Ta\n- Over 70 challenging levels to beat\n- 60 FPS on Nintendo Switch\u2122 console\n- Funky and twirky soundtrack\n- Lots of humor and funny scenarios",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Swing into action and tee off on the craziest golf course ever with Uzzuzzu pack! ",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Uzzuzzu My Pet - Golf Dash Deluxe Edition",
-    "nsuId": 70070000020190,
-    "numberOfPlayers": null,
-    "publisher": "RedDeer.Games",
-    "rating": 0,
-    "ratingContent": [
-      "Very Mild Crude Humour"
-    ],
-    "region": null,
-    "releaseDate": 20240101,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/5708f2a83c4ddda95b8ec213018845ef65cd01f692d5729062cb5ac0639e0b26.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ae6643ee6346c771eaf656e89329cef34a700a2b8f91ce2c05a48faae6720054.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/6bc8db59159e2132322635a1637b5912d0d6887c0519e1cf20ad3a31b84964ea.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4f2629d942c3b77ac8587543f99c317f093abdfef80711ab583026078f1288b1.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/50cb4fb344c50c6ae636760302b25a7bd2bc3f870a9027f0e3d2e192530aebf7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e9b9f0e9a5dbacb08895d5f2bdb5561942d5807e34dafa6c3ec062ed8603b403.jpg"
-    ],
-    "size": 2708471808,
-    "version": null
-  },
   "70010000066892": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a9627bead1934e0c4de1402b96898d05490137ea230393027542158d3250c30d.jpg",
     "category": [
@@ -715,6 +319,58 @@
       "https://img-eshop.cdn.nintendo.net/i/3821372d7871a76d0087e486ab2b8218762f27ee46e017aa8f20e107446d5594.jpg"
     ],
     "size": 60817408,
+    "version": null
+  },
+  "70010000072844": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/44c476855a44a0efa13acf01687784c06cfbb06209e9df2d12844d658ff2dc2a.jpg",
+    "category": [
+      "Platformer",
+      "Adventure",
+      "Action",
+      "Fighting"
+    ],
+    "description": "Gates of The Mind - is 2D Hardcore Platformer. Game should search you in reaction and ingenuity in boss fights and locations.\nEach Boss fight and Location have a phases where you must be accurate in your actions and contains non-linear solutions for opening gates of mind.\n\nFeatures:\n\u25cf Hardcore gamplay\n\u25cf Boss fights\n\u25cf Non-linear solutions\n\u25cf Full Controls supporting",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b69498640d18f145743c0159adb47e8310cf71ad9520e5c2d3addf488ce126e8.jpg",
+    "id": "01004A601D0E8000",
+    "intro": "The average Canadian logger Miles completed his day. On the way home, he is attacked by a bear and Miles loses consciousness.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "de",
+      "it",
+      "nl",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Gates of The Mind",
+    "nsuId": 70010000072844,
+    "numberOfPlayers": 1,
+    "publisher": "GaGa Games Studio",
+    "rating": 8,
+    "ratingContent": [
+      "Scary Scenes"
+    ],
+    "region": null,
+    "releaseDate": 20240107,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/67f9a83c9d839eba0db0b4033599fd4ba484ee24ad17f3d740f9953fd8d875a2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5b4bc2f6a2b2e652abe8b3171f42af982c07569fe755a9d536b7f4c53f84895e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/66c5197094ea763a1a71e47bc0165cc264312dec4d73adb1082713f74bbcc051.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fcc23979a58dbb620b25045babfe6aa42b1fd3fa9c64062b21725ae76c337b58.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/98ce136e3d113477f9927c24b5e4e981bd623104698913f2f9596dbeba8e7890.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/86c8c374e657a5ab4ba1397291d2e2f2caac81e0eef79f1cbaca77a061a73d30.jpg"
+    ],
+    "size": 348127232,
     "version": null
   },
   "70010000070209": {
