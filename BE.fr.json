@@ -1,43 +1,4 @@
 {
-  "70010000066892": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a9627bead1934e0c4de1402b96898d05490137ea230393027542158d3250c30d.jpg",
-    "category": [
-      "Simulation",
-      "Course",
-      "Action",
-      "Strat\u00e9gie"
-    ],
-    "description": "  Embarquez pour un voyage virtuel exaltant \u00e0 travers les vastes paysages de l'Am\u00e9rique avec \u00ab Truck Simulator 2024 - USA Driver Zone \u00bb. En naviguant dans le vaste monde virtuel, vous rencontrerez un large \u00e9ventail de missions et de t\u00e2ches en attente de votre engagement.\n    Principales caract\u00e9ristiques:\n\u2022 S\u00e9lection diversifi\u00e9e de camions : choisissez parmi une flotte de camions m\u00e9ticuleusement d\u00e9taill\u00e9s, chacun avec ses propres caract\u00e9ristiques et sa maniabilit\u00e9 uniques.\n\u2022 Exploration du monde ouvert : parcourez librement une carte du monde ouvert m\u00e9ticuleusement con\u00e7ue, inspir\u00e9e du magnifique paysage am\u00e9ricain.\n\u2022 Vari\u00e9t\u00e9 de missions : assumez une multitude de missions et de t\u00e2ches qui mettront vos comp\u00e9tences de conduite \u00e0 l'\u00e9preuve.\n\u2022 Des am\u00e9liorations \u00e0 profusion : am\u00e9liorez les performances de votre camion avec une gamme d'am\u00e9liorations, notamment des moteurs puissants, des transmissions avanc\u00e9es et des freins r\u00e9actifs.\n\u2022 Expansion commerciale : b\u00e2tissez votre empire du camionnage en investissant judicieusement dans votre flotte.\n\u2022 Physique r\u00e9aliste : d\u00e9couvrez la sensation authentique du camionnage avec une physique r\u00e9aliste qui r\u00e9pond \u00e0 chaque virage, acc\u00e9l\u00e9ration et freinage.\n        \"Truck Simulator 2024 - USA Driver Zone\" offre non seulement une exp\u00e9rience de jeu, mais aussi un voyage captivant dans le monde du camionnage longue distance. Attachez-vous, prenez la route et faites votre marque sur les autoroutes am\u00e9ricaines.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9c960d8a5d30298d769259943f292f54ff92e03ae2ee76611674fad833f12bd3.jpg",
-    "id": "0100D7E01B4EA000",
-    "intro": "Am\u00e9liorez votre voyage virtuel, partez \u00e0 la conqu\u00eate des routes ouvertes et construisez votre empire du camionnage au c\u0153ur de l'Am\u00e9rique, o\u00f9 chaque kilom\u00e8tre ",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Truck Simulator 2024 - USA Driver Zone",
-    "nsuId": 70010000066892,
-    "numberOfPlayers": 1,
-    "publisher": "SUCCESS GAMES",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240102,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/f2e385004041ca64e1f2f7d05c3441e18c2cddda6f954b8253e54264edbea2ab.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a9097319fdf6faf3a0452f93ca373adf9abde4f1cf6f75be2324eb538912416d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/726477617da21c7f4a64f09fd504fe7668edebd176cd276c7e8eb38e30b2694d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/8fce30df3a447b070486fabe13eab821f515ed058f706fd7347263bb68a06657.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/68849f30e2d761bb1ecb67ba561251fca72f0f150029083e94830bf91b122776.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cb56f9866f0a2f5a3fee8bb7c1ba1c05db7a85515889f36f9f08858c21ae80e3.jpg"
-    ],
-    "size": 720371712,
-    "version": null
-  },
   "70010000065866": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/be99b91f43bc5ff91f58056e50c65727c2a9f1ddc11570238d004f3bed0c4a97.jpg",
     "category": [
