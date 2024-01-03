@@ -1,4 +1,43 @@
 {
+  "70010000073374": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/abeb936783347732616a5b88de31b996adc59c58bc5295040e2d2aa6ab027ca7.jpg",
+    "category": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "description": "Sneak into the top-secret government facility to unveil the truths hidden from the public eye. Take your camera with you and capture photos of everything that looks suspicious.\n\n\nCONSPIRACY THEORIES\nIs the government watching us with robotic birds, or maybe the Earth is flat, and the aliens are already present in our lives? This place is full of conspiracy theories waiting to be revealed to society.\n\n\nSTRATEGIC GAMEPLAY\nAs you navigate through the labs, you will encounter guards, but they will move only when you do. Are they even humans? Don\u2019t let those reptilians see you and use every available cover to hide from their sight.\n\n\nKEY FEATURES:\n- 6 floors full of mysteries\n- Multiple ways to outsmart securities\n- Intriguing soundtrack",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c910ef0f358bcd5ced4c3389e4582a6e3cdc67bf63439458f675c2779667f8ff.jpg",
+    "id": "010086301D304000",
+    "intro": "Uncover the dirty secrets of the government and reveal the truth to the world.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "They Know",
+    "nsuId": 70010000073374,
+    "numberOfPlayers": 1,
+    "publisher": "RedDeer.Games",
+    "rating": 8,
+    "ratingContent": [
+      "Scary Scenes"
+    ],
+    "region": null,
+    "releaseDate": 20240104,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/973a7da1937fb5d22b024223ce2ec7574175eb97aa8d9d4772dc4d26ca61684e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/65fdbe2d2361d3096169b5c37e090bb967ee0274b340ba23e8f8844a7713c63b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c10fe90846bb03a9df94d6f57350a616b717b0b00578b57018991cc6a2035015.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/48e244795d83476e7dfe014a5540db831076ed015a59ac2742af023fd8202e65.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ffbb07e5cb83550769e54a00302102896ee2944f5eaa3c53539159a40894eee5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fd6e94ee79663d00d9bfb9169c5ae1c55424392203337d36cd1d188d5d031fd7.jpg"
+    ],
+    "size": 533725184,
+    "version": null
+  },
   "70010000065866": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/be99b91f43bc5ff91f58056e50c65727c2a9f1ddc11570238d004f3bed0c4a97.jpg",
     "category": [
@@ -2752,6 +2791,49 @@
       "https://img-eshop.cdn.nintendo.net/i/855841d28778f3a3bfd9803d4fc7f6a81aa3df9e3853c626d6c78575a4c8fd49.jpg"
     ],
     "size": 6194987008,
+    "version": null
+  },
+  "70010000071713": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/012acd242da52c5ab9555220c69d6cff93e7cc968d325b1f17bb676e79222d1f.jpg",
+    "category": [
+      "Platformer",
+      "Action",
+      "Adventure"
+    ],
+    "description": "The Dreamcutter, a mysterious scythe with an ulterior motive, promises alluring rewards and a chance at escape. But what strange dangers and exotic encounters will you find inside your own mind? Dreamcutter is an intense side-scrolling action platformer that blends visual novel CG scenes with macabre themes and sassy character dialogue. Along with your friend Lucia, you\u2019ll take the role of Haley as the pair navigate the darkest parts of Haley\u2019s subconscious.\n\nUse the Dream Combo to rack up points, collect coins to buy upgrades, reach higher platforms by sticking your scythe in walls, swing, grind, float and more! Plenty of seductive moments await in this dreamscape, but will you survive to remember them?\n\nFeatures:\n\n\u2022 Run, jump, slice and dice across side-scrolling platforming stages!\n\u2022 Use the enigmatic Dreamcutter scythe as both a weapon and a versatile tool.\n\u2022 Navigate the dark recesses of Haley\u2019s mind, filled with alluring surprises!\n\u2022 Engage in visual novel dialogue as the story progresses.\n\u2022 Unlock alluring CG scenes presented in 2D hand-drawn style.\n\u2022 Find a way for Haley and Lucia to escape the dream world!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/27ee0f283e83b95d1a81f3d568e071f69bd10bfd9b9062f16cebfe747ea3a03c.jpg",
+    "id": "010038701CD36000",
+    "intro": "Explore the darkest recesses of one girl\u2019s mind and wield the Dreamcutter to help her survive!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Dreamcutter",
+    "nsuId": 70010000071713,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 15,
+    "ratingContent": [
+      "Sexualised Imagery",
+      "Strong Nudity",
+      "Strong Sex Scenes",
+      "Strong Sexual References"
+    ],
+    "region": null,
+    "releaseDate": 20240202,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d1ebffe8a6d070930c235c1ff9fc65d44c9c17c9675eaca015da36d33b32fa64.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1fb342e507a9aeafd67fa6d58c1afd72a8402b3ee82522f1a3f66f199904c52f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/598adc9ca364011b46bd3b9e87d930f2b11817c5e952ae8f18ba02a15e8b4192.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a0d9cca5b01263d1c96f3a1ef188c236f1f25d66a8607a72e4ee1faa5fb16bcf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/522ef018d6078c67aa873e453fff1c600a4e06307de1ecba54e10f2cf87c49fc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aa477074efb63734737497e164710c96596967841a7ef2edd6d9a3ecfd1895b7.jpg"
+    ],
+    "size": 1219493888,
     "version": null
   },
   "70050000044684": {
