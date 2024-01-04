@@ -2769,6 +2769,49 @@
     "size": 6194987008,
     "version": null
   },
+  "70010000071713": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/012acd242da52c5ab9555220c69d6cff93e7cc968d325b1f17bb676e79222d1f.jpg",
+    "category": [
+      "Platformer",
+      "Action",
+      "Adventure"
+    ],
+    "description": "The Dreamcutter, a mysterious scythe with an ulterior motive, promises alluring rewards and a chance at escape. But what strange dangers and exotic encounters will you find inside your own mind? Dreamcutter is an intense side-scrolling action platformer that blends visual novel CG scenes with macabre themes and sassy character dialogue. Along with your friend Lucia, you\u2019ll take the role of Haley as the pair navigate the darkest parts of Haley\u2019s subconscious.\n\nUse the Dream Combo to rack up points, collect coins to buy upgrades, reach higher platforms by sticking your scythe in walls, swing, grind, float and more! Plenty of seductive moments await in this dreamscape, but will you survive to remember them?\n\nFeatures:\n\n\u2022 Run, jump, slice and dice across side-scrolling platforming stages!\n\u2022 Use the enigmatic Dreamcutter scythe as both a weapon and a versatile tool.\n\u2022 Navigate the dark recesses of Haley\u2019s mind, filled with alluring surprises!\n\u2022 Engage in visual novel dialogue as the story progresses.\n\u2022 Unlock alluring CG scenes presented in 2D hand-drawn style.\n\u2022 Find a way for Haley and Lucia to escape the dream world!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/27ee0f283e83b95d1a81f3d568e071f69bd10bfd9b9062f16cebfe747ea3a03c.jpg",
+    "id": "010038701CD36000",
+    "intro": "Explore the darkest recesses of one girl\u2019s mind and wield the Dreamcutter to help her survive!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Dreamcutter",
+    "nsuId": 70010000071713,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 16,
+    "ratingContent": [
+      "Sex",
+      "Strong Language",
+      "Strong Violence",
+      "Nudity"
+    ],
+    "region": null,
+    "releaseDate": 20240202,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d1ebffe8a6d070930c235c1ff9fc65d44c9c17c9675eaca015da36d33b32fa64.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1fb342e507a9aeafd67fa6d58c1afd72a8402b3ee82522f1a3f66f199904c52f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/598adc9ca364011b46bd3b9e87d930f2b11817c5e952ae8f18ba02a15e8b4192.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a0d9cca5b01263d1c96f3a1ef188c236f1f25d66a8607a72e4ee1faa5fb16bcf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/522ef018d6078c67aa873e453fff1c600a4e06307de1ecba54e10f2cf87c49fc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aa477074efb63734737497e164710c96596967841a7ef2edd6d9a3ecfd1895b7.jpg"
+    ],
+    "size": 1219493888,
+    "version": null
+  },
   "70050000044684": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b64db49a171f66fe0a5888ae8fbdc6413efd33436d49e9b9d59e822dc09f790.jpg",
     "category": null,

@@ -2769,6 +2769,49 @@
     "size": 6194987008,
     "version": null
   },
+  "70010000071713": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/012acd242da52c5ab9555220c69d6cff93e7cc968d325b1f17bb676e79222d1f.jpg",
+    "category": [
+      "Plataformas",
+      "A\u00e7\u00e3o",
+      "Aventura"
+    ],
+    "description": "A Dreamcutter \u00e9 uma foice misteriosa com inten\u00e7\u00f5es ocultas, mas promete recompensas e uma oportunidade de escapar. Mas que estranhos poderes e misteriosos encontros estar\u00e3o na tua pr\u00f3pria mente? Dreamcutter \u00e9 um intenso jogo de plataformas de a\u00e7\u00e3o com deslocamento lateral que combina sequ\u00eancias de romance ilustrado com temas macabros e di\u00e1logos irreverentes. Juntamente com a tua amiga Lucia, vais assumir o papel de Haley e navegar os lugares mais obscuros do seu subconsciente.\n\nUsa o Dream Combo para ganhar pontos, recolhe moedas para comprar melhorias, espeta a tua foice em paredes para alcan\u00e7ar plataformas mais altas, balan\u00e7a, desliza, flutua e muito mais! Aguardam-te imensos momentos sedutores neste lugar on\u00edrico, mas ser\u00e1 que vais conseguir sobreviver?\n\nCaracter\u00edsticas:\n\n\u2022 Corre, salta e corta em n\u00edveis de plataformas de deslocamento lateral!\n\u2022 Usa a enigm\u00e1tica foice Dreamcutter como arma e como ferramenta vers\u00e1til.\n\u2022 Percorre os recantos obscuros da mente de Haley, repleta de atraentes surpresas!\n\u2022 Envolve-te em di\u00e1logos ao estilo dos romances ilustrados enquanto a hist\u00f3ria se desenrola.\n\u2022 Desbloqueia fascinantes sequ\u00eancias apresentadas num estilo 2D desenhado \u00e0 m\u00e3o.\n\u2022 Descobre como Haley e Lucia podem escapar ao mundo dos sonhos!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/27ee0f283e83b95d1a81f3d568e071f69bd10bfd9b9062f16cebfe747ea3a03c.jpg",
+    "id": "010038701CD36000",
+    "intro": "Explora os lugares mais obscuros da mente de uma rapariga e usa a Dreamcutter para ajud\u00e1-la a sobreviver!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Dreamcutter",
+    "nsuId": 70010000071713,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 16,
+    "ratingContent": [
+      "Sexo",
+      "Linguagem Forte",
+      "Viol\u00eancia pesada",
+      "Nudez"
+    ],
+    "region": null,
+    "releaseDate": 20240202,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d1ebffe8a6d070930c235c1ff9fc65d44c9c17c9675eaca015da36d33b32fa64.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1fb342e507a9aeafd67fa6d58c1afd72a8402b3ee82522f1a3f66f199904c52f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/598adc9ca364011b46bd3b9e87d930f2b11817c5e952ae8f18ba02a15e8b4192.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a0d9cca5b01263d1c96f3a1ef188c236f1f25d66a8607a72e4ee1faa5fb16bcf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/522ef018d6078c67aa873e453fff1c600a4e06307de1ecba54e10f2cf87c49fc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aa477074efb63734737497e164710c96596967841a7ef2edd6d9a3ecfd1895b7.jpg"
+    ],
+    "size": 1219493888,
+    "version": null
+  },
   "70050000044684": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b64db49a171f66fe0a5888ae8fbdc6413efd33436d49e9b9d59e822dc09f790.jpg",
     "category": null,
