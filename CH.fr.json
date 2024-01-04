@@ -1,45 +1,4 @@
 {
-  "70010000065866": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/be99b91f43bc5ff91f58056e50c65727c2a9f1ddc11570238d004f3bed0c4a97.jpg",
-    "category": [
-      "FPS (tir en vue subjective)",
-      "Action",
-      "Aventure",
-      "Jeu de tir"
-    ],
-    "description": "Prenez le r\u00f4le du super espion Agent7 alors qu'il lutte contre le mal\u00e9fique S.C.U.M. !\n\nCaract\u00e9ristiques :\n-> FPS r\u00e9tro au gameplay rapide\n-> Humour parodique \n-> Des hordes d'ennemis \u00e0 combattre\n-> Un gameplay unique de Run and Gun\n-> S\u00e9quences d'actions en v\u00e9hicules\n-> Mods d'armes\n-> Jolis polygones pointus",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7b4319ade33b9e2349157a3204a89ae578d0017f121487caa878a66398140f64.jpg",
-    "id": "0100A8701AFE4000",
-    "intro": "The spy who shot me\u2122 est un FPS comique r\u00e9tro inspir\u00e9 des jeux de tir classiques des ann\u00e9es 90.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "The spy who shot me",
-    "nsuId": 70010000065866,
-    "numberOfPlayers": 1,
-    "publisher": "PixelHeart",
-    "rating": 7,
-    "ratingContent": [
-      "Violence mod\u00e9r\u00e9e"
-    ],
-    "region": null,
-    "releaseDate": 20240104,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a32e09952c43ee9f3bec489c6d07902c2855cf5649e43cd4387240c7fcac69ba.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/94615beeba7f254d695e9d12d8274cf909942d319f7e17ea81c05d183dd006bb.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d3077beca76ca290548158721fa9614cb4201bd88c6b49ca3a3909fd8ec8c0a5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/edf469dcc41f0fc25163657e947361a369a65a5ff355672461a5553188f56eea.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/00e8732870936424bf279b0a9cd3daae902156692de4210be78b1ec51e22dad9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b7a7ed6ee99d3f904c4743f34d294b8439c32d9adab51484338eb3b5ac1495a9.jpg"
-    ],
-    "size": 425721856,
-    "version": null
-  },
   "70010000071811": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b9773b3e97c08bf16c20b5df04eb83bd055702f70f75e24774182a1b4619f7d7.jpg",
     "category": [
@@ -1754,6 +1713,44 @@
     "size": 118489088,
     "version": null
   },
+  "70010000054312": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2bc7db7cf8fe63580ee4f71b01a2a15661a8529a6adcce359f3b3f4dd49859c6.jpg",
+    "category": [
+      "Aventure",
+      "Plateformes"
+    ],
+    "description": "A propos du jeu ;\n\nIl n'est pas facile d'\u00eatre un ver dans cette aventure \u00e0 d\u00e9filement lat\u00e9ral.\nApr\u00e8s vous \u00eatre \u00e9chapp\u00e9 de la bo\u00eete \u00e0 app\u00e2ts du p\u00eacheur, vous plongez dans le r\u00e9cif. L\u00e0, vous devez vous frayer un chemin tout en voyageant dans une bulle d'air respirable. \u00c9vitez les obstacles et explorez chaque niveau avec soin car il y a des objets cach\u00e9s qui sont essentiels pour retrouver la libert\u00e9.\n\nCaract\u00e9ristiques ;\n\n-Des \u00e9l\u00e9ments de difficult\u00e9 \u00e0 l'ancienne\n-Pr\u00e9cision des mouvements dans le jeu pour \u00e9viter les dangers\n-Course contre la montre\n-Suivez les indices pour d\u00e9couvrir les secrets\n-Superbes illustrations originales en 2D\n-Animation classique\n-Un jeu pour tous les \u00e2ges !\n\nAidez notre h\u00e9ros \u00e0 \u00e9chapper \u00e0 son \"destin de poisson!\"",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3b2f570cae79a0a2f820cc6a292c056cd803809506fadc1abc7758d078ade0ae.jpg",
+    "id": "01007690186AE000",
+    "intro": "Parcourez les dangers sous-marins du r\u00e9cif dans une bulle d'air. Mettez vos r\u00e9flexes \u00e0 l'\u00e9preuve en \u00e9vitant les obstacles et en explorant soigneusement chaque \u00e9tape. pour attraper les objets ",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Reef Escape",
+    "nsuId": 70010000054312,
+    "numberOfPlayers": 1,
+    "publisher": "Rochester Institute of Technology MAGIC Spell Studios",
+    "rating": 7,
+    "ratingContent": [
+      "Violence mod\u00e9r\u00e9e"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/c477a784a7c1c87c2c30624e02c30aaa1d63aa1063290594dd19ac855d965b84.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3ada57ab0ff5b89b8e072a5e18d7a45cbdb557181e969d9702884c8e1bb85211.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4dce4831b91fe10d3bb029efbd3d9c33f1209d82e05becda971a23406b32a76d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/16c6e32add7aa57e6f731f5a84ab993f218ffd147d55fa4312ea735284b78712.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/18a9e2b558e9dd6159891ee7e4ac7f058157deb20bc7c92960f3759f98fc4ed1.jpg"
+    ],
+    "size": 551550976,
+    "version": null
+  },
   "70010000057922": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a2cf8574961a349dc14f97c394d186ab1191b6e99682ddbe10fd4455c7197e1.jpg",
     "category": [
@@ -2770,6 +2767,49 @@
       "https://img-eshop.cdn.nintendo.net/i/855841d28778f3a3bfd9803d4fc7f6a81aa3df9e3853c626d6c78575a4c8fd49.jpg"
     ],
     "size": 6194987008,
+    "version": null
+  },
+  "70010000071713": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/012acd242da52c5ab9555220c69d6cff93e7cc968d325b1f17bb676e79222d1f.jpg",
+    "category": [
+      "Plateformes",
+      "Action",
+      "Aventure"
+    ],
+    "description": "La Dreamcutter, une myst\u00e9rieuse faux, promet de superbes r\u00e9compenses et une chance de s'\u00e9chapper, mais elle semble aussi avoir ses propres motivations cach\u00e9es. Quels dangers \u00e9tranges et exotiques allez-vous bien pouvoir trouver dans les confins de votre esprit\u00a0? Dreamcutter est un jeu d'action plateforme intense qui m\u00e9lange les sc\u00e8nes en images de synth\u00e8se des romans visuels \u00e0 des th\u00e8mes macabres et des dialogues exub\u00e9rants. Aux c\u00f4t\u00e9s de votre amie Lucia, vous incarnerez le r\u00f4le d'Haley pendant que le duo tentera de naviguer \u00e0 travers les recoins les plus sombres de l'inconscient d'Haley.\n\nUtilisez le Dream Combo pour engranger des points, collectionnez des pi\u00e8ces pour acheter des am\u00e9liorations et atteignez des plateformes difficiles d'acc\u00e8s en enfon\u00e7ant votre faux dans les murs. Maniez la faux, broyez, flottez et bien plus encore\u00a0! De nombreuses techniques de d\u00e9placements s\u00e9duisantes vous attendent dans ce monde onirique, mais parviendrez-vous \u00e0 survivre pour vous les rem\u00e9morer\u00a0?\n\nFonctionnalit\u00e9s\u00a0:\n\n\u2022 Courez, sautez et d\u00e9coupez pour vous tailler un chemin dans des niveaux plateforme \u00e0 d\u00e9filement lat\u00e9ral\u00a0!\n\u2022 Utilisez l'\u00e9nigmatique faux Dreamcutter comme une arme et comme outil \u00e0 tout \u00e0 faire.\n\u2022 Naviguez les plus sombres recoins de l'esprit d'Haley, regorgeant de charmantes surprises\u00a0!\n\u2022 Participez \u00e0 des dialogues de roman visuel pour faire progresser l'histoire.\n\u2022 D\u00e9bloquez des sc\u00e8nes s\u00e9duisantes en images de synth\u00e8se pr\u00e9sent\u00e9es en style 2D dessin\u00e9 \u00e0 la main.\n\u2022 Trouvez un moyen d'aider Haley et Lucia \u00e0 s'\u00e9chapper du monde des r\u00eaves\u00a0!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/27ee0f283e83b95d1a81f3d568e071f69bd10bfd9b9062f16cebfe747ea3a03c.jpg",
+    "id": "010038701CD36000",
+    "intro": "Explorez les sombres recoins de l'esprit d'une jeune fille et maniez sa Dreamcutter pour l'aider \u00e0 survivre\u00a0!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Dreamcutter",
+    "nsuId": 70010000071713,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 16,
+    "ratingContent": [
+      "Sexe",
+      "Langage ordurier",
+      "Violence explicite",
+      "Nudit\u00e9"
+    ],
+    "region": null,
+    "releaseDate": 20240202,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d1ebffe8a6d070930c235c1ff9fc65d44c9c17c9675eaca015da36d33b32fa64.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1fb342e507a9aeafd67fa6d58c1afd72a8402b3ee82522f1a3f66f199904c52f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/598adc9ca364011b46bd3b9e87d930f2b11817c5e952ae8f18ba02a15e8b4192.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a0d9cca5b01263d1c96f3a1ef188c236f1f25d66a8607a72e4ee1faa5fb16bcf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/522ef018d6078c67aa873e453fff1c600a4e06307de1ecba54e10f2cf87c49fc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aa477074efb63734737497e164710c96596967841a7ef2edd6d9a3ecfd1895b7.jpg"
+    ],
+    "size": 1219493888,
     "version": null
   },
   "70050000044684": {

@@ -1,45 +1,4 @@
 {
-  "70010000065866": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/be99b91f43bc5ff91f58056e50c65727c2a9f1ddc11570238d004f3bed0c4a97.jpg",
-    "category": [
-      "Acci\u00f3n en primera persona",
-      "Acci\u00f3n",
-      "Aventura",
-      "Disparos (Shooter)"
-    ],
-    "description": "The spy who shot me\u2122 is a comedy retro FPS inspired by classic shooters of the 90s.. Take the roll of super spy Agent7! As he fights against the evil S.C.U.M.\n\nFeatures :\n-> Retro fps style fast gameplay\n-> Spy/Parody humour\n-> Hordes of enemies to combat\n-> Unique run and gun gameplay\n-> Vehicle action\n-> Weapon Mods\n-> Lovely pointy polygons",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7b4319ade33b9e2349157a3204a89ae578d0017f121487caa878a66398140f64.jpg",
-    "id": "0100A8701AFE4000",
-    "intro": "The spy who shot me\u2122 is a comedy retro FPS inspired by classic shooters of the 90s.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "The spy who shot me",
-    "nsuId": 70010000065866,
-    "numberOfPlayers": 1,
-    "publisher": "PixelHeart",
-    "rating": 7,
-    "ratingContent": [
-      "Violencia leve"
-    ],
-    "region": null,
-    "releaseDate": 20240104,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a32e09952c43ee9f3bec489c6d07902c2855cf5649e43cd4387240c7fcac69ba.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/94615beeba7f254d695e9d12d8274cf909942d319f7e17ea81c05d183dd006bb.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d3077beca76ca290548158721fa9614cb4201bd88c6b49ca3a3909fd8ec8c0a5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/edf469dcc41f0fc25163657e947361a369a65a5ff355672461a5553188f56eea.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/00e8732870936424bf279b0a9cd3daae902156692de4210be78b1ec51e22dad9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b7a7ed6ee99d3f904c4743f34d294b8439c32d9adab51484338eb3b5ac1495a9.jpg"
-    ],
-    "size": 425721856,
-    "version": null
-  },
   "70010000071811": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b9773b3e97c08bf16c20b5df04eb83bd055702f70f75e24774182a1b4619f7d7.jpg",
     "category": [
@@ -1754,6 +1713,44 @@
     "size": 118489088,
     "version": null
   },
+  "70010000054312": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5f8f9605b94ad641786d72990b73c0efda13d6f64422aca21e2d8942d879a5d7.jpg",
+    "category": [
+      "Aventura",
+      "Plataformas"
+    ],
+    "description": "About the game;\n\nBeing a worm is not easy in this side-scrolling adventure.\nAfter having escaped from the fisherman\u2019s bait can, you plummet down into the reef. There you must make your way out while traveling in a breathable air bubble. Avoid obstacles and explore each level with care since there are hidden items that are essential to get to freedom.\n\nFeature;\n\n-Old-school difficulty elements\n-Precision in-game movement to avoid hazards\n-Race against time\n-Follow hints to uncover secrets\n-Stunning 2D original illustrations\n-Classical animation\n-Fun for all ages!\n\nHelp our hero escape his \"Fishy Fate!\"",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3b2f570cae79a0a2f820cc6a292c056cd803809506fadc1abc7758d078ade0ae.jpg",
+    "id": "01007690186AE000",
+    "intro": "Travel the underwater dangers of the reef in an air bubble. Test your reflexes as you avoid obstacles and carefully explore each stage, to grab items essential for clearing each level.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Reef Escape",
+    "nsuId": 70010000054312,
+    "numberOfPlayers": 1,
+    "publisher": "Rochester Institute of Technology MAGIC Spell Studios",
+    "rating": 7,
+    "ratingContent": [
+      "Violencia leve"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/c477a784a7c1c87c2c30624e02c30aaa1d63aa1063290594dd19ac855d965b84.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3ada57ab0ff5b89b8e072a5e18d7a45cbdb557181e969d9702884c8e1bb85211.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4dce4831b91fe10d3bb029efbd3d9c33f1209d82e05becda971a23406b32a76d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/16c6e32add7aa57e6f731f5a84ab993f218ffd147d55fa4312ea735284b78712.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/18a9e2b558e9dd6159891ee7e4ac7f058157deb20bc7c92960f3759f98fc4ed1.jpg"
+    ],
+    "size": 551550976,
+    "version": null
+  },
   "70010000057922": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a2cf8574961a349dc14f97c394d186ab1191b6e99682ddbe10fd4455c7197e1.jpg",
     "category": [
@@ -2770,6 +2767,49 @@
       "https://img-eshop.cdn.nintendo.net/i/855841d28778f3a3bfd9803d4fc7f6a81aa3df9e3853c626d6c78575a4c8fd49.jpg"
     ],
     "size": 6194987008,
+    "version": null
+  },
+  "70010000071713": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/012acd242da52c5ab9555220c69d6cff93e7cc968d325b1f17bb676e79222d1f.jpg",
+    "category": [
+      "Plataformas",
+      "Acci\u00f3n",
+      "Aventura"
+    ],
+    "description": "La Dreamcutter, una misteriosa guada\u00f1a con sus propias motivaciones, promete atractivas recompensas y la posibilidad de un escape. Pero \u00bfqu\u00e9 extra\u00f1os peligros y ex\u00f3ticos encuentros te esperan dentro de tu propia mente? Dreamcutter es un intenso juego de plataformas y acci\u00f3n de desplazamiento lateral que combina escenas CG y elementos de novela visual con temas macabros y atrevidos di\u00e1logos con distintos personajes. Prep\u00e1rate para recorrer las regiones m\u00e1s oscuras del subconsciente de Haley en compa\u00f1\u00eda de su amiga Luc\u00eda.\n\nUtiliza el Combo de Sue\u00f1os para sumar puntos, recoge monedas para comprar mejoras, clava tu guada\u00f1a en las paredes para alcanzar las plataformas m\u00e1s altas, balanc\u00e9ate, tritura, flota \u00a1y mucho m\u00e1s! En esta tierra de ensue\u00f1o te esperan muchos momentos seductores, pero \u00bfpodr\u00e1s sobrevivir para recordarlos?\n\nCaracter\u00edsticas:\n\n\u2022 \u00a1Corre, salta, y rebana enemigos a lo largo de niveles de plataformas de desplazamiento lateral!\n\u2022 Utiliza la enigm\u00e1tica guada\u00f1a Dreamcutter en su doble funci\u00f3n de arma y vers\u00e1til herramienta.\n\u2022 \u00a1Recorre los oscuros recovecos de la mente de Haley, llenos de atractivas sorpresas!\n\u2022 Interact\u00faa con otros personajes por medio de di\u00e1logos de novela visual a medida que se desarrolla la historia.\n\u2022 Desbloquea seductoras escenas con im\u00e1genes CG en 2D ilustradas a mano.\n\u2022 \u00a1Encuentra una forma en que Haley y Luc\u00eda puedan escapar de este mundo on\u00edrico!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/27ee0f283e83b95d1a81f3d568e071f69bd10bfd9b9062f16cebfe747ea3a03c.jpg",
+    "id": "010038701CD36000",
+    "intro": "\u00a1Explora los rincones m\u00e1s oscuros de la mente de una joven y usa la Dreamcutter para ayudarla a sobrevivir!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Dreamcutter",
+    "nsuId": 70010000071713,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 16,
+    "ratingContent": [
+      "Sexo",
+      "Lenguaje fuerte",
+      "Violencia fuerte",
+      "Desnudos"
+    ],
+    "region": null,
+    "releaseDate": 20240202,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d1ebffe8a6d070930c235c1ff9fc65d44c9c17c9675eaca015da36d33b32fa64.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1fb342e507a9aeafd67fa6d58c1afd72a8402b3ee82522f1a3f66f199904c52f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/598adc9ca364011b46bd3b9e87d930f2b11817c5e952ae8f18ba02a15e8b4192.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a0d9cca5b01263d1c96f3a1ef188c236f1f25d66a8607a72e4ee1faa5fb16bcf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/522ef018d6078c67aa873e453fff1c600a4e06307de1ecba54e10f2cf87c49fc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aa477074efb63734737497e164710c96596967841a7ef2edd6d9a3ecfd1895b7.jpg"
+    ],
+    "size": 1219493888,
     "version": null
   },
   "70050000044684": {

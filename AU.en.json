@@ -1,43 +1,4 @@
 {
-  "70010000073374": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/abeb936783347732616a5b88de31b996adc59c58bc5295040e2d2aa6ab027ca7.jpg",
-    "category": [
-      "Puzzle",
-      "Adventure"
-    ],
-    "description": "Sneak into the top-secret government facility to unveil the truths hidden from the public eye. Take your camera with you and capture photos of everything that looks suspicious.\n\n\nCONSPIRACY THEORIES\nIs the government watching us with robotic birds, or maybe the Earth is flat, and the aliens are already present in our lives? This place is full of conspiracy theories waiting to be revealed to society.\n\n\nSTRATEGIC GAMEPLAY\nAs you navigate through the labs, you will encounter guards, but they will move only when you do. Are they even humans? Don\u2019t let those reptilians see you and use every available cover to hide from their sight.\n\n\nKEY FEATURES:\n- 6 floors full of mysteries\n- Multiple ways to outsmart securities\n- Intriguing soundtrack",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c910ef0f358bcd5ced4c3389e4582a6e3cdc67bf63439458f675c2779667f8ff.jpg",
-    "id": "010086301D304000",
-    "intro": "Uncover the dirty secrets of the government and reveal the truth to the world.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "They Know",
-    "nsuId": 70010000073374,
-    "numberOfPlayers": 1,
-    "publisher": "RedDeer.Games",
-    "rating": 8,
-    "ratingContent": [
-      "Scary Scenes"
-    ],
-    "region": null,
-    "releaseDate": 20240104,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/973a7da1937fb5d22b024223ce2ec7574175eb97aa8d9d4772dc4d26ca61684e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/65fdbe2d2361d3096169b5c37e090bb967ee0274b340ba23e8f8844a7713c63b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c10fe90846bb03a9df94d6f57350a616b717b0b00578b57018991cc6a2035015.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/48e244795d83476e7dfe014a5540db831076ed015a59ac2742af023fd8202e65.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ffbb07e5cb83550769e54a00302102896ee2944f5eaa3c53539159a40894eee5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/fd6e94ee79663d00d9bfb9169c5ae1c55424392203337d36cd1d188d5d031fd7.jpg"
-    ],
-    "size": 533725184,
-    "version": null
-  },
   "70010000065866": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/be99b91f43bc5ff91f58056e50c65727c2a9f1ddc11570238d004f3bed0c4a97.jpg",
     "category": [
@@ -1800,6 +1761,44 @@
       "https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
     ],
     "size": 118489088,
+    "version": null
+  },
+  "70010000054312": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1bc8ce7865f0df35f6557d5c13a0a2889c2d02e9f7578e22723c48b3135fea41.jpg",
+    "category": [
+      "Adventure",
+      "Platformer"
+    ],
+    "description": "About the game;\n\nBeing a worm is not easy in this side-scrolling adventure.\nAfter having escaped from the fisherman\u2019s bait can, you plummet down into the reef. There you must make your way out while traveling in a breathable air bubble. Avoid obstacles and explore each level with care since there are hidden items that are essential to get to freedom.\n\nFeature;\n\n-Old-school difficulty elements\n-Precision in-game movement to avoid hazards\n-Race against time\n-Follow hints to uncover secrets\n-Stunning 2D original illustrations\n-Classical animation\n-Fun for all ages!\n\nHelp our hero escape his \"Fishy Fate!\"",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3b2f570cae79a0a2f820cc6a292c056cd803809506fadc1abc7758d078ade0ae.jpg",
+    "id": "01007690186AE000",
+    "intro": "Travel the underwater dangers of the reef in an air bubble. Test your reflexes as you avoid obstacles and carefully explore each stage, to grab items essential for clearing each level.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Reef Escape",
+    "nsuId": 70010000054312,
+    "numberOfPlayers": 1,
+    "publisher": "Rochester Institute of Technology MAGIC Spell Studios",
+    "rating": 8,
+    "ratingContent": [
+      "Scary Scenes"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/c477a784a7c1c87c2c30624e02c30aaa1d63aa1063290594dd19ac855d965b84.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3ada57ab0ff5b89b8e072a5e18d7a45cbdb557181e969d9702884c8e1bb85211.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4dce4831b91fe10d3bb029efbd3d9c33f1209d82e05becda971a23406b32a76d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/16c6e32add7aa57e6f731f5a84ab993f218ffd147d55fa4312ea735284b78712.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/18a9e2b558e9dd6159891ee7e4ac7f058157deb20bc7c92960f3759f98fc4ed1.jpg"
+    ],
+    "size": 551550976,
     "version": null
   },
   "70010000057922": {
