@@ -2673,6 +2673,53 @@
     "size": 121634816,
     "version": null
   },
+  "70010000073642": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d44c44010793ed5605e3e636ccd03457881ea489a12827c6beb6747fce705f22.jpg",
+    "category": [
+      "Aventure",
+      "Combat"
+    ],
+    "description": "Miniland Adventure est un jeu o\u00f9 vous pouvez faire tout ce que vous voulez ! Bien s\u00fbr, vous devrez toujours manger quelque chose de temps en temps, mais \u00e0 part cela, il n'y a aucune restriction !\n\nVous commencez avec une petite parcelle de terre, que vous pouvez agrandir avec le temps gr\u00e2ce aux tuiles de biome que vous recevez chaque jour.\nEn peu de temps, vous vous retrouverez dans une grande et jolie maison avec une ferme \u00e0 c\u00f4t\u00e9, en train de fabriquer de nouveaux outils et d'explorer des grottes.\nCR\u00c9ER LE MONDE\nChaque jour, vous recevez un lot de tuiles de biomes, que vous pouvez placer o\u00f9 vous voulez ! Il existe de nombreux biomes dans le jeu : for\u00eats, d\u00e9serts, prairies, terres enneig\u00e9es, savanes, hauts plateaux et bien d'autres encore !\n\nCOLLECTE DE RESSOURCES ET ARTISANAT\nTu peux collecter des tonnes de ressources en coupant des arbres, en minant des m\u00e9taux, en pillant des mobs et en fabriquant des tonnes d'autres objets !\n\nMINAGE ET FABRICATION DE NOUVEAUX OUTILS\nMontez dans les souterrains pour explorer les grottes sombres et extraire de pr\u00e9cieux mat\u00e9riaux ! Les meilleurs mat\u00e9riaux s'accompagnent de meilleurs outils : haches, pioches, \u00e9p\u00e9es, frondes, pinceaux et bien plus encore !\n\nCONSTRUCTION ET D\u00c9CORATION\nAvec diff\u00e9rents types de bois pour fabriquer des sols, des murs, des cl\u00f4tures et diverses d\u00e9corations, vous pouvez construire la maison de vos r\u00eaves et ses environs.\n\nAGRICULTURE\nAvez-vous d\u00e9j\u00e0 cultiv\u00e9 des brocolis, des asperges ou des radis ? Peut-\u00eatre avez-vous \u00e9lev\u00e9 des alpagas, des autruches ou chass\u00e9 des ratons laveurs ?\nQue vous l'ayez fait ou non, vous pouvez le faire dans Miniland Adventure !\n\nCOMBATTRE LES MONSTRES\nL'obscurit\u00e9 fait appara\u00eetre des monstres. Sauras-tu les combattre ou te contenter de lutter pour ta vie ?\n\nCOMMERCE AVEC LES GOBELINS\nVous trouverez des gobelins sans d\u00e9fense dans le monde entier. Construirez-vous des maisons pour eux afin d'acc\u00e9der \u00e0 des \u00e9changes profitables avec des objets uniques ?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b76bd04a4bc930c9bd13e4e64473786580a135d422f356c859bde0ec70409fd3.jpg",
+    "id": "010068401D418000",
+    "intro": "Miniland Adventure est un jeu o\u00f9 tu peux faire tout ce que tu veux !",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Miniland Adventure",
+    "nsuId": 70010000073642,
+    "numberOfPlayers": 1,
+    "publisher": "RockGame",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/65ca007cfa6556cbaa6fd8bfa5bf3d907c4f6c85d4df59d28adfbe75ba000ecd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7185432d323a10cbda3bb1923efee48851aa7f1d095b157838a7559214821dff.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2bb307a5f763a181594f3a81b6638c21f3e86b483fd773beeedcefdcc48a2ddb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/30040b6c232bea8375ee3efe4d73b1ba685f06075c96e5256cb77ac20a1d7f0a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/42d92fbee138cdcb4ce51626b9d8a892b5a408344326335f451f07550194b02d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7344356046c2efbeea212ee234d13df6a7fb3b2e111be99522fa7a0a9f3426dc.jpg"
+    ],
+    "size": 204472320,
+    "version": null
+  },
   "70010000075494": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20d358e53e6eae2e7227efb61812cc0d3302e990fa5913e98f9cd90dba4ca8ec.jpg",
     "category": [

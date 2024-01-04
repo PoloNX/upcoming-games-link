@@ -2683,6 +2683,53 @@
     "size": 121634816,
     "version": null
   },
+  "70010000073642": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d44c44010793ed5605e3e636ccd03457881ea489a12827c6beb6747fce705f22.jpg",
+    "category": [
+      "Adventure",
+      "Kampf"
+    ],
+    "description": "Miniland Adventure ist ein Spiel, in dem du alles tun kannst, was du willst! Nat\u00fcrlich musst du trotzdem von Zeit zu Zeit etwas essen, aber ansonsten gibt es keine Einschr\u00e4nkungen!\n\nDu beginnst mit einem kleinen St\u00fcck Land, das du mit der Zeit selbst mit Biome-Pl\u00e4ttchen, die du jeden Tag erh\u00e4ltst, erweitern kannst.\nIn k\u00fcrzester Zeit wirst du in einem gro\u00dfen und h\u00fcbschen Haus mit einem Bauernhof daneben wohnen, neue Werkzeuge herstellen und H\u00f6hlen erforschen.\nERSCHAFFUNG DER WELT\nJeden Tag erh\u00e4ltst du einen Haufen Biome-Pl\u00e4ttchen, die du \u00fcberall platzieren kannst, wo du willst! Es gibt mehrere Biome im Spiel, darunter: verschiedene W\u00e4lder, W\u00fcste, Grasland, Schneeland, Savanne, Hochland und mehr!\n\nSAMMELN VON ROHSTOFFEN UND BASTELN\nDu kannst tonnenweise Ressourcen sammeln, indem du B\u00e4ume f\u00e4llst, Metalle abbaust, Mobs pl\u00fcnderst und viele weitere Gegenst\u00e4nde herstellst!\n\nBERGBAU UND HERSTELLUNG VON NEUEN WERKZEUGEN\nSteige in den Untergrund hinab, um dunkle H\u00f6hlen zu erforschen und wertvolle Materialien abzubauen! Mit besseren Materialien kommen auch bessere Werkzeuge: \u00c4xte, Spitzhacken, Schwerter, Schleudern, Pinsel und mehr!\n\nBAUEN UND DEKORIEREN\nMit verschiedenen Holzarten, aus denen du B\u00f6den, W\u00e4nde, Z\u00e4une und verschiedene Dekorationen herstellen kannst, kannst du dein Traumhaus und die Umgebung bauen.\n\nBAUERNHOF\nHast du schon einmal Brokkoli, Spargel oder Radieschen angebaut? Vielleicht hast du Alpakas oder Strau\u00dfe gez\u00fcchtet oder Waschb\u00e4ren gejagt?\nOb du das getan hast oder nicht, du kannst es in Miniland Adventure!\n\nKAMPF MIT MONSTERN\nDie Dunkelheit bringt Ungeheuer mit sich. Wirst du in der Lage sein, sie zu bek\u00e4mpfen, oder wirst du nur um dein Leben k\u00e4mpfen?\n\nHANDEL MIT GOBLINS\nDu findest \u00fcberall auf der Welt wehrlose Kobolde. Wirst du f\u00fcr sie H\u00e4user bauen, um mit einzigartigen Gegenst\u00e4nden gewinnbringende Gesch\u00e4fte zu machen?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b76bd04a4bc930c9bd13e4e64473786580a135d422f356c859bde0ec70409fd3.jpg",
+    "id": "010068401D418000",
+    "intro": "Miniland Adventure ist ein Spiel, in dem du alles tun kannst, was du willst!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Miniland Adventure",
+    "nsuId": 70010000073642,
+    "numberOfPlayers": 1,
+    "publisher": "RockGame",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/65ca007cfa6556cbaa6fd8bfa5bf3d907c4f6c85d4df59d28adfbe75ba000ecd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7185432d323a10cbda3bb1923efee48851aa7f1d095b157838a7559214821dff.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2bb307a5f763a181594f3a81b6638c21f3e86b483fd773beeedcefdcc48a2ddb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/30040b6c232bea8375ee3efe4d73b1ba685f06075c96e5256cb77ac20a1d7f0a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/42d92fbee138cdcb4ce51626b9d8a892b5a408344326335f451f07550194b02d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7344356046c2efbeea212ee234d13df6a7fb3b2e111be99522fa7a0a9f3426dc.jpg"
+    ],
+    "size": 204472320,
+    "version": null
+  },
   "70010000075494": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20d358e53e6eae2e7227efb61812cc0d3302e990fa5913e98f9cd90dba4ca8ec.jpg",
     "category": [

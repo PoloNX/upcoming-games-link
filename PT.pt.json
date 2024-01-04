@@ -2673,6 +2673,53 @@
     "size": 121634816,
     "version": null
   },
+  "70010000073642": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d44c44010793ed5605e3e636ccd03457881ea489a12827c6beb6747fce705f22.jpg",
+    "category": [
+      "Aventura",
+      "Luta"
+    ],
+    "description": "Miniland Adventure \u00e9 um jogo em que podes fazer tudo o que quiseres! Claro que de vez em quando tens de comer alguma coisa, mas para al\u00e9m disso, n\u00e3o h\u00e1 restri\u00e7\u00f5es!\n\nCome\u00e7as com um pequeno peda\u00e7o de terra que, com o tempo, podes expandir com as pe\u00e7as dos biomas que recebes todos os dias.\nEm pouco tempo, estar\u00e1s numa casa grande e bonita com uma quinta ao lado, a fabricar novas ferramentas e a explorar grutas.\nCRIAR O MUNDO\nTodos os dias recebes um monte de biomas, que podes colocar onde quiseres! Existem v\u00e1rios biomas no jogo, incluindo: diferentes florestas, deserto, pradaria, terra de neve, savana, terras altas e muito mais!\n\nRECOLHA DE RECURSOS E CRIA\u00c7\u00c3O\nPodes recolher toneladas de recursos a partir do corte de \u00e1rvores, da extra\u00e7\u00e3o de metais, do saque de mobs, bem como da cria\u00e7\u00e3o de toneladas de outros itens!\n\nMINERA\u00c7\u00c3O E CRIA\u00c7\u00c3O DE NOVAS FERRAMENTAS\nSobe ao subsolo para explorar cavernas escuras e extrair materiais preciosos! Com melhores materiais v\u00eam melhores ferramentas: machados, picaretas, espadas, estilingues, pinc\u00e9is e muito mais!\n\nCONSTRUIR E DECORAR\nCom diferentes tipos de madeira para criar pisos, paredes, cercas e v\u00e1rias decora\u00e7\u00f5es, podes construir a casa dos teus sonhos e os arredores.\n\nAGRICULTURA\nJ\u00e1 alguma vez cultivaste br\u00f3colos, espargos ou rabanetes? Talvez tenhas criado alpacas, avestruzes ou perseguido guaxinins?\nQuer o tenhas feito ou n\u00e3o, podes faz\u00ea-lo em Miniland Adventure!\n\nLUTAR COM MONSTROS\nA escurid\u00e3o traz os monstros. Ser\u00e1s capaz de os enfrentar, ou apenas lutar\u00e1s pela tua vida?\n\nNEGOCIAR COM DUENDES\nEncontrar\u00e1s goblins indefesos por todo o mundo. Construir\u00e1s casas para eles para teres acesso a trocas lucrativas com itens \u00fanicos?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b76bd04a4bc930c9bd13e4e64473786580a135d422f356c859bde0ec70409fd3.jpg",
+    "id": "010068401D418000",
+    "intro": "Miniland Adventure \u00e9 um jogo onde podes fazer tudo o que quiseres!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Miniland Adventure",
+    "nsuId": 70010000073642,
+    "numberOfPlayers": 1,
+    "publisher": "RockGame",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/65ca007cfa6556cbaa6fd8bfa5bf3d907c4f6c85d4df59d28adfbe75ba000ecd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7185432d323a10cbda3bb1923efee48851aa7f1d095b157838a7559214821dff.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2bb307a5f763a181594f3a81b6638c21f3e86b483fd773beeedcefdcc48a2ddb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/30040b6c232bea8375ee3efe4d73b1ba685f06075c96e5256cb77ac20a1d7f0a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/42d92fbee138cdcb4ce51626b9d8a892b5a408344326335f451f07550194b02d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7344356046c2efbeea212ee234d13df6a7fb3b2e111be99522fa7a0a9f3426dc.jpg"
+    ],
+    "size": 204472320,
+    "version": null
+  },
   "70010000075494": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20d358e53e6eae2e7227efb61812cc0d3302e990fa5913e98f9cd90dba4ca8ec.jpg",
     "category": [

@@ -3110,6 +3110,55 @@
     "size": 121634816,
     "version": null
   },
+  "70010000073642": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d44c44010793ed5605e3e636ccd03457881ea489a12827c6beb6747fce705f22.jpg",
+    "category": [
+      "Adventure",
+      "Fighting"
+    ],
+    "description": "Miniland Adventure is a game where you can do anything you want to! Of course you will still need to eat something from time to time, but beside that, there are no restrictions!\n\nYou start with a small patch of land, that with time you can expand by yourself with biome tiles which you receive every day.\nIn no time, you will find yourself in a big and pretty house with a farm beside, crafting new tools and exploring caves.\nCREATING THE WORLD\nEveryday you receive a bunch of biome tiles, that you can place wherever you want! There are multiple biomes in the game, including: different forests, desert, grassland, snow land, savanna, highland and more!\n\nCOLLECTING RESOURCES AND CRAFTING\nYou can collect tons of resources from cutting trees, mining metals, looting mobs as well as crafting tons of more items!\n\nMINING AND CRAFTING NEW TOOLS\nAscend into the underground to explore dark caves and mine precious materials! With better materials comes better tools; axes, pickaxes, swords, slingshot, paintbrush and more!\n\nBUILDING AND DECORATING\nWith different types of wood to craft floors, walls, fences and various decorations, you can build your dream house and the surrounding.\n\nFARMING\nHave you ever grown a broccoli, asparagus or radishes? Maybe you were breeding alpacas, ostriches or chasing racoons?\nWhether you did or not, you can in Miniland Adventure!\n\nFIGHTING WITH MONSTERS\nThe darkness brings monsters. Will you be able to battle them, or you will just fight for your life?\n\nTRADING WITH GOBLINS\nYou'll find defenseless goblins around the world, will you build houses for them to access profitable trades with unique items?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b76bd04a4bc930c9bd13e4e64473786580a135d422f356c859bde0ec70409fd3.jpg",
+    "id": "010068401D418000",
+    "intro": "Miniland Adventure is a game where you can do anything you want to!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Miniland Adventure",
+    "nsuId": 70010000073642,
+    "numberOfPlayers": 1,
+    "publisher": "RockGame",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/65ca007cfa6556cbaa6fd8bfa5bf3d907c4f6c85d4df59d28adfbe75ba000ecd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7185432d323a10cbda3bb1923efee48851aa7f1d095b157838a7559214821dff.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2bb307a5f763a181594f3a81b6638c21f3e86b483fd773beeedcefdcc48a2ddb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/30040b6c232bea8375ee3efe4d73b1ba685f06075c96e5256cb77ac20a1d7f0a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/42d92fbee138cdcb4ce51626b9d8a892b5a408344326335f451f07550194b02d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7344356046c2efbeea212ee234d13df6a7fb3b2e111be99522fa7a0a9f3426dc.jpg"
+    ],
+    "size": 204472320,
+    "version": null
+  },
   "70010000075494": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20d358e53e6eae2e7227efb61812cc0d3302e990fa5913e98f9cd90dba4ca8ec.jpg",
     "category": [

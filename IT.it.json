@@ -2673,6 +2673,53 @@
     "size": 121634816,
     "version": null
   },
+  "70010000073642": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d44c44010793ed5605e3e636ccd03457881ea489a12827c6beb6747fce705f22.jpg",
+    "category": [
+      "Avventura",
+      "Picchiaduro"
+    ],
+    "description": "Miniland Adventure \u00e8 un gioco in cui si pu\u00f2 fare tutto ci\u00f2 che si vuole! Naturalmente dovrete mangiare qualcosa di tanto in tanto, ma a parte questo, non ci sono restrizioni!\n\nSi inizia con un piccolo pezzo di terra, che con il tempo si pu\u00f2 espandere da soli con le tessere bioma che si ricevono ogni giorno.\nIn poco tempo, vi ritroverete in una casa grande e graziosa con una fattoria accanto, a fabbricare nuovi strumenti e a esplorare grotte.\nCREARE IL MONDO\nOgni giorno si ricevono un mucchio di tessere bioma, che si possono posizionare dove si vuole! Ci sono diversi biomi nel gioco, tra cui: foreste diverse, deserto, praterie, terre innevate, savana, altipiani e altro ancora!\n\nRACCOLTA DI RISORSE E CRAFTING\n\u00c8 possibile raccogliere tonnellate di risorse tagliando alberi, estraendo metalli, saccheggiando i mob e creando tonnellate di altri oggetti!\n\nESTRAZIONE MINERARIA E CREAZIONE DI NUOVI STRUMENTI\nSalite nel sottosuolo per esplorare grotte oscure ed estrarre materiali preziosi! Con materiali migliori arrivano anche strumenti migliori: asce, picconi, spade, fionde, pennelli e altro ancora!\n\nCOSTRUIRE E DECORARE\nCon diversi tipi di legno per realizzare pavimenti, muri, recinzioni e decorazioni varie, potrete costruire la casa dei vostri sogni e l'ambiente circostante.\n\nCOLTIVAZIONE\nAvete mai coltivato broccoli, asparagi o ravanelli? Forse avete allevato alpaca, struzzi o dato la caccia ai procioni?\nChe l'abbiate fatto o meno, potete farlo in Miniland Adventure!\n\nCOMBATTERE CON I MOSTRI\nL'oscurit\u00e0 porta con s\u00e9 dei mostri. Riuscirete a combatterli o lotterete per la vostra vita?\n\nCOMMERCIARE CON I GOBLIN\nTroverete goblin indifesi in giro per il mondo, riuscirete a costruire case per loro per accedere a commerci redditizi con oggetti unici?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b76bd04a4bc930c9bd13e4e64473786580a135d422f356c859bde0ec70409fd3.jpg",
+    "id": "010068401D418000",
+    "intro": "Miniland Adventure \u00e8 un gioco in cui puoi fare tutto ci\u00f2 che vuoi!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Miniland Adventure",
+    "nsuId": 70010000073642,
+    "numberOfPlayers": 1,
+    "publisher": "RockGame",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/65ca007cfa6556cbaa6fd8bfa5bf3d907c4f6c85d4df59d28adfbe75ba000ecd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7185432d323a10cbda3bb1923efee48851aa7f1d095b157838a7559214821dff.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2bb307a5f763a181594f3a81b6638c21f3e86b483fd773beeedcefdcc48a2ddb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/30040b6c232bea8375ee3efe4d73b1ba685f06075c96e5256cb77ac20a1d7f0a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/42d92fbee138cdcb4ce51626b9d8a892b5a408344326335f451f07550194b02d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7344356046c2efbeea212ee234d13df6a7fb3b2e111be99522fa7a0a9f3426dc.jpg"
+    ],
+    "size": 204472320,
+    "version": null
+  },
   "70010000075494": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20d358e53e6eae2e7227efb61812cc0d3302e990fa5913e98f9cd90dba4ca8ec.jpg",
     "category": [

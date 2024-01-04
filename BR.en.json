@@ -1224,6 +1224,47 @@
     "size": 1249902592,
     "version": null
   },
+  "70010000072690": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c8a8fa1c01fac263fee1bf50a17c0f239e7b79cb5f543fa6ca11fa4125479336.jpg",
+    "category": [
+      "Racing",
+      "Arcade",
+      "Simulation",
+      "Sports"
+    ],
+    "description": "Are you ready for the fastest and most exciting races of your life? Defy gravity! In this game you will go through incredibly dangerous tracks full of various obstacles.\n\nChoose the best car from a wide variety of cars that are available in your garage. Beautiful and cool sports cars will highlight your passion for racing at high speed.\n\nAvoid obstacles and try to keep the maximum speed on the entire track. Each track has its own unique obstacles. Show your best driving skills and reach the finish line first!\n\nWin races, set new records and fill your garage with the coolest cars that will help you become a real king on the descent!\n\nGAME FEATURES:\n\u2022 Excellent warm-up for dexterity and attentiveness;\n\u2022 Lots of tracks with varying difficulty;\n\u2022 Large garage of powerful cars;\n\u2022 Addictive gameplay for all ages;\n\u2022 Management with the Joy-Con\u2122\ufe0f controllers;",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/822e79d1b5fb2cd857030baab99ad25fcf240195806d811257fad3586922f305.jpg",
+    "id": "010005C01D05A000",
+    "intro": "Xtreme downhill racing on dangerous tracks in powerful sports cars - set new records and take first place, racer!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "ru"
+    ],
+    "name": "Downhill Driver: Extreme Racing Simulator",
+    "nsuId": 70010000072690,
+    "numberOfPlayers": 1,
+    "publisher": "Megame",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/b146b0f4cc70ba06d2925566d2a2b360d3135b92dd3a4ffd19c25ec0d5f8a4c5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3a642515a3452d2d66f891324c3238a8f6a093dafc1fa503fb9739d681497bfb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bdc16e3342ac7f468d3aa719d60d64bf4bf10f5efe65f30a1c019be5c82b28db.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bc8265d8ea97d85ba3a5face116ac637e9bc75a7b90fd2086be6a68680cecd4f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f66feea4f8bfaaae32149339a407aeae2c682471de65fc27e5d4625a4a2e0533.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4f80e47cb05463ff2dbd7b33e7b4cd9e0932f83dc85dc4312199b0528408b44a.jpg"
+    ],
+    "size": 442499072,
+    "version": null
+  },
   "70010000072830": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/795d42053917ea10af205eaeee3e8d96769b84bb4de1e8bb5e23a45f499e892d.jpg",
     "category": [
@@ -2145,6 +2186,53 @@
     "size": 50331648,
     "version": null
   },
+  "70010000073641": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d44c44010793ed5605e3e636ccd03457881ea489a12827c6beb6747fce705f22.jpg",
+    "category": [
+      "Adventure",
+      "Simulation"
+    ],
+    "description": "Miniland Adventure is a game where you can do anything you want to! Of course you will still need to eat something from time to time, but beside that, there are no restrictions!\n\nYou start with a small patch of land, that with time you can expand by yourself with biome tiles which you receive every day.\nIn no time, you will find yourself in a big and pretty house with a farm beside, crafting new tools and exploring caves.\nCREATING THE WORLD\nEveryday you receive a bunch of biome tiles, that you can place wherever you want! There are multiple biomes in the game, including: different forests, desert, grassland, snow land, savanna, highland and more!\n\nCOLLECTING RESOURCES AND CRAFTING\nYou can collect tons of resources from cutting trees, mining metals, looting mobs as well as crafting tons of more items!\n\nMINING AND CRAFTING NEW TOOLS\nAscend into the underground to explore dark caves and mine precious materials! With better materials comes better tools; axes, pickaxes, swords, slingshot, paintbrush and more!\n\nBUILDING AND DECORATING\nWith different types of wood to craft floors, walls, fences and various decorations, you can build your dream house and the surrounding.\n\nFARMING\nHave you ever grown a broccoli, asparagus or radishes? Maybe you were breeding alpacas, ostriches or chasing racoons?\nWhether you did or not, you can in Miniland Adventure!\n\nFIGHTING WITH MONSTERS\nThe darkness brings monsters. Will you be able to battle them, or you will just fight for your life?\n\nTRADING WITH GOBLINS\nYou'll find defenseless goblins around the world, will you build houses for them to access profitable trades with unique items?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b76bd04a4bc930c9bd13e4e64473786580a135d422f356c859bde0ec70409fd3.jpg",
+    "id": "010068401D418000",
+    "intro": "Miniland Adventure is a game where you can do anything you want to!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Miniland Adventure",
+    "nsuId": 70010000073641,
+    "numberOfPlayers": 1,
+    "publisher": "RockGame",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/65ca007cfa6556cbaa6fd8bfa5bf3d907c4f6c85d4df59d28adfbe75ba000ecd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7185432d323a10cbda3bb1923efee48851aa7f1d095b157838a7559214821dff.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2bb307a5f763a181594f3a81b6638c21f3e86b483fd773beeedcefdcc48a2ddb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/30040b6c232bea8375ee3efe4d73b1ba685f06075c96e5256cb77ac20a1d7f0a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/42d92fbee138cdcb4ce51626b9d8a892b5a408344326335f451f07550194b02d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7344356046c2efbeea212ee234d13df6a7fb3b2e111be99522fa7a0a9f3426dc.jpg"
+    ],
+    "size": 204472320,
+    "version": null
+  },
   "70010000075493": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20d358e53e6eae2e7227efb61812cc0d3302e990fa5913e98f9cd90dba4ca8ec.jpg",
     "category": [
@@ -2486,6 +2574,47 @@
     "size": 3145728,
     "version": null
   },
+  "70010000070785": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/17fbded4e82a9ccf380ece1307c22889c85f30831dd02af8881b5e2b33804f28.jpg",
+    "category": [
+      "Simulation",
+      "Arcade",
+      "Racing",
+      "Training"
+    ],
+    "description": "Get behind the wheel of a police car and complete tasks in the city parking!\n\nYou will find many different tasks with increasing difficulty. Park your car in a free space? Easily! Parallel parking? Already more difficult. Improve your driving skills and mindfulness skills, and our realistic driving physics and sophisticated controls will help you solve problems.\n\nDo not forget the most important rule - mindfulness behind the wheel. You will succeed!\n\nGAME FEATURES:\n\u2022 Realistic driving physics;\n\u2022 Lots of levels with different difficulty;\n\u2022 Huge selection of various police transport;\n\u2022 Management with the Joy-Con\u2122\ufe0f controllers;\n\u2022 Atmospheric ambient sounds;",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cb2e53825cf865bbcf4a65edda37be60f8dd3d48d9ddf660762bcda49c5d495f.jpg",
+    "id": "0100E7B01C738000",
+    "intro": "Brand new realistic police transport driving simulator in which you will experience many different cop vehicles in the parking!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "ru"
+    ],
+    "name": "Police Car Driver: City Parking Simulator",
+    "nsuId": 70010000070785,
+    "numberOfPlayers": 1,
+    "publisher": "Megame",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240208,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/86ed68829fbe56a1c4d77d9baec8507eb06ccbd8367a6c6fec9358e19acbaaa8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/adc35e4cf0a6116848f3164a5f2c09683995ee0e7a77b445d17b9b1e1bd94991.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e8877f51d9fb72859752f799609c8d1f7c8cd4c9800f34aee3546e2db956c20a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/407f0050ddf2a7ccc8eabecc6acd55dbd5df307834fa95b7dd51137c4ddbec63.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a2c108a57638fc6fe60306eae58736ce1495d1fe7b833fbb2df8f729f155b1a3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d8dcd2a4dc4c0e5b57383412a724ebcb5e68ab95ed11e70b88388f1eead48870.jpg"
+    ],
+    "size": 609222656,
+    "version": null
+  },
   "70010000070962": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f6286cd76a88a7f6382205fd21996c674fddea2c925a01c70dc67079b5aa0935.jpg",
     "category": [
@@ -2621,6 +2750,46 @@
       "https://img-eshop.cdn.nintendo.net/i/2013387161c44b5ce6a0fab688b89dd866d8995352aebea9ef678caf3eb6459b.jpg"
     ],
     "size": 1104150528,
+    "version": null
+  },
+  "70010000068315": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa4ee109ff4ea4fa88c2fa1c997e8180745202f2163388db889f7594a76eb57d.jpg",
+    "category": [
+      "Adventure"
+    ],
+    "description": "The latest installment in the Spirit Hunter series.\nSpirit Hunter: Death Mark II is a suspense-horror game set at a prestigious academy.\n\nWhen rumors circulate about supernatural occurrences at the famed Konoehara Academy in Tokyo\u2019s H City, it\u2019s up to the head of the Kujou family, also known as the \u201cSpirit Doctor,\u201d to take on the case.\n\nNotices that announce people\u2019s deaths, and students who aren\u2019t what they seem. Through your investigation, it appears that a spirit called \u201cThe Departed\u201d is the mastermind behind it all, and it looks like it wants something from you...\n\nThis entry introduces a new side-scrolling function when traveling across different locations. Combined with the first-person perspective during investigations, the Spirit Hunter experience is more immersive and terrifying than ever.\n\nThe partnering system has also been enhanced. The success rate of your actions during \u201cSuspensive Acts\u201d change depending on your partner of choice, further elevating the elements of suspense in this installment.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c96fd4e68ba71c1dc98533ddd086451f30733c1995d967fc77b5b7554397fd41.jpg",
+    "id": "0100C8A01BB2A000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Spirit Hunter: Death Mark II",
+    "nsuId": 70010000068315,
+    "numberOfPlayers": 1,
+    "publisher": "Aksys Games",
+    "rating": 18,
+    "ratingContent": [
+      "Viol\u00eancia Extrema",
+      "Conte\u00fado Sexual",
+      "Drogas"
+    ],
+    "region": null,
+    "releaseDate": 20240215,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a9a838b21b65da3337efa355f663476ced5a1feb2fea7a1f459e8217505304d9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/14911e30af1384e4c2dc6269f7052070386ee2e4d98de842a34b8aa84c811d50.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a0783c191f171af9a5731c0942027d52949f362856d2624bd9bc5f8aa527da34.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cb86e4b951fa64f108354805fa734919f4f27ecec753102db49adf2def951974.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e4e86377e64a90e9ece920c78968bd5345a5183c2d505d97fe5a6e50156871c2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/51a1d436abe54cd78156309c73bf63a8b060af79c555ac8df728b157855b5fdb.jpg"
+    ],
+    "size": 2984247296,
     "version": null
   },
   "70050000043321": {
