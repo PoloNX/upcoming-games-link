@@ -2466,6 +2466,44 @@
     "size": 1021313024,
     "version": null
   },
+  "70010000076588": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b99571bfae227b7f8da3dd4fbb2d2e35ed4bd120fdd97172e730968fe57da75.jpg",
+    "category": [
+      "Puzzelspel",
+      "Actiespel",
+      "Strategiespel"
+    ],
+    "description": "The classic puzzle game from 1989 returns, with over 140 levels to tax your mind and fingers.\n\nTake on the role of puzzle-obsessed Chip, who desperately wants to join Melinda the Mental Marvel's computer club. His initiation test is a series of increasingly difficult puzzles. Chip must collect items, slide blocks, dodge hazards and more to collect the computer chips needed to pass each level. Are you up to the Challenge?\n\nThis collection allows you to play these classic games with many modern features, including:\n\u2022 Display filters, including retro LCD and CRT filters\n\u2022 Save games - save and restore your game at any point\n\u2022 Right- and left-handed control presets",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2090d9b24ad6587779502b0e1c6d71debfef9b77f1ad731bc4d646eb24594c29.jpg",
+    "id": "010096201DE50000",
+    "intro": "Over 140 brain-busting puzzle levels!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Chip's Challenge",
+    "nsuId": 70010000076588,
+    "numberOfPlayers": 1,
+    "publisher": "Pixel Games UK",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/00a852de3ac14915e0642b1baff372bdee08149c6d4c53670971987e6fed5bf9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b11763bc8f754fed899cdbc2d8981a715542b3d3700b9ac151fea3d2dfb50567.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/90da781a42ec7b31c816f054e6303c069ddca3fbfc31078b0425c1c124355e08.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e29c6aef3969cdf4c561c9cd87b9736b25cb5353096706ea13d57def4f7d8390.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/45f872a653efe5008de6b269fff7d40cafa4529c7cca5a8bec062bce056979fe.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cb8171b3425576769ccca148e1ff9465d43015792cf92cb2236f3ee0f08c344d.jpg"
+    ],
+    "size": 136314880,
+    "version": null
+  },
   "70050000045349": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/733295bb19fd0e1b6d6a52ac1206e1a86a65562305eb8d6599154726c4c2b774.jpg",
     "category": null,

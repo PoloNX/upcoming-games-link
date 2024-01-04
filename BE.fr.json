@@ -2466,6 +2466,44 @@
     "size": 1021313024,
     "version": null
   },
+  "70010000076588": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b99571bfae227b7f8da3dd4fbb2d2e35ed4bd120fdd97172e730968fe57da75.jpg",
+    "category": [
+      "R\u00e9flexion",
+      "Action",
+      "Strat\u00e9gie"
+    ],
+    "description": "Le jeu de r\u00e9flexion classique de 1989 est de retour, avec plus de 140 niveaux qui mettront votre esprit et vos doigts \u00e0 rude \u00e9preuve.\n\nIncarnez Chip, obs\u00e9d\u00e9 par les \u00e9nigmes, qui veut d\u00e9sesp\u00e9r\u00e9ment rejoindre le club informatique de Melinda la Merveille Mentale. Son \u00e9preuve d'initiation consiste en une s\u00e9rie d\u2019\u00e9nigmes de plus en plus difficiles. Chip doit collecter des objets, faire glisser des blocs, \u00e9viter les dangers et bien plus encore pour collecter les puces informatiques n\u00e9cessaires pour passer chaque niveau. \u00cates-vous pr\u00eat \u00e0 relever le d\u00e9fi ?\n\nCette collection vous permet de jouer \u00e0 ces jeux classiques avec de nombreuses fonctionnalit\u00e9s modernes, notamment :\n\u2022\u00a0Filtres d'affichage, y compris des filtres r\u00e9tro LCD et CRT\n\u2022\u00a0Sauvegarde des parties\u00a0: sauvegardez et restaurez votre partie \u00e0 n'importe quel moment\n\u2022\u00a0Pr\u00e9r\u00e9glages de contr\u00f4le pour droitiers et gauchers",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2090d9b24ad6587779502b0e1c6d71debfef9b77f1ad731bc4d646eb24594c29.jpg",
+    "id": "010096201DE50000",
+    "intro": "Plus de 140 niveaux de casse-t\u00eate !",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Chip's Challenge",
+    "nsuId": 70010000076588,
+    "numberOfPlayers": 1,
+    "publisher": "Pixel Games UK",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/00a852de3ac14915e0642b1baff372bdee08149c6d4c53670971987e6fed5bf9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b11763bc8f754fed899cdbc2d8981a715542b3d3700b9ac151fea3d2dfb50567.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/90da781a42ec7b31c816f054e6303c069ddca3fbfc31078b0425c1c124355e08.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e29c6aef3969cdf4c561c9cd87b9736b25cb5353096706ea13d57def4f7d8390.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/45f872a653efe5008de6b269fff7d40cafa4529c7cca5a8bec062bce056979fe.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cb8171b3425576769ccca148e1ff9465d43015792cf92cb2236f3ee0f08c344d.jpg"
+    ],
+    "size": 136314880,
+    "version": null
+  },
   "70050000045349": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/733295bb19fd0e1b6d6a52ac1206e1a86a65562305eb8d6599154726c4c2b774.jpg",
     "category": null,
