@@ -2317,6 +2317,50 @@
     "size": 6193938432,
     "version": null
   },
+  "70010000071712": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a261e5a96545e144dbbaea6a69ab6192bca2bd6a287b0ca914800a7fc010ed24.jpg",
+    "category": [
+      "Jeu de plateformes",
+      "Action",
+      "Aventure"
+    ],
+    "description": "La Dreamcutter, une myst\u00e9rieuse faux, promet de superbes r\u00e9compenses et une chance de s'\u00e9chapper, mais elle semble aussi avoir ses propres motivations cach\u00e9es. Quels dangers \u00e9tranges et exotiques allez-vous bien pouvoir trouver dans les confins de votre esprit\u00a0? Dreamcutter est un jeu d'action plateforme intense qui m\u00e9lange les sc\u00e8nes en images de synth\u00e8se des romans visuels \u00e0 des th\u00e8mes macabres et des dialogues exub\u00e9rants. Aux c\u00f4t\u00e9s de votre amie Lucia, vous incarnerez le r\u00f4le d'Haley pendant que le duo tentera de naviguer \u00e0 travers les recoins les plus sombres de l'inconscient d'Haley.\n\nUtilisez le Dream Combo pour engranger des points, collectionnez des pi\u00e8ces pour acheter des am\u00e9liorations et atteignez des plateformes difficiles d'acc\u00e8s en enfon\u00e7ant votre faux dans les murs. Maniez la faux, broyez, flottez et bien plus encore\u00a0! De nombreuses techniques de d\u00e9placements s\u00e9duisantes vous attendent dans ce monde onirique, mais parviendrez-vous \u00e0 survivre pour vous les rem\u00e9morer\u00a0?\n\nFonctionnalit\u00e9s\u00a0:\n\n\u2022 Courez, sautez et d\u00e9coupez pour vous tailler un chemin dans des niveaux plateforme \u00e0 d\u00e9filement lat\u00e9ral\u00a0!\n\u2022 Utilisez l'\u00e9nigmatique faux Dreamcutter comme une arme et comme outil \u00e0 tout \u00e0 faire.\n\u2022 Naviguez les plus sombres recoins de l'esprit d'Haley, regorgeant de charmantes surprises\u00a0!\n\u2022 Participez \u00e0 des dialogues de roman visuel pour faire progresser l'histoire.\n\u2022 D\u00e9bloquez des sc\u00e8nes s\u00e9duisantes en images de synth\u00e8se pr\u00e9sent\u00e9es en style 2D dessin\u00e9 \u00e0 la main.\n\u2022 Trouvez un moyen d'aider Haley et Lucia \u00e0 s'\u00e9chapper du monde des r\u00eaves\u00a0!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/27ee0f283e83b95d1a81f3d568e071f69bd10bfd9b9062f16cebfe747ea3a03c.jpg",
+    "id": "010038701CD36000",
+    "intro": "Explorez les sombres recoins de l'esprit d'une jeune fille et maniez sa Dreamcutter pour l'aider \u00e0 survivre\u00a0!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Dreamcutter",
+    "nsuId": 70010000071712,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 17,
+    "ratingContent": [
+      "Sang",
+      "Nudit\u00e9",
+      "Contenu sexuel",
+      "Langage ordurier",
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240202,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d1ebffe8a6d070930c235c1ff9fc65d44c9c17c9675eaca015da36d33b32fa64.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1fb342e507a9aeafd67fa6d58c1afd72a8402b3ee82522f1a3f66f199904c52f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/598adc9ca364011b46bd3b9e87d930f2b11817c5e952ae8f18ba02a15e8b4192.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a0d9cca5b01263d1c96f3a1ef188c236f1f25d66a8607a72e4ee1faa5fb16bcf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/522ef018d6078c67aa873e453fff1c600a4e06307de1ecba54e10f2cf87c49fc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aa477074efb63734737497e164710c96596967841a7ef2edd6d9a3ecfd1895b7.jpg"
+    ],
+    "size": 1219493888,
+    "version": null
+  },
   "70050000045029": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/df1a0ee053128898a7132bdd78542f8e3b09d42d2c26d35100c901623c6221f8.jpg",
     "category": null,
