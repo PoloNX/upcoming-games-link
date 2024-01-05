@@ -1862,6 +1862,56 @@
     "size": 1281359872,
     "version": null
   },
+  "70010000075458": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0abb929456103e36df5462715131d032b7dcfeea6ce5b2ae5cdad0aeea29e16d.jpg",
+    "category": [
+      "Adventure",
+      "Action",
+      "RPG",
+      "Strategy"
+    ],
+    "description": "In each battle, bring up to four teammates and one Guardian Spirit for an exhilarating fun in the game! You can also play different roles, exploring a vast array of professional skills and assembling your unique team of companions. Survive the swarms of monsters, navigate the paths of fate, conquer formidable bosses, and fight alongside a variety of randomly acquired Guardian Spirits to ultimately defeat the supreme demon lord!\n\n\u203b Game Features:\n\nDiverse Professions: Choose from 12 different styles and attributes of professions available in the game.\nAdvanced Divine Skills: Experience 8 major skill element factions (Thunder, Wind, Ice, Fire, Earth, Poison, Holy, Dark). Freely mix and match different attack skills that can be upgraded to divine level for double combat power.\nSummon Guardian Spirits: The game features a wide array of unique Guardian Spirits with diverse skills and abilities, fighting and growing with you.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/85168f27118d9d9071de16fa99e884d725be939449c21ffd3e456c4d507a076b.jpg",
+    "id": "010082501DAF2000",
+    "intro": "Unstoppable Rogue-like excitement! Unlock new classes, gather allies, and dive into unique adventures. Conquer the monster hordes and embark on an epic journey.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "de",
+      "it",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Hero of Fate",
+    "nsuId": 70010000075458,
+    "numberOfPlayers": 1,
+    "publisher": "Happy Player",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/dc3d0148f9ca5258c7dfe32b7bddb1a31efd89b25cd89d8201a7b401875c1a45.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fdcb276c5e0beaf777beec81f8cde865397ab319424397ee1e7ba6b775381694.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e93a3f2850a91e3365f8c948150d909eb2d849e1401e186b4a18d32103218380.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/350bb0664e8442401213169f5d1eec5c7de29beb96d6eefeee40b865a2e78824.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1a06c61687bcb94a06dc074604badc8be1d27ed8c0dca79483638a26f1a7290e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4f5513d9f107a07e0f3ddff776f8af3978107dbce80ed2205d6cc9b8109b78a7.jpg"
+    ],
+    "size": 1610612736,
+    "version": null
+  },
   "70010000076246": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0e4e243972271a2c3036459384e3a529fe595e8a063b0f472300f102548c2976.jpg",
     "category": [
