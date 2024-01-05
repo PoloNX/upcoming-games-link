@@ -1,245 +1,4 @@
 {
-  "70010000071811": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b9773b3e97c08bf16c20b5df04eb83bd055702f70f75e24774182a1b4619f7d7.jpg",
-    "category": [
-      "Acci\u00f3n",
-      "Simulaci\u00f3n",
-      "Estilo de vida",
-      "Arcade"
-    ],
-    "description": "Tools Up! - Edici\u00f3n Definitiva te da acceso al paquete completo de caos total que es Tools Up! e incluye el juego base, el DLC y las actualizaciones.\n\nLleg\u00f3 la hora de renovar\n\nToma las herramientas y el casco, \u00a1hay un mont\u00f3n de casas que renovar! Tools Up! es un juego cooperativo local de puro caos que pondr\u00e1 a prueba tus habilidades de trabajo en equipo renovando casas. Trabaja en un vasto complejo de departamentos y renueva hogares cada vez m\u00e1s intrincados para cumplir los requisitos exactos (y a veces extra\u00f1os) de los inquilinos.\n\nCooperativo local de hasta 4 personas\n\nJuega con hasta 3 amistades para que tu equipo de renovaci\u00f3n sea m\u00e1s eficiente o ca\u00f3tico. NOTA: El modo cooperativo de este juego es solo local; no hay multijugador en l\u00ednea. Se puede jugar en solitario, pero se recomienda jugar con al menos otra persona.\n\nMucho que hacer\n\nEste no es un trabajo f\u00e1cil, as\u00ed que contratamos a profesionales (bueno, m\u00e1s o menos). En cada nivel, tendr\u00e1s que completar varias tareas y no hacer un desastre: limpiar lo que deje el equipo de demolici\u00f3n, pintar, colocar azulejos, empapelar las paredes, recoger paquetes, ordenar lo que ensucies\u2026 y eso es solo el comienzo.\n\nRenovaciones competitivas: nuevo modo JcJ\n\nUn nuevo modo competitivo en el que tu equipo se enfrentar\u00e1 entre s\u00ed. Completa la mayor cantidad de tareas posibles e interfiere con las tareas de tus oponentes. Se pueden agregar varios modificadores a la partida y puedes jugar con varias combinaciones de hasta 4 participantes: 1c1, 2c2, 1c2c1, 1c1c1, 1c1c1c1, etc.\n\nRemodela los exteriores: incluye todo el contenido descargable\n\nTools Up! - Edici\u00f3n Definitiva incluye los 45 niveles del DLC \"Garden Party\". Juega en niveles ambientados en la primavera, el verano y el oto\u00f1o y ayuda al equipo de renovaciones externas a reconstruir jardines, plantar \u00e1rboles, podar el c\u00e9sped y lidiar con mapaches y topos.\n\nCada paquete de niveles tem\u00e1ticos trae nuevas mec\u00e1nicas, ajustes \u00a1y un combate \u00e9pico contra un jefe final!\n",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1bdc00682eb9408cd7dc5764b4c26737f3ac06c908efbfb05eac720e023dbbef.jpg",
-    "id": "010075001CDAA000",
-    "intro": "\u00a1Renovaci\u00f3n de casas ca\u00f3tica en cooperativo local, todo en un mismo paquete!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "es",
-      "fr",
-      "de",
-      "it",
-      "pt",
-      "ru",
-      "ko",
-      "zh",
-      "zh"
-    ],
-    "name": "Tools Up! Ultimate Edition",
-    "nsuId": 70010000071811,
-    "numberOfPlayers": 4,
-    "publisher": "Untold Tales",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240105,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/40112ebfe04ca2e0b527b92eee329782d10472080e1692d51b82978384deb8e8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cfc8e87e4058b8e4e8b1786c0738d2849b15a1a06d2282b19facdee510cdcbf5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/890ca5c8beedcd24ed95f505a3499a0add1101cf774cb8dcc888df548a6752ee.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/34a2b3ba403c931a2ab2ea0a99966365aef35ae482d00b2281119303f61a50a5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/1131bc7f4ac99c7a909f96fa5c2b4c0c7253f54f16b0de7856ac488d6dbbb6ac.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e7ea5c205b5d2bdf337a5e84b3b8c95e3ce35be6c914430a290ff84b473bf82e.jpg"
-    ],
-    "size": 1807745024,
-    "version": null
-  },
-  "70010000071916": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f296e4a78b6c489964516fbed8f8b56348243f57d6e99981bc4eda909d38d570.jpg",
-    "category": [
-      "Acci\u00f3n",
-      "Simulaci\u00f3n"
-    ],
-    "description": "In the Electrician Simulator game you will take on the role of an electrician. \nLearn the secrets of the electrician profession and become the best professional in town!\n\nVariety of missions and customers! Is there anything more interesting than new challenges? Check your inbox regularly and accept a variety of jobs - from small tasks to complex electrical installations! Remember being an electrician is not only fun but also professional. Try to do your job with as much attention to detail as possible! It's better not to mess with customers\u2026\n\nArrange your garage. Everyone has a favorite place, right? Customize your home and garage to suit your needs! Raise money from orders and install as much electrical equipment in your home as you want!\n\nEndless possibilities! Procedurally generated houses, random quests and even more challenges - it's all waiting for you! \nRepair broken gadgets at the workbench, go on missions and earn experience to unlock various exciting rewards!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6590246ae2165255b728682cf6b74e9606df13414f70568939db9e5226fbb7a6.jpg",
-    "id": "01005B401CDFE000",
-    "intro": "Take on the electrician role and learn the profession's basics! \nBe sure to check everything twice, with electricity there are no jokes!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "pt",
-      "es",
-      "fr",
-      "de",
-      "it",
-      "ru",
-      "zh",
-      "zh"
-    ],
-    "name": "Electrician Simulator",
-    "nsuId": 70010000071916,
-    "numberOfPlayers": 1,
-    "publisher": "Gaming Factory",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240105,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/7b3b8e62b79082678c8c561eedae2f3ec89b80e54aa1ee018626d3892827e736.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/8de48e6a9c9a2e21b6d62af7cdfd8f272debdd17471b87d3f372ced2c1390c90.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/23b5deecb4850ae2ccbe8d43bf5ec4ca9541c861212fb80227ec79e0d60c8586.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e9fbab368ae5f978ed29e4387c85c238453d8b537acb47528c875f36b62a8280.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3cb2c4d0daabc61ec2a9467c508899ebf21b6c78dff0c630662d774c63e05418.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/fc6c75a5e858c17bd0151c9481ac9ab979240c464cfc96c62579beb15b7dea4d.jpg"
-    ],
-    "size": 5475663872,
-    "version": null
-  },
-  "70010000072155": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b33d5a9ba59f4ccf06f609069dcc6b2de6e16a72af90fcd5d7ffbae971b6fcdb.jpg",
-    "category": [
-      "Arcade",
-      "Multijugador"
-    ],
-    "description": "Bienvenido a la experiencia arcade m\u00e1s estimulante del mundo del juego: \u00a1Arcade Game Zone!\n\n\u00a1Un sal\u00f3n recreativo virtual sin precedentes!\nArcade Game Zone re\u00fane 40 minijuegos, entre los que se incluyen 30 r\u00e9plicas fieles de cl\u00e1sicos que se encuentran en legendarios recreativos. Pero eso no es todo; tambi\u00e9n hemos incluido 10 juegos ic\u00f3nicos como dardos, f\u00fatbol, billar, bolos y muchos m\u00e1s que se encuentran habitualmente en renombrados establecimientos arcade de todo el mundo.\n\n\u00a1Desaf\u00eda a tus amigos!\nDesaf\u00eda a todos tus amigos y juega a juegos cl\u00e1sicos que han dejado una huella imborrable en generaciones. Ya sea en un intenso enfrentamiento de futbol\u00edn o en una animada partida de dardos, Arcade Game Zone ofrece una experiencia multijugador sin igual. Te esperan risas y competici\u00f3n, como en un aut\u00e9ntico sal\u00f3n recreativo.\n\nRevive la magia de los salones recreativos\nSum\u00e9rgete en una atm\u00f3sfera luminosa ba\u00f1ada por el resplandor de las pantallas y d\u00e9jate sorprender por un entorno que parece un sue\u00f1o hecho realidad. Arcade Game Zone te permite revivir la magia de los arcades cl\u00e1sicos con fieles reproducciones de juegos retro que han marcado la historia de los videojuegos. Viaje a los a\u00f1os 80 y 90 con una autenticidad sin igual.\n\nUna experiencia accesible para todos\nTanto si eres un fan incondicional de los juegos retro como si descubres los juegos arcade por primera vez, Arcade Game Zone est\u00e1 dise\u00f1ado para ofrecer una experiencia de juego emocionante y accesible para todos. No hay rincones poco iluminados ni monedas que introducir. Simplemente coge tu mando y sum\u00e9rgete en el arcade cuando quieras.\n\nEn resumen:\n- \u00a140 minijuegos en un sal\u00f3n recreativo virtual!\n- Juegos multijugador cl\u00e1sicos para horas de diversi\u00f3n con amigos. Hasta 4 jugadores sin conexi\u00f3n.\n- Consigue las mejores clasificaciones en los salones recreativos.\n- Sum\u00e9rgete en un entorno m\u00e1gico para vivir una experiencia de juego inesperada.\nArcade Game Zone te invita a embarcarte en una aventura inolvidable en la encrucijada del pasado y el presente de los videojuegos. Acomp\u00e1\u00f1anos en un \u00e9pico viaje arcade desde la comodidad de tu propia casa.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bdb4b298062bd899399b167187f039d471276c3bec7284d452108323a803ccb6.jpg",
-    "id": "010068D01C944000",
-    "intro": "\u00a1Sum\u00e9rgete en la experiencia arcade definitiva para consola!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "es",
-      "fr",
-      "de",
-      "it",
-      "pt"
-    ],
-    "name": "Arcade Game Zone",
-    "nsuId": 70010000072155,
-    "numberOfPlayers": 4,
-    "publisher": "JUST FOR GAMES",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240105,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/459a4ae7533a0681bbb2fe757c087f84c8b46c5f8bdf13a9ce8afa5e30c83dab.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3bcdb19078ab8f762fe359e7aa7f7fe946cf6eee81f850434e71e09c97c9d24b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/42b284043fab69e024ad33a7183d495aaa0a39756068e801bbea07e54a1db9f7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/60fd3935f93d6744103eac3fea021fad9f504538db212612463fd3f8664ea770.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a8bd21821b62369d40f5e44c9d8474e18fd79d436baf9ca1f0eba99f1424ab30.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ce2617a2ac2aad54209a7663f98e3a8257d8baaf89b860e235b2a06d7fed5fed.jpg"
-    ],
-    "size": 348127232,
-    "version": null
-  },
-  "70010000072697": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/65014f8320422df15f4676da589ac687fea789de84ee1e06bb8c184fd471fe05.jpg",
-    "category": [
-      "Puzle"
-    ],
-    "description": "Emb\u00e1rcate en una serena traves\u00eda por un bosque invernal y descubre sus secretos, mientras resuelves distintos problemas de ingenio en medio de entornos tranquilos y sonidos relajantes.\n\nShivering Stone es un juego de puzles de deslizamiento que te pone en la piel de un joven que emprende un viaje a trav\u00e9s de campos nevados y bosques helados. Deber\u00e1s superar 50 niveles de puzles de dificultad creciente, presentados en pantallas \u00fanicas de perspectiva cenital con gr\u00e1ficos de alta resoluci\u00f3n en estilo pixel art, sprites de alta calidad y animaciones fluidas.\n\n\u00bfTienes la astucia suficiente para superar todos los niveles?\n\nCaracter\u00edsticas:\n\n\u2022 \u00a1Experimenta un juego de puzles con la cl\u00e1sica mec\u00e1nica de empujar bloques en medio de un entorno invernal!\n\u2022 Gu\u00eda a un joven aventurero a trav\u00e9s de campos nevados y bosques helados.\n\u2022 \u00a1Desliza rocas y d\u00e9jalas caer en agujeros en el hielo para desbloquear compuertas y abrir la salida!\n\u2022 Supera escenarios de complejidad creciente a lo largo de 50 niveles de una sola pantalla.\n\u2022 Restablece los desaf\u00edos y vuelve a intentarlos todas las veces que sea necesario.\n\u2022 \u00a1Disfruta de animaciones fluidas en pixel art y de un ambiente relajado!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/90531968609515fbf6831fd863498338cc694a4d2bec845f0d02c3efad6793b1.jpg",
-    "id": "0100A0401D05C000",
-    "intro": "\u00a1Desliza rocas por el hielo para abrirle un camino al joven aventurero!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Shivering Stone",
-    "nsuId": 70010000072697,
-    "numberOfPlayers": 1,
-    "publisher": "eastasiasoft",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240105,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a165bcdcc2e620670aa922889191cb248837180acf2db95b64cb15ba8e8fd218.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/1291877ca290d4ca492eed26026d6bdd8235731be52f3715b6dee2180395c31f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9d798ab073e714e21f1276ac57ace77240c08d20ce32a85be6c927a13b77e8dc.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/93199115dd026ff39b774e8a18dde539a9c360b497dfecc7ad376257455c00ef.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ef2b0a5e25d966548c5be0a38555de53c7b9117903e90e37a6a13ee3cfb6f918.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/eed0772ca5021aeec4d362a5ee9e3bfa850510054034126c51472a3e1959f73e.jpg"
-    ],
-    "size": 74448896,
-    "version": null
-  },
-  "70010000075195": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/287ae0910c4d25c4972e00325d51d350c8226a669b5561c1df89ead69b4b4908.jpg",
-    "category": [
-      "Simulaci\u00f3n",
-      "Acci\u00f3n"
-    ],
-    "description": "Immerse yourself in the thrilling world of construction with Bulldozer Tycoon: Construction Simulator! This 3D game combines the excitement of operating heavy machinery with the strategic challenges of construction tasks, all wrapped in a captivating low-poly graphics environment.\n\nKey Features:\n-Bulldozer Mastery: Become the master of the construction site as you take control of a powerful bulldozer. Feel the raw power at your fingertips as you navigate through various terrains, shaping the landscape to perfection.\n-Diverse Construction Tasks: Each level presents a unique set of construction challenges. From clearing debris and leveling ground to creating foundations and more, showcase your skills as a construction tycoon by completing a variety of tasks that progressively increase in complexity.\n-Strategic Gameplay: Plan your moves wisely! Bulldozer Tycoon is not just about raw power; it's about strategy. Navigate through obstacles, avoid pitfalls, and efficiently execute your construction tasks to earn maximum points.\n-Low Poly Aesthetics: Enjoy a visually stunning world with low-poly graphics that bring a unique charm to the construction simulation genre. The minimalist design doesn't compromise on the immersive experience, providing a perfect balance between aesthetics and performance.\n-Progressive Levels: As you successfully complete each task, advance through a series of levels that unveil new challenges and construction scenarios. Your skills will be put to the test with each progression, ensuring a rewarding and engaging gameplay experience.\n\nAre you ready to embark on a construction journey like never before? Bulldozer Tycoon: Construction Simulator awaits, where every level is a new opportunity to prove your skills and dominate the construction landscape!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/854f58278b7efd5bb08053cd256be3ae9afc045f95bb1b33f6175f3a7ce1dbd3.jpg",
-    "id": "010077E01D9B6000",
-    "intro": "Are you ready to embark on a construction journey like never before?",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Bulldozer Tycoon: Construction Simulator",
-    "nsuId": 70010000075195,
-    "numberOfPlayers": 1,
-    "publisher": "DEMENCI Games",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240105,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/78d863dbc88b6422967cece04d5ed0ee28e00d6fccaaf17559efbc073ba3635c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b9ada4aba08666b408cf4cc2972d0d8f2fc0164251677e80b581c8f0875af234.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/0606818e352dceda267c00470812553d9f04c7778b86b655d24bb2725fbc5974.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ff99cf9b4dc2729c93bf86ee35ade2593276ad2b6d3a7e5750885d04c37b8dbe.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/2b4231a212f740f9950750b11c1d78e1a5ba8b55f80fdf20f2d70e768bc137c4.jpg"
-    ],
-    "size": 157286400,
-    "version": null
-  },
-  "70050000045914": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aa95c78eb283d07631a223c2f3ff8b2980b0bb925d67055f0b63c3cba29506b1.jpg",
-    "category": null,
-    "description": "Plenty of new missions to complete - visit the houses of your past clients and improve their lifestyle with smart devices!\n\nOpen your mind and un-wire your home with motion sensors, digital switches, and colorful bulbs! Wireless mechanics change way you think about your tasks and challenges.\n\nDiagnose and fix smart-themed devices. 6 completly new smart gadgets are ready to be dissasembled on the workbench!\n\nAll new content extends previously added Endless mode with new mission items and tasks!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Electrician Simulator goes Smart!",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Electrician Simulator - Smart Devices",
-    "nsuId": 70050000045914,
-    "numberOfPlayers": null,
-    "publisher": "Gaming Factory",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240105,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/f0e5d10829e0248215f398d3f8e2773199d8853625e3c940b6c50f21f7b553d4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cf0ff54c271b203fc946b37ca98b670f645c82ebd9aca05184065c64f9f70066.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3e5a853b6fa48f98a76b80095ac1b005012ec3d2403166d70995284596004524.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/69612304487268f8b1d258851995bbeaf562035d0485130be93f8e6e33f06013.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/348cc15ae7cdf7e29c2a42713dc1ddd70ef6484c6274d0e3688881b91b9741ed.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ea0263b70a644132804924ad7a63b249950bace9a70b1a3950951de921f4a0a3.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
   "70010000074704": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d2fb2c7a9d8c9fbdef8f692a9d1d4976d284a13fb3590fe47f2f1543dece4137.jpg",
     "category": [
@@ -1478,6 +1237,46 @@
       "https://img-eshop.cdn.nintendo.net/i/35937982939c725f4bf34ddc42f8fb7945f101f5f8cc13fcd71a46f551f63ccf.jpg"
     ],
     "size": 476053504,
+    "version": null
+  },
+  "70010000075267": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4b9be3082709dfe053180b4af8ae3242ea11b3a0b475ea4898686f159a962c2b.jpg",
+    "category": [
+      "Acci\u00f3n",
+      "Aventura",
+      "Simulaci\u00f3n",
+      "Estrategia"
+    ],
+    "description": " Commence on a relentless journey through the inner corridors of the Empire's spaceships in HatLand, a game that turns every defeat into a step towards ultimate victory. Brace yourself for an adrenaline-fueled experience where encountering \"GAME OVER\" is not a setback but a pathway to empowerment.\nKey Features:\n\u2022 Dynamic Combat Mechanics: Engage in thrilling melee and ranged combat with enemies that evolve as you progress. \n\u2022 Explosive Tactics: Turn the tide of battle by utilizing traps, mines, and TNT strategically. Transform the environment into a weapon, using it to your advantage against relentless opponents.\n\u2022 Item and Upgrade System: Discover a diverse array of items and enhancements that will pave your way to the next room. \n\u2022 Formidable Boss Battles: Confront nine unique bosses, each presenting a new challenge and testing your skills to the limit. \n\u2022 Varied Enemy Arsenal: Face off against a relentless onslaught of 10 different types of enemies, each with its own set of skills and tactics. \n     In HatLand, every defeat is a stepping stone to becoming an unstoppable force within the Empire's dominion. Are you ready to embrace the challenge, overcome the odds, and emerge victorious in the face of adversity? \n\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7a29811a8ad6502ce079a4b632cd0e14c083aa80ccaeeddf639aa27af312b8b7.jpg",
+    "id": "0100A7301D9C8000",
+    "intro": "Rise from Defeat, Triumph in Every 'GAME OVER' - Navigate the Empire's Inner Corridors with HatLand!\n",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "name": "HatLand - Pixel Impossible GAME OVER",
+    "nsuId": 70010000075267,
+    "numberOfPlayers": 1,
+    "publisher": "SUCCESS GAMES",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/0289fc5f4a3ea9fd46e98ef8b8d73e3da379674a9bddf8c7e06654deac370481.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/53210d192609682426ce8fc732169d81b742ac954248525b66293836b812b560.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9f75d2052e18cb95b79c0b108db0a55496ef40c6db5c029735f3a91e88f33688.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/80daebfabfd6a6928090eea24d86450b572a9ea6c1cf5a492dfdfd281e62fe18.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/18067b17cfcf700a5eaaa9fa2b096ac4db4e665166c8a98b7c4ee1021e908545.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/214c89c6340b204af4482627361ec0eaa6b2f2f4adf4a4bb02ff4fcfc5b91e17.jpg"
+    ],
+    "size": 1362100224,
     "version": null
   },
   "70070000019582": {
