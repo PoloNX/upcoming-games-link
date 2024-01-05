@@ -574,6 +574,47 @@
     "size": 393216000,
     "version": null
   },
+  "70010000075266": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4b9be3082709dfe053180b4af8ae3242ea11b3a0b475ea4898686f159a962c2b.jpg",
+    "category": [
+      "Action",
+      "Adventure",
+      "Simulation",
+      "Strategy"
+    ],
+    "description": "     Commence on a relentless journey through the inner corridors of the Empire's spaceships in HatLand, a game that turns every defeat into a step towards ultimate victory. Brace yourself for an adrenaline-fueled experience where encountering \"GAME OVER\" is not a setback but a pathway to empowerment.\nKey Features:\n\u2022 Dynamic Combat Mechanics: Engage in thrilling melee and ranged combat with enemies that evolve as you progress. \n\u2022 Explosive Tactics: Turn the tide of battle by utilizing traps, mines, and TNT strategically. Transform the environment into a weapon, using it to your advantage against relentless opponents.\n\u2022 Item and Upgrade System: Discover a diverse array of items and enhancements that will pave your way to the next room. \n\u2022 Formidable Boss Battles: Confront nine unique bosses, each presenting a new challenge and testing your skills to the limit. \n\u2022 Varied Enemy Arsenal: Face off against a relentless onslaught of 10 different types of enemies, each with its own set of skills and tactics. \n     In HatLand, every defeat is a stepping stone to becoming an unstoppable force within the Empire's dominion. Are you ready to embrace the challenge, overcome the odds, and emerge victorious in the face of adversity? \n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7a29811a8ad6502ce079a4b632cd0e14c083aa80ccaeeddf639aa27af312b8b7.jpg",
+    "id": "0100A7301D9C8000",
+    "intro": "Rise from Defeat, Triumph in Every 'GAME OVER' - Navigate the Empire's Inner Corridors with HatLand!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "HatLand - Pixel Impossible GAME OVER",
+    "nsuId": 70010000075266,
+    "numberOfPlayers": 1,
+    "publisher": "SUCCESS GAMES",
+    "rating": 6,
+    "ratingContent": [
+      "Violent References"
+    ],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/0289fc5f4a3ea9fd46e98ef8b8d73e3da379674a9bddf8c7e06654deac370481.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/53210d192609682426ce8fc732169d81b742ac954248525b66293836b812b560.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9f75d2052e18cb95b79c0b108db0a55496ef40c6db5c029735f3a91e88f33688.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/80daebfabfd6a6928090eea24d86450b572a9ea6c1cf5a492dfdfd281e62fe18.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/18067b17cfcf700a5eaaa9fa2b096ac4db4e665166c8a98b7c4ee1021e908545.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/214c89c6340b204af4482627361ec0eaa6b2f2f4adf4a4bb02ff4fcfc5b91e17.jpg"
+    ],
+    "size": 1362100224,
+    "version": null
+  },
   "70010000075283": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a3121bc8974f94618f5154db7f236d449cbf0ab82efea8b0f4958f23145b73a.jpg",
     "category": [
@@ -2130,6 +2171,40 @@
     "rightsId": null,
     "screenshots": null,
     "size": 3145728,
+    "version": null
+  },
+  "70070000019429": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a1eb9c52c5eb140fa094479949e53eefec8b65f5339c82988e1565a45df027ae.jpg",
+    "category": null,
+    "description": "Your adventure begins with Food Truck Tycoon. Cook, chop, bake and enjoy hundreds of unique dishes.\n\nBut the journey of a thousand dishes is just the beginning!\n\nAs you hone your cooking skills and build your reputation with food trucks, you'll be given the opportunity to explore more gourmet games as DLC.\n\nCustomize your kitchen with countless upgrades and serve delicious food in different locations. Keep the grill hot, keep your customers smiling, saut\u00e9, mix and serve to the top.\n\nFace cooking challenges to become the ultimate chef in town!\n\nSo put on your apron, sharpen your knives and enter the cooking arena. Life is a party - let's cook delicious!\n\nThis bundle contains \"Cooking Arena\", \"Sweet Bakery Tycoon\" and \"Food Truck Tycoon - Asian Cuisine\".",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Universe bursting with flavors and culinary adventures awaits! ",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Cooking Arena - 3 in 1 Edition",
+    "nsuId": 70070000019429,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Games",
+    "rating": 6,
+    "ratingContent": [
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240202,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/b24cc7e6530c764f9d420f4975b29fc79be537b5698657b5a842bebb560622d3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/575a426851980b9059093c054ef662507425f152bad905c6c93d04bbe2e8e2bf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/48598cfea3cdcd7dbc36552025482b678ae329442c5dfdc53df3ac2f5baf4182.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9f6979453c6877675e83c66909b0a8162573cb3897d588fa027e64f48f5c0718.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0fc0033765123433f50dfc54edbd1081e5e0ae5649b90076f31da6e22ad6d504.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a524fd4a4f9591e681939876e6ac4b90e150c5d077dc7692452e6e160dd75229.jpg"
+    ],
+    "size": 3527409664,
     "version": null
   },
   "70070000019769": {
