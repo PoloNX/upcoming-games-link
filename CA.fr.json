@@ -730,6 +730,45 @@
     "size": 3530555392,
     "version": null
   },
+  "70010000075244": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d4adc53e452cfb85f45dd4ced4fbd6933c30b02b4036b189fa14d32a70dae8d0.jpg",
+    "category": [
+      "\u00c9ducation",
+      "Casse-t\u00eate",
+      "Entra\u00eenement",
+      "Simulation"
+    ],
+    "description": "      Amusez-vous \u00e0 jouer \u00e0 ce jeu o\u00f9 la cr\u00e9ativit\u00e9 rencontre l'\u00e9ducation dans une aventure de pixel art vibrante et interactive ! Lib\u00e9rez le potentiel artistique de vos tout-petits avec notre jeu convivial con\u00e7u pour rendre l'apprentissage amusant. Plongez dans un monde d'imagination color\u00e9 avec ces caract\u00e9ristiques cl\u00e9s :\n\u2022 Palette de couleurs vives : explorez un monde de possibilit\u00e9s avec une palette de couleurs vives et adapt\u00e9e aux enfants.\n\u2022 Outils de dessin faciles \u00e0 utiliser : comprend un crayon et une gomme, permettant aux enfants de tous \u00e2ges de cr\u00e9er sans effort des chefs-d'\u0153uvre.\n\u2022 Tampons et ressources artistiques pr\u00e9d\u00e9finies : am\u00e9liorez la cr\u00e9ativit\u00e9, des formes simples aux personnages captivants, permettant aux enfants de d\u00e9velopper leurs id\u00e9es artistiques.\n\u2022 \u00c9l\u00e9ments \u00e9ducatifs : va au-del\u00e0 du plaisir, incorporant des \u00e9l\u00e9ments \u00e9ducatifs pour enseigner la th\u00e9orie des couleurs de base, la conscience spatiale et les comp\u00e9tences de coordination.\n\u2022 Th\u00e8mes adapt\u00e9s aux enfants : suscitez l'enthousiasme avec des th\u00e8mes et des mod\u00e8les adapt\u00e9s aux int\u00e9r\u00eats populaires des enfants, mettant en vedette des animaux adorables, des personnages bien-aim\u00e9s et des sc\u00e8nes des merveilles de la nature.\n      Embarquez pour un voyage color\u00e9 de d\u00e9couverte artistique avec \u00ab Pixel Coloring Paint \u00bb \u2013 o\u00f9 la cr\u00e9ativit\u00e9 ne conna\u00eet pas de limites et o\u00f9 l'apprentissage est une aventure !",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6a154ff5623c62e1b9e46d5ae1a72c242dcf72432981c6fb3e36585c94dfb7dc.jpg",
+    "id": "01007A701D8DE000",
+    "intro": "Pr\u00e9parez-vous \u00e0 peindre, jouer et apprendre dans un monde con\u00e7u exclusivement pour les petits artistes avec Pixel Coloring Paint !",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Pixel Coloring Paint",
+    "nsuId": 70010000075244,
+    "numberOfPlayers": 1,
+    "publisher": "DEZVOLT GAMES",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240113,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/93df684b6b9a8a3f9d5679fc6447329d700620ce326324838905e2f162517bd8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6eea99e8535210696a1d51d81bd2142e78ce1cd34e23c8e203c0d5506419f577.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7d453436c59dc1108a6f73aad25416fa1a43a46337c260b5a6100a877d007581.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e4e58f12dd1c4fbca42e0135c5ed3f9c148eaed8d5b2625bc02b55e4840d6488.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e74ddf28dfc8447f38ac3b88cbdb3e55db9381f9bee3ed875382cf5b39f8bdd6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f320e52897a116b0356c17e9de7bcf575373ac8a1611d6cd08c508145fc82d39.jpg"
+    ],
+    "size": 223346688,
+    "version": null
+  },
   "70010000067874": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69553c508e5a2739c9f81d4c28533b5a6ac7727187bb5be9c54d88fd589b7454.jpg",
     "category": [
