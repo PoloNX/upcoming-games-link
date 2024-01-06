@@ -1231,6 +1231,45 @@
     "size": 1897922560,
     "version": null
   },
+  "70010000075245": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d4adc53e452cfb85f45dd4ced4fbd6933c30b02b4036b189fa14d32a70dae8d0.jpg",
+    "category": [
+      "Educacional",
+      "Puzzle",
+      "Training",
+      "Simula\u00e7\u00e3o"
+    ],
+    "description": "     Enjoy playing the game where creativity meets education in a vibrant and interactive pixel art adventure! Unleash the artistic potential of your little ones with our user-friendly game designed to make learning fun. Dive into a world of colorful imagination with these key features:\n\u2022 Vibrant Color Palette: Explore a world of possibilities with a lively and child-friendly color palette.\n\u2022 Easy-to-Use Drawing Tools: includes a pencil and eraser, empower kids of all ages to effortlessly create masterpieces.\n\u2022 Stamps and Pre-made Art Assets: Enhance creativity  from simple shapes to captivating characters, allowing kids to build on their artistic ideas.\n\u2022 Educational Elements: goes beyond fun, incorporating educational elements to teach basic color theory, spatial awareness, and coordination skills.\n\u2022 Kid-Friendly Themes: Spark enthusiasm with themes and templates aligning with popular children's interests, featuring adorable animals, beloved characters, and scenes from the wonders of nature.\n\u2022 No Inappropriate Content: our carefully curated content ensures a safe and age-appropriate environment for children, free from any access to inappropriate or harmful materials.\n     Embark on a colorful journey of artistic discovery with \"Pixel Coloring Paint\" \u2013 where creativity knows no bounds, and learning is an adventure! \nEnjoy playing the game where creativity meets education in a vibrant and interactive pixel art adventure! Unleash the artistic potential of your little ones with our user-friendly game designed to make learning fun. Dive into a world of colorful imagination with these key features:\n\u2022 Vibrant Color Palette: Explore a world of possibilities with a lively and child-friendly color palette.\n\u2022 Easy-to-Use Drawing Tools: includes a pencil and eraser, empower kids of all ages to effortlessly create masterpieces.\n\u2022 Stamps and Pre-made Art Assets: Enhance creativity  from simple shapes to captivating characters, allowing kids to build on their artistic ideas.\n\u2022 Educational Elements: goes beyond fun, incorporating educational elements to teach basic color theory, spatial awareness, and coordination skills.\n\u2022 Kid-Friendly Themes: Spark enthusiasm with themes and templates aligning with popular children's interests, featuring adorable animals, beloved characters, and scenes from the wonders of nature.\n\u2022 No Inappropriate Content: our carefully curated content ensures a safe and age-appropriate environment for children, free from any access to inappropriate or harmful materials.\n     Embark on a colorful journey of artistic discovery with \"Pixel Coloring Paint\" \u2013 where creativity knows no bounds, and learning is an adventure! \n\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6a154ff5623c62e1b9e46d5ae1a72c242dcf72432981c6fb3e36585c94dfb7dc.jpg",
+    "id": "01007A701D8DE000",
+    "intro": "Get ready to paint, play, and learn in a world designed exclusively for little artists with Pixel Coloring Paint!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Pixel Coloring Paint",
+    "nsuId": 70010000075245,
+    "numberOfPlayers": 1,
+    "publisher": "DEZVOLT GAMES",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240113,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/93df684b6b9a8a3f9d5679fc6447329d700620ce326324838905e2f162517bd8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6eea99e8535210696a1d51d81bd2142e78ce1cd34e23c8e203c0d5506419f577.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7d453436c59dc1108a6f73aad25416fa1a43a46337c260b5a6100a877d007581.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e4e58f12dd1c4fbca42e0135c5ed3f9c148eaed8d5b2625bc02b55e4840d6488.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e74ddf28dfc8447f38ac3b88cbdb3e55db9381f9bee3ed875382cf5b39f8bdd6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f320e52897a116b0356c17e9de7bcf575373ac8a1611d6cd08c508145fc82d39.jpg"
+    ],
+    "size": 223346688,
+    "version": null
+  },
   "70070000019582": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/077fd579deeef492690867c621515389fdbd26119faa46879395fa13862a2628.jpg",
     "category": null,
