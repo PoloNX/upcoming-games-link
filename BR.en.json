@@ -1,41 +1,4 @@
 {
-  "70010000062855": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/65325635f493845f33d6cbfec3282b715ee41dd3a1bfa0365ff655ab1a03cd24.jpg",
-    "category": [
-      "Other",
-      "Strategy",
-      "Lifestyle",
-      "Simulation"
-    ],
-    "description": "\nStranded on a tiny island, your mission is to conquer each day until you can make it back home. Take charge of your character's hunger, life, and sleep, all while fishing, resting, and cooking. But watch out for a thrilling marine danger that adds an extra layer of excitement to this mortal adventure!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a3cf1800c78de49a30eb6b070337199db3bdb15a951d8e0626f3e0be36b08f85.jpg",
-    "id": "01009C801A516000",
-    "intro": "\nExperience the solitude of being the loneliest person on Earth!\n",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "name": "Isolated",
-    "nsuId": 70010000062855,
-    "numberOfPlayers": 1,
-    "publisher": "GAME NACIONAL",
-    "rating": 0,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240106,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/5aeada84aed0a832a325f3c9746eab026502f243dc6e49cd9f9b9d453d067827.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bddef41ba44284322d9e8167ffe330960423329c167ecd85d444ee35739f5137.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b0fbba2ddb1c7ba7998cb450e159ff4de5951bdfc95f8fcf9b26e69391af6211.jpg"
-    ],
-    "size": 38797312,
-    "version": null
-  },
   "70010000068637": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6bf6ebeabeacf04ed255a627536a73c63a52e27f014c160e5d39259516adca8f.jpg",
     "category": [

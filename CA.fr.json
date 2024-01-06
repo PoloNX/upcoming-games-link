@@ -1,41 +1,4 @@
 {
-  "70010000062855": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/65325635f493845f33d6cbfec3282b715ee41dd3a1bfa0365ff655ab1a03cd24.jpg",
-    "category": [
-      "Autre",
-      "Strat\u00e9gie",
-      "Style de vie",
-      "Simulation"
-    ],
-    "description": "\u00c9chou\u00e9 sur une petite \u00eele, votre mission est de conqu\u00e9rir chaque jour jusqu'\u00e0 ce que vous puissiez rentrer chez vous. Prenez en charge la faim, la vie et le sommeil de votre personnage, tout en p\u00eachant, en vous reposant et en cuisinant. Mais attention \u00e0 un danger marin palpitant qui ajoute une couche suppl\u00e9mentaire d'excitation \u00e0 cette aventure mortelle !",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a3cf1800c78de49a30eb6b070337199db3bdb15a951d8e0626f3e0be36b08f85.jpg",
-    "id": "01009C801A516000",
-    "intro": "D\u00e9couvrez la solitude d'\u00eatre la personne la plus seule sur Terre",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "name": "Isolated",
-    "nsuId": 70010000062855,
-    "numberOfPlayers": 1,
-    "publisher": "GAME NACIONAL",
-    "rating": 6,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240106,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/5aeada84aed0a832a325f3c9746eab026502f243dc6e49cd9f9b9d453d067827.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bddef41ba44284322d9e8167ffe330960423329c167ecd85d444ee35739f5137.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b0fbba2ddb1c7ba7998cb450e159ff4de5951bdfc95f8fcf9b26e69391af6211.jpg"
-    ],
-    "size": 38797312,
-    "version": null
-  },
   "70010000068637": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6bf6ebeabeacf04ed255a627536a73c63a52e27f014c160e5d39259516adca8f.jpg",
     "category": [

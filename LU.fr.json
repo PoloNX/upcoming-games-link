@@ -1,40 +1,4 @@
 {
-  "70010000074704": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d2fb2c7a9d8c9fbdef8f692a9d1d4976d284a13fb3590fe47f2f1543dece4137.jpg",
-    "category": [
-      "Autre"
-    ],
-    "description": "Un jeu de ferme extr\u00eamement addictif et amusant.\n\nVotre objectif est de gagner de l'argent en vendant du lait. Pour ce faire, vous pouvez acheter plus de vaches, apporter des am\u00e9liorations g\u00e9n\u00e9tiques et les nourrir.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/931cfe2dbea50e277f6b339e6f425591a06eb685fdf5ec25ab7425b728e9bd53.jpg",
-    "id": "0100A9601D776000",
-    "intro": "Tr\u00e8s amusant.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "name": "Milk Seller",
-    "nsuId": 70010000074704,
-    "numberOfPlayers": 1,
-    "publisher": "GAME NACIONAL",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240106,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/f087396685ddc24b3dbbee7b0579ddc2ef2e5d4853b97ec21c1d1a2ec3a10831.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e976eaf761dd6093213560defd93bf4b7ad55e224603a016cdeb43632027a512.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/932a7691a80b8c1fc2546e2da2351d002d3791f4e071fd207affe493d39b358a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/70472267f2e8271d2a15d5bddd228b2646c7d908f1866b769c1bb319e42b7b73.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3821372d7871a76d0087e486ab2b8218762f27ee46e017aa8f20e107446d5594.jpg"
-    ],
-    "size": 60817408,
-    "version": null
-  },
   "70010000072844": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/670fb2fcad7307a94480810a385467095b9fba119aafc48ee62279c40fda5606.jpg",
     "category": [
@@ -1317,6 +1281,45 @@
       "https://img-eshop.cdn.nintendo.net/i/b3ae6265a26486293cb1af9181bf875fb6d4c7391036cc0a569fef9ffea7f36b.jpg"
     ],
     "size": 1897922560,
+    "version": null
+  },
+  "70010000075245": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d4adc53e452cfb85f45dd4ced4fbd6933c30b02b4036b189fa14d32a70dae8d0.jpg",
+    "category": [
+      "\u00c9ducation",
+      "R\u00e9flexion",
+      "Training",
+      "Simulation"
+    ],
+    "description": "Pr\u00e9parez-vous \u00e0 peindre, jouer et apprendre dans un monde con\u00e7u exclusivement pour les petits artistes avec Pixel Coloring Paint !\n\n      Amusez-vous \u00e0 jouer \u00e0 ce jeu o\u00f9 la cr\u00e9ativit\u00e9 rencontre l'\u00e9ducation dans une aventure de pixel art vibrante et interactive ! Lib\u00e9rez le potentiel artistique de vos tout-petits avec notre jeu convivial con\u00e7u pour rendre l'apprentissage amusant. Plongez dans un monde d'imagination color\u00e9 avec ces caract\u00e9ristiques cl\u00e9s :\n\u2022 Palette de couleurs vives : explorez un monde de possibilit\u00e9s avec une palette de couleurs vives et adapt\u00e9e aux enfants.\n\u2022 Outils de dessin faciles \u00e0 utiliser : comprend un crayon et une gomme, permettant aux enfants de tous \u00e2ges de cr\u00e9er sans effort des chefs-d'\u0153uvre.\n\u2022 Tampons et ressources artistiques pr\u00e9d\u00e9finies : am\u00e9liorez la cr\u00e9ativit\u00e9, des formes simples aux personnages captivants, permettant aux enfants de d\u00e9velopper leurs id\u00e9es artistiques.\n\u2022 \u00c9l\u00e9ments \u00e9ducatifs : va au-del\u00e0 du plaisir, incorporant des \u00e9l\u00e9ments \u00e9ducatifs pour enseigner la th\u00e9orie des couleurs de base, la conscience spatiale et les comp\u00e9tences de coordination.\n\u2022 Th\u00e8mes adapt\u00e9s aux enfants : suscitez l'enthousiasme avec des th\u00e8mes et des mod\u00e8les adapt\u00e9s aux int\u00e9r\u00eats populaires des enfants, mettant en vedette des animaux adorables, des personnages bien-aim\u00e9s et des sc\u00e8nes des merveilles de la nature.\n\u2022 Aucun contenu inappropri\u00e9 : notre contenu soigneusement s\u00e9lectionn\u00e9 garantit un environnement s\u00fbr et adapt\u00e9 \u00e0 l'\u00e2ge des enfants, libre de tout acc\u00e8s \u00e0 du mat\u00e9riel inappropri\u00e9 ou nuisible.\n      Embarquez pour un voyage color\u00e9 de d\u00e9couverte artistique avec \u00ab Pixel Coloring Paint \u00bb \u2013 o\u00f9 la cr\u00e9ativit\u00e9 ne conna\u00eet pas de limites et o\u00f9 l'apprentissage est une aventure !\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6a154ff5623c62e1b9e46d5ae1a72c242dcf72432981c6fb3e36585c94dfb7dc.jpg",
+    "id": "01007A701D8DE000",
+    "intro": "Pr\u00e9parez-vous \u00e0 peindre, jouer et apprendre dans un monde con\u00e7u exclusivement pour les petits artistes avec Pixel Coloring Paint !",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Pixel Coloring Paint",
+    "nsuId": 70010000075245,
+    "numberOfPlayers": 1,
+    "publisher": "DEZVOLT GAMES",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240113,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/93df684b6b9a8a3f9d5679fc6447329d700620ce326324838905e2f162517bd8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6eea99e8535210696a1d51d81bd2142e78ce1cd34e23c8e203c0d5506419f577.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7d453436c59dc1108a6f73aad25416fa1a43a46337c260b5a6100a877d007581.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e4e58f12dd1c4fbca42e0135c5ed3f9c148eaed8d5b2625bc02b55e4840d6488.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e74ddf28dfc8447f38ac3b88cbdb3e55db9381f9bee3ed875382cf5b39f8bdd6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f320e52897a116b0356c17e9de7bcf575373ac8a1611d6cd08c508145fc82d39.jpg"
+    ],
+    "size": 223346688,
     "version": null
   },
   "70070000019582": {
