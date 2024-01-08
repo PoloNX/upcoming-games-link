@@ -462,6 +462,49 @@
     "size": 92274688,
     "version": null
   },
+  "70010000074466": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66d9d63c51a31c96b641d5faa1c0468b4679dcd2bc578c3fc348857777f88438.jpg",
+    "category": [
+      "Arcade",
+      "Puzzle",
+      "Simulation",
+      "Sports"
+    ],
+    "description": "Grab your equipment with you and begin your journey to become a master of nGolf. Explore beautiful and minimalist locations full of traps, puzzles, and amazing views.\n\n\nFIND YOUR WAY\nWhile playing nGolf you will face many challenges on your way. Lasers, spikes, flames and many more will try to stop your ball. Remember that timing is the key to success and you shouldn\u2019t hurry with your hit. Go with the flow and master all worlds.\n\n\nPLAN YOUR APPROACH\nThere is an unlimited number of possible solutions to finish levels. Different angles and strengths can change the trajectory of the ball diametrically. Check your surroundings for hills, teleports, or speed boosters. Each element gives you a new opportunity to hit the hole. \n\n\nBECOME A GOLF MASTER\nTo become a professional, you have to collect all stars on each stage and accomplish the lowest amount of hits. Study the layout of the map, take as many attempts as you need and obtain the title of champion!\n\n\n\nKEY FEATURES:\n- 8 unique worlds\n- Over 60 levels to master\n- Scorecards to help you track your progress",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16b0bb802a5fe1924dcb37c9ebe60c1048a3c3b86652af07968b6df09c10861d.jpg",
+    "id": "010090801D6E2000",
+    "intro": "Set off on the most engaging golf adventure you have ever seen and visit breathtaking places from around the world.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "de",
+      "zh"
+    ],
+    "name": "nGolf",
+    "nsuId": 70010000074466,
+    "numberOfPlayers": 1,
+    "publisher": "RedDeer.Games",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/dd16659d32371cdef0ddf14069b92393824c836ebef9eff8ef7d52f6e4abe081.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/abaa816f2560f6606eb1e632c75dbd058006147b84e45a8046cb0d115098f81b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6fdb694174deace2afb53ee4cdc48df8ef74d1573aa75f38b700bcca3467a80b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/804adf4d04b73311e61e403a609308ccb441a2e17ebbf719e5388e0a4c12785e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/011d2fff8f9a584c309ff7709a6be849d6de806e5f9ba5fee81abb2b7743c059.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fb588d26a9629227f3e5c38fac64e4b93704eee634ecc7fa48facb4e1b0184e4.jpg"
+    ],
+    "size": 238026752,
+    "version": null
+  },
   "70010000074841": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/161d82606a676e2c5ca55ed8058769f1d37e380e8d98e3388965155a868f385f.jpg",
     "category": [

@@ -462,6 +462,49 @@
     "size": 92274688,
     "version": null
   },
+  "70010000074466": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66d9d63c51a31c96b641d5faa1c0468b4679dcd2bc578c3fc348857777f88438.jpg",
+    "category": [
+      "Arcada",
+      "Puzzle",
+      "Simula\u00e7\u00e3o",
+      "Desporto"
+    ],
+    "description": "Pega no teu equipamento e come\u00e7a a tua viagem para te tornares um mestre do nGolf. Explora locais bonitos e minimalistas cheios de armadilhas, puzzles e vistas fant\u00e1sticas.\n\n\nENCONTRA O TEU CAMINHO\nEnquanto jogas nGolf, vais enfrentar muitos desafios no teu caminho. Lasers, espig\u00f5es, chamas e muito mais tentar\u00e3o parar a tua bola. Lembra-te de que o timing \u00e9 a chave do sucesso e que n\u00e3o deves apressar a tua tacada. Segue o fluxo e domina todos os mundos.\n\n\nPLANEIA A TUA ABORDAGEM\nH\u00e1 um n\u00famero ilimitado de solu\u00e7\u00f5es poss\u00edveis para terminar os n\u00edveis. Diferentes \u00e2ngulos e for\u00e7as podem alterar diametralmente a trajet\u00f3ria da bola. Verifica se existem colinas, teletransportes ou impulsionadores de velocidade \u00e0 tua volta. Cada elemento d\u00e1-te uma nova oportunidade de acertar no buraco. \n\n\nTORNAR-SE UM MESTRE DO GOLFE\nPara te tornares um profissional, tens de recolher todas as estrelas em cada fase e conseguir o menor n\u00famero de tacadas. Estuda a disposi\u00e7\u00e3o do mapa, faz tantas tentativas quantas as necess\u00e1rias e obt\u00e9m o t\u00edtulo de campe\u00e3o!\n\n\n\nCARACTER\u00cdSTICAS PRINCIPAIS:\n- 8 mundos \u00fanicos\n- Mais de 60 n\u00edveis para dominar\n- Cart\u00f5es de pontua\u00e7\u00e3o para te ajudar a acompanhar o teu progresso",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16b0bb802a5fe1924dcb37c9ebe60c1048a3c3b86652af07968b6df09c10861d.jpg",
+    "id": "010090801D6E2000",
+    "intro": "Parta para a aventura de golfe mais envolvente que alguma vez viu e visite lugares de cortar a respira\u00e7\u00e3o em todo o mundo.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "de",
+      "zh"
+    ],
+    "name": "nGolf",
+    "nsuId": 70010000074466,
+    "numberOfPlayers": 1,
+    "publisher": "RedDeer.Games",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/dd16659d32371cdef0ddf14069b92393824c836ebef9eff8ef7d52f6e4abe081.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/abaa816f2560f6606eb1e632c75dbd058006147b84e45a8046cb0d115098f81b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6fdb694174deace2afb53ee4cdc48df8ef74d1573aa75f38b700bcca3467a80b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/804adf4d04b73311e61e403a609308ccb441a2e17ebbf719e5388e0a4c12785e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/011d2fff8f9a584c309ff7709a6be849d6de806e5f9ba5fee81abb2b7743c059.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fb588d26a9629227f3e5c38fac64e4b93704eee634ecc7fa48facb4e1b0184e4.jpg"
+    ],
+    "size": 238026752,
+    "version": null
+  },
   "70010000074841": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/161d82606a676e2c5ca55ed8058769f1d37e380e8d98e3388965155a868f385f.jpg",
     "category": [
