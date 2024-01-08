@@ -747,6 +747,48 @@
     "size": 195035136,
     "version": null
   },
+  "70010000074167": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/47c7fa3793400d7d31124b87bc02f913e7fc3aa39bd84278909285cf8928de12.jpg",
+    "category": [
+      "RPG",
+      "Adventure",
+      "Platformer",
+      "Strategie"
+    ],
+    "description": "Explore the world, find Crystals, and fulfill the prophecy to bring balance to the land of Sequoia.\n\n...Or maybe you'd rather spend your time collecting neat equipment and artifacts? Or tame strange creatures and fill out all the entries in your archive? Or perhaps you'd rather hunt down every monster and conquer the world's toughest bosses. Or maybe you'd rather travel to the farthest reaches of the land and uncover the world's greatest mysteries.\n\nThe choice is yours, as it should be! Or is it? They say that those who stray out of line will be punished, killed, or worse. Maybe it's for your own good that you stick to collecting Crystals, just like everyone else. But where would the adventure be in that?\n\nTactical Battles:\n- No random encounters!\n- Manage Threat to control which party member a monster will attack.\n- No hidden information. Preview turn order, damage, and probabilities like in TRPGs.\n\nCustom Builds:\n- Discover and unlock new classes.\n- Assign sub-classes, pick passive abilities, and equip all kinds of special items.\n- Invent unique team compositions, or stick to the MMORPG Holy Trinity.\n\nAdventure:\n- No permanent missables!\n- Seamless transitions between zones with no loading screens anywhere.\n- Uncover the mysteries of the world all on your own.\n\nPlatforming:\n- Metroidvania-style progression.\n- No invisible walls! Try to jump and climb anywhere you want.\n- Overcome platforming challenges to discover neat loot... and other stuff.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab7731a1c2614daaad03857a833608cbff7db230b531be958fac4d66c678b080.jpg",
+    "id": "010088A01C628000",
+    "intro": "Crystal Project is a non-linear JRPG where you are the maker of your own adventure.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Crystal Project",
+    "nsuId": 70010000074167,
+    "numberOfPlayers": 1,
+    "publisher": "River Running Games",
+    "rating": 12,
+    "ratingContent": [
+      "Fantasy-Gewalt",
+      "Schreckmomente"
+    ],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/440bc610c959c85fdad00462429d6a43dde8b9684d7ccad27e5aa55906acd6cc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0c5e6093ad51bcac94f822fef8dda6c566fb54ff7e7bd86d216534284ac775d9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d97807862154d60b49815aa047e17fa15748a4eb7eeeb90a1d84a24d06b54da4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/712a2d375a15f4dc6c5ac1444a72f2f4a8ab98aa82c01f7e210d4c0d892a2309.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/41c18cfa2966fb32337af8129f60417bd42e28a572359920a3d07b1f43c30e17.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/554324e0ba8806a6f3ac08202d25bac665b6389f076f3c64c122c4a3a9e6482c.jpg"
+    ],
+    "size": 617611264,
+    "version": null
+  },
   "70010000074558": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d822e996af223ef1bfe0f38ca5b382898a8f0de6e3191b86314ca61b4ec8cae.jpg",
     "category": [
@@ -830,6 +872,53 @@
       "https://img-eshop.cdn.nintendo.net/i/35937982939c725f4bf34ddc42f8fb7945f101f5f8cc13fcd71a46f551f63ccf.jpg"
     ],
     "size": 476053504,
+    "version": null
+  },
+  "70010000074665": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a0ff7cf53151e850b1db96a5252083658c299f50de489687665bc514db6dd386.jpg",
+    "category": [
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "description": "Reise in diesem 3D-Abenteuer, das von Spielen der sp\u00e4ten 90er Jahre inspiriert ist, durch das K\u00f6nigreich und seine verschiedenen Regionen. Erforsche jede Region frei, l\u00fcfte ihre Geheimnisse und rette deine B\u00e4renfreunde! Dieses Reich war einst ein friedlicher Ort, bis die Bienen anfingen, lila Honig zu produzieren, eine seltsame Substanz, die jeden, der sie isst, in einen geistlosen Feind verwandelt. Du schl\u00fcpfst in die Rolle von Baaren, einem mutigen B\u00e4ren, der sich auf die Suche macht, um das K\u00f6nigreich von dieser Bedrohung unbekannten Ursprungs zu befreien.\n\nAuf deinem Weg findest du jede Menge Sammelobjekte, Gegenst\u00e4nde, mit denen du deinen Charakter anpassen kannst, aufregende Orte, die es zu erkunden gilt, schnelle Fahrzeuge, mit denen du fahren kannst, t\u00e4gliche Herausforderungen, die deine F\u00e4higkeiten auf die Probe stellen, und lustige Minispiele, die du spielen kannst. Mit Baarens einfachen, aber vollst\u00e4ndigen Bewegungen kannst du steile Berge erklimmen, gef\u00e4hrliche Feinde bek\u00e4mpfen und diese Welt voller \u00dcberraschungen erkunden.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0fca578d015b47f01f9371323bd8dd2c7f523102bc5abdcea70b2503acba151f.jpg",
+    "id": "010032D01C788000",
+    "intro": "Erforsche riesige Welten in diesem sandkastenartigen 3D-Abenteuer",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "de",
+      "it",
+      "nl",
+      "ru"
+    ],
+    "name": "Super Bear Adventure",
+    "nsuId": 70010000074665,
+    "numberOfPlayers": 1,
+    "publisher": "Earthkwak Games",
+    "rating": 6,
+    "ratingContent": [
+      "Comic-Gewalt"
+    ],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/1ba2f68a30b937df803e371653db2f4ec761f8688f46635f237beeea592d7ae5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/601ad6c448b1308ef4cdca519dc5082ab6457014e75b62bf04dc87def9066cd3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1bbc80c131ac00b9980abbb87a36676db9a27e3acbd5c3dc98f2888d9c57333a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/99d7a30deced84c94b998b42b5ed3aa70be96cde09e9b9cdecd0f8af7a9b5855.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c99df578d72a3d2f2ab8e3a9384221b3c5822472bfee337018120654227a20a8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/32352cc1af58b4b216ad7fc84fb9c4c0066fda6faf96af0acea6886a8d2e5ae6.jpg"
+    ],
+    "size": 367001600,
     "version": null
   },
   "70010000075267": {
@@ -1267,6 +1356,47 @@
       "https://img-eshop.cdn.nintendo.net/i/20fb363aaa5791c32ff9d1658b5d7305dcf76040dbaad69d3d15b926c37d9de3.jpg"
     ],
     "size": 0,
+    "version": null
+  },
+  "70010000071787": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d60f49544f0fd4a64ffe8addddba9b299357e2d5f2a2f63d7eab1e0379f2fc69.jpg",
+    "category": [
+      "Action",
+      "Shooter",
+      "Arcade",
+      "Platformer"
+    ],
+    "description": "Play across 8 levels, collect airdrops and feasts to earn special abilities. Go on ridiculous killing sprees to demolish the enemy and enhance your killstreak rewards. Free-For-All allows you to configure your own matches, Mission Mode allows you to complete 200 preconfigured matches and even design your own. Tenement is a fast paced, addictive game with lots to find. Watch out for strange characters like the Medusa, Sausage, Worm and the vile overlord in his bone cavern: Needle-Drunk.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c04c007ec8bf5e778d6cfa6e3bb91a990964a1c58fd0c75a4089626e8c30132c.jpg",
+    "id": "010067801C7FA000",
+    "intro": "A frantic 2D arena shooter against up to 40 bots. Play Free-For-All or Mission Mode. Unlock guns, perks and characters. Call in helicopters, airstrikes and nukes!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Tenement",
+    "nsuId": 70010000071787,
+    "numberOfPlayers": 1,
+    "publisher": "Tynepunk",
+    "rating": 16,
+    "ratingContent": [
+      "Gewalt"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/014caab54cfe266fabcdf793e4dd8a89b093b1d5a7d81551879acdecab8312be.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4b67e1e2affa9a11753901172e44ca7a7eac541a7e5e2eec16efa5e76f3be4cf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cc9f9c804ddb37e6d2870517045d74e130ed790363994c5058dcc29c7c9108fe.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d5ed2ce39a26a76f377356805e322270d370e211eb11165e4afc4ea0139e52a5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5061f287f6b4b79e14da5b1b1ed017442706ad431a12f3efd469ce8f4d0e5c1e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8b44afdaedb5f0e48c4967f2ad1a0205e9320a2109ea238dc4cf89607a237f0d.jpg"
+    ],
+    "size": 354418688,
     "version": null
   },
   "70010000072831": {

@@ -742,6 +742,48 @@
     "size": 195035136,
     "version": null
   },
+  "70010000074167": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8481e427d4ad95f9785a8b1fb3b7db33466c59220f725d91f74189251a79a6fe.jpg",
+    "category": [
+      "Jeu de r\u00f4les",
+      "Aventure",
+      "Plateformes",
+      "Strat\u00e9gie"
+    ],
+    "description": "Explorez le monde, trouvez des cristaux et accomplissez la proph\u00e9tie pour ramener l'\u00e9quilibre sur la terre de Sequoia.\n\n...Ou peut-\u00eatre pr\u00e9f\u00e9rez-vous passer votre temps \u00e0 collectionner des \u00e9quipements et des artefacts de qualit\u00e9 ? Ou \u00e0 apprivoiser des cr\u00e9atures \u00e9tranges et \u00e0 remplir toutes les entr\u00e9es de vos archives ? Ou peut-\u00eatre pr\u00e9f\u00e9rez-vous traquer tous les monstres et vaincre les boss les plus coriaces du monde ? Ou peut-\u00eatre pr\u00e9f\u00e9rez-vous voyager jusqu'aux confins de la terre et d\u00e9couvrir les plus grands myst\u00e8res du monde.\n\n\u00c0 vous de choisir, comme il se doit ! Ou bien est-ce le cas ? On dit que ceux qui s'\u00e9cartent du droit chemin seront punis, tu\u00e9s ou pire encore. C'est peut-\u00eatre pour votre propre bien que vous vous contentez de collecter des cristaux, comme tout le monde. Mais o\u00f9 serait l'aventure ?\n\nBatailles tactiques :\n- Pas de batailles al\u00e9atoires !\n- G\u00e9rez la Threat pour contr\u00f4ler quel alli\u00e9 un monstre va attaquer.\n- Pas d'informations cach\u00e9es. Pr\u00e9visualisez l'ordre du tour, les d\u00e9g\u00e2ts et les probabilit\u00e9s comme dans les TRPG.\n\nCr\u00e9ation de groupes personnalis\u00e9s :\n- D\u00e9couvrez de nouvelles classes.\n- Attribuez des sous-classes, choisissez des aptitudes passives et \u00e9quipez toutes sortes d'objets sp\u00e9ciaux.\n- Inventez des \u00e9quipes uniques ou restez fid\u00e8le \u00e0 la Holy Trinity des MMORPG.\n\nAventure :\n- Pas d'objets manquants permanents !\n- Transitions transparentes entre les r\u00e9gions, sans aucun \u00e9cran de chargement.\n- D\u00e9couvrez les myst\u00e8res du monde par vous-m\u00eame.\n\nPlateforme :\n- Progression de type Metroidvania.\n- Pas de murs invisibles ! Essayez de sauter et de grimper o\u00f9 vous voulez.\n- Surmontez les d\u00e9fis de la plateforme pour d\u00e9couvrir de superbes tr\u00e9sors... et d'autres choses.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab7731a1c2614daaad03857a833608cbff7db230b531be958fac4d66c678b080.jpg",
+    "id": "010088A01C628000",
+    "intro": "Crystal Project est un JRPG non lin\u00e9aire dans lequel vous \u00eates le cr\u00e9ateur de votre propre aventure.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Crystal Project",
+    "nsuId": 70010000074167,
+    "numberOfPlayers": 1,
+    "publisher": "River Running Games",
+    "rating": 7,
+    "ratingContent": [
+      "Peur",
+      "Violence mod\u00e9r\u00e9e"
+    ],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/440bc610c959c85fdad00462429d6a43dde8b9684d7ccad27e5aa55906acd6cc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0c5e6093ad51bcac94f822fef8dda6c566fb54ff7e7bd86d216534284ac775d9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d97807862154d60b49815aa047e17fa15748a4eb7eeeb90a1d84a24d06b54da4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/712a2d375a15f4dc6c5ac1444a72f2f4a8ab98aa82c01f7e210d4c0d892a2309.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/41c18cfa2966fb32337af8129f60417bd42e28a572359920a3d07b1f43c30e17.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/554324e0ba8806a6f3ac08202d25bac665b6389f076f3c64c122c4a3a9e6482c.jpg"
+    ],
+    "size": 617611264,
+    "version": null
+  },
   "70010000074558": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d822e996af223ef1bfe0f38ca5b382898a8f0de6e3191b86314ca61b4ec8cae.jpg",
     "category": [
@@ -825,6 +867,51 @@
       "https://img-eshop.cdn.nintendo.net/i/35937982939c725f4bf34ddc42f8fb7945f101f5f8cc13fcd71a46f551f63ccf.jpg"
     ],
     "size": 476053504,
+    "version": null
+  },
+  "70010000074665": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a0ff7cf53151e850b1db96a5252083658c299f50de489687665bc514db6dd386.jpg",
+    "category": [
+      "Plateformes",
+      "Aventure",
+      "Action"
+    ],
+    "description": "Voyage \u00e0 travers le royaume et ses diff\u00e9rentes r\u00e9gions dans cette aventure en 3D inspir\u00e9e des jeux de la fin des ann\u00e9es 90. Explore librement chaque r\u00e9gion, d\u00e9couvre ses secrets et sauve tes amis ! Ce royaume \u00e9tait autrefois un endroit paisible, jusqu'\u00e0 ce que les abeilles commencent \u00e0 produire du miel violet, une \u00e9trange substance qui transforme quiconque en mangeant en un ennemi insens\u00e9. Tu incarneras Baaren, un ours courageux, dans une qu\u00eate pour lib\u00e9rer le royaume de cette menace d'origine inconnue.\n\nEn chemin, tu trouveras une multitude d'objets \u00e0 collectionner, des articles pour personnaliser ton personnage, des endroits passionnants \u00e0 explorer, des v\u00e9hicules rapides \u00e0 conduire, des d\u00e9fis quotidiens pour tester tes comp\u00e9tences et des mini-jeux amusants \u00e0 jouer. \u00c0 l'aide des incroyables capacit\u00e9s de mouvements de Baaren, tu pourras escalader des montagnes escarp\u00e9es, combattre de dangereux ennemis, et explorer ce monde rempli de surprises.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0fca578d015b47f01f9371323bd8dd2c7f523102bc5abdcea70b2503acba151f.jpg",
+    "id": "010032D01C788000",
+    "intro": "Explore de vastes mondes dans cette aventure en 3D de style bac \u00e0 sable",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "de",
+      "it",
+      "nl",
+      "ru"
+    ],
+    "name": "Super Bear Adventure",
+    "nsuId": 70010000074665,
+    "numberOfPlayers": 1,
+    "publisher": "Earthkwak Games",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/1ba2f68a30b937df803e371653db2f4ec761f8688f46635f237beeea592d7ae5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/601ad6c448b1308ef4cdca519dc5082ab6457014e75b62bf04dc87def9066cd3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1bbc80c131ac00b9980abbb87a36676db9a27e3acbd5c3dc98f2888d9c57333a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/99d7a30deced84c94b998b42b5ed3aa70be96cde09e9b9cdecd0f8af7a9b5855.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c99df578d72a3d2f2ab8e3a9384221b3c5822472bfee337018120654227a20a8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/32352cc1af58b4b216ad7fc84fb9c4c0066fda6faf96af0acea6886a8d2e5ae6.jpg"
+    ],
+    "size": 367001600,
     "version": null
   },
   "70010000075267": {
@@ -1259,6 +1346,47 @@
       "https://img-eshop.cdn.nintendo.net/i/20fb363aaa5791c32ff9d1658b5d7305dcf76040dbaad69d3d15b926c37d9de3.jpg"
     ],
     "size": 0,
+    "version": null
+  },
+  "70010000071787": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d60f49544f0fd4a64ffe8addddba9b299357e2d5f2a2f63d7eab1e0379f2fc69.jpg",
+    "category": [
+      "Action",
+      "Jeu de tir",
+      "Arcade",
+      "Plateformes"
+    ],
+    "description": "Jouez en mode Chacun pour Soi ou en mode Mission. D\u00e9bloquez des armes, des avantages et des personnages. \n\nJouez \u00e0 travers 8 niveaux, collectez des largages a\u00e9riens et des festins pour gagner des capacit\u00e9s sp\u00e9ciales. Lancez-vous dans des massacres ridicules pour d\u00e9molir l'ennemi et am\u00e9liorer vos r\u00e9compenses. Le mode Chacun pour Soi vous permet de configurer vos propres matchs, le mode Mission vous permet de compl\u00e9ter 200 matchs pr\u00e9configur\u00e9s et m\u00eame de concevoir les v\u00f4tres. Tenement est un jeu rapide et addictif avec beaucoup \u00e0 d\u00e9couvrir. M\u00e9fiez-vous des personnages \u00e9tranges comme la M\u00e9duse, la Saucisse, le Ver et le vilain seigneur dans sa caverne d'os : Needle-Drunk.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c04c007ec8bf5e778d6cfa6e3bb91a990964a1c58fd0c75a4089626e8c30132c.jpg",
+    "id": "010067801C7FA000",
+    "intro": "Un jeu de tir en ar\u00e8ne 2D fr\u00e9n\u00e9tique contre jusqu'\u00e0 40 bots. Appelez des h\u00e9licopt\u00e8res, des frappes a\u00e9riennes et des bombes nucl\u00e9aires ! ",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Tenement",
+    "nsuId": 70010000071787,
+    "numberOfPlayers": 1,
+    "publisher": "Tynepunk",
+    "rating": 16,
+    "ratingContent": [
+      "Violence explicite"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/014caab54cfe266fabcdf793e4dd8a89b093b1d5a7d81551879acdecab8312be.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4b67e1e2affa9a11753901172e44ca7a7eac541a7e5e2eec16efa5e76f3be4cf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cc9f9c804ddb37e6d2870517045d74e130ed790363994c5058dcc29c7c9108fe.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d5ed2ce39a26a76f377356805e322270d370e211eb11165e4afc4ea0139e52a5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5061f287f6b4b79e14da5b1b1ed017442706ad431a12f3efd469ce8f4d0e5c1e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8b44afdaedb5f0e48c4967f2ad1a0205e9320a2109ea238dc4cf89607a237f0d.jpg"
+    ],
+    "size": 354418688,
     "version": null
   },
   "70010000072831": {

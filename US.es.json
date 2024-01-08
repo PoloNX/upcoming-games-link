@@ -571,6 +571,49 @@
     "size": 77594624,
     "version": null
   },
+  "70010000074166": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cba3dfa8c9431dd682f42c4bd039f7e5886d2abb281c570bdca4ea8f653844fe.jpg",
+    "category": [
+      "Juego de rol",
+      "Aventura",
+      "Plataformas",
+      "Estrategia"
+    ],
+    "description": "Explore the world, find Crystals, and fulfill the prophecy to bring balance to the land of Sequoia.\n\n...Or maybe you'd rather spend your time collecting neat equipment and artifacts? Or tame strange creatures and fill out all the entries in your archive? Or perhaps you'd rather hunt down every monster and conquer the world's toughest bosses. Or maybe you'd rather travel to the farthest reaches of the land and uncover the world's greatest mysteries.\n\nThe choice is yours, as it should be! Or is it? They say that those who stray out of line will be punished, killed, or worse. Maybe it's for your own good that you stick to collecting Crystals, just like everyone else. But where would the adventure be in that?\n\nTactical Battles:\n- No random encounters!\n- Manage Threat to control which party member a monster will attack.\n- No hidden information. Preview turn order, damage, and probabilities like in TRPGs.\n\nCustom Builds:\n- Discover and unlock new classes.\n- Assign sub-classes, pick passive abilities, and equip all kinds of special items.\n- Invent unique team compositions, or stick to the MMORPG Holy Trinity.\n\nAdventure:\n- No permanent missables!\n- Seamless transitions between zones with no loading screens anywhere.\n- Uncover the mysteries of the world all on your own.\n\nPlatforming:\n- Metroidvania-style progression.\n- No invisible walls! Try to jump and climb anywhere you want.\n- Overcome platforming challenges to discover neat loot... and other stuff.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab7731a1c2614daaad03857a833608cbff7db230b531be958fac4d66c678b080.jpg",
+    "id": "010088A01C628000",
+    "intro": "Crystal Project is a non-linear JRPG where you are the maker of your own adventure.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Crystal Project",
+    "nsuId": 70010000074166,
+    "numberOfPlayers": 1,
+    "publisher": "River Running Games",
+    "rating": 10,
+    "ratingContent": [
+      "Violencia de fantasia",
+      "Bajo contenido de sangre",
+      "Lenguaje moderado"
+    ],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/440bc610c959c85fdad00462429d6a43dde8b9684d7ccad27e5aa55906acd6cc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0c5e6093ad51bcac94f822fef8dda6c566fb54ff7e7bd86d216534284ac775d9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d97807862154d60b49815aa047e17fa15748a4eb7eeeb90a1d84a24d06b54da4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/712a2d375a15f4dc6c5ac1444a72f2f4a8ab98aa82c01f7e210d4c0d892a2309.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/41c18cfa2966fb32337af8129f60417bd42e28a572359920a3d07b1f43c30e17.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/554324e0ba8806a6f3ac08202d25bac665b6389f076f3c64c122c4a3a9e6482c.jpg"
+    ],
+    "size": 617611264,
+    "version": null
+  },
   "70010000074557": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d822e996af223ef1bfe0f38ca5b382898a8f0de6e3191b86314ca61b4ec8cae.jpg",
     "category": [

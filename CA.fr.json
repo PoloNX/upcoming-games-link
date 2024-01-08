@@ -571,6 +571,49 @@
     "size": 77594624,
     "version": null
   },
+  "70010000074166": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cba3dfa8c9431dd682f42c4bd039f7e5886d2abb281c570bdca4ea8f653844fe.jpg",
+    "category": [
+      "Jeu de r\u00f4les",
+      "Aventure",
+      "Jeu de plateformes",
+      "Strat\u00e9gie"
+    ],
+    "description": "Explorez le monde, trouvez des cristaux et accomplissez la proph\u00e9tie pour ramener l'\u00e9quilibre sur la terre de Sequoia.\n\n...Ou peut-\u00eatre pr\u00e9f\u00e9rez-vous passer votre temps \u00e0 collectionner des \u00e9quipements et des artefacts de qualit\u00e9? Ou \u00e0 apprivoiser des cr\u00e9atures \u00e9tranges et \u00e0 remplir toutes les entr\u00e9es de vos archives? Ou peut-\u00eatre pr\u00e9f\u00e9rez-vous traquer tous les monstres et vaincre les boss les plus coriaces du monde? Ou peut-\u00eatre pr\u00e9f\u00e9rez-vous voyager jusqu'aux confins de la terre et d\u00e9couvrir les plus grands myst\u00e8res du monde.\n\n\u00c0 vous de choisir, comme il se doit! Ou bien est-ce le cas? On dit que ceux qui s'\u00e9cartent du droit chemin seront punis, tu\u00e9s ou pire encore. C'est peut-\u00eatre pour votre propre bien que vous vous contentez de collecter des cristaux, comme tout le monde. Mais o\u00f9 serait l'aventure?\n\nBatailles tactiques :\n- Pas de batailles al\u00e9atoires!\n- G\u00e9rez la Threat pour contr\u00f4ler quel alli\u00e9 un monstre va attaquer.\n- Pas d'informations cach\u00e9es. Pr\u00e9visualisez l'ordre du tour, les d\u00e9g\u00e2ts et les probabilit\u00e9s comme dans les TRPG.\n\nCr\u00e9ation de groupes personnalis\u00e9s :\n- D\u00e9couvrez de nouvelles classes.\n- Attribuez des sous-classes, choisissez des aptitudes passives et \u00e9quipez toutes sortes d'objets sp\u00e9ciaux.\n- Inventez des \u00e9quipes uniques ou restez fid\u00e8le \u00e0 la Holy Trinity des MMORPG.\n\nAventure :\n- Pas d'objets manquants permanents!\n- Transitions transparentes entre les r\u00e9gions, sans aucun \u00e9cran de chargement.\n- D\u00e9couvrez les myst\u00e8res du monde par vous-m\u00eame.\n\nPlateforme :\n- Progression de type Metroidvania.\n- Pas de murs invisibles! Essayez de sauter et de grimper o\u00f9 vous voulez.\n- Surmontez les d\u00e9fis de la plateforme pour d\u00e9couvrir de superbes tr\u00e9sors... et d'autres choses.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab7731a1c2614daaad03857a833608cbff7db230b531be958fac4d66c678b080.jpg",
+    "id": "010088A01C628000",
+    "intro": "Crystal Project est un JRPG non lin\u00e9aire dans lequel vous \u00eates le cr\u00e9ateur de votre propre aventure.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Crystal Project",
+    "nsuId": 70010000074166,
+    "numberOfPlayers": 1,
+    "publisher": "River Running Games",
+    "rating": 10,
+    "ratingContent": [
+      "Violence fictive",
+      "L\u00e9g\u00e8res repr\u00e9sentations de sang",
+      "Langage grossier"
+    ],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/440bc610c959c85fdad00462429d6a43dde8b9684d7ccad27e5aa55906acd6cc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0c5e6093ad51bcac94f822fef8dda6c566fb54ff7e7bd86d216534284ac775d9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d97807862154d60b49815aa047e17fa15748a4eb7eeeb90a1d84a24d06b54da4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/712a2d375a15f4dc6c5ac1444a72f2f4a8ab98aa82c01f7e210d4c0d892a2309.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/41c18cfa2966fb32337af8129f60417bd42e28a572359920a3d07b1f43c30e17.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/554324e0ba8806a6f3ac08202d25bac665b6389f076f3c64c122c4a3a9e6482c.jpg"
+    ],
+    "size": 617611264,
+    "version": null
+  },
   "70010000074557": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d822e996af223ef1bfe0f38ca5b382898a8f0de6e3191b86314ca61b4ec8cae.jpg",
     "category": [
