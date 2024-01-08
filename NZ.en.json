@@ -1,374 +1,4 @@
 {
-  "70010000070209": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
-    "category": [
-      "Education",
-      "Training",
-      "Study",
-      "Other"
-    ],
-    "description": "Learn the capital cities of the world in this fun quick-fire quiz game! Answer correctly before time runs out, or it's game over! Gradually improve your knowledge of the planet, and prove to your friends that you're the capitals expert!\n\n\u2022 How well do you know our planet and its countries? Become a professional!\n\u2022 Every capital of every country, with national flags\n\u2022 Match the flags with their respective nations.\n\u2022 Learn the location of famous landmarks around the world!\n\u2022 Teach yourself the currencies of the world, and where they are spent.\n\u2022 Learn local regions and their capital cities.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/75585e3a31301d1e85995fc822df21f1c543a1b73fcf68536721b450d0a107c3.jpg",
-    "id": "010032A01C488000",
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "es",
-      "fr",
-      "pt",
-      "de",
-      "it",
-      "ru",
-      "ko",
-      "zh",
-      "zh"
-    ],
-    "name": "Capitals Quizzer",
-    "nsuId": 70010000070209,
-    "numberOfPlayers": 1,
-    "publisher": "Supergonk",
-    "rating": 0,
-    "ratingContent": [
-      "Online Interactivity",
-      "In-Game Purchases"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/3c73f9b898f85fbc033165123f0a6133a1543001b3e6f0246555ddeec40645e0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bd039cf50a0665715b06dac5c2cb40de4ff4120b1820506065c95529b4bc21b0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d29619033a21f6df2a8f29ac01e2a332f01018201679a6e7112d7a96349551c5.jpg"
-    ],
-    "size": 153092096,
-    "version": null
-  },
-  "70010000074124": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/086605613880f3b50f0531b2aa8dc8722be71adf60a4b7b012fe0e87e1dd8310.jpg",
-    "category": [
-      "Platformer",
-      "Arcade",
-      "Action",
-      "Adventure"
-    ],
-    "description": "Experience the story of Monty Mole, British subterranean mammal turned international criminal, in this fantastic collection of five games.\n\nAll Monty wanted was a quiet life, but when faced with an unbearably cold winter found himself stealing coal to survive, and that led to a life on the run from the authorities, a journey that would take him all across Europe! The Monty Mole series of adventure platformer games for home microcomputers were the brainchild of Peter Harrap, the teenage son of a mining inspector, and inspired by the 1984 mining strikes in the UK.\n\nNow you can experience the original Monty Mole saga. This collection includes the main trilogy of Wanted! Monty Mole, Monty on the Run, and Auf Wiedersehen Monty, plus two bonus games: Moley Christmas (a seasonal adventure originally given away with copies of a magazine) and Sam Stoat: Safebreaker (the solo adventure of Sam Stoat, a supporting character from the main Monty Mole games).\n\nThis collection allows you to play these classic games with many modern features, including:\n\u2022 Difficulty modes\n\u2022 Display filters, including an 80s-style CRT filter\n\u2022 Suspend points - save and restore up to 4 suspend points per game\n\u2022 Live Rewind - rewind up to 10 seconds of live gameplay with the push of a button\n\nWanted! Monty Mole\nWith a long, cold winter ahead, Monty Mole makes a daring, coal snatching raid to his local South Yorkshire pit. Do battle with flying pickets, mammal eating fish, crushers, roaming drills, hovering hairspray and more. Surfacing in Arthur\u2019s castle, you must find the only thing that can defeat him: a ballot paper.\n\nMonty on the Run\nAfter being sprung from Scudmore Prison by Sam Stoat, Monty Mole now makes a bid for freedom. Dodge tricky enemies and hazards, collect gold coins, and get to the cross-channel ferry.\n\nAuf Wiedersehen Monty\nHaving fled the UK, Monty continues to be hounded by the authorities, and has now caught the attention of Intermole, who are in hot pursuit! He must travel across Europe, gathering enough cash to finally settle down on his own private Mediterranean island, away from persecution.\n\nBonus Game: Moley Christmas\nIt\u2019s Christmas, and Monty is celebrating the season with a brand new game to be given away with copies of a computer magazine. Bizarrely, the game itself tells the story of Monty delivering the very same game to the magazine\u2019s offices! Jump, climb, dodge hazards and pick up items across four levels.\n\nBonus Game: Sam Stoat: Safebreaker\nThe mustelid malefactor Sam Stoat, who previously sprung Monty Mole from Scudmore prison, returns in his own game, looking for a big score.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/541c9e728688aafafafd200b1370ab6eb3901af0adcb50ff13a65e8d1dfcbe37.jpg",
-    "id": "0100BFA01D4AC000",
-    "intro": "The saga of a British computer game icon",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "The Monty Mole Collection",
-    "nsuId": 70010000074124,
-    "numberOfPlayers": 1,
-    "publisher": "Pixel Games UK",
-    "rating": 8,
-    "ratingContent": [
-      "Mild Themes"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/6b0f23f52c1e8ad5673726dac2881091cb0086d424681feb1064a2ccc1d90d1c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/f31e038e66aa247490014f33bb5f92fbfc9ffb3ea8ae8b368cd32b3d13a740ea.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d0e40241eee06465fa20b0b71bd5f9e5c2fc6efe0e6bab0a9094a16a7fc97cd5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b87fd13aed2eede6c0a1173f02a00ebf588cf79be068fa06392fccf13e8a6045.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/1a1aa5360de64080aa272176a06cc565685da40d4a12a6dd0cbd9cea2d35e80d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/82042e4925689a701a263c95effdc5dff230ec083371d6da4fa4064cc459f143.jpg"
-    ],
-    "size": 105906176,
-    "version": null
-  },
-  "70010000075707": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5963051e176185ed1f2d3f05e71443f38124dc555afdb6c164baedd1f079d39a.jpg",
-    "category": [
-      "Action",
-      "Fighting",
-      "Arcade"
-    ],
-    "description": "Embark on an epic journey into the depths of a pixelated realm in our thrilling 2D dungeon defense game! Your mission: protect your sacred dungeon from relentless invaders who seek to plunder its treasures. Arm yourself with an arsenal of powerful weapons and assemble a formidable army of monsters to repel the onslaught.\n\nKey Features:\n\n- Defend Your Dungeon: Waves of invaders are descending upon your dungeon, and only your strategic prowess can save the day. Fight off hordes of enemies and prove yourself as the ultimate defender!\n\n- Collect and Upgrade: Unleash the true potential of your arsenal by collecting a wide array of weapons and monsters. Strengthen your defenses, upgrade your gear, and turn the tide of battle in your favor.\n\n- Dungeon Building: Take control of your domain by customizing and expanding your dungeon. Craft a labyrinthine fortress filled with traps, secrets, and challenges to thwart even the most determined invaders.\n\n- Achievements Await: Challenge yourself with a myriad of achievements as you progress through the game. Conquer formidable foes, unlock rare items, and showcase your mastery in the art of dungeon defense.\n\n- Pixel Art Delight: Immerse yourself in the charm of pixel art as you explore a vibrant and detailed game world. Every character, weapon, and dungeon feature is brought to life in nostalgic, visually captivating style.\n\n- Varied Content: Beyond the thrill of defending your dungeon, enjoy a plethora of engaging content. Whether it's dungeon building, collecting weapons, or unlocking achievements, there's always something new to discover.\n\nAre you ready to take on the challenge and become the guardian of your pixelated realm? Sharpen your swords, summon your monsters, and defend your dungeon at all costs! The invaders won't know what hit them.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5cbbf9c9dba30897d77445782bbe0e9f2da9dd409fcfc4d1392c73785c96a3d5.jpg",
-    "id": "010066301DB92000",
-    "intro": "Are you ready to take on the challenge and become the guardian of your pixelated realm?",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "ko"
-    ],
-    "name": "Dungeon Defence Simulator 2024",
-    "nsuId": 70010000075707,
-    "numberOfPlayers": null,
-    "publisher": "SimulaMaker",
-    "rating": 0,
-    "ratingContent": [
-      "Very Mild Themes"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/98c403a04b9f066755d9bb02b6b5edcff2011c4abca3a6cece1a26f0a59a3645.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/13ed2a5b3626fee917d2e7d4251cade83a777f3c032d44923f586ea1f2d46cc5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9cb35be6c4bfe9c7f5281f70f3db417188e6d348601bf2d1eddb578bec5fea40.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/67cf6944ea4ad66575863fd102a74f5f16700619b9e561146f717cf1a1c907ae.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/70b21c88440b9f3c4f609e092d13e0847c3f501f5dd5e380a2485b858fcf7e91.jpg"
-    ],
-    "size": 93323264,
-    "version": null
-  },
-  "70050000045927": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
-    "category": null,
-    "description": "Unlock all game modes. Best value!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "010032A01C489005",
-    "ids": [
-      "010032A01C489005"
-    ],
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Additional Game Modes",
-    "nsuId": 70050000045927,
-    "numberOfPlayers": null,
-    "publisher": "Supergonk",
-    "rating": 0,
-    "ratingContent": [
-      "Online Interactivity",
-      "In-Game Purchases"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/3c73f9b898f85fbc033165123f0a6133a1543001b3e6f0246555ddeec40645e0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bd039cf50a0665715b06dac5c2cb40de4ff4120b1820506065c95529b4bc21b0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d29619033a21f6df2a8f29ac01e2a332f01018201679a6e7112d7a96349551c5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/79b668007eca42039661e426f35d6eb456c988350b45acedc35b5cc7083968eb.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c573e3f8321c19adcdee753fd3d7dab547ea422990d033256801a4b9fda35661.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ccdf79ed9c75411a206d52b3604402d4ca9e3cc8fe9812f2cfbe41e0c85724d7.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
-  "70050000046075": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
-    "category": null,
-    "description": "Every capital of every country, with national flags.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "010032A01C489003",
-    "ids": [
-      "010032A01C489003"
-    ],
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Countries",
-    "nsuId": 70050000046075,
-    "numberOfPlayers": null,
-    "publisher": "Supergonk",
-    "rating": 0,
-    "ratingContent": [
-      "Online Interactivity",
-      "In-Game Purchases"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/d063d14355e1b5f655775972f948070c618c259c8964313a164ccf8624ac066f.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
-  "70050000046076": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
-    "category": null,
-    "description": "Teach yourself the currencies of the world.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "010032A01C489002",
-    "ids": [
-      "010032A01C489002"
-    ],
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Currency",
-    "nsuId": 70050000046076,
-    "numberOfPlayers": null,
-    "publisher": "Supergonk",
-    "rating": 0,
-    "ratingContent": [
-      "Online Interactivity",
-      "In-Game Purchases"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/79b668007eca42039661e426f35d6eb456c988350b45acedc35b5cc7083968eb.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
-  "70050000046077": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
-    "category": null,
-    "description": "Learn the location of famous landmarks around the world!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "010032A01C489004",
-    "ids": [
-      "010032A01C489004"
-    ],
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Landmarks",
-    "nsuId": 70050000046077,
-    "numberOfPlayers": null,
-    "publisher": "Supergonk",
-    "rating": 0,
-    "ratingContent": [
-      "Online Interactivity",
-      "In-Game Purchases"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/c573e3f8321c19adcdee753fd3d7dab547ea422990d033256801a4b9fda35661.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
-  "70050000046078": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
-    "category": null,
-    "description": "Learn local regions and their capital cities.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "010032A01C489001",
-    "ids": [
-      "010032A01C489001"
-    ],
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Regions",
-    "nsuId": 70050000046078,
-    "numberOfPlayers": null,
-    "publisher": "Supergonk",
-    "rating": 0,
-    "ratingContent": [
-      "Online Interactivity",
-      "In-Game Purchases"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/ccdf79ed9c75411a206d52b3604402d4ca9e3cc8fe9812f2cfbe41e0c85724d7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/6dc503ba2c67cf7bb6731e1af83b749de42f23130ed0abcfb2de999a86bae76f.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
-  "70070000020013": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d0afbb84fc2a797833a0a54ca17b2380310df837227b1b81ebdcee2e8851ce3.jpg",
-    "category": null,
-    "description": "Welcome to The Smurfs: Colorful Stories, a place where your creativity and imagination lead to creating unique tales. Visit their village like you are one of them and experience amazing adventures - Smurfs can\u2019t wait to meet you!\n\n\nALL CHARACTERS IN ONE PLACE\nYou don\u2019t have to worry you will miss your favourite Smurfette or Grouchy Smurf. They all gathered here, so you can get to know each one of them, while they tell you their stories. Just relax and take a look at what they have prepared for you.\n\n\nMULTIPLE TOOLS\nIn order to make every story personal, the game offers a lot of tools to choose from. You decide what color, brush size, or tool type to use. Try to mix different options to achieve a surprising effect. \n\nThis bundle includes first Personal Boards DLC. \n\nKEY FEATURES:\n- All your favourite blue creatures!\n- 14 categories full of drawings\n- Unlimited options for creating your personal story\n- Cartoon type soundtrack",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Hop into the wonderful world of Smurfs and check what stories are waiting for you!",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "The Smurfs: Colorful Stories Deluxe Edition",
-    "nsuId": 70070000020013,
-    "numberOfPlayers": null,
-    "publisher": "RedDeer.Games",
-    "rating": 0,
-    "ratingContent": [
-      "General"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/6ff6c221a12b2a04b63371db577baf58026da7b9560ed3bab41596b7a26fcd2b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/720d831956923123c92e0586a721912c50d3607b42cdfde2082080f5727ab273.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c807c052c1aa81305682c6f1e73787ce71ca4aa17218109f453399d716f87115.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/76e57032305830a392fb13ea54fc367cae5144a64948cf396f4c09dec67d4656.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4da24e355a708919baf16f061130517c83dd922034acbd50cd33721c78b34ea2.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/8665706a79b3e997941b8019417a771c18d38a3d08853e28e7adace865c8262a.jpg"
-    ],
-    "size": 1934622720,
-    "version": null
-  },
-  "70070000020209": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/47ba3f719213691f6ea2911e2e9e9dd369b27ee47c49de7cc559d6ca9478891e.jpg",
-    "category": null,
-    "description": "Gaze upon the stars and other celestial bodies. Cat\u2019s Cosmic Atlas takes you through the Southern and Northern skies. Experience the most beautiful sights and learn a thing or two about the vast Universe that surrounds us.\n\nINTERACTIVE ADVENTURE\n\nImmerse in the captivating picture book style, combining whimsical illustrations with the celestial magic of stars and planets. The game aesthetic draws inspiration from classic children's literature, creating an enchanting world you WANT to explore.\n\nINTO THE NIGHT SKY\n\nEducational values are seamlessly woven into the experience. Expand your knowledge about other worlds and stars. Learn fascinating facts about each celestial body you encounter. Earn badges to keep up with your discoveries.\n\nEXPLORE\n\nChoose what interests you the most and pursue the stars. Travel through our Solar System or stroll along the Southern and Northern sky. Your journey into space starts now!\n\nGet even more information with Northern and Southern Map DLCs in this bundle.\n\nKey Features:\n- A picture book aesthetic\n- Interactive learning experience\n- Nonlinear exploration\n- An adorable kitten\n- You can even pet her!\n- Relaxing music",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Embrace the wonders of the night sky alongside an adorable kitten named Fellie.",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Cat's Cosmic Atlas Special Edition",
-    "nsuId": 70070000020209,
-    "numberOfPlayers": null,
-    "publisher": "RedDeer.Games",
-    "rating": 0,
-    "ratingContent": [
-      "General"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/5668b24c58ed80ec8709159cc971344e878f2beec7ea8aea2a48f94704f6c6e9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/be4786e2381842028f3a27a5c5ad800541017bc9664e654c662139871d67ffa3.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/0901c965d5078bd9213d7e2ae2811ab3114f75c7b06e0b3c6453fb409f82ac27.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ab79e6948a6479365b62f4c7eafce93b766763a3d2ac14910c1878e5e416736a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3c0489e92f5a42f42674f8a77875b3f66f259ebe52b4df24a5938b62654d3a1c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/43e287719caef6923ffabae57d99bf3a2b45aeba7eed870d186032b2102fb450.jpg"
-    ],
-    "size": 2314207232,
-    "version": null
-  },
   "70010000062861": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f9b17e9955d207deab36ceb95a2631205b35f0ad508b2077ea39a54dd7253f1f.jpg",
     "category": [
@@ -1787,6 +1417,49 @@
       "https://img-eshop.cdn.nintendo.net/i/382b51bfa82b9ec040f52eca0f4a65acf52356af6e433fd29833c9d8867b4525.jpg"
     ],
     "size": 39845888,
+    "version": null
+  },
+  "70010000073107": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39e4bdcacbc7c0463f3bb7df0e6eb4d76ab6360bdffb77fa7f48fa924d49dddf.jpg",
+    "category": [
+      "Action",
+      "Shooter"
+    ],
+    "description": "Witch Rise tells the tale of a sweet, innocent young girl who was turned into a piglet by the cruel Fallen Witch.\n\nNow, our heroine must embark on a quest to overcome the curse and change back into to her old self again. During your journey you'll need to find the four magic staffs in order defeat the Fallen Witch, and thus recover your human body.\n\nExplore a lush 3D world spanning across 4 different biomes populated with adorable 2D sprites. \n\n\nFeatures:\n* First-person shooter gameplay\n* Medieval fantasy inspired themes\n* Travel through 4 different biomes\n* Cute 2D pixelated graphics set on a 3D world\n* Explore the world and choose between many alternative paths\n* Find items and level up",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7ba99f07eb612031120b8d5aa6e109fe3f7d55616acd49ab3829a4849e89d333.jpg",
+    "id": "0100D1E01D200000",
+    "intro": "A first-person shooter in a magical kingdom",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "fr",
+      "de"
+    ],
+    "name": "Witch Rise",
+    "nsuId": 70010000073107,
+    "numberOfPlayers": 1,
+    "publisher": "Ratalaika Games",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4cd03c238d84a48253f4af6ba263de2345092986afe4c8f43ed93fdd89edecd1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7bc4e768a9beedee267e374ac63d035d5fbbf54f23ca8a9891a82e4eb3f610af.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/65321c656752f0a5ac6ea65fc004f7f071d125ad76a2e9f330b2208e8fa0af81.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87f9ec2fb013b76dce742ce22d8f3ccdb60c1212a1fb841158583fcd6c567751.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/96758614346f2e51da7d1ed2c4d698c831fc477ff8e95ad3f5aaf862f0a13a64.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b175efaae59afbf615fad283cb60b8b373ebaa419c9b6081955926fd883c7a17.jpg"
+    ],
+    "size": 57671680,
     "version": null
   },
   "70010000074598": {

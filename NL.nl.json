@@ -1,371 +1,4 @@
 {
-  "70010000062861": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f9b17e9955d207deab36ceb95a2631205b35f0ad508b2077ea39a54dd7253f1f.jpg",
-    "category": [
-      "Avonturenspel",
-      "Actiespel",
-      "Platformspel",
-      "Party"
-    ],
-    "description": "GeoJelly is a challenging platformer game where you play as an experiment defect born within an unknown dystopian laboratory. Your goal is to find your way out of the laboratory and gain your freedom by overcoming various obstacles and collecting diamonds. The game features a mix of platforming and puzzle-solving elements, with plenty of obstacles to avoid along the way.\n\nThe environment is filled with challenges, including cannons, spikes, jump pads, and windmills. Players must be very careful and think twice before making a move, as one wrong step can send them back to the beginning of the level. The game also features a variety of logical puzzles that will challenge players' problem-solving skills and test their agility.\n\nCollecting diamonds is key to unlocking the next level and progressing through the game. Players have the opportunity to become skilled navigators by mastering the platforming elements and using their quick reflexes to overcome obstacles. To jump in the game, players need to hold down the jump button to charge up their jump, and then release it to jump. This adds an extra layer of control and precision to the platforming elements.\n\nGeoJelly is a game that requires skill, patience, and strategy, making it a thrilling experience for players of all skill levels.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ce6550f09af59398341f5ddbca6399a266019f7928332c850079cbc52b70f6d0.jpg",
-    "id": "0100FEA01A602000",
-    "intro": "GeoJelly: Master & Overcome | Play as a flawed experiment in a dystopian laboratory. Take on platform challenges, collect diamonds and gain freedom. ",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "GeoJelly",
-    "nsuId": 70010000062861,
-    "numberOfPlayers": 1,
-    "publisher": "SOURCE BYTE",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/e47b6d3f99a25a406debad3cd0f72b346e595c2ddbbafc2811a59e8021e0925c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/62ca396b527c5a2f0108c5beaa56b4292edba6612e0048404738a4709cffc33c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aff8a3a3a6b4996b02d41b5301611ccf3a8b7104af38c50451536bd1275be3dc.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b5d56191938c055ca73919cdd6ab98dde0a4a08c7f054367c5b24bfcf6e2d1ab.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aee0da4c2d58f4611b93e80a60b03cf2df8ec830bd7dd20ed3a4bea4b34533e4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/027973fec7fe328ca9f721e42c700266a98fc56efb8eacca86ecf7353e295eb8.jpg"
-    ],
-    "size": 112197632,
-    "version": null
-  },
-  "70010000070209": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
-    "category": [
-      "Educatief spel",
-      "Training",
-      "Study",
-      "Anders"
-    ],
-    "description": "Learn the capital cities of the world in this fun quick-fire quiz game! Answer correctly before time runs out, or it's game over! Gradually improve your knowledge of the planet, and prove to your friends that you're the capitals expert!\n\n\u2022 How well do you know our planet and its countries? Become a professional!\n\u2022 Every capital of every country, with national flags\n\u2022 Match the flags with their respective nations.\n\u2022 Learn the location of famous landmarks around the world!\n\u2022 Teach yourself the currencies of the world, and where they are spent.\n\u2022 Learn local regions and their capital cities.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/75585e3a31301d1e85995fc822df21f1c543a1b73fcf68536721b450d0a107c3.jpg",
-    "id": "010032A01C488000",
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "es",
-      "fr",
-      "pt",
-      "de",
-      "it",
-      "ru",
-      "ko",
-      "zh",
-      "zh"
-    ],
-    "name": "Capitals Quizzer",
-    "nsuId": 70010000070209,
-    "numberOfPlayers": 1,
-    "publisher": "Supergonk",
-    "rating": 3,
-    "ratingContent": [
-      "In-game-aankopen"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/3c73f9b898f85fbc033165123f0a6133a1543001b3e6f0246555ddeec40645e0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bd039cf50a0665715b06dac5c2cb40de4ff4120b1820506065c95529b4bc21b0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d29619033a21f6df2a8f29ac01e2a332f01018201679a6e7112d7a96349551c5.jpg"
-    ],
-    "size": 153092096,
-    "version": null
-  },
-  "70010000074124": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/086605613880f3b50f0531b2aa8dc8722be71adf60a4b7b012fe0e87e1dd8310.jpg",
-    "category": [
-      "Platformspel",
-      "Speelhalspel",
-      "Actiespel",
-      "Avonturenspel"
-    ],
-    "description": "Experience the story of Monty Mole, British subterranean mammal turned international criminal, in this fantastic collection of five games.\n\nAll Monty wanted was a quiet life, but when faced with an unbearably cold winter found himself stealing coal to survive, and that led to a life on the run from the authorities, a journey that would take him all across Europe! The Monty Mole series of adventure platformer games for home microcomputers were the brainchild of Peter Harrap, the teenage son of a mining inspector, and inspired by the 1984 mining strikes in the UK.\n\nNow you can experience the original Monty Mole saga. This collection includes the main trilogy of Wanted! Monty Mole, Monty on the Run, and Auf Wiedersehen Monty, plus two bonus games: Moley Christmas (a seasonal adventure originally given away with copies of a magazine) and Sam Stoat: Safebreaker (the solo adventure of Sam Stoat, a supporting character from the main Monty Mole games).\n\nThis collection allows you to play these classic games with many modern features, including:\n\u2022 Difficulty modes\n\u2022 Display filters, including an 80s-style CRT filter\n\u2022 Suspend points - save and restore up to 4 suspend points per game\n\u2022 Live Rewind - rewind up to 10 seconds of live gameplay with the push of a button\n\nWanted! Monty Mole\nWith a long, cold winter ahead, Monty Mole makes a daring, coal snatching raid to his local South Yorkshire pit. Do battle with flying pickets, mammal eating fish, crushers, roaming drills, hovering hairspray and more. Surfacing in Arthur\u2019s castle, you must find the only thing that can defeat him: a ballot paper.\n\nMonty on the Run\nAfter being sprung from Scudmore Prison by Sam Stoat, Monty Mole now makes a bid for freedom. Dodge tricky enemies and hazards, collect gold coins, and get to the cross-channel ferry.\n\nAuf Wiedersehen Monty\nHaving fled the UK, Monty continues to be hounded by the authorities, and has now caught the attention of Intermole, who are in hot pursuit! He must travel across Europe, gathering enough cash to finally settle down on his own private Mediterranean island, away from persecution.\n\nBonus Game: Moley Christmas\nIt\u2019s Christmas, and Monty is celebrating the season with a brand new game to be given away with copies of a computer magazine. Bizarrely, the game itself tells the story of Monty delivering the very same game to the magazine\u2019s offices! Jump, climb, dodge hazards and pick up items across four levels.\n\nBonus Game: Sam Stoat: Safebreaker\nThe mustelid malefactor Sam Stoat, who previously sprung Monty Mole from Scudmore prison, returns in his own game, looking for a big score.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/541c9e728688aafafafd200b1370ab6eb3901af0adcb50ff13a65e8d1dfcbe37.jpg",
-    "id": "0100BFA01D4AC000",
-    "intro": "The saga of a British computer game icon",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "The Monty Mole Collection",
-    "nsuId": 70010000074124,
-    "numberOfPlayers": 1,
-    "publisher": "Pixel Games UK",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/6b0f23f52c1e8ad5673726dac2881091cb0086d424681feb1064a2ccc1d90d1c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/f31e038e66aa247490014f33bb5f92fbfc9ffb3ea8ae8b368cd32b3d13a740ea.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d0e40241eee06465fa20b0b71bd5f9e5c2fc6efe0e6bab0a9094a16a7fc97cd5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b87fd13aed2eede6c0a1173f02a00ebf588cf79be068fa06392fccf13e8a6045.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/1a1aa5360de64080aa272176a06cc565685da40d4a12a6dd0cbd9cea2d35e80d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/82042e4925689a701a263c95effdc5dff230ec083371d6da4fa4064cc459f143.jpg"
-    ],
-    "size": 105906176,
-    "version": null
-  },
-  "70010000075707": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5963051e176185ed1f2d3f05e71443f38124dc555afdb6c164baedd1f079d39a.jpg",
-    "category": [
-      "Actiespel",
-      "Vechtspel",
-      "Speelhalspel"
-    ],
-    "description": "Embark on an epic journey into the depths of a pixelated realm in our thrilling 2D dungeon defense game! Your mission: protect your sacred dungeon from relentless invaders who seek to plunder its treasures. Arm yourself with an arsenal of powerful weapons and assemble a formidable army of monsters to repel the onslaught.\n\nKey Features:\n\n- Defend Your Dungeon: Waves of invaders are descending upon your dungeon, and only your strategic prowess can save the day. Fight off hordes of enemies and prove yourself as the ultimate defender!\n\n- Collect and Upgrade: Unleash the true potential of your arsenal by collecting a wide array of weapons and monsters. Strengthen your defenses, upgrade your gear, and turn the tide of battle in your favor.\n\n- Dungeon Building: Take control of your domain by customizing and expanding your dungeon. Craft a labyrinthine fortress filled with traps, secrets, and challenges to thwart even the most determined invaders.\n\n- Achievements Await: Challenge yourself with a myriad of achievements as you progress through the game. Conquer formidable foes, unlock rare items, and showcase your mastery in the art of dungeon defense.\n\n- Pixel Art Delight: Immerse yourself in the charm of pixel art as you explore a vibrant and detailed game world. Every character, weapon, and dungeon feature is brought to life in nostalgic, visually captivating style.\n\n- Varied Content: Beyond the thrill of defending your dungeon, enjoy a plethora of engaging content. Whether it's dungeon building, collecting weapons, or unlocking achievements, there's always something new to discover.\n\nAre you ready to take on the challenge and become the guardian of your pixelated realm? Sharpen your swords, summon your monsters, and defend your dungeon at all costs! The invaders won't know what hit them.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5cbbf9c9dba30897d77445782bbe0e9f2da9dd409fcfc4d1392c73785c96a3d5.jpg",
-    "id": "010066301DB92000",
-    "intro": "Are you ready to take on the challenge and become the guardian of your pixelated realm?",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "ko"
-    ],
-    "name": "Dungeon Defence Simulator 2024",
-    "nsuId": 70010000075707,
-    "numberOfPlayers": null,
-    "publisher": "SimulaMaker",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/98c403a04b9f066755d9bb02b6b5edcff2011c4abca3a6cece1a26f0a59a3645.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/13ed2a5b3626fee917d2e7d4251cade83a777f3c032d44923f586ea1f2d46cc5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9cb35be6c4bfe9c7f5281f70f3db417188e6d348601bf2d1eddb578bec5fea40.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/67cf6944ea4ad66575863fd102a74f5f16700619b9e561146f717cf1a1c907ae.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/70b21c88440b9f3c4f609e092d13e0847c3f501f5dd5e380a2485b858fcf7e91.jpg"
-    ],
-    "size": 93323264,
-    "version": null
-  },
-  "70050000045927": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
-    "category": null,
-    "description": "Unlock all game modes. Best value!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "010032A01C489005",
-    "ids": [
-      "010032A01C489005"
-    ],
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Additional Game Modes",
-    "nsuId": 70050000045927,
-    "numberOfPlayers": null,
-    "publisher": "Supergonk",
-    "rating": 3,
-    "ratingContent": [
-      "In-game-aankopen"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/3c73f9b898f85fbc033165123f0a6133a1543001b3e6f0246555ddeec40645e0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bd039cf50a0665715b06dac5c2cb40de4ff4120b1820506065c95529b4bc21b0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d29619033a21f6df2a8f29ac01e2a332f01018201679a6e7112d7a96349551c5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/79b668007eca42039661e426f35d6eb456c988350b45acedc35b5cc7083968eb.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c573e3f8321c19adcdee753fd3d7dab547ea422990d033256801a4b9fda35661.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ccdf79ed9c75411a206d52b3604402d4ca9e3cc8fe9812f2cfbe41e0c85724d7.jpg"
-    ],
-    "size": 3145728,
-    "version": null
-  },
-  "70050000046075": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
-    "category": null,
-    "description": "Every capital of every country, with national flags.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "010032A01C489003",
-    "ids": [
-      "010032A01C489003"
-    ],
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Countries",
-    "nsuId": 70050000046075,
-    "numberOfPlayers": null,
-    "publisher": "Supergonk",
-    "rating": 3,
-    "ratingContent": [
-      "In-game-aankopen"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/d063d14355e1b5f655775972f948070c618c259c8964313a164ccf8624ac066f.jpg"
-    ],
-    "size": 3145728,
-    "version": null
-  },
-  "70050000046076": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
-    "category": null,
-    "description": "Teach yourself the currencies of the world.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "010032A01C489002",
-    "ids": [
-      "010032A01C489002"
-    ],
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Currency",
-    "nsuId": 70050000046076,
-    "numberOfPlayers": null,
-    "publisher": "Supergonk",
-    "rating": 3,
-    "ratingContent": [
-      "In-game-aankopen"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/79b668007eca42039661e426f35d6eb456c988350b45acedc35b5cc7083968eb.jpg"
-    ],
-    "size": 3145728,
-    "version": null
-  },
-  "70050000046077": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
-    "category": null,
-    "description": "Learn the location of famous landmarks around the world!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "010032A01C489004",
-    "ids": [
-      "010032A01C489004"
-    ],
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Landmarks",
-    "nsuId": 70050000046077,
-    "numberOfPlayers": null,
-    "publisher": "Supergonk",
-    "rating": 3,
-    "ratingContent": [
-      "In-game-aankopen"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/c573e3f8321c19adcdee753fd3d7dab547ea422990d033256801a4b9fda35661.jpg"
-    ],
-    "size": 3145728,
-    "version": null
-  },
-  "70050000046078": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642915b5e98c9d110dce6a63c728a079a0507e78b0c313d54e13024f27833e1e.jpg",
-    "category": null,
-    "description": "Learn local regions and their capital cities.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "010032A01C489001",
-    "ids": [
-      "010032A01C489001"
-    ],
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Regions",
-    "nsuId": 70050000046078,
-    "numberOfPlayers": null,
-    "publisher": "Supergonk",
-    "rating": 3,
-    "ratingContent": [
-      "In-game-aankopen"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/ccdf79ed9c75411a206d52b3604402d4ca9e3cc8fe9812f2cfbe41e0c85724d7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/6dc503ba2c67cf7bb6731e1af83b749de42f23130ed0abcfb2de999a86bae76f.jpg"
-    ],
-    "size": 3145728,
-    "version": null
-  },
-  "70070000020153": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3bcdcb862bfe2d4c09b8a53614880f01872e1bc0319b4b045d70e9093b16c86c.jpg",
-    "category": null,
-    "description": "Wat is de The Jackbox Party Trilogy 3.0?\n\nThe Jackbox Party Trilogy 3.0 is een verzameling van de 15 populaire spellen van The Jackbox Party Packs 7, 8 en 9. Teken wat je wilt met Drawful Animate, maak je vrienden aan het lachen met een spelletje Quiplash 3 of bluf je een weg naar de overwinning met Fibbage 4. Het maakt niet uit welk spel je kiest, want de gezinsvriendelijke opties en het meespelen voor maximaal 10.000 mensen garanderen dat vrijwel iedereen kan meespelen.\n\nWelke spellen zijn inbegrepen?\n\nThe Jackbox Party Trilogy 3.0 bevat alle populaire spellen van The Jackbox Party Pack 7 (Quiplash 3, The Devils and the Details, Champ\u2019d Up, Talking Points, Blather Round), The Jackbox Party Pack 8 (Job Job, Weapons Drawn, The Wheel of Enormous Proportions, Drawful Animate, The Poll Mine) en The Jackbox Party Pack 9 (Fibbage 4, Quixort, Junktopia, Nonsensory, Roomerang).\n\n\nInstellingen + kenmerken\n\nHet is makkelijk om Jackbox-spellen te spelen: je telefoon is je controller, dus je hoeft alleen maar een spel op te starten en te beginnen! The Jackbox Party Trilogy 3.0 heeft ook nieuwe moderatietools en er kunnen maximaal 10.000 mensen meespelen, wat betekent dat je kunt genieten van veilig spelen met zoveel vrienden of familie als je wilt. Spellen in The Jackbox Party Pack 9 zijn zelfs vertaald naar het Frans, Italiaans, Duits, Castiliaans-Spaans en Latijns-Amerikaans Spaans, wat betekent dat iedereen deel kan nemen aan het feest, niet alleen Engelse sprekers.\n\nCitaten van reviews \n\n\u201cHet maakt niet uit of je de spellen nooit gespeeld hebt of dat je nagenoeg geen artistieke vaardigheden hebt, met Jackbox Party Pack 7 zal je ongetwijfeld veel plezier in huis halen.\u201d\n90/100 \u2013 COGconnected\n\n\u201c[The Jackbox Party Pack 8] is een solide toevoeging aan de Jackbox-serie, met meerdere spellen die iedereen urenlang kunnen vermaken, ongeacht hun spelvoorkeuren.\u201d\nWIRED\n\n\u201cJackbox Party Pack 9 is een knaller.\u201d\n9/10 \u2013 PC Invasion\n",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Schrijf, teken en lach naar de overwinning met de 15 spellen van The Jackbox Party Packs 7, 8 en 9.",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "The Jackbox Party Trilogy 3.0",
-    "nsuId": 70070000020153,
-    "numberOfPlayers": null,
-    "publisher": "Jackbox Games",
-    "rating": 12,
-    "ratingContent": [
-      "Grof taalgebruik",
-      "Seksuele insinuatie",
-      "Gebruikers reageren op elkaar"
-    ],
-    "region": null,
-    "releaseDate": 20240108,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/31f45a7f56e1ddeb6a4db43c79a09d9b1d9dd7b722836f8f377970e65a72e429.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/04857dd84fe001a5a2d0b50cc53e91cb0e073c3f55e9b67cd565f961eedbadf7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/adeaaff133eaa26f06ae85bec31df704bab6cc35854244c957487a0da3f94817.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/833c47c595f4ed57460f436ab6fb9c305245b8e99de2667810509a751e160d4a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/670da587c037530d3f315186aec44cb3ebc4629caf6df60b7f422c380e9d5762.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/fb8e2b3d0f705076c07b9aee17cf718c2aae94f1c5e4a8392c2f26db7e6414a1.jpg"
-    ],
-    "size": 13399752704,
-    "version": null
-  },
   "70050000046285": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af937f9c0a55d7a12413fbe8405ae4a45fae983e012b9800df7f14ca13100fb0.jpg",
     "category": null,
@@ -827,6 +460,49 @@
       "https://img-eshop.cdn.nintendo.net/i/5bf676e7289d8859b11f32fbc3f9a99cefbf3b4abffd2ca9028ded1777fad4d2.jpg"
     ],
     "size": 92274688,
+    "version": null
+  },
+  "70010000074466": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66d9d63c51a31c96b641d5faa1c0468b4679dcd2bc578c3fc348857777f88438.jpg",
+    "category": [
+      "Speelhalspel",
+      "Puzzelspel",
+      "Simulatiespel",
+      "Sportspel"
+    ],
+    "description": "Pak je uitrusting erbij en begin je reis om een meester te worden in nGolf. Verken prachtige en minimalistische locaties vol vallen, puzzels en geweldige uitzichten.\n\n\nZOEK JE WEG\nTijdens het spelen van nGolf kom je onderweg allerlei uitdagingen tegen. Lasers, spikes, vlammen en nog veel meer proberen je bal tegen te houden. Onthoud dat timing de sleutel tot succes is en dat je je niet moet haasten met je slag. Ga met de stroom mee en beheers alle werelden.\n\n\nPLAN JE AANPAK\nEr is een onbeperkt aantal mogelijke oplossingen om levels uit te spelen. Verschillende hoeken en krachten kunnen de baan van de bal diametraal veranderen. Controleer je omgeving op heuvels, teleports of snelheidsboosters. Elk element geeft je een nieuwe kans om de hole te raken. \n\n\nWORD EEN GOLFMEESTER\nOm een professional te worden, moet je in elke stage alle sterren verzamelen en zo min mogelijk slagen maken. Bestudeer de lay-out van de kaart, doe zoveel pogingen als je nodig hebt en behaal de titel van kampioen!\n\n\n\nBELANGRIJKSTE FUNCTIES:\n- 8 unieke werelden\n- Meer dan 60 levels om onder de knie te krijgen\n- Scorekaarten om je voortgang bij te houden",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16b0bb802a5fe1924dcb37c9ebe60c1048a3c3b86652af07968b6df09c10861d.jpg",
+    "id": "010090801D6E2000",
+    "intro": "Ga op het boeiendste golfavontuur dat je ooit hebt gezien en bezoek adembenemende plaatsen van over de hele wereld.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "de",
+      "zh"
+    ],
+    "name": "nGolf",
+    "nsuId": 70010000074466,
+    "numberOfPlayers": 1,
+    "publisher": "RedDeer.Games",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240111,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/dd16659d32371cdef0ddf14069b92393824c836ebef9eff8ef7d52f6e4abe081.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/abaa816f2560f6606eb1e632c75dbd058006147b84e45a8046cb0d115098f81b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6fdb694174deace2afb53ee4cdc48df8ef74d1573aa75f38b700bcca3467a80b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/804adf4d04b73311e61e403a609308ccb441a2e17ebbf719e5388e0a4c12785e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/011d2fff8f9a584c309ff7709a6be849d6de806e5f9ba5fee81abb2b7743c059.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fb588d26a9629227f3e5c38fac64e4b93704eee634ecc7fa48facb4e1b0184e4.jpg"
+    ],
+    "size": 238026752,
     "version": null
   },
   "70010000074841": {
@@ -1759,6 +1435,49 @@
       "https://img-eshop.cdn.nintendo.net/i/69befc070aca11a296e24e879b00d7aa847e454262b40c4b89eeaa7d9f5491fc.jpg"
     ],
     "size": 0,
+    "version": null
+  },
+  "70010000073107": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39e4bdcacbc7c0463f3bb7df0e6eb4d76ab6360bdffb77fa7f48fa924d49dddf.jpg",
+    "category": [
+      "Actiespel",
+      "Schietspel"
+    ],
+    "description": "Witch Rise vertelt het verhaal van een lief, onschuldig jong meisje dat door de wrede in ongenade gevallen heks in een biggetje werd veranderd.\n\nNu moet onze heldin aan een zoektocht beginnen om de vloek te overwinnen en weer zichzelf te worden. Tijdens je avontuur moet je de vier magische staven vinden om de in ongenade gevallen heks te verslaan en zo je menselijke lichaam terug te krijgen.\n\nVerken een weelderige 3D-wereld verspreid over 4 verschillende biomen, bevolkt met schattige 2D-sprites. \n\n\nKenmerken:\n* First-person shooter-gameplay\n* Op middeleeuwse fantasy ge\u00efnspireerde thema's\n* Reis door 4 verschillende biomen\n* Schattige 2D-pixelafbeeldingen in een 3D-wereld\n* Verken de wereld en kies uit allerlei alternatieve routes\n* Vind items en ga in niveau omhoog",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7ba99f07eb612031120b8d5aa6e109fe3f7d55616acd49ab3829a4849e89d333.jpg",
+    "id": "0100D1E01D200000",
+    "intro": "Een first-person shooter in een magisch koninkrijk",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "fr",
+      "de"
+    ],
+    "name": "Witch Rise",
+    "nsuId": 70010000073107,
+    "numberOfPlayers": 1,
+    "publisher": "Ratalaika Games",
+    "rating": 7,
+    "ratingContent": [
+      "Licht geweld"
+    ],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4cd03c238d84a48253f4af6ba263de2345092986afe4c8f43ed93fdd89edecd1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7bc4e768a9beedee267e374ac63d035d5fbbf54f23ca8a9891a82e4eb3f610af.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/65321c656752f0a5ac6ea65fc004f7f071d125ad76a2e9f330b2208e8fa0af81.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87f9ec2fb013b76dce742ce22d8f3ccdb60c1212a1fb841158583fcd6c567751.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/96758614346f2e51da7d1ed2c4d698c831fc477ff8e95ad3f5aaf862f0a13a64.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b175efaae59afbf615fad283cb60b8b373ebaa419c9b6081955926fd883c7a17.jpg"
+    ],
+    "size": 57671680,
     "version": null
   },
   "70010000074598": {
