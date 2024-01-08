@@ -2217,6 +2217,57 @@
     "size": 6193938432,
     "version": null
   },
+  "70010000067622": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/156426c295eb98c84fbf9f69e8b4c3d5091b51a2ee7ac5c3c9bc1cbeabed815f.jpg",
+    "category": [
+      "Jeu de tir",
+      "FPS (tir en vue subjective)",
+      "Action",
+      "Arcade"
+    ],
+    "description": "Oubliez tout ce que vous savez sur le gameplay de la s\u00e9rie POSTAL. POSTAL: Cerveau endommag\u00e9, le spin-off audacieux acclam\u00e9 par les joueurs, est l\u00e0 pour vous emmener dans le voyage le plus sauvage du POSTAL Dude. Ce n'est plus le Paradis, ni m\u00eame Edensin. Cette fois, l'histoire se d\u00e9roule dans la psych\u00e9 tordue du POSTAL DUDE lui-m\u00eame! Et ce n'est pas le monde ouvert que vous pourriez attendre. \n\nLe spin-off oriente le gameplay dans une toute nouvelle direction, tout en restant instantan\u00e9ment famili\u00e8re avec les classiques des jeux de tir \u00e0 la premi\u00e8re personne des ann\u00e9es 90 et 2000. Action et exploration non-stop bas\u00e9es sur les niveaux, une grande vari\u00e9t\u00e9 d'ennemis et de boss fantastiques et cauchemardesques, un arsenal d'armes tr\u00e8s peu conventionnelles, et des tonnes de secrets \u00e0 d\u00e9couvrir. Le tout assaisonn\u00e9 par ce qui a rendu le monde des jeux POSTAL si sp\u00e9cial: l'humour sans limites! Assurez-vous d'\u00eatre pr\u00eat \u00e0 :\n- Explorez un tout nouveau monde artisanal rempli de surprises\n- Vivez le gameplay stimulant et rapide avec un mouvement dynamique et un level design d\u00e9jant\u00e9\n- Faites un voyage \u00e0 travers les environnements riches, tordus et changeants de l'esprit d\u00e9rang\u00e9 du POSTAL DUDE\n- Tirez avec une vari\u00e9t\u00e9 d'armes folles sur certains des ennemis les plus bizarres \u00e0 avoir jamais orn\u00e9 votre \u00e9cran\n- Suivez l'intrigue enti\u00e8rement originale rendant la continuit\u00e9 de l'univers POSTAL encore plus d\u00e9routante qu'auparavant\n- Appr\u00e9ciez l'humour sombre et irr\u00e9v\u00e9rencieux caract\u00e9ristique de la s\u00e9rie POSTAL\n- Entendez Corey Cruise revenir en tant que POSTAL DUDE, avec des apparitions sp\u00e9ciales d'autres voix ch\u00e9ries des fans\n- Profitez de v\u00e9ritables tubes de heavy metal en fond sonore \n\nVous cherchez votre prochain d\u00e9fi de jeu de tir \u00e0 la premi\u00e8re personne, tueurs? Ne cherchez pas plus loin!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/59e6ab772e364c5ab1f2d271c52bf398afe2f74b1258fd9cd25afc23ef1a3c8a.jpg",
+    "id": "010089201B7EC000",
+    "intro": "La s\u00e9rie espi\u00e8gle revient en jeu de tir moderne et r\u00e9tro.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "POSTAL: Brain Damaged",
+    "nsuId": 70010000067622,
+    "numberOfPlayers": 1,
+    "publisher": "Hyperstrange",
+    "rating": 17,
+    "ratingContent": [
+      "Sang et carnage",
+      "Humour grossier",
+      "Violence intense",
+      "Nudit\u00e9",
+      "Contenu sexuel",
+      "Langage ordurier",
+      "Usage de drogue et d'alcool"
+    ],
+    "region": null,
+    "releaseDate": 20240202,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/75339e70a34e64c9e27c6d254e080ccef5375d2e48b18baf7f17f3c442b04fd7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ae371090a844dd0c70c55e8be1d69726ed3329d71ba8dbc79914cc52f8063090.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0ba4a240d0672c29f0ae4f2986184b008c4b8140849ce1f597cce438655c5d16.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6231fcf36328d139d41f3694429ab99514587d0b259566c6d4a32409052587d3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/eee83c7df05726a7c5bfb27bf9ed0eb54727851440b81ee57a47e93e1409cc67.jpg"
+    ],
+    "size": 2706374656,
+    "version": null
+  },
   "70010000071712": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a261e5a96545e144dbbaea6a69ab6192bca2bd6a287b0ca914800a7fc010ed24.jpg",
     "category": [
