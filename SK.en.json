@@ -1,39 +1,4 @@
 {
-  "70050000046285": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af937f9c0a55d7a12413fbe8405ae4a45fae983e012b9800df7f14ca13100fb0.jpg",
-    "category": null,
-    "description": "Explore 5 exhilarating new space levels, each defying the laws of gravity. Navigate through the void, leap through the air, and unlock the secrets of the universe. \n\nEncounter mind-bending portals, solve intricate space mazes, and discover fascinating facts about the cosmos. \n\nBrace yourself for a stellar adventure that takes platforming to new heights \u2013 or rather, to the depths of space",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "0100FEA01A603001",
-    "ids": [
-      "0100FEA01A603001"
-    ],
-    "intro": "Embark on a cosmic journey with GeoJelly in the Space DLC! ",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "GeoJelly in the Space",
-    "nsuId": 70050000046285,
-    "numberOfPlayers": null,
-    "publisher": "SOURCE BYTE",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240109,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/20c7fd09bb0552464842857a5511b9046c7d29a5068ddd64f714e7cf2d8d19a9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aa0f31bec0adf1eaf7b42eb76ba2e8b7b0636b1cff862d0ed9b2bb6f42ccb5d0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/08443688ec2a5fc4ec40eeb2f91d10b4ed8e327e205a4fda867e04b6ea89b2e3.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bc61e415b86bde5509a915c2a54e54c05c59372538fe5da4e5c111bba764ef11.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b9659efba173a7738e5d91975f9cd07c0184972d9682410701087cb3e13b53e6.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c74bbbf3214d104eb83182de106ba21b1972d136230704f148f0f027fdd8b56d.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
   "70010000068638": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6dcce36a8a9357e8bcd43846aa51d48b7ffb50efea057f7012a9dbdeba85e344.jpg",
     "category": [
@@ -3347,6 +3312,45 @@
       "https://img-eshop.cdn.nintendo.net/i/5e3b9a9eaaa413dd58bec934b2b85267ef30ce178606e4f1ceabdd7fc8428220.jpg"
     ],
     "size": 476053504,
+    "version": null
+  },
+  "70010000071246": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/803ef2e58f04f55aa6c314e5a742680cc60b221741a2677eb0f40fa324e20755.jpg",
+    "category": [
+      "Other"
+    ],
+    "description": "About a year has passed since Akari Amasawa started her new job as a designer at Estario, a mobile app maker. While she doesn\u2019t dislike her job, she\u2019s not deeply passionate about it either. After her yearly performance review, she\u2019s given the opportunity to join the Estarci team.\n\nThe company\u2019s namesake app, Estarci is a news app that made a big splash when it launched, but has since fallen behind rival apps, including apps run by Estario itself. Management has decided to give the app one last chance before shutting it down for good, and Akari and all of her new co-workers will need to give it their all to save the app from the chopping block.\n\nWill Akari find true love? Will she find what it is she wants to do in life? Will the app get shut down? Wait, was Akari only given this opportunity because the company was looking for an excuse to fire her?!\n\nBusiness and pleasure mix in Sympathy Kiss, a thrilling office romance and slice-of-life drama!\n\nKey Features\n#POV: You Are A Modern-Day Office Worker in Japan \u2013 Explore your career opportunities and work with up to six love interests. See through the eyes of a Japanese career woman and experience full immersion in a contemporary workplace setting where the fantasy can be found in the breakroom. \n\nCall or text if you need me! \u2013 Increase productivity, or dabble in some friendly office banter by maintaining contact with romanceable characters using the RiNG system. Respond to text messages and take fully-voiced calls from your favourite love interests.\n\nWear Your Emotions On Your Sleeve \u2013 Some decisions require you to express how you feel through the Emotion Select system. Pick from two of a total of five emotions: Happy, Angry, Troubled, Sad, and Indifferent. Your selected emotions can influence future conversations. Your love interests will always remember to consider your emotions.\n\nA Happy Worker Is A Productive Worker! \u2013 Use the Love/Work system when making decisions to balance your work life and social life. Increase your Work Points or Love Points with each decision by choosing whether you will prioritize your career or romance. This will influence the outcome of your route and the ending.\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5bae5abc87ab6947bea5f359d367e3a8e6608acd64834ab2bba3cd9b16bcb7a0.jpg",
+    "id": "01002EE01CA96000",
+    "intro": "Business and pleasure mix in thrilling office romance and slice-of-life drama!\n",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Sympathy Kiss",
+    "nsuId": 70010000071246,
+    "numberOfPlayers": 1,
+    "publisher": "Reef Entertainment",
+    "rating": 12,
+    "ratingContent": [
+      "Bad Language",
+      "Sex"
+    ],
+    "region": null,
+    "releaseDate": 20240227,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a11a55c87012f7099e04863adc04a3cab8289cb583b7d0c6730806cc2e4d17f3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/84fc3cde444f27a1687298e52b3025dbae48dfb68268dc37a05a96d3acb4b638.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3fcbbedbf9a335e098ff4e1e8ed0296b91591df804e3643c72dd3034e5f56ef0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0feb391bc36ea81f5f885afbbe85fa6144bf697abfb0d491e353c0e16a5c2836.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6acfdc3a7ddb934b43f36caebd4dd5c4042a93698426291089c857e2bf322b6a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/797bcb34a33dcdb694b3b0bd2d68a63be66df242b4f657a1836e2c7de62df517.jpg"
+    ],
+    "size": 4860149760,
     "version": null
   },
   "70050000042854": {

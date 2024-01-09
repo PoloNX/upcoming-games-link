@@ -1,39 +1,4 @@
 {
-  "70050000046285": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af937f9c0a55d7a12413fbe8405ae4a45fae983e012b9800df7f14ca13100fb0.jpg",
-    "category": null,
-    "description": "Explore 5 exhilarating new space levels, each defying the laws of gravity. Navigate through the void, leap through the air, and unlock the secrets of the universe. \n\nEncounter mind-bending portals, solve intricate space mazes, and discover fascinating facts about the cosmos. \n\nBrace yourself for a stellar adventure that takes platforming to new heights \u2013 or rather, to the depths of space",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "0100FEA01A603001",
-    "ids": [
-      "0100FEA01A603001"
-    ],
-    "intro": "Embark on a cosmic journey with GeoJelly in the Space DLC! ",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "GeoJelly in the Space",
-    "nsuId": 70050000046285,
-    "numberOfPlayers": null,
-    "publisher": "SOURCE BYTE",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240109,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/20c7fd09bb0552464842857a5511b9046c7d29a5068ddd64f714e7cf2d8d19a9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aa0f31bec0adf1eaf7b42eb76ba2e8b7b0636b1cff862d0ed9b2bb6f42ccb5d0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/08443688ec2a5fc4ec40eeb2f91d10b4ed8e327e205a4fda867e04b6ea89b2e3.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bc61e415b86bde5509a915c2a54e54c05c59372538fe5da4e5c111bba764ef11.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b9659efba173a7738e5d91975f9cd07c0184972d9682410701087cb3e13b53e6.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c74bbbf3214d104eb83182de106ba21b1972d136230704f148f0f027fdd8b56d.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
   "70010000068638": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6dcce36a8a9357e8bcd43846aa51d48b7ffb50efea057f7012a9dbdeba85e344.jpg",
     "category": [
@@ -3301,6 +3266,45 @@
       "https://img-eshop.cdn.nintendo.net/i/5e3b9a9eaaa413dd58bec934b2b85267ef30ce178606e4f1ceabdd7fc8428220.jpg"
     ],
     "size": 476053504,
+    "version": null
+  },
+  "70010000071246": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/803ef2e58f04f55aa6c314e5a742680cc60b221741a2677eb0f40fa324e20755.jpg",
+    "category": [
+      "Anders"
+    ],
+    "description": "Ongeveer een jaar geleden ging Akari Amasawa aan de slag als designer bij Estario, een bedrijf dat mobiele apps ontwikkelt. Ze gaat niet met tegenzin naar haar werk, maar het is ook zeker niet haar passie. Na haar jaarlijkse beoordelingsgesprek krijgt ze een mooie baan aangeboden bij het team van Estarci.\n\nEstarci, dat naar het bedrijf is vernoemd, is een nieuwsapp die hoge ogen gooide bij de lancering, maar sindsdien voorbij is gestreefd door apps van concurrenten en zelfs door apps van Estario zelf. De bedrijfsleiding heeft besloten dat de app nog een allerlaatste kans krijgt voordat die wordt opgeheven. Akari en haar nieuwe collega's zullen alles op alles moeten zetten om de app voor de ondergang te behoeden.\n\nZal Akari ware liefde vinden? Zal ze erachter komen wat ze echt wil doen in het leven? Zal de app worden opgeheven? Wacht eens even, heeft ze deze 'mooie baan' alleen maar gekregen omdat het bedrijf een excuus nodig heeft om haar te ontslaan?!\n\nHet nuttige en het aangename worden verenigd in Sympathy Kiss, een zinderende slice-of-lifegame over romantiek op de werkvloer.\n\nHoofdkenmerken\n#POV: Je bent een kantoorbediende in het Japan van vandaag de dag. Verken je carri\u00e8remogelijkheden en werk samen met tot wel zes potenti\u00eble geliefden. Maak een hedendaagse werkomgeving mee door de ogen van een Japanse carri\u00e8revrouw en vind voer voor de verbeelding in de bedrijfskantine.\n\nBel of app me als je me nodig hebt! - Gebruik het RiNG-systeem om contact te houden met personages die je kunt versieren. Spoor je collega's aan hun productiviteit te verhogen of begeef je aan wat amicaal kantoorgekeuvel. Reageer op tekstberichten en neem echt ingesproken oproepen van je favoriete potenti\u00eble geliefden aan.\n\nDraag je hart op de tong. - Bij sommige beslissingen moet je aangeven hoe je je voelt door emoties te selecteren. Kies er twee uit een totaal van vijf: blij, boos, bezorgd, verdrietig en onverschillig. De gekozen emoties kunnen van invloed zijn op toekomstige gesprekken. Je potenti\u00eble geliefden houden altijd rekening met je emoties.\n\nEen tevreden arbeidskracht is een productieve arbeidskracht! - Gebruik het Liefde/Werk-systeem als je beslissingen neemt om de balans te bewaren tussen je werkleven en sociale leven. Verhoog je werkpunten of liefdespunten met elke beslissing door te kiezen of je je loopbaan of romantiek vooropstelt. De keuzes die je maakt, be\u00efnvloeden de uitkomst van je route en het einde van de game.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5bae5abc87ab6947bea5f359d367e3a8e6608acd64834ab2bba3cd9b16bcb7a0.jpg",
+    "id": "01002EE01CA96000",
+    "intro": "Het nuttige en het aangename worden verenigd in deze zinderende slice-of-lifegame over romantiek op de werkvloer.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Sympathy Kiss",
+    "nsuId": 70010000071246,
+    "numberOfPlayers": 1,
+    "publisher": "Reef Entertainment",
+    "rating": 12,
+    "ratingContent": [
+      "Bad Language",
+      "Sex"
+    ],
+    "region": null,
+    "releaseDate": 20240227,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a11a55c87012f7099e04863adc04a3cab8289cb583b7d0c6730806cc2e4d17f3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/84fc3cde444f27a1687298e52b3025dbae48dfb68268dc37a05a96d3acb4b638.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3fcbbedbf9a335e098ff4e1e8ed0296b91591df804e3643c72dd3034e5f56ef0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0feb391bc36ea81f5f885afbbe85fa6144bf697abfb0d491e353c0e16a5c2836.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6acfdc3a7ddb934b43f36caebd4dd5c4042a93698426291089c857e2bf322b6a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/797bcb34a33dcdb694b3b0bd2d68a63be66df242b4f657a1836e2c7de62df517.jpg"
+    ],
+    "size": 4860149760,
     "version": null
   },
   "70050000042854": {

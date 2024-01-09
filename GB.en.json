@@ -1,39 +1,4 @@
 {
-  "70050000046285": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af937f9c0a55d7a12413fbe8405ae4a45fae983e012b9800df7f14ca13100fb0.jpg",
-    "category": null,
-    "description": "Explore 5 exhilarating new space levels, each defying the laws of gravity. Navigate through the void, leap through the air, and unlock the secrets of the universe. \n\nEncounter mind-bending portals, solve intricate space mazes, and discover fascinating facts about the cosmos. \n\nBrace yourself for a stellar adventure that takes platforming to new heights \u2013 or rather, to the depths of space",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "0100FEA01A603001",
-    "ids": [
-      "0100FEA01A603001"
-    ],
-    "intro": "Embark on a cosmic journey with GeoJelly in the Space DLC! ",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "GeoJelly in the Space",
-    "nsuId": 70050000046285,
-    "numberOfPlayers": null,
-    "publisher": "SOURCE BYTE",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240109,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/20c7fd09bb0552464842857a5511b9046c7d29a5068ddd64f714e7cf2d8d19a9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aa0f31bec0adf1eaf7b42eb76ba2e8b7b0636b1cff862d0ed9b2bb6f42ccb5d0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/08443688ec2a5fc4ec40eeb2f91d10b4ed8e327e205a4fda867e04b6ea89b2e3.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bc61e415b86bde5509a915c2a54e54c05c59372538fe5da4e5c111bba764ef11.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b9659efba173a7738e5d91975f9cd07c0184972d9682410701087cb3e13b53e6.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c74bbbf3214d104eb83182de106ba21b1972d136230704f148f0f027fdd8b56d.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
   "70010000068638": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6dcce36a8a9357e8bcd43846aa51d48b7ffb50efea057f7012a9dbdeba85e344.jpg",
     "category": [
