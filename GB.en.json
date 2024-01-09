@@ -3353,6 +3353,45 @@
     "size": 476053504,
     "version": null
   },
+  "70010000071246": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/803ef2e58f04f55aa6c314e5a742680cc60b221741a2677eb0f40fa324e20755.jpg",
+    "category": [
+      "Other"
+    ],
+    "description": "About a year has passed since Akari Amasawa started her new job as a designer at Estario, a mobile app maker. While she doesn\u2019t dislike her job, she\u2019s not deeply passionate about it either. After her yearly performance review, she\u2019s given the opportunity to join the Estarci team.\n\nThe company\u2019s namesake app, Estarci is a news app that made a big splash when it launched, but has since fallen behind rival apps, including apps run by Estario itself. Management has decided to give the app one last chance before shutting it down for good, and Akari and all of her new co-workers will need to give it their all to save the app from the chopping block.\n\nWill Akari find true love? Will she find what it is she wants to do in life? Will the app get shut down? Wait, was Akari only given this opportunity because the company was looking for an excuse to fire her?!\n\nBusiness and pleasure mix in Sympathy Kiss, a thrilling office romance and slice-of-life drama!\n\nKey Features\n#POV: You Are A Modern-Day Office Worker in Japan \u2013 Explore your career opportunities and work with up to six love interests. See through the eyes of a Japanese career woman and experience full immersion in a contemporary workplace setting where the fantasy can be found in the breakroom. \n\nCall or text if you need me! \u2013 Increase productivity, or dabble in some friendly office banter by maintaining contact with romanceable characters using the RiNG system. Respond to text messages and take fully-voiced calls from your favourite love interests.\n\nWear Your Emotions On Your Sleeve \u2013 Some decisions require you to express how you feel through the Emotion Select system. Pick from two of a total of five emotions: Happy, Angry, Troubled, Sad, and Indifferent. Your selected emotions can influence future conversations. Your love interests will always remember to consider your emotions.\n\nA Happy Worker Is A Productive Worker! \u2013 Use the Love/Work system when making decisions to balance your work life and social life. Increase your Work Points or Love Points with each decision by choosing whether you will prioritize your career or romance. This will influence the outcome of your route and the ending.\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5bae5abc87ab6947bea5f359d367e3a8e6608acd64834ab2bba3cd9b16bcb7a0.jpg",
+    "id": "01002EE01CA96000",
+    "intro": "Business and pleasure mix in thrilling office romance and slice-of-life drama!\n",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Sympathy Kiss",
+    "nsuId": 70010000071246,
+    "numberOfPlayers": 1,
+    "publisher": "Reef Entertainment",
+    "rating": 12,
+    "ratingContent": [
+      "Bad Language",
+      "Sex"
+    ],
+    "region": null,
+    "releaseDate": 20240227,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a11a55c87012f7099e04863adc04a3cab8289cb583b7d0c6730806cc2e4d17f3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/84fc3cde444f27a1687298e52b3025dbae48dfb68268dc37a05a96d3acb4b638.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3fcbbedbf9a335e098ff4e1e8ed0296b91591df804e3643c72dd3034e5f56ef0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0feb391bc36ea81f5f885afbbe85fa6144bf697abfb0d491e353c0e16a5c2836.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6acfdc3a7ddb934b43f36caebd4dd5c4042a93698426291089c857e2bf322b6a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/797bcb34a33dcdb694b3b0bd2d68a63be66df242b4f657a1836e2c7de62df517.jpg"
+    ],
+    "size": 4860149760,
+    "version": null
+  },
   "70050000042854": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2923f71643f5032d2b5786cc3fd896e3eb1d168b4a64ecc84ef0422295f73dee.jpg",
     "category": null,
