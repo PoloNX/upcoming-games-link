@@ -2256,6 +2256,46 @@
     "size": 5324668928,
     "version": null
   },
+  "70010000073976": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1fc572c8eb8699a39478d1d8aaa5a64324c28b5db2f3211da4200ec9b3468667.jpg",
+    "category": [
+      "Shooter",
+      "Strategy",
+      "Action"
+    ],
+    "description": "Defend humanity from subterranean monsters as the last standing turret! Turret Rampage is a shoot'em up game with tower defense elements. You are a defensive turret, the only unit that stands between the remnants of humanity and the fierce underground invaders.\n\nRepel enemy waves by quickly moving between their tunnels and using the right weapons for every foe. The more you anger the outlandish creatures, the stronger will be the forces they send to break through your defenses. Use quick-thinking strategy, a varied arsenal of shot types and even an artificial earthquake to survive waves of baddies and move deeper underground!\n\nFeatures:\n\n\u2022 Take command as the last line of defense between humanity and fierce underground invaders!\n\u2022 Move quickly between tunnels to destroy enemies in sequence before they reach your position.\n\u2022 Change shot types to take down enemies more efficiently!\n\u2022 Use your special artificial earthquake weapon to shake things up and turn the tide of battle.\n\u2022 Survive waves to reach higher levels, each more challenging than the last!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/abac2aed8bf079c820bee0b7dbcc25dfe0bda98f6aac8747e9d27912ebc031ba.jpg",
+    "id": "0100EB001D532000",
+    "intro": "Defeat waves of subterranean invaders using quick-thinking strategy in a mix of tower defense and shoot\u2019em up action!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Turret Rampage",
+    "nsuId": 70010000073976,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/9cadd9d417a388fd59b50d51d117671c03a78211642e460ccfa5036a04de3705.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4d9002f2628c2665b023f4e228eecfab3756e894b6325c4595617e66e0e2f6a5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/08e177b1fd21df07222d53bf12e5d8f5e2de8c2a61db0a67cb588cd31e1f1301.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c14506adc780d3ba772870c599ce13ba302684d1400d3357c67df26b98868a43.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9cc7eca46f5c2df5a240ba183e64d78199cd19e535df516beaeaf03b5a229c84.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c276b30188285ff3763f8659a1bb9657b371ae1d565f35ff187ccc8b4207cd47.jpg"
+    ],
+    "size": 78643200,
+    "version": null
+  },
   "70050000044385": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8ab4ada08378de4cf6442200911413e7484ff82aeb819139735f20de0201c73.jpg",
     "category": null,
@@ -2614,6 +2654,47 @@
     "size": 6194987008,
     "version": null
   },
+  "70010000070505": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/046cd6c617b2063c9c97af7965a5fc8f18bcc4a6d628b660f2fcba2e886d3788.jpg",
+    "category": [
+      "Action",
+      "Puzzle",
+      "RPG"
+    ],
+    "description": "Classic dungeon crawling gets a block-busting twist in Dungeonoid 2 Awakening, a top-down adventure presented in retro pixel art style! In this genre mashup, you\u2019ll pick from 4 role-playing classes, each with their own unique stats and special skill, then set off on a quest to conquer evil by controlling a floating platform to deflect a magical orb into targets along the way.\n\nMove the platform left or right at the bottom of the screen and bounce the orb to keep it in play. Let the orb fly past you, and you\u2019ll lose a heart. But fret not, by destroying walls, gravestones, enemies and more with your orb, you\u2019ll cause power-ups and modifiers to drop towards your platform, some of which might heal you, some might shrink you, some might energize your orb for stronger attacks or have other effects! Charge your special attack to unleash particularly effective spells and attacks against big blocky bosses before they bring your adventure to an end!\n\nFeatures:\n\n\u2022 Experience a unique mix of dungeon crawling adventure and brick-breaking action!\n\u2022 Control a deflector platform and ricochet a magic orb to destroy targets.\n\u2022 Select from multiple role-playing character classes to suite your playstyle!\n\u2022 Collect power-ups and modifiers to turn the tide of battle.\n\u2022 Face off against big bosses and unleash special charge attacks!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/142219858824ef180c773b102235725458858826ea581313ae8efedef3c10860.jpg",
+    "id": "010072101C594000",
+    "intro": "Bust blocks on your path to victory in an adventurous mashup of nostalgic game genres!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Dungeonoid 2 Awakening",
+    "nsuId": 70010000070505,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Violence",
+      "Scary Scenes"
+    ],
+    "region": null,
+    "releaseDate": 20240207,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/121ae9436041d55fb3ee5ab08b34c3071d86b81af0991c384d791df102aa23c3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9eaaa068768c817765f1fe50cd7a6cdf6157175f91ffdde9e3237675925ed95f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6b526f1d2f736fd615675e28275761deb54510b0384cbd15fe8418f2e3e51938.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8290ad9741448f5ff3e22bf7209892346570c6b000c81141c0a6287abca2ea9d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8c3695ab544ab98800a990b03dea200aded1442eee3d4564560652af41a3ea81.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/75892d8754776466f7384746af51bbb4bdfbc7019210668653deb2ce58e506ff.jpg"
+    ],
+    "size": 111149056,
+    "version": null
+  },
   "70050000036557": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02d5763d0c29ab56d3abeda45ee6f5322f66f31d66ff3472a2688507678ebc5c.jpg",
     "category": null,
@@ -2930,6 +3011,47 @@
       "https://img-eshop.cdn.nintendo.net/i/abddd9bc714fe983840f3cb0110c85fd31b5f1e21faac8621606f9eff35b9cd9.jpg"
     ],
     "size": 212860928,
+    "version": null
+  },
+  "70010000073855": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d51633acdd397ed79ebd5344ecbc25122ee403ce315181b73330c9147c4c408.jpg",
+    "category": [
+      "Platformer",
+      "Action",
+      "Puzzle"
+    ],
+    "description": "Return to a simpler style of platforming action in Froggie - A Retro Platformer, a side-scroller presented in minimalistic black-and-white style where you take the role of an anthropomorphic frog as he leaps his way through 100 challenging levels! Run, wall jump and wall slide with fluid pixel art animation as you hop on enemies\u2019 heads, avoid spike traps and more!\n\nTouch flags or travel through doorways to set new checkpoints just in case you meet an untimely demise, but don\u2019t worry too much, as you\u2019ll instantly respawn and have a chance to try again.\n\nFeatures:\n\n\u2022 Run, hop, wall slide and more as the nimble Froggie!\n\u2022 Master 100 obstacle-filled stages of gradually increasing complexity.\n\u2022 Dispatch enemies by bouncing on their heads, ride conveyor belts and avoid spike traps!\n\u2022 Touch flags or pass through doors to set new checkpoints as you progress.\n\u2022 Respawn instantly and retry levels as many times as it takes!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/43c2d388645a5e2656ba504b1938e2bf0514eb6c1984b3bcb80976d1388af2b1.jpg",
+    "id": "010072301D4D2000",
+    "intro": "Hop your way to victory in minimalistic pixel art style!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "Froggie - A Retro Platformer",
+    "nsuId": 70010000073855,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240221,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/3e6d8c5ce29d8c064479d578f8d01f0514e2a3ba72b96eff9ade503a025a9ef5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/884dcec0876b0c6174566ddbc31adb17ea87ebdd8338508deda1bd25d7f5d48e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3e1aa589660e2c5b86fda4d2e7e3c82f60d8ea36a35f9bdbf6e4e2314585bafe.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/408b67fc15bc884cd81b3f85b1b318fd98c59884bff5b61b24b989b59cfd07db.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3bb05dd6d1792c20e5fc8203484dd1a30df4d655acdced4ff07b56255f8ca0fc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/89157f603379d07322b0a6b1440dd86b12f9504a3a8ce3219825d435ec15b803.jpg"
+    ],
+    "size": 60817408,
     "version": null
   },
   "70010000071164": {
