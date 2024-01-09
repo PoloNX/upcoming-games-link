@@ -1436,6 +1436,47 @@
     "size": 243269632,
     "version": null
   },
+  "70010000052249": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/888df16c892d0a08268437e183f1796311ce6b1b422f9b7d6d0e970497d2cf8a.jpg",
+    "category": [
+      "Adventure",
+      "Puzzle",
+      "RPG",
+      "Strategy"
+    ],
+    "description": "In this deduction adventure, you play as Lil - an unlikely 12-year-old hero - covering your dad's shift at the guard shed and are tasked with deciding the fate of over 100 unique characters.\n\nYou will question humans, elves, goblins, cyclopses, and other fantasy creatures using your powers of deduction to determine who to admit or deny based on how they respond to your questions and your trusty tools. Sending visitors to jail, inadvertently zapping them to smithereens, or letting them go on their merry way are all part of the job. But be careful: who you let through the castle gates will determine the kingdom's fate.\n\nFEATURES:\n\n\u2022 Fantasy/Comedy Narrative: See the Sprawl and its fantastical & quirky citizens through a royal wedding to one of two kingdoms vying for an alliance, and a subsequent siege by whoever you've angered in the process. Your decisions can determine the fate of the city and its people!\n\u2022 Interrogation Puzzles: Interrogate 100+ fully voiced characters in just the right way to earn a perfect score.\n\u2022 Tools of the trade: Spend your hard earned gold wisely on powering up your guardsman toolkit, and strategically deploy these to admit or deny the right people or...goblins?\n\u2022 Rewind Time: Use your trusty Chronometer3000 to go back and get a higher score... but be careful not to break space and time in the process.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/75849524f3164854e80adc18f42cbd1734f8b027b6eb418b07a93bb6135e2c33.jpg",
+    "id": "010060B017F6E000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "de",
+      "zh"
+    ],
+    "name": "Lil' Guardsman",
+    "nsuId": 70010000052249,
+    "numberOfPlayers": 1,
+    "publisher": "Versus Evil",
+    "rating": 13,
+    "ratingContent": [
+      "Blood",
+      "Drug Reference",
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240123,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/638d22f762d7531f5572f0796aea650aff84e7e5913356229d4cf3be17825201.jpg"
+    ],
+    "size": 998244352,
+    "version": null
+  },
   "70010000069406": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6431dc17b47f40537e3a7426d92fbda3f12e6706df373c6b42c8dda670cc445d.jpg",
     "category": [
@@ -2564,6 +2605,51 @@
       "https://img-eshop.cdn.nintendo.net/i/93514f264c58528dbb8137ec1791c044988327b99953ef5b6e193ae0c1e7c396.jpg"
     ],
     "size": 6193938432,
+    "version": null
+  },
+  "70010000068291": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0aa9c2437e3cbf0c656174af94d99366c4b08a1cf407df5733d2abd43b14b190.jpg",
+    "category": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Other"
+    ],
+    "description": "Elite Royal Agent Alisa - hot on the heels of a notorious thief in a fantastical world somewhat reminiscent of the 1920s - finds herself suddenly whisked away to an old, bizarre, Victorian-style mansion. Now trapped in a world up-side down, Alisa must find a way to escape - all the while being haunted by the mansion's strange, mechanized doll-like inhabitants. Can you survive the dollhouse... and escape with your humanity?\n\nWhat's waiting for you:\n- Classic Survival Horror gameplay\n- Real Pre-rendered backgrounds and authentic low-poly models\n- Currency, items, and outfits with unique player stats boosts\n- Weapon load-outs, ranging from a sabre to a blunderbuss to an SMG\n- A large variety of enemies and locations\n- Surprises around every corner!\n- A weird sense of humour\n- A nostalgic trip to the late 1990s, right down to the voice acting",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/80e2d0d7b8da66a475036423a31e8dfca5c09ebdaf48467a24a2952de9d48997.jpg",
+    "id": "0100E4E01B3F2000",
+    "intro": "Can you survive the Dollhouse? Alisa is a Horror-themed Action Adventure game, and a genuine throwback to the golden age of 90's 3D games.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "it"
+    ],
+    "name": "Alisa Developer's Cut",
+    "nsuId": 70010000068291,
+    "numberOfPlayers": 1,
+    "publisher": "Top Hat Studios",
+    "rating": 13,
+    "ratingContent": [
+      "Suggestive Themes",
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240206,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/20f0e2a38cd1ad3e9a36c48a9ab37effce149dbd138db3cf90c8a1a0250964aa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/551571425b407c1cbf3c1138683c393959791c77d410d6fd7813e5e158972a89.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/62f1964227b9a9235e266aaf052ce366b3b02bbf3cf2bc1f7941be7b2951fe22.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/afa6c7b26688427084e35bf01be5d2138435fd582a7f7d468713f7e54834d798.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d70653361f25d91767f4e8f63dce4308ded53f73607b671341039af38494e1ec.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d441af01fd77994091eb4dd3cc0172cd7d0bcf2a1b176432fbf38f42431c1ffb.jpg"
+    ],
+    "size": 699400192,
     "version": null
   },
   "70050000036517": {

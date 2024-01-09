@@ -1436,6 +1436,47 @@
     "size": 243269632,
     "version": null
   },
+  "70010000052249": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/888df16c892d0a08268437e183f1796311ce6b1b422f9b7d6d0e970497d2cf8a.jpg",
+    "category": [
+      "Aventura",
+      "Rompecabezas",
+      "Juego de rol",
+      "Estrategia"
+    ],
+    "description": "En esta aventura de deducci\u00f3n, eres Lil, una improbable hero\u00edna de 12 a\u00f1os que cubre el turno de su padre en el puesto de guardia y queda a cargo de decidir el destino de m\u00e1s de 100 personajes \u00fanicos.\n\nInterrogar\u00e1s a humanos, elfos, goblins, c\u00edclopes y otras criaturas fant\u00e1sticas usando tus poderes de deducci\u00f3n para determinar qui\u00e9n entra y qui\u00e9n no seg\u00fan c\u00f3mo responden a tus preguntas y herramientas confiables. Enviar visitantes a una celda, convertirlos en cenizas sin aviso o dejarlos seguir con sus alegres vidas es todo parte del trabajo. Sin embargo, ten cuidado: decidir qui\u00e9n entra por las puertas del castillo determinar\u00e1 el destino del reino.\n\nCARACTER\u00cdSTICAS:\n\n\u2022 Trama de fantas\u00eda/comedia: Observa al Sprawl, y a sus fant\u00e1sticos y llamativos ciudadanos en una boda real con uno de los dos reinos que buscan una alianza y en el posterior asedio de quien sea que hayas enfurecido en el proceso. \u00a1Tus decisiones pueden determinar el destino del pueblo y sus habitantes!\n\u2022 Ingenio interrogatorio: Interroga a m\u00e1s de 100 personajes con voz de la manera correcta para obtener una puntuaci\u00f3n perfecta.\n\u2022 Herramientas del oficio: Aprovecha bien el oro ganado con tanto esfuerzo gast\u00e1ndolo en mejoras para tu caja de herramientas de guardia que usar\u00e1s estrat\u00e9gicamente para admitir o rechazar correctamente a las personas o\u2026 \u00bfgoblins?\n\u2022 Regresa en el tiempo: Usa el confiable Chronometer3000 para regresar y obtener una mejor puntuaci\u00f3n\u2026 pero intenta no romper el espacio-tiempo en el proceso.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/75849524f3164854e80adc18f42cbd1734f8b027b6eb418b07a93bb6135e2c33.jpg",
+    "id": "010060B017F6E000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "de",
+      "zh"
+    ],
+    "name": "Lil' Guardsman",
+    "nsuId": 70010000052249,
+    "numberOfPlayers": 1,
+    "publisher": "Versus Evil",
+    "rating": 13,
+    "ratingContent": [
+      "Sangre",
+      "Referencia a drogas",
+      "Violencia"
+    ],
+    "region": null,
+    "releaseDate": 20240123,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/638d22f762d7531f5572f0796aea650aff84e7e5913356229d4cf3be17825201.jpg"
+    ],
+    "size": 998244352,
+    "version": null
+  },
   "70010000069406": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6431dc17b47f40537e3a7426d92fbda3f12e6706df373c6b42c8dda670cc445d.jpg",
     "category": [
@@ -2605,6 +2646,51 @@
       "https://img-eshop.cdn.nintendo.net/i/93514f264c58528dbb8137ec1791c044988327b99953ef5b6e193ae0c1e7c396.jpg"
     ],
     "size": 6193938432,
+    "version": null
+  },
+  "70010000068291": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0aa9c2437e3cbf0c656174af94d99366c4b08a1cf407df5733d2abd43b14b190.jpg",
+    "category": [
+      "Acci\u00f3n",
+      "Aventura",
+      "Juego de rol",
+      "Otros"
+    ],
+    "description": "La agente real de \u00e9lite Alisa, tras la pista de un famoso ladr\u00f3n, se encuentra de repente en una extra\u00f1a mansi\u00f3n de estilo victoriano. Atrapada en un mundo al rev\u00e9s, Alisa debe encontrar la forma de escapar, mientras es perseguida por los extra\u00f1os habitantes de la mansi\u00f3n, que parecen mu\u00f1ecas mecanizadas. \u00bfPodr\u00e1 sobrevivir a la casa de mu\u00f1ecas... y escapar con su humanidad?\n\nLo que te espera:\n- Juego cl\u00e1sico de Survival Horror\n- Fondos reales pre-renderizados y aut\u00e9nticos modelos low-poly\n- Moneda, objetos y atuendos con mejoras \u00fanicas para el jugador.\n- Cargamento de armas, desde un sable hasta un trabuco o una SMG.\n- Gran variedad de enemigos y escenarios\n- Sorpresas en cada esquina\n- Un extra\u00f1o sentido del humor\n- Un viaje nost\u00e1lgico a finales de los 90, hasta el doblaje.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/80e2d0d7b8da66a475036423a31e8dfca5c09ebdaf48467a24a2952de9d48997.jpg",
+    "id": "0100E4E01B3F2000",
+    "intro": "\u00bfPodr\u00e1s sobrevivir a Dollhouse? Alisa es un juego de acci\u00f3n y aventura con tem\u00e1tica de terror, un aut\u00e9ntico retroceso a la \u00e9poca dorada de los juegos 3D de los 90.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "it"
+    ],
+    "name": "Alisa corte del director",
+    "nsuId": 70010000068291,
+    "numberOfPlayers": 1,
+    "publisher": "Top Hat Studios",
+    "rating": 13,
+    "ratingContent": [
+      "Temas insinuantes",
+      "Violencia"
+    ],
+    "region": null,
+    "releaseDate": 20240206,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/20f0e2a38cd1ad3e9a36c48a9ab37effce149dbd138db3cf90c8a1a0250964aa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/551571425b407c1cbf3c1138683c393959791c77d410d6fd7813e5e158972a89.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/62f1964227b9a9235e266aaf052ce366b3b02bbf3cf2bc1f7941be7b2951fe22.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/afa6c7b26688427084e35bf01be5d2138435fd582a7f7d468713f7e54834d798.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d70653361f25d91767f4e8f63dce4308ded53f73607b671341039af38494e1ec.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d441af01fd77994091eb4dd3cc0172cd7d0bcf2a1b176432fbf38f42431c1ffb.jpg"
+    ],
+    "size": 699400192,
     "version": null
   },
   "70050000036517": {

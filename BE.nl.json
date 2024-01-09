@@ -1406,6 +1406,58 @@
     "size": 1249902592,
     "version": null
   },
+  "70010000070924": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d6e2b0f6b629b7de7c42cdc68d8f4a5e3f49a3c80d8201a7ce07598cdd74532a.jpg",
+    "category": [
+      "Actiespel",
+      "Avonturenspel",
+      "Schietspel"
+    ],
+    "description": "Charles is een bloeddorstige trein die jij moet vernietigen.\n\nNavigeer door een enorm speelgebied in je trouwe oude locomotief.\nHet kronkelende spoor is verraderlijk, dus plan elke missie zorgvuldig. Wees op je hoede als je te voet bent of de wissel van het spoor omzet; Charles kan je opwachten.\n\nUpgrade je trein naar wens.\nGa op plundertocht of voltooi missies om stukken schroot te vinden, waarmee je je trein kan veranderen in een moordmachine op wielen.\n\nDe locals zullen je helpen.\nHelp de kolonisten in ruil voor krachtige wapens en andere items die van vitaal belang zijn om Charles een lesje te leren.\n\nNeem het op tegen Charles in een gevecht tot de dood.\nVoltooi de hoofdverhaallijn en roep Charles op voor een dodelijk duel. Als je genoeg power, vuurkracht en skills hebt verzameld, ontmoet Charles misschien eindelijk zijn gelijke.\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c6a9089ea566e4e4a77598a39f57f4fe866192aecb5014aa2163ebc161b2249c.jpg",
+    "id": "01006F901C7F2000",
+    "intro": "Navigeer door een eiland met een open wereld in een oude trein, die je geleidelijk kan upgraden en gebruiken om de kwaadaardige spintrein Charles te bestrijden.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "nl",
+      "pt",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Choo-Choo Charles",
+    "nsuId": 70010000070924,
+    "numberOfPlayers": 1,
+    "publisher": "Two Star Games",
+    "rating": 16,
+    "ratingContent": [
+      "Angst",
+      "Heftig geweld"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/edd8f0dc8ce2153da942f8bbcf37fae8ac4273d2691a929c3e1c7baf3fe84ba7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f0284106ce8b47d6e3cbaa0ab07b6e76ceb5fa5ad511c29e3a78a116156ceb30.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1f1daf2d25465eedade5f3b021b17b4992620f13fec5b51a286146e454044070.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2415c712a592295c40887b72345ac3dbc977f724342d75e0159510c04a7357d4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/97836dc15cee313d595ef17052dfa1a6394a4cacae9c59932b8de9176b59fa61.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/79f96d3dddbff517af585e9afc9dfac848b7297f6d8d436f0a3af67328a9ab84.jpg"
+    ],
+    "size": 1916796928,
+    "version": null
+  },
   "70010000071787": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d60f49544f0fd4a64ffe8addddba9b299357e2d5f2a2f63d7eab1e0379f2fc69.jpg",
     "category": [
@@ -2866,6 +2918,50 @@
       "https://img-eshop.cdn.nintendo.net/i/855841d28778f3a3bfd9803d4fc7f6a81aa3df9e3853c626d6c78575a4c8fd49.jpg"
     ],
     "size": 6194987008,
+    "version": null
+  },
+  "70010000068292": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/97cc11edacd62182febfd125128918aa771ba1ce79171bde71afe8a01cc10e7b.jpg",
+    "category": [
+      "Actiespel",
+      "Avonturenspel",
+      "RPG",
+      "Anders"
+    ],
+    "description": "Elite Royal Agent Alisa, hot on the heels of a notorious thief in a fantastical world somewhat reminiscent of the 1920s, finds herself suddenly whisked away to an old, bizarre, Victorian-style mansion. Now trapped in a world up-side down, Alisa must find a way to escape - all the while being haunted by the mansion's strange, mechanized doll-like inhabitants. Can you survive the dollhouse... and escape with your humanity?\n\nWhat's waiting for you:\n- Classic Survival Horror gameplay\n- Real Pre-rendered backgrounds and authentic low-poly models\n- Currency, items, and outfits with unique player stats boosts\n- Weapon load-outs, ranging from a sabre to a blunderbuss to an SMG\n- A large variety of enemies and locations\n- Surprises around every corner!\n- A weird sense of humour\n- A nostalgic trip to the late 1990s, right down to the voice acting",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/80e2d0d7b8da66a475036423a31e8dfca5c09ebdaf48467a24a2952de9d48997.jpg",
+    "id": "0100E4E01B3F2000",
+    "intro": "Can you survive the Dollhouse? Alisa is a Horror-themed Action Adventure game, and a genuine throwback to the golden age of 90's 3D games.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "it"
+    ],
+    "name": "Alisa Developer's Cut",
+    "nsuId": 70010000068292,
+    "numberOfPlayers": 1,
+    "publisher": "Top Hat Studios",
+    "rating": 16,
+    "ratingContent": [
+      "Heftig geweld"
+    ],
+    "region": null,
+    "releaseDate": 20240206,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/551571425b407c1cbf3c1138683c393959791c77d410d6fd7813e5e158972a89.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87a100054ab3d3236dae175604a05935beecf96e1c7e8bcce56aa2dd94b4cae8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/62f1964227b9a9235e266aaf052ce366b3b02bbf3cf2bc1f7941be7b2951fe22.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/afa6c7b26688427084e35bf01be5d2138435fd582a7f7d468713f7e54834d798.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d441af01fd77994091eb4dd3cc0172cd7d0bcf2a1b176432fbf38f42431c1ffb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/63a969fa29bbc47aa96747cfffd2a000184975187d5ef01b0535b5cb7a841b72.jpg"
+    ],
+    "size": 699400192,
     "version": null
   },
   "70050000036557": {
