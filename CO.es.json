@@ -871,6 +871,42 @@
     "size": 0,
     "version": null
   },
+  "70070000020450": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aea6e46faf5b81911ae7649735259de71abc01d043f1980c6ac55d00fea58974.jpg",
+    "category": null,
+    "description": "Shalnor Legends: Sacred Lands\nOn a quest to prove herself to the goddess Illeria and becoming her champion, the young Elf Rynna has ventured into the Sacred Lands. This beautiful yet treacherous place can only be left by finishing the trial designed by the goddess herself.\n\nShalnor Legends 2: Trials of Thunder\nThe story begins with our young hero crash-landing on the shores of Thunder Island. In this treacherous yet tropically beautiful haven, he discovers an artifact of immense power. Upon realizing the true potential of the artifact, he embarks on a journey filled with challenges and hardships to unlock its full might.\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Two Story-Rich RPG/Action-Adventure games, made by one person over the span of many years.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Shalnor Legends Double Bundle",
+    "nsuId": 70070000020450,
+    "numberOfPlayers": null,
+    "publisher": "Johnny Ostad",
+    "rating": 10,
+    "ratingContent": [
+      "Violencia de fantasia",
+      "Bajo contenido de sangre",
+      "Lenguaje moderado"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/14a4d779a2cb757e8539cda82c84fb55e5036e5ad87eb50be9f0c6204eea3cb9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7e071315fce9f0133e95154eb3f620a0076d5642d9d91c63b22e0e7fbc1bb9b8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c740a3e459695ea05513bcfd5b3d82aa93c9f9560931f66710ffa5beec7e1be8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/79d448c7dbf83fac1c986814cb9a76eea703f5621053ee1b61705d3351242f4c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87d6825928b8cc829660d272d68fb3159b0a9e2886a31b207f6837bce4fb071a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/90b9b50e40e1c3f72c920a5095ee54ec888a1845528712a92b3562ac74445636.jpg"
+    ],
+    "size": 1183842304,
+    "version": null
+  },
   "70010000072196": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fbaa6c68a9c8b86b1c3120fbd8466a20e18420dce2cb092e81a6688a824f345f.jpg",
     "category": [

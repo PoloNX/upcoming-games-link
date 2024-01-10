@@ -950,6 +950,42 @@
     "size": 0,
     "version": null
   },
+  "70070000020450": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aea6e46faf5b81911ae7649735259de71abc01d043f1980c6ac55d00fea58974.jpg",
+    "category": null,
+    "description": "Shalnor Legends: Sacred Lands\nUn jeune aventurier se rend sur les terres sacr\u00e9es. Au sein de cette terre, elle va combattre de nombreuses batailles et r\u00e9soudre des \u00e9nigmes myst\u00e9rieuses. Beaucoup sont d\u00e9j\u00e0 venus sur cette terre, tous dans l'espoir de terminer le proc\u00e8s sacr\u00e9, mais aucun n'est revenu! Est-ce qu'elle va \u00e9chouer comme les autres? Ou va-t-elle surmonter les obstacles et rentrer \u00e0 la maison victorius !?\n\nShalnor Legends 2: Trials of Thunder\nL'histoire commence avec notre jeune h\u00e9ros qui s'\u00e9crase sur les rives de l'\u00eele du Tonnerre. Dans cet havre tra\u00eetre mais magnifiquement tropical, il d\u00e9couvre un artefact d'une puissance immense. En comprenant le v\u00e9ritable potentiel de l'artefact, il se lance dans un voyage rempli de d\u00e9fis et d'\u00e9preuves pour en lib\u00e9rer toute sa puissance.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Shalnor Legends Double Bundle",
+    "nsuId": 70070000020450,
+    "numberOfPlayers": null,
+    "publisher": "Johnny Ostad",
+    "rating": 10,
+    "ratingContent": [
+      "Violence fictive",
+      "L\u00e9g\u00e8res repr\u00e9sentations de sang",
+      "Langage grossier"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/14a4d779a2cb757e8539cda82c84fb55e5036e5ad87eb50be9f0c6204eea3cb9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7e071315fce9f0133e95154eb3f620a0076d5642d9d91c63b22e0e7fbc1bb9b8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c740a3e459695ea05513bcfd5b3d82aa93c9f9560931f66710ffa5beec7e1be8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/79d448c7dbf83fac1c986814cb9a76eea703f5621053ee1b61705d3351242f4c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87d6825928b8cc829660d272d68fb3159b0a9e2886a31b207f6837bce4fb071a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/90b9b50e40e1c3f72c920a5095ee54ec888a1845528712a92b3562ac74445636.jpg"
+    ],
+    "size": 1183842304,
+    "version": null
+  },
   "70010000072196": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fbaa6c68a9c8b86b1c3120fbd8466a20e18420dce2cb092e81a6688a824f345f.jpg",
     "category": [
@@ -2997,6 +3033,47 @@
       "https://img-eshop.cdn.nintendo.net/i/c18744e357953334c4dba0b571486e6ef72f7372c9a8bc939a30386c15c14731.jpg"
     ],
     "size": 732954624,
+    "version": null
+  },
+  "70010000061953": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6d66654940eeae7990b9e5c50d637e6a99e0c53f63fcaec065f959e1484cbc77.jpg",
+    "category": [
+      "Jeu de plateformes",
+      "Action"
+    ],
+    "description": "Oh non ! Le Grand Ascenseur est cass\u00e9 et ses rouages ont \u00e9t\u00e9 \u00e9parpill\u00e9s aux quatre coins du monde !\n\nParcours le monde avec ton poulpe gr\u00e2ce \u00e0 un moveset dynamique !\n\nInteragis avec les individus qui peuplent ce monde et r\u00e9sout des \u00e9nigmes !\n\nExplore des donjons et affronte les boss qui y r\u00e9sident !\n\nUtilise les propri\u00e9t\u00e9s des diff\u00e9rents objets \u00e0 ton avantage !\n\nRetrouve les rouages perdus, r\u00e9pare le Grand Ascenseur et d\u00e9bloque de nouveaux niveaux dans ce collectathon directement inspir\u00e9 des meilleurs platformers !",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/56d6e22e3f60996737728e11f07b1a1267676141cd4094d00e54a913b617a3fe.jpg",
+    "id": "010083701A1E4000",
+    "intro": "Pars \u00e0 l\u2019aventure avec un poulpe aux multiples comp\u00e9tences. Explore, r\u00e9sous des \u00e9nigmes et rejoins des courses endiabl\u00e9es dans ce platformer 2D !",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Promenade",
+    "nsuId": 70010000061953,
+    "numberOfPlayers": 1,
+    "publisher": "RED ART GAMES",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240223,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/450694ad808b7bf3a025d8eaeb22f2e2531f84b515c16faa62ed2e5416a02385.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/82ac82e6466aa68739745ae8b426dafe4fec941770aa73afc4db779462adf0f9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d99b3fa838c7194dce309fec84b1d8e1126816dc0f94bc6e13088b30ee7a6305.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/46ee4113b3b867ad0bf18c00d365d8fc09dedec238704d5e3103bf5874d7d556.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8e634b8b4512bd0970c980954fec5d94c3d83b6930d0cedc837c3c50110bc5c1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8b59b8f54ae1be829ced72113a7378744c770b20f57d939bf7cbc9da98523493.jpg"
+    ],
+    "size": 3190816768,
     "version": null
   },
   "70010000068584": {
