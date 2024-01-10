@@ -1812,6 +1812,46 @@
     "size": 7494172672,
     "version": null
   },
+  "70010000069282": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7d1581bd614a851038c8e240619cf030f1a6112a45b6f28bbf094d8ac362f625.jpg",
+    "category": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "description": "Tragedy strikes the world of Lunaria as the illustrious prince is kidnapped by an unknown assailant! The well-being of the land itself now rests in the hands of a young hero, Sarissa, as she has to fight, explore and figure out how to rescue the young prince. Armed with nothing but her trusty spear and the miraculous ability to communicate with the Goddess of the Moon, she must overcome treacherous enemies and dark dungeons.\n\nSaga of the Moon Priestess is a retro top-down action-adventure inspired by 8-bit and 16-bit classics. Featuring crisp pixel art and original sounds and music, Saga of the Moon Priestess invokes a simpler era of the action-adventure genre. With 5 dungeons to explore, 7 life containers, 15 items to collect and countless enemies to defeat, the world of Lunaria is a land lush with things to do, secrets to find and people to talk to.\n\nFeatures:\n\n\u2022 Embark on an old-school action adventure through the world of Lunaria!\n\u2022 Guide a young hero named Sarissa as she searches for a kidnapped prince.\n\u2022 Wield a spear and fight to gain new abilities as you explore forests, grasslands, dungeons and more!\n\u2022 Manage gear, collect health upgrades and discover useful tools.\n\u2022 Pick up rocks as improvised weapons and use other parts of the environment to your advantage!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/50c4262d7d737c94a5f90016462f262efdfc0d51302af3c75beef22551246b03.jpg",
+    "id": "01009C901BFC6000",
+    "intro": "Explore a mystical world in classic top-down style and save the kidnapped prince!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Saga of the Moon Priestess",
+    "nsuId": 70010000069282,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 12,
+    "ratingContent": [
+      "Sexual Innuendo"
+    ],
+    "region": null,
+    "releaseDate": 20240124,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/b5bf142cbfef82f68273580f22ab0dce9adbae4f202a51d7e16d9423ba924fee.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2bd04f5874c34db2382af31f9708588554c34c4fe7b65f090d3ab23ec3707337.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/367a2d62ff773337a5b6c68afec2015e649b9f52d19ac0de058f68f76c63457a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b6a97a1b57238f763935cca0db77e09c7f00435a3a7996e15d734fbab6f16b3e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bd9f90377047864afd0856c382b77e2f0692c17d09c028e22f58a8ee251e4cab.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3dd9cfbf03953d6e177275040b13de57544f4f2201b9ceb23b2d96d24e290b62.jpg"
+    ],
+    "size": 76546048,
+    "version": null
+  },
   "70010000072952": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/68fe4cbd3bba238ca32db6c27c657b641882113edc5f7cbe736766d057fe6972.jpg",
     "category": [
@@ -2332,6 +2372,44 @@
     "size": 204472320,
     "version": null
   },
+  "70010000073976": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1fc572c8eb8699a39478d1d8aaa5a64324c28b5db2f3211da4200ec9b3468667.jpg",
+    "category": [
+      "Shooter",
+      "Strategy",
+      "Action"
+    ],
+    "description": "Defend humanity from subterranean monsters as the last standing turret! Turret Rampage is a shoot'em up game with tower defense elements. You are a defensive turret, the only unit that stands between the remnants of humanity and the fierce underground invaders.\n\nRepel enemy waves by quickly moving between their tunnels and using the right weapons for every foe. The more you anger the outlandish creatures, the stronger will be the forces they send to break through your defenses. Use quick-thinking strategy, a varied arsenal of shot types and even an artificial earthquake to survive waves of baddies and move deeper underground!\n\nFeatures:\n\n\u2022 Take command as the last line of defense between humanity and fierce underground invaders!\n\u2022 Move quickly between tunnels to destroy enemies in sequence before they reach your position.\n\u2022 Change shot types to take down enemies more efficiently!\n\u2022 Use your special artificial earthquake weapon to shake things up and turn the tide of battle.\n\u2022 Survive waves to reach higher levels, each more challenging than the last!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/abac2aed8bf079c820bee0b7dbcc25dfe0bda98f6aac8747e9d27912ebc031ba.jpg",
+    "id": "0100EB001D532000",
+    "intro": "Defeat waves of subterranean invaders using quick-thinking strategy in a mix of tower defense and shoot\u2019em up action!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Turret Rampage",
+    "nsuId": 70010000073976,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/9cadd9d417a388fd59b50d51d117671c03a78211642e460ccfa5036a04de3705.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4d9002f2628c2665b023f4e228eecfab3756e894b6325c4595617e66e0e2f6a5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/08e177b1fd21df07222d53bf12e5d8f5e2de8c2a61db0a67cb588cd31e1f1301.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c14506adc780d3ba772870c599ce13ba302684d1400d3357c67df26b98868a43.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9cc7eca46f5c2df5a240ba183e64d78199cd19e535df516beaeaf03b5a229c84.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c276b30188285ff3763f8659a1bb9657b371ae1d565f35ff187ccc8b4207cd47.jpg"
+    ],
+    "size": 78643200,
+    "version": null
+  },
   "70010000075494": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20d358e53e6eae2e7227efb61812cc0d3302e990fa5913e98f9cd90dba4ca8ec.jpg",
     "category": [
@@ -2768,6 +2846,47 @@
     "size": 3145728,
     "version": null
   },
+  "70010000070505": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/046cd6c617b2063c9c97af7965a5fc8f18bcc4a6d628b660f2fcba2e886d3788.jpg",
+    "category": [
+      "Action",
+      "Puzzle",
+      "RPG"
+    ],
+    "description": "Classic dungeon crawling gets a block-busting twist in Dungeonoid 2 Awakening, a top-down adventure presented in retro pixel art style! In this genre mashup, you\u2019ll pick from 4 role-playing classes, each with their own unique stats and special skill, then set off on a quest to conquer evil by controlling a floating platform to deflect a magical orb into targets along the way.\n\nMove the platform left or right at the bottom of the screen and bounce the orb to keep it in play. Let the orb fly past you, and you\u2019ll lose a heart. But fret not, by destroying walls, gravestones, enemies and more with your orb, you\u2019ll cause power-ups and modifiers to drop towards your platform, some of which might heal you, some might shrink you, some might energize your orb for stronger attacks or have other effects! Charge your special attack to unleash particularly effective spells and attacks against big blocky bosses before they bring your adventure to an end!\n\nFeatures:\n\n\u2022 Experience a unique mix of dungeon crawling adventure and brick-breaking action!\n\u2022 Control a deflector platform and ricochet a magic orb to destroy targets.\n\u2022 Select from multiple role-playing character classes to suite your playstyle!\n\u2022 Collect power-ups and modifiers to turn the tide of battle.\n\u2022 Face off against big bosses and unleash special charge attacks!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/142219858824ef180c773b102235725458858826ea581313ae8efedef3c10860.jpg",
+    "id": "010072101C594000",
+    "intro": "Bust blocks on your path to victory in an adventurous mashup of nostalgic game genres!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Dungeonoid 2 Awakening",
+    "nsuId": 70010000070505,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 7,
+    "ratingContent": [
+      "Fear",
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240207,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/121ae9436041d55fb3ee5ab08b34c3071d86b81af0991c384d791df102aa23c3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9eaaa068768c817765f1fe50cd7a6cdf6157175f91ffdde9e3237675925ed95f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6b526f1d2f736fd615675e28275761deb54510b0384cbd15fe8418f2e3e51938.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8290ad9741448f5ff3e22bf7209892346570c6b000c81141c0a6287abca2ea9d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8c3695ab544ab98800a990b03dea200aded1442eee3d4564560652af41a3ea81.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/75892d8754776466f7384746af51bbb4bdfbc7019210668653deb2ce58e506ff.jpg"
+    ],
+    "size": 111149056,
+    "version": null
+  },
   "70010000067465": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e2fb7f09344bae29b10d3a6af587e68f2c1bf1f523a89f1aeb8437325af42154.jpg",
     "category": [
@@ -2940,6 +3059,49 @@
     "size": 1104150528,
     "version": null
   },
+  "70010000074276": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0b352f83426f47f6dd5fe472a6dd75e6c5b2fbb2652ba2b15e0fd4a70fbfd82b.jpg",
+    "category": [
+      "Puzzle",
+      "Board Game"
+    ],
+    "description": "The Pretty Girls series returns with an expanded take on a timeless classic!\n\nPretty Girls Klondike Solitaire PLUS offers the same card-based solitaire rules you know and love, but this time, you\u2019ll meet a huge variety of 11 female challengers and enjoy even more gameplay options to customize the experience. Choose from multiple difficulties, play through a tutorial to learn or refresh your knowledge of the game, use hints and assists, change the number of deck draws and more!\n\nCreate your own custom dioramas from the characters, clothing and backgrounds you\u2019ve earned! There\u2019s so much here to keep you coming back for quality time with these lovely ladies, all voiced in Japanese.\n\nFeatures:\n\n\u2022 Enjoy classic, endlessly replayable card-based solitaire with klondike rules!\n\u2022 Quickly chain your card moves to create combos and raise your score.\n\u2022 Meet a cast of 11 female companions, all voiced in Japanese!\n\u2022 Choose from multiple difficulties and use assists when you\u2019re in trouble.\n\u2022 Unlock new outfits to use in the Dressing Room and assemble custom dioramas!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/79548a6f53e5059a40052b23c610804c26d2617ad5254b3a5c79e80dc15638d2.jpg",
+    "id": "0100F8E01D61A000",
+    "intro": "Show off your quick-thinking skills as you play through card-based solitaire with a cast of lovely companions!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "zh",
+      "zh"
+    ],
+    "name": "Pretty Girls Klondike Solitaire PLUS",
+    "nsuId": 70010000074276,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 12,
+    "ratingContent": [
+      "Sexual Innuendo"
+    ],
+    "region": null,
+    "releaseDate": 20240215,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/21629c11d38b545fb7279978715639da589e9b34168a0bce23ff1d1f2d6fbe0f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0d058c57ab9cffebf505f4aedc613562397fbba1b021e755cfcc8c02cdd360ac.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/486d0a5ee10f8ed6827b5a5edd404ea88eff3158eb7d30d055997637809e4bc7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d1e89bd264d0d433ff0fbb9e701f01c5ade4b0f687a72d4b42011c4074363c53.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/12b76a456c9fd2f6df3b6f379535c92a343a2148df328cddfe97e0bf427ac7cc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4e04025f8019b26c0eab3824050996152a310efcd2356d6abfb49fc09a73348f.jpg"
+    ],
+    "size": 200278016,
+    "version": null
+  },
   "70050000043316": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2923f71643f5032d2b5786cc3fd896e3eb1d168b4a64ecc84ef0422295f73dee.jpg",
     "category": null,
@@ -3056,6 +3218,45 @@
       "https://img-eshop.cdn.nintendo.net/i/abddd9bc714fe983840f3cb0110c85fd31b5f1e21faac8621606f9eff35b9cd9.jpg"
     ],
     "size": 212860928,
+    "version": null
+  },
+  "70010000073855": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d51633acdd397ed79ebd5344ecbc25122ee403ce315181b73330c9147c4c408.jpg",
+    "category": [
+      "Platformer",
+      "Action",
+      "Puzzle"
+    ],
+    "description": "Return to a simpler style of platforming action in Froggie - A Retro Platformer, a side-scroller presented in minimalistic black-and-white style where you take the role of an anthropomorphic frog as he leaps his way through 100 challenging levels! Run, wall jump and wall slide with fluid pixel art animation as you hop on enemies\u2019 heads, avoid spike traps and more!\n\nTouch flags or travel through doorways to set new checkpoints just in case you meet an untimely demise, but don\u2019t worry too much, as you\u2019ll instantly respawn and have a chance to try again.\n\nFeatures:\n\n\u2022 Run, hop, wall slide and more as the nimble Froggie!\n\u2022 Master 100 obstacle-filled stages of gradually increasing complexity.\n\u2022 Dispatch enemies by bouncing on their heads, ride conveyor belts and avoid spike traps!\n\u2022 Touch flags or pass through doors to set new checkpoints as you progress.\n\u2022 Respawn instantly and retry levels as many times as it takes!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/43c2d388645a5e2656ba504b1938e2bf0514eb6c1984b3bcb80976d1388af2b1.jpg",
+    "id": "010072301D4D2000",
+    "intro": "Hop your way to victory in minimalistic pixel art style!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "Froggie - A Retro Platformer",
+    "nsuId": 70010000073855,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240221,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/3e6d8c5ce29d8c064479d578f8d01f0514e2a3ba72b96eff9ade503a025a9ef5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/884dcec0876b0c6174566ddbc31adb17ea87ebdd8338508deda1bd25d7f5d48e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3e1aa589660e2c5b86fda4d2e7e3c82f60d8ea36a35f9bdbf6e4e2314585bafe.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/408b67fc15bc884cd81b3f85b1b318fd98c59884bff5b61b24b989b59cfd07db.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3bb05dd6d1792c20e5fc8203484dd1a30df4d655acdced4ff07b56255f8ca0fc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/89157f603379d07322b0a6b1440dd86b12f9504a3a8ce3219825d435ec15b803.jpg"
+    ],
+    "size": 60817408,
     "version": null
   },
   "70010000071164": {
