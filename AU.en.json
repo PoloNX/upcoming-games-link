@@ -2627,6 +2627,46 @@
     "size": 204472320,
     "version": null
   },
+  "70010000075148": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39294b7efbd2587eb252e3c24ca9f745c774af39c9f60457c9e70002958fcbbf.jpg",
+    "category": [
+      "Adventure",
+      "Other"
+    ],
+    "description": "That's why in the atmosphere of an alien unfriendly planet, beneath the wide crown of the space garden \u00abAilanthus\u00bb, lives a race of artificial servants - Artifites.\n\nA young Artifite - explorer, Ein, is tormented by a vague longing. He doesn't know when the expedition began, and why it still can't reach its goal. One thing he knows for sure is that since they're stuck here for a while, he should find himself a girl. And he's got just the right one in mind.\n\nFrequent encounters in the wardroom, lunches together with the whole crew... the task seems a piece of cake. But there are three catches. First, the girl is as cold and unfriendly like cosmic ice. The second one, she's obsessed with exploring abandoned alien ruins, hidden beneath the planet's cloud cover. And the third one, the empty ruins have begun to respond to her.\n\nFeatures:\n- Studio Wirion's signature sci-fi story continues the tradition, established by the studio's previous project, the visual novel Athanasy; - Wirion's calling card - the niche \u00abbiopunk\u00bb genre;\n- a soundtrack specially made for the game by the duo Synthelligence, describing their genre of their music as \u00abmelodic sci-fi\u00bb;\n- professional artists and designers have created an incredible world, based on plant technology;\n- As expected of Wirion's distinctive style, this adult and daring story embraces the ideas, that are based on actual scientific research.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ed28e633efcd1a85a24c1a037916ccfb6c6be1c7d215b52ea4337bbca666475.jpg",
+    "id": "0100E8801D97E000",
+    "intro": "People of the distant future have taken a rule: human lives are too precious to risk for the exploration of deep space.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "name": "CEIBA",
+    "nsuId": 70010000075148,
+    "numberOfPlayers": 1,
+    "publisher": "Valkyrie Initiative",
+    "rating": 15,
+    "ratingContent": [
+      "Sexualised Imagery"
+    ],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4a2fdecb24374129ce3d12fcf58b11ac88f8b59a148661e0a42a2e9a98c99e94.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fa609b8dfd6f351357e451af3d09643a677fc2f276860ed59b30987c295addb8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6db28423c56d300249c0b0e0eaede40b972488af5b09e272c720148b80d9f060.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2e05daf8851c57606992263aacda6a6fb055d878bcd8b5fbb8f69e4f5658d55b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fe884ce7931cd3829f977e9215770d2eb9e7343ea2b69a16dc1e89ec076928de.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4fa2cb1f3b15e4f7b9c702f7bf3ba991310f9cb0d9cd24a302f6aefec65f267b.jpg"
+    ],
+    "size": 584056832,
+    "version": null
+  },
   "70010000075494": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20d358e53e6eae2e7227efb61812cc0d3302e990fa5913e98f9cd90dba4ca8ec.jpg",
     "category": [

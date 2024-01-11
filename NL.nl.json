@@ -2432,6 +2432,47 @@
     "size": 0,
     "version": null
   },
+  "70010000075148": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39294b7efbd2587eb252e3c24ca9f745c774af39c9f60457c9e70002958fcbbf.jpg",
+    "category": [
+      "Avonturenspel",
+      "Anders"
+    ],
+    "description": "Daarom leeft er in de atmosfeer van een vreemde, onvriendelijke planeet, onder de brede kruin van de ruimtetuin \"Ailanthus\", een ras van kunstmatige bedienden - Artifieten.\n\nEen jonge Artifite - ontdekkingsreiziger, Ein, wordt gekweld door een vaag verlangen. Hij weet niet wanneer de expeditie is begonnen en waarom ze nog steeds haar doel niet kan bereiken. E\u00e9n ding weet hij wel zeker: omdat ze hier een tijdje vastzitten, moet hij een meisje zoeken. En hij heeft precies de juiste in gedachten.\n\nRegelmatige ontmoetingen in de officiersmess, lunches met de hele bemanning... de taak lijkt een fluitje van een cent. Maar er zijn drie addertjes onder het gras. Ten eerste is het meisje zo koud en onvriendelijk als kosmisch ijs. Ten tweede is ze geobsedeerd door het verkennen van verlaten buitenaardse ru\u00efnes, verborgen onder het wolkendek van de planeet. En de derde: de lege ru\u00efnes beginnen op haar te reageren.\n\nKenmerken:\n- Studio Wirions kenmerkende sci-fi verhaal zet de traditie voort die is gevestigd door het vorige project van de studio, de visuele roman Athanasy; - Wirions visitekaartje - het niche \"biopunk\"-genre;\n- een soundtrack die speciaal voor het spel is gemaakt door het duo Synthelligence, dat hun muziekgenre omschrijft als \"melodieuze sci-fi\";\n- professionele kunstenaars en ontwerpers hebben een ongelooflijke wereld gecre\u00eberd, gebaseerd op plantaardige technologie;\n- Zoals verwacht van Wirions kenmerkende stijl, omarmt dit volwassen en gedurfde verhaal de idee\u00ebn die gebaseerd zijn op echt wetenschappelijk onderzoek.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ed28e633efcd1a85a24c1a037916ccfb6c6be1c7d215b52ea4337bbca666475.jpg",
+    "id": "0100E8801D97E000",
+    "intro": "Mensen uit de verre toekomst hebben een regel aangenomen: mensenlevens zijn te kostbaar om op het spel te zetten voor de verkenning van de diepe ruimte.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "name": "CEIBA",
+    "nsuId": 70010000075148,
+    "numberOfPlayers": 1,
+    "publisher": "Valkyrie Initiative",
+    "rating": 12,
+    "ratingContent": [
+      "Matig geweld",
+      "Seksuele insinuatie"
+    ],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4a2fdecb24374129ce3d12fcf58b11ac88f8b59a148661e0a42a2e9a98c99e94.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fa609b8dfd6f351357e451af3d09643a677fc2f276860ed59b30987c295addb8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6db28423c56d300249c0b0e0eaede40b972488af5b09e272c720148b80d9f060.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2e05daf8851c57606992263aacda6a6fb055d878bcd8b5fbb8f69e4f5658d55b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fe884ce7931cd3829f977e9215770d2eb9e7343ea2b69a16dc1e89ec076928de.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4fa2cb1f3b15e4f7b9c702f7bf3ba991310f9cb0d9cd24a302f6aefec65f267b.jpg"
+    ],
+    "size": 584056832,
+    "version": null
+  },
   "70050000042851": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2923f71643f5032d2b5786cc3fd896e3eb1d168b4a64ecc84ef0422295f73dee.jpg",
     "category": null,

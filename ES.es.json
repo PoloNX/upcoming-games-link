@@ -2478,6 +2478,47 @@
     "size": 0,
     "version": null
   },
+  "70010000075148": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39294b7efbd2587eb252e3c24ca9f745c774af39c9f60457c9e70002958fcbbf.jpg",
+    "category": [
+      "Aventura",
+      "Otros"
+    ],
+    "description": "Por eso, en la atm\u00f3sfera de un planeta alien\u00edgena poco amistoso, bajo la amplia corona del jard\u00edn espacial \"Ailanthus\", vive una raza de sirvientes artificiales: los Artifitas.\n\nEin, un joven artifita explorador, est\u00e1 atormentado por un vago anhelo. No sabe cu\u00e1ndo comenz\u00f3 la expedici\u00f3n, ni por qu\u00e9 sigue sin alcanzar su objetivo. Lo \u00fanico que sabe con certeza es que, ya que est\u00e1n atrapados aqu\u00ed por un tiempo, deber\u00eda buscarse una chica. Y tiene en mente a la m\u00e1s adecuada.\n\nEncuentros frecuentes en la sala de oficiales, almuerzos con toda la tripulaci\u00f3n... la tarea parece pan comido. Pero hay tres inconvenientes. La primera, la chica es tan fr\u00eda y antip\u00e1tica como el hielo c\u00f3smico. La segunda, est\u00e1 obsesionada con explorar ruinas alien\u00edgenas abandonadas, ocultas bajo la capa de nubes del planeta. Y la tercera, las ruinas vac\u00edas han empezado a responderle.\n\nCaracter\u00edsticas:\n- La caracter\u00edstica historia de ciencia ficci\u00f3n de Studio Wirion contin\u00faa la tradici\u00f3n, establecida por el anterior proyecto del estudio, la novela visual Athanasy; - La tarjeta de visita de Wirion: el nicho del g\u00e9nero \"biopunk\";\n- una banda sonora especialmente creada para el juego por el d\u00fao Synthelligence, que describe el g\u00e9nero de su m\u00fasica como \"ciencia ficci\u00f3n mel\u00f3dica\";\n- artistas y dise\u00f1adores profesionales han creado un mundo incre\u00edble, basado en tecnolog\u00eda vegetal;\n- Como era de esperar del estilo distintivo de Wirion, esta historia adulta y atrevida abarca las ideas, que se basan en la investigaci\u00f3n cient\u00edfica real.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ed28e633efcd1a85a24c1a037916ccfb6c6be1c7d215b52ea4337bbca666475.jpg",
+    "id": "0100E8801D97E000",
+    "intro": "Los habitantes de un futuro lejano han adoptado una regla: las vidas humanas son demasiado valiosas para arriesgarlas en la exploraci\u00f3n del espacio profundo.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "name": "CEIBA",
+    "nsuId": 70010000075148,
+    "numberOfPlayers": 1,
+    "publisher": "Valkyrie Initiative",
+    "rating": 12,
+    "ratingContent": [
+      "Violencia moderada",
+      "Insinuaciones sexuales"
+    ],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4a2fdecb24374129ce3d12fcf58b11ac88f8b59a148661e0a42a2e9a98c99e94.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fa609b8dfd6f351357e451af3d09643a677fc2f276860ed59b30987c295addb8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6db28423c56d300249c0b0e0eaede40b972488af5b09e272c720148b80d9f060.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2e05daf8851c57606992263aacda6a6fb055d878bcd8b5fbb8f69e4f5658d55b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fe884ce7931cd3829f977e9215770d2eb9e7343ea2b69a16dc1e89ec076928de.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4fa2cb1f3b15e4f7b9c702f7bf3ba991310f9cb0d9cd24a302f6aefec65f267b.jpg"
+    ],
+    "size": 584056832,
+    "version": null
+  },
   "70050000042851": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2923f71643f5032d2b5786cc3fd896e3eb1d168b4a64ecc84ef0422295f73dee.jpg",
     "category": null,

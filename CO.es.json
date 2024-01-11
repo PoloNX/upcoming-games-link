@@ -611,6 +611,94 @@
     "size": 1249902592,
     "version": null
   },
+  "70010000070726": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ee22e0f57a2f1ea786c92b7a87465a19be180f03188ee47e6abbdaeb99a67b21.jpg",
+    "category": [
+      "Acci\u00f3n",
+      "Aventura",
+      "Otros"
+    ],
+    "description": "DreadOut 2 es una aventura de terror en tercera persona que se inspira en el folclore y las leyendas urbanas de Indonesia. Juega como Linda Meillinda, una estudiante de secundaria con poderes sobrenaturales: la capacidad de sentir y ver fantasmas.\n\nCon la ayuda de su confiable tel\u00e9fono inteligente, Linda debe cazar esp\u00edritus de pesadilla y fuerzas oscuras que amenazan no solo a su ciudad natal, sino a toda la humanidad. Esta escalofriante secuela ampl\u00eda el \u00e9xito de culto original con combates cuerpo a cuerpo completamente nuevos y un mayor \u00e9nfasis en la exploraci\u00f3n, lo que convierte a DreadOut 2 en otra incorporaci\u00f3n convincente y aterradora al g\u00e9nero de terror.\n\nCaracter\u00edsticas:\n\u00a1Destierralos a todos! Caza y derrota fantasmas intangibles con la c\u00e1mara del tel\u00e9fono inteligente de Linda, o usa armas cuerpo a cuerpo y proyectiles contra fantasmas f\u00edsicos.\n\nUn mundo de terror: explora la ciudad natal de Linda y m\u00e1s all\u00e1, habla con los residentes (\u00a1vivos y muertos!), completa misiones secundarias y profundiza en la historia de DreadOut.\n\nDescubre fantasmas y leyendas urbanas: busca esp\u00edritus y descubre mitos locales para completar la aplicaci\u00f3n Ghostpedia en el tel\u00e9fono inteligente de Linda.\n\nAterradores esp\u00edritus jefes: mant\u00e9n la calma mientras luchas contra los fantasmas m\u00e1s hostiles del reino sobrenatural, incluido el escalofriante Kuntilanak y el horrible Gore Surgeon.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/67347cd54fae5e9fd918bc365b5ba3dce50888c1117e2de8cdde4768ec99bafd.jpg",
+    "id": "010032B01C6F2000",
+    "intro": "Una aventura de terror en tercera persona que se inspira en la leyenda urbana de Indonesia. Juega como Linda, una estudiante de secundaria con la capacidad de sentir y ver fantasmas.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "ru",
+      "zh",
+      "zh"
+    ],
+    "name": "DreadOut 2",
+    "nsuId": 70010000070726,
+    "numberOfPlayers": 1,
+    "publisher": "SOFT SOURCE",
+    "rating": 17,
+    "ratingContent": [
+      "Derramamiento de sangre",
+      "Lenguaje",
+      "Desnudez parcial",
+      "Violencia"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/37b951f37077883f482091d48e9a3534f49703736cbe7264a739ee1abb8df38c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1fa82ccc92481bb42f55e764401dd0288dcd1f81e9012dd056bd0ad0b0058312.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5034845baebcab2381e781bdc673d3b418ec88b094d72f1d541579b32f9d53e7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e924c64928dd1dc9e8f0391884966ac2d77d02f79c4cb5db0ac77fb5326fc301.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2b49cea535bfc81f5db03a2897cdaac66ec90080e18f8c1433193d5760f7e30a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/509708f8651ea743ce465f83eaea735cba1776574f74fb12225bd69f4413880a.jpg"
+    ],
+    "size": 5433720832,
+    "version": null
+  },
+  "70010000072534": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b022fc1b6d75abbbed3266271759d87092b24b372fdf48e71ccc042e3f542cc9.jpg",
+    "category": [
+      "Acci\u00f3n",
+      "Aventura"
+    ],
+    "description": "Fairytale Theatre-Momotaro's Adventure- is a 2D action game.\nAim for Onigashima by defeating ogres and monsters and saving your friends.\nMomotaro gets power-ups by opening treasure chests. When you defeat bosses, Momotaro learns new moves.\nAdventure through the world of fairy tales such as Kintaro, Urashima Taro, and Kachichiyama.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7a47526f544cfce0a641511f3932f3e900484b4ffeac26f0f4bcd39ec3fc9b59.jpg",
+    "id": "0100FE301CFD6000",
+    "intro": "Momotaro's adventurous action game!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "name": "Fairytale Theatre-Momotaro's Adventure-",
+    "nsuId": 70010000072534,
+    "numberOfPlayers": 1,
+    "publisher": "HUNTERS",
+    "rating": 10,
+    "ratingContent": [
+      "Violencia de fantasia"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4dcb7e4fc7b650f1d1260fde268b3ee507aba277f81ccd542d63a9a48ef98674.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c622063c523fb9f595961aadda470cca1813b298277c8b016558576f00d874d2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bdee6613c35cc6bc36bfb682ff9a3f10e0129ae4f6a669d8984516f1b4eae736.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b352093a6c8c3df6aff6dac3b3f59bccf5c67ffae7b55a8191447f5ac304ce47.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c1f21a55165d643c5b3c64c802c43600f93d9c06d1d01e9d8fb0d6ecbdac6754.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/439c9c5ec3bf90fc8d7022314ed0423800a900b42a1cbe74d6231b4120bd38c9.jpg"
+    ],
+    "size": 94371840,
+    "version": null
+  },
   "70010000072690": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c8a8fa1c01fac263fee1bf50a17c0f239e7b79cb5f543fa6ca11fa4125479336.jpg",
     "category": [
@@ -687,6 +775,47 @@
       "https://img-eshop.cdn.nintendo.net/i/382b51bfa82b9ec040f52eca0f4a65acf52356af6e433fd29833c9d8867b4525.jpg"
     ],
     "size": 39845888,
+    "version": null
+  },
+  "70010000072938": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c01702147c23149bd62e985fed9f1a0d3f63b9f5eadac3a350f91925eea6acec.jpg",
+    "category": [
+      "Rompecabezas",
+      "Plataformas",
+      "Aventura"
+    ],
+    "description": "Enjoy this textless journey, where all ideas are shared in icons and your powers of observation will be put to the test. You play by rearranging and reconnecting public signs in order to explore and advance through each engaging environment.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/17438e6cfb1da23ce9a6380f0648f588e17a5fa3e351f50c2a9be30f61b52943.jpg",
+    "id": "010065601BA18000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "The Pedestrian",
+    "nsuId": 70010000072938,
+    "numberOfPlayers": 1,
+    "publisher": "Skookum Arts",
+    "rating": 10,
+    "ratingContent": [
+      "Violencia de fantasia",
+      "Bajo contenido de sangre"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d14223adf0c73166dc1b5ba67754b394cb4181f9b7941b4845bb1800c85e37b0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cf6fbd6837542925f5e387d0f3d8622f8885dbc37641b8475f3cb63da0922d4c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/92ef62d8ec55be397eed7c989e1bf35eac6d59618fc0dba1214c1d57170d7c6e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0779f5cb80d79506730f17b2d2d2a982405bf3910605e1d816cda33af6c97c26.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c2069a0ba5b69729f9976587b4442f7c4c1120195ab70a0109bce8eb71c7c569.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e05a95da09be0f527daa20c003422af3956419ec904cd1ce1e0d88efecb91ff4.jpg"
+    ],
+    "size": 2361393152,
     "version": null
   },
   "70050000043606": {
@@ -1396,6 +1525,46 @@
     "size": 758120448,
     "version": null
   },
+  "70010000075526": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5407ff1ab9e2502db4e32250a52cc0510e7368bdd66f25c093d1bc4abe561bfc.jpg",
+    "category": [
+      "Aventura"
+    ],
+    "description": "The Story:\nGreat job, fulfilling hobbies.\nYou're loving the single life.\n\nThat is, until you end up married\nand all on a drunken impulse!\n\nA sparkling ring on your finger, kisses to welcome you home.\n\nIt's a marriage of convenience,\nso why does it feel like you're falling in love?\n\nNeither your vows nor your wedding certificate\nare proof of affection in this case.\n\nCan marriage be a starting point for love?\n\nCharacters:\nKunihiro Kasai     \"Ambitious & Romantic\"\nKuranosuke Kiba    \"Sly & Assertive\"\nShu Hasunuma         \"Brusque & Shy\"\nEiji Takao      \"Haughty & Mysterious\"\nUkyo Senkawa      \"Sexy & Intrepid\"\n\nContents:\nIncludes Main Stories from the app Love 365: Find Your Story up until \"Season 2\" ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fa6f7791848613a137c22b8b94db2cd574089a0b75c89709f4eb7c7f7d1e00aa.jpg",
+    "id": "0100FC301DB32000",
+    "intro": "You accidentally get hitched to\n\"that guy\" from work when you're drunk!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "name": "Oops, I Said Yes?!",
+    "nsuId": 70010000075526,
+    "numberOfPlayers": 1,
+    "publisher": "Voltage",
+    "rating": 17,
+    "ratingContent": [
+      "Temas sexuales",
+      "Uso de alcohol"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/c7f357534db94d00355b746bf0390363803b473c16d474ad94f1419e021be4d4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e3a73125a26f1aaa0b5c3eae68b28ebe8d0d1eafdf467522812882d5e9977d00.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/391a79bcb98e6bad32deb8303456d0a45e33018ce2df6dde2d786a5494585215.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2f95b38053da5e08a34340df772bad6294dc9f653ebbd204110fb856d50b6621.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2204cda3cdd6a2928ab5919705609fd892af35f005a71d5db28d0c14685886e7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a446ba9fb2e8b101780a5bcf5ffaccced0bb19307eb827da5c1637d1ebd9f57c.jpg"
+    ],
+    "size": 963641344,
+    "version": null
+  },
   "70010000076587": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b99571bfae227b7f8da3dd4fbb2d2e35ed4bd120fdd97172e730968fe57da75.jpg",
     "category": [
@@ -1848,6 +2017,48 @@
     "rightsId": null,
     "screenshots": null,
     "size": 0,
+    "version": null
+  },
+  "70010000075147": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d3bc17e3669e3c27b471c8b040cd95bf5cfc083722b4557560b5a66c081cd3d1.jpg",
+    "category": [
+      "Aventura",
+      "Otros"
+    ],
+    "description": "Por eso, en la atm\u00f3sfera de un planeta alien\u00edgena poco amistoso, bajo la amplia corona del jard\u00edn espacial \"Ailanthus\", vive una raza de sirvientes artificiales: los Artifitas.\n\nEin, un joven artifita explorador, est\u00e1 atormentado por un vago anhelo. No sabe cu\u00e1ndo comenz\u00f3 la expedici\u00f3n, ni por qu\u00e9 sigue sin alcanzar su objetivo. Lo \u00fanico que sabe con certeza es que, ya que est\u00e1n atrapados aqu\u00ed por un tiempo, deber\u00eda buscarse una chica. Y tiene en mente a la m\u00e1s adecuada.\n\nEncuentros frecuentes en la sala de oficiales, almuerzos con toda la tripulaci\u00f3n... la tarea parece pan comido. Pero hay tres inconvenientes. La primera, la chica es tan fr\u00eda y antip\u00e1tica como el hielo c\u00f3smico. La segunda, est\u00e1 obsesionada con explorar ruinas alien\u00edgenas abandonadas, ocultas bajo la capa de nubes del planeta. Y la tercera, las ruinas vac\u00edas han empezado a responderle.\n\nCaracter\u00edsticas:\n- La caracter\u00edstica historia de ciencia ficci\u00f3n de Studio Wirion contin\u00faa la tradici\u00f3n, establecida por el anterior proyecto del estudio, la novela visual Athanasy; - La tarjeta de visita de Wirion: el nicho del g\u00e9nero \"biopunk\";\n- una banda sonora especialmente creada para el juego por el d\u00fao Synthelligence, que describe el g\u00e9nero de su m\u00fasica como \"ciencia ficci\u00f3n mel\u00f3dica\";\n- artistas y dise\u00f1adores profesionales han creado un mundo incre\u00edble, basado en tecnolog\u00eda vegetal;\n- Como era de esperar del estilo distintivo de Wirion, esta historia adulta y atrevida abarca las ideas, que se basan en la investigaci\u00f3n cient\u00edfica real.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ed28e633efcd1a85a24c1a037916ccfb6c6be1c7d215b52ea4337bbca666475.jpg",
+    "id": "0100E8801D97E000",
+    "intro": "Los habitantes de un futuro lejano han adoptado una regla: las vidas humanas son demasiado valiosas para arriesgarlas en la exploraci\u00f3n del espacio profundo.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "name": "CEIBA",
+    "nsuId": 70010000075147,
+    "numberOfPlayers": 1,
+    "publisher": "Valkyrie Initiative",
+    "rating": 13,
+    "ratingContent": [
+      "Sangre",
+      "Temas sexuales",
+      "Violencia"
+    ],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4a2fdecb24374129ce3d12fcf58b11ac88f8b59a148661e0a42a2e9a98c99e94.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fa609b8dfd6f351357e451af3d09643a677fc2f276860ed59b30987c295addb8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6db28423c56d300249c0b0e0eaede40b972488af5b09e272c720148b80d9f060.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2e05daf8851c57606992263aacda6a6fb055d878bcd8b5fbb8f69e4f5658d55b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fe884ce7931cd3829f977e9215770d2eb9e7343ea2b69a16dc1e89ec076928de.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4fa2cb1f3b15e4f7b9c702f7bf3ba991310f9cb0d9cd24a302f6aefec65f267b.jpg"
+    ],
+    "size": 584056832,
     "version": null
   },
   "70050000042865": {
@@ -2308,6 +2519,45 @@
       "https://img-eshop.cdn.nintendo.net/i/75892d8754776466f7384746af51bbb4bdfbc7019210668653deb2ce58e506ff.jpg"
     ],
     "size": 111149056,
+    "version": null
+  },
+  "70010000064007": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/db84a1ce212ce7ad536fce66f36826d768270927df09ebd74b2c8c4a8c25d3e3.jpg",
+    "category": [
+      "Aventura"
+    ],
+    "description": "Sigue a Kazuma y equipo a medida que descubren una misteriosa \"Losa negra\" que los maldice con deseos contrarios a su personalidad. La pandilla ahora debe encontrar ingredientes y alimentar a la losa para crear atuendos que combinen y cumplan con sus nuevos deseos, para as\u00ed romper con la maldici\u00f3n. \u00bfTodo listo para conocer a Darkness como una dominatriz despiadada? \u00bfY qu\u00e9 tal Aqua como una diosa formal y correcta? \u00bfO Megumin como la l\u00edder orgullosa de la Liga Lolita?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/785d626f8d814071e06086d570065920f6456989f1d364f8607cd9d890460145.jpg",
+    "id": "01001F501A9AA000",
+    "intro": "Una aventura de novela visual isekai.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "KONOSUBA - God's Blessing on this Wonderful World! Love For These Clothes Of Desire!",
+    "nsuId": 70010000064007,
+    "numberOfPlayers": 1,
+    "publisher": "PQube",
+    "rating": 13,
+    "ratingContent": [
+      "Lenguaje",
+      "Temas insinuantes"
+    ],
+    "region": null,
+    "releaseDate": 20240208,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/c02e9317e60ab318dca6fac234a3d5e5b8602c12f89704d0007d3a8fca0c6117.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1ed714eff920bce43128d4b7d1c3c971e2770846872083df796bab21bca98c6d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4aefbbb87818c2859549e587d0ef7486c3b5189e97aa5f8af327c8ad6d2d770a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/07ba5b2b5cfb729cd7a808d37b0b87f114b9bd297b10ca6d5b40d7f2e9944189.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/09c388749cab6e7274ecace6367ebc6d22375a28ef4479e0a1bd3a4cbd971f2a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b43f38cc3870fc050340120bb1cd47e99d8bb5ec0149aeaf765e176aa3019b0c.jpg"
+    ],
+    "size": 3386900480,
     "version": null
   },
   "70010000070785": {

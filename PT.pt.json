@@ -2433,6 +2433,47 @@
     "size": 0,
     "version": null
   },
+  "70010000075148": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39294b7efbd2587eb252e3c24ca9f745c774af39c9f60457c9e70002958fcbbf.jpg",
+    "category": [
+      "Aventura",
+      "Outro"
+    ],
+    "description": "\u00c9 por isso que na atmosfera de um planeta estranho e hostil, sob a ampla coroa do jardim espacial \"Ailanthus\", vive uma ra\u00e7a de servos artificiais - Artifites.\n\nUm jovem Artifite - explorador, Ein, \u00e9 atormentado por uma vaga saudade. Ele n\u00e3o sabe quando a expedi\u00e7\u00e3o come\u00e7ou e porque \u00e9 que ainda n\u00e3o conseguiu atingir o seu objetivo. Uma coisa que ele sabe com certeza \u00e9 que, j\u00e1 que est\u00e3o presos aqui por um tempo, ele deve encontrar uma rapariga. E ele tem a rapariga certa em mente.\n\nEncontros frequentes na sala de conv\u00edvio, almo\u00e7os com toda a tripula\u00e7\u00e3o... a tarefa parece f\u00e1cil. Mas h\u00e1 tr\u00eas problemas. Primeiro, a rapariga \u00e9 t\u00e3o fria e hostil como o gelo c\u00f3smico. O segundo \u00e9 que ela \u00e9 obcecada por explorar ru\u00ednas alien\u00edgenas abandonadas, escondidas sob as nuvens do planeta. E o terceiro \u00e9 que as ru\u00ednas vazias come\u00e7aram a responder-lhe.\n\nCaracter\u00edsticas:\n- A hist\u00f3ria de fic\u00e7\u00e3o cient\u00edfica do Studio Wirion continua a tradi\u00e7\u00e3o estabelecida pelo projeto anterior do est\u00fadio, o romance visual Athanasy; - O cart\u00e3o de visita de Wirion - o g\u00e9nero de nicho \"biopunk\";\n- uma banda sonora especialmente criada para o jogo pelo duo Synthelligence, que descreve o g\u00e9nero da sua m\u00fasica como \"fic\u00e7\u00e3o cient\u00edfica mel\u00f3dica\";\n- artistas e designers profissionais criaram um mundo incr\u00edvel, baseado na tecnologia das plantas;\n- Como se espera do estilo carater\u00edstico de Wirion, esta hist\u00f3ria adulta e ousada abra\u00e7a as ideias, que s\u00e3o baseadas em investiga\u00e7\u00e3o cient\u00edfica real.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ed28e633efcd1a85a24c1a037916ccfb6c6be1c7d215b52ea4337bbca666475.jpg",
+    "id": "0100E8801D97E000",
+    "intro": "As pessoas de um futuro distante adoptaram uma regra: as vidas humanas s\u00e3o demasiado preciosas para serem arriscadas na explora\u00e7\u00e3o do espa\u00e7o profundo.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "name": "CEIBA",
+    "nsuId": 70010000075148,
+    "numberOfPlayers": 1,
+    "publisher": "Valkyrie Initiative",
+    "rating": 12,
+    "ratingContent": [
+      "Viol\u00eancia Moderada",
+      "Insinua\u00e7\u00f5es Sexuais"
+    ],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4a2fdecb24374129ce3d12fcf58b11ac88f8b59a148661e0a42a2e9a98c99e94.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fa609b8dfd6f351357e451af3d09643a677fc2f276860ed59b30987c295addb8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6db28423c56d300249c0b0e0eaede40b972488af5b09e272c720148b80d9f060.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2e05daf8851c57606992263aacda6a6fb055d878bcd8b5fbb8f69e4f5658d55b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fe884ce7931cd3829f977e9215770d2eb9e7343ea2b69a16dc1e89ec076928de.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4fa2cb1f3b15e4f7b9c702f7bf3ba991310f9cb0d9cd24a302f6aefec65f267b.jpg"
+    ],
+    "size": 584056832,
+    "version": null
+  },
   "70050000042851": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2923f71643f5032d2b5786cc3fd896e3eb1d168b4a64ecc84ef0422295f73dee.jpg",
     "category": null,

@@ -2483,6 +2483,47 @@
     "size": 0,
     "version": null
   },
+  "70010000075148": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39294b7efbd2587eb252e3c24ca9f745c774af39c9f60457c9e70002958fcbbf.jpg",
+    "category": [
+      "Adventure",
+      "Andere"
+    ],
+    "description": "Deshalb lebt in der Atmosph\u00e4re eines fremden, unfreundlichen Planeten, unter der weiten Krone des Weltraumgartens \"Ailanthus\", eine Rasse von k\u00fcnstlichen Dienern - Artifiten.\n\nEin junger Artifite - Forscher, Ein, wird von einer unbestimmten Sehnsucht gequ\u00e4lt. Er wei\u00df nicht, wann die Expedition begonnen hat und warum sie ihr Ziel noch immer nicht erreichen kann. Eines wei\u00df er aber ganz sicher: Da sie hier eine Weile festsitzen, sollte er sich ein M\u00e4dchen suchen. Und da hat er genau die Richtige im Sinn.\n\nH\u00e4ufige Begegnungen in der Offiziersmesse, gemeinsame Mittagessen mit der ganzen Mannschaft... die Aufgabe scheint ein Kinderspiel zu sein. Aber es gibt drei Haken. Erstens: Das M\u00e4dchen ist so kalt und unfreundlich wie kosmisches Eis. Zweitens ist sie davon besessen, verlassene au\u00dferirdische Ruinen zu erforschen, die unter der Wolkendecke des Planeten verborgen sind. Und drittens haben die leeren Ruinen begonnen, auf sie zu reagieren.\n\nMerkmale:\n- Studio Wirions charakteristische Sci-Fi-Geschichte setzt die Tradition fort, die durch das vorherige Projekt des Studios, die Visual Novel Athanasy, begr\u00fcndet wurde; - Wirions Visitenkarte - das Nischengenre \"Biopunk\";\n- ein speziell f\u00fcr das Spiel entwickelter Soundtrack des Duos Synthelligence, das das Genre seiner Musik als \"melodic sci-fi\" beschreibt;\n- professionelle K\u00fcnstler und Designer haben eine unglaubliche Welt geschaffen, die auf Pflanzentechnologie basiert;\n- Wie man es von Wirions unverwechselbarem Stil erwartet, umfasst diese erwachsene und gewagte Geschichte Ideen, die auf aktuellen wissenschaftlichen Forschungen beruhen.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ed28e633efcd1a85a24c1a037916ccfb6c6be1c7d215b52ea4337bbca666475.jpg",
+    "id": "0100E8801D97E000",
+    "intro": "Die Menschen der fernen Zukunft haben eine Regel aufgestellt: Menschenleben sind zu kostbar, um sie f\u00fcr die Erforschung des Weltraums zu riskieren.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "name": "CEIBA",
+    "nsuId": 70010000075148,
+    "numberOfPlayers": 1,
+    "publisher": "Valkyrie Initiative",
+    "rating": 16,
+    "ratingContent": [
+      "Sexuelle Andeutungen",
+      "Schreckmomente"
+    ],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4a2fdecb24374129ce3d12fcf58b11ac88f8b59a148661e0a42a2e9a98c99e94.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fa609b8dfd6f351357e451af3d09643a677fc2f276860ed59b30987c295addb8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6db28423c56d300249c0b0e0eaede40b972488af5b09e272c720148b80d9f060.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2e05daf8851c57606992263aacda6a6fb055d878bcd8b5fbb8f69e4f5658d55b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fe884ce7931cd3829f977e9215770d2eb9e7343ea2b69a16dc1e89ec076928de.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4fa2cb1f3b15e4f7b9c702f7bf3ba991310f9cb0d9cd24a302f6aefec65f267b.jpg"
+    ],
+    "size": 584056832,
+    "version": null
+  },
   "70050000042851": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2923f71643f5032d2b5786cc3fd896e3eb1d168b4a64ecc84ef0422295f73dee.jpg",
     "category": null,

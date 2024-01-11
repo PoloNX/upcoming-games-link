@@ -2432,6 +2432,47 @@
     "size": 0,
     "version": null
   },
+  "70010000075148": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39294b7efbd2587eb252e3c24ca9f745c774af39c9f60457c9e70002958fcbbf.jpg",
+    "category": [
+      "Aventure",
+      "Autre"
+    ],
+    "description": "C'est pourquoi, dans l'atmosph\u00e8re d'une plan\u00e8te \u00e9trang\u00e8re hostile, sous la large couronne du jardin spatial \"Ailanthus\", vit une race de serviteurs artificiels - les Artifites.\n\nUn jeune Artifite - explorateur, Ein, est tourment\u00e9 par une vague nostalgie. Il ne sait pas quand l'exp\u00e9dition a commenc\u00e9, ni pourquoi elle n'a toujours pas atteint son but. Ce qui est s\u00fbr, c'est que puisqu'ils sont coinc\u00e9s ici pour un moment, il devrait se trouver une fille. Et il a la bonne en t\u00eate.\n\nRencontres fr\u00e9quentes dans le carr\u00e9, d\u00e9jeuners avec tout l'\u00e9quipage... la t\u00e2che semble ais\u00e9e. Mais il y a trois hic. Le premier, c'est que la fille est aussi froide et antipathique que la glace cosmique. Deuxi\u00e8mement, elle est obs\u00e9d\u00e9e par l'exploration de ruines extraterrestres abandonn\u00e9es, cach\u00e9es sous la couverture nuageuse de la plan\u00e8te. Et le troisi\u00e8me, les ruines vides ont commenc\u00e9 \u00e0 lui r\u00e9pondre.\n\nCaract\u00e9ristiques :\n- L'histoire de science-fiction sign\u00e9e Studio Wirion poursuit la tradition \u00e9tablie par le pr\u00e9c\u00e9dent projet du studio, le roman visuel Athanasy ; - La carte de visite de Wirion - le genre de niche \"biopunk\" ;\n- une bande sonore sp\u00e9cialement con\u00e7ue pour le jeu par le duo Synthelligence, qui d\u00e9crit le genre de sa musique comme de la \"science-fiction m\u00e9lodique\" ;\n- des artistes et des concepteurs professionnels ont cr\u00e9\u00e9 un monde incroyable, bas\u00e9 sur la technologie v\u00e9g\u00e9tale ;\n- Comme on peut s'y attendre dans le style distinctif de Wirion, cette histoire adulte et audacieuse embrasse des id\u00e9es qui sont bas\u00e9es sur des recherches scientifiques r\u00e9elles.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ed28e633efcd1a85a24c1a037916ccfb6c6be1c7d215b52ea4337bbca666475.jpg",
+    "id": "0100E8801D97E000",
+    "intro": "Les habitants d'un futur lointain ont adopt\u00e9 une r\u00e8gle : les vies humaines sont trop pr\u00e9cieuses pour \u00eatre risqu\u00e9es dans l'exploration de l'espace lointain.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "name": "CEIBA",
+    "nsuId": 70010000075148,
+    "numberOfPlayers": 1,
+    "publisher": "Valkyrie Initiative",
+    "rating": 12,
+    "ratingContent": [
+      "Violence mod\u00e9r\u00e9e",
+      "Sous-entendu \u00e0 caract\u00e8re sexuel"
+    ],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4a2fdecb24374129ce3d12fcf58b11ac88f8b59a148661e0a42a2e9a98c99e94.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fa609b8dfd6f351357e451af3d09643a677fc2f276860ed59b30987c295addb8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6db28423c56d300249c0b0e0eaede40b972488af5b09e272c720148b80d9f060.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2e05daf8851c57606992263aacda6a6fb055d878bcd8b5fbb8f69e4f5658d55b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fe884ce7931cd3829f977e9215770d2eb9e7343ea2b69a16dc1e89ec076928de.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4fa2cb1f3b15e4f7b9c702f7bf3ba991310f9cb0d9cd24a302f6aefec65f267b.jpg"
+    ],
+    "size": 584056832,
+    "version": null
+  },
   "70050000042851": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2923f71643f5032d2b5786cc3fd896e3eb1d168b4a64ecc84ef0422295f73dee.jpg",
     "category": null,
