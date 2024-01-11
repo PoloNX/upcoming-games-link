@@ -1587,6 +1587,56 @@
     "size": 7494172672,
     "version": null
   },
+  "70010000067116": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/abd87220ae96644c530fcc84018f076e48d470d79345023c17f4694c834a049a.jpg",
+    "category": [
+      "Puzzle",
+      "Education"
+    ],
+    "description": "Join Clicky on a new, enchanted adventure in Hidden Through Time 2: Myths & Magic! This charming 2D hidden object game is sure to delight with its playful tone, cozy vibes and endless fun. Search for all the hidden objects scattered around beautiful hand-drawn worlds, and unlock more as you go. With both a single player campaign and an online mode where you can create your own dreamworld, the adventure never ends!\n\nStory Mode\nSet out on a journey through four magical eras, discovering all the items hidden within. Find objects to advance through the stages and explore the storyline of each era \u2013 who knows what secrets you\u2019ll uncover next!\n\nReality-Shift:\nMaster the power of time with the brand-new Reality Shift feature, adding an extra dimension to your hidden object experience. Shift from Day to Night, Summer to Winter, \u2026 and explore maps in multiple states. But keep an eye out for those objects only present in one or the other! \n\nArchitect 2.0:\nHave a creative streak? The improved Architect Mode lets you build and share your own unique experiences with greater ease than ever before! Show off your map-making skills and see how your creations stack up against those of others.\n\nImproved Customization Options:\nIn addition to the improved visuals, Hidden Through Time 2: Myths & Magic also offers increased customization options with Architect 2.0. Create custom structures and dozens of characters with one click, or sculpt terrain any way you want with the all-new terrain painter. Why not let your creativity run wild and build the map of your dreams?\n\nSo what are you waiting for? Join us on this enchanted journey through time. Your adventures are just a Click(y) away!\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0b70246553cd2f10b8f06bb9655083f8390290142f2132f5562c0a66d455f8bd.jpg",
+    "id": "0100C1401B5BC000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "pt",
+      "es",
+      "de",
+      "it",
+      "nl",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Hidden Through Time 2: Myths & Magic",
+    "nsuId": 70010000067116,
+    "numberOfPlayers": 1,
+    "publisher": "Rogueside",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "Users Interact"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/42a996843412ce5313b85059342ba0e7d18ad12e7e53b095609ac98ca1bc44bf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4a1fe2f05a332113122ccc4108f45f20f81dbe361173f73f5918d3afb5596462.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a0026a357da47bfd46258d8fa1939310ed630196881dab564147896534fee747.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aa1c4c486d7d9e7dff35e98430ada359332b45e9118ea07132b8f72bfd3a9b16.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/91c6d8ecd47c70db783084c7b6a8110cd68da5dd9ff693f8aa6d56d7de856508.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b06957a7d2320c82020a634d2db71a15e8a96cda9f8424f554714b3eb41bc6f4.jpg"
+    ],
+    "size": 702545920,
+    "version": null
+  },
   "70010000067778": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a66014db42b305a43d8e09d04d77eaf4700774b66618097d8ce11fa232983b94.jpg",
     "category": [
@@ -2053,6 +2103,53 @@
       "https://img-eshop.cdn.nintendo.net/i/689c624e21d8a229f229f98f642cd0f38e4e799fb8930e5005ccc1208d8c8751.jpg"
     ],
     "size": 121634816,
+    "version": null
+  },
+  "70010000058409": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1ff78d9ff0e61b7bcb22cc6a42d6e1967486204cdb760b04ee4931eded799b1c.jpg",
+    "category": [
+      "Platformer",
+      "Action",
+      "Arcade",
+      "Adventure"
+    ],
+    "description": "\"Teppo and The Secret Ancient City\" is an exciting adventure where players take on the role of explorer Teppo, searching for the legendary stone fortress hidden in the Amazon jungle. Meeting the mysterious Tanaca Wanax, the last chief of the unknown tribe of elected allies, Ugha Lulala, players will discover the incredible and fantastic history of a highly evolved ancient civilization, superior to that of the Mayas and the Incas. With the help of unknown technologies from space visitors, including magical diamond-shaped stones that can open a portal to access parallel worlds, players will have to overcome obstacles and challenges to reach the fortress and open the first portal. A mystery and discovery filled adventure for fans of exploration and archaeology.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2c8398bdd83cda5b5c84ae536ee885e60e3f52ba6fdf4fe6daee9789d1f46e4b.jpg",
+    "id": "010059F0195F0000",
+    "intro": "Fantastic action game.\nAmazing soundtrack.\nBeautiful colors.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt"
+    ],
+    "name": "Teppo and The Secret Ancient City",
+    "nsuId": 70010000058409,
+    "numberOfPlayers": 1,
+    "publisher": "7 Raven Studios",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f1ba77daa5c38ccc7f599830f6023a82b577f6865ec1b8316a99fec90dcc81b4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5d0e63c97bbf8bf79a33e930fa51975820cbbf9c799d59f1c54728b3c21a3ac5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1d1b34f4844212fad147f8445b784c9fb07712d271ebcd023de94908cd401f63.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/42f58c0db2a4fc5f8c875fdb0e7c1ccf4bbb89a718e3e4e62f58bee1ef92b002.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7cf0af077ebb48a14ad3378ebf309e0d86c4304506b7597ee6d3f575b253290b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9d82df6a0e714d85ec85710600eb502e30921505236c6c5809ed0577cceb6a97.jpg"
+    ],
+    "size": 565182464,
     "version": null
   },
   "70010000070580": {

@@ -903,6 +903,95 @@
     "size": 0,
     "version": null
   },
+  "70010000067628": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2ca890f780d6ba5035d93aa2d7dc9e70630e8ea2a2b715c5ee6b8533ac1669d8.jpg",
+    "category": [
+      "Aventura"
+    ],
+    "description": "O incr\u00edvel mundo de Super Sean 007 consiste em v\u00e1rios belos cen\u00e1rios da natureza: florestas, cavernas, montanhas e ru\u00ednas abandonadas contando hist\u00f3rias de quando existia uma civiliza\u00e7\u00e3o ali.\n\u2022 Os jogadores derrotar\u00e3o v\u00e1rios tipos de inimigos.\n\u2022 Os jogadores passar\u00e3o de n\u00edvel at\u00e9 que todos os requisitos da miss\u00e3o principal desse n\u00edvel sejam conclu\u00eddos.\n\u2022 Adi\u00e7\u00f5es: Os jogadores podem voltar ao n\u00edvel anterior se estiverem dispostos a terminar as miss\u00f5es secund\u00e1rias atrav\u00e9s dos pontos de teletransporte",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8a2ed16ea49738ee177cbe9e7d0b2d81c210b5ef6a6f27ead78fed8ff5341d9f.jpg",
+    "id": "01009ED01B7EE000",
+    "intro": "Super Sean 007 \u00e9 um jogo de plataforma com um mundo fascinante",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "de",
+      "it",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Super Sean 007",
+    "nsuId": 70010000067628,
+    "numberOfPlayers": 1,
+    "publisher": "SOFT SOURCE",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/92eae84f61fc88bb9167cf6a8311c4987f3150f7ed3dcde966137dc00780774b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5042892b7a05aeb9c7aca50014535a6ca8b89ddcef58cfd127ed9f8e75a61bab.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/42d3875200e7655f0e20bf6e3246363b842260181763cbb55ae2f5fa8974d660.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/17538d56b4d14f4eda508e7febdd911eb7f5acf9c7d9c38ae465fcb9331416c8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3bb04a831f5bff845cb8348af544c165b6c47b249f0915593a24e4efce9be30a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/05885b7f69d04c9cc8a8a005e581dfafbbaf45075011728e04fe7a35b5c42c2a.jpg"
+    ],
+    "size": 501219328,
+    "version": null
+  },
+  "70010000070727": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ee22e0f57a2f1ea786c92b7a87465a19be180f03188ee47e6abbdaeb99a67b21.jpg",
+    "category": [
+      "A\u00e7\u00e3o",
+      "Aventura",
+      "Outro"
+    ],
+    "description": "DreadOut 2 \u00e9 uma aventura de terror em terceira pessoa inspirada no folclore indon\u00e9sio e nas lendas urbanas. Jogue como Linda Meillinda, uma estudante do ensino m\u00e9dio com poderes sobrenaturais \u2013 a capacidade de sentir e ver fantasmas.\n\nCom a ajuda do seu fiel smartphone, Linda deve ca\u00e7ar os esp\u00edritos de pesadelo e as for\u00e7as das trevas que amea\u00e7am n\u00e3o apenas a sua cidade natal, mas toda a humanidade. Esta sequ\u00eancia arrepiante expande o sucesso original com novos combates corpo a corpo e uma maior \u00eanfase na explora\u00e7\u00e3o, tornando DreadOut 2 outra adi\u00e7\u00e3o atraente e aterrorizante ao g\u00eanero de terror.\n\nCaracter\u00edsticas:\nBanir todos eles! Cace e derrote fantasmas intang\u00edveis com a c\u00e2mera do smartphone de Linda ou use armas brancas e proj\u00e9teis contra fantasmas f\u00edsicos\n\nUm mundo de pavor: explore a cidade natal de Linda e al\u00e9m, converse com os residentes (vivos e mortos!), complete miss\u00f5es secund\u00e1rias e mergulhe mais fundo na tradi\u00e7\u00e3o de DreadOut\n\nDescubra fantasmas e lendas urbanas: procure esp\u00edritos e descubra mitos locais para completar o aplicativo Ghostpedia no smartphone de Linda\n\nEsp\u00edritos de chefes aterrorizantes: mantenha a calma enquanto voc\u00ea luta contra os fantasmas mais hostis do reino sobrenatural, incluindo o arrepiante Kuntilanak e o horr\u00edvel Cirurgi\u00e3o Gore",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/67347cd54fae5e9fd918bc365b5ba3dce50888c1117e2de8cdde4768ec99bafd.jpg",
+    "id": "010032B01C6F2000",
+    "intro": "Uma aventura de terror em terceira pessoa inspirada na lenda urbana indon\u00e9sia. Jogue como Linda, uma estudante do ensino m\u00e9dio com a habilidade de sentir e ver fantasmas.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "ru",
+      "zh",
+      "zh"
+    ],
+    "name": "DreadOut 2",
+    "nsuId": 70010000070727,
+    "numberOfPlayers": 1,
+    "publisher": "SOFT SOURCE",
+    "rating": 16,
+    "ratingContent": [
+      "Viol\u00eancia pesada"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/37b951f37077883f482091d48e9a3534f49703736cbe7264a739ee1abb8df38c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1fa82ccc92481bb42f55e764401dd0288dcd1f81e9012dd056bd0ad0b0058312.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5034845baebcab2381e781bdc673d3b418ec88b094d72f1d541579b32f9d53e7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e924c64928dd1dc9e8f0391884966ac2d77d02f79c4cb5db0ac77fb5326fc301.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2b49cea535bfc81f5db03a2897cdaac66ec90080e18f8c1433193d5760f7e30a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/509708f8651ea743ce465f83eaea735cba1776574f74fb12225bd69f4413880a.jpg"
+    ],
+    "size": 5433720832,
+    "version": null
+  },
   "70010000070924": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d6e2b0f6b629b7de7c42cdc68d8f4a5e3f49a3c80d8201a7ce07598cdd74532a.jpg",
     "category": [
@@ -2757,6 +2846,45 @@
       "https://img-eshop.cdn.nintendo.net/i/75892d8754776466f7384746af51bbb4bdfbc7019210668653deb2ce58e506ff.jpg"
     ],
     "size": 111149056,
+    "version": null
+  },
+  "70010000064009": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/db84a1ce212ce7ad536fce66f36826d768270927df09ebd74b2c8c4a8c25d3e3.jpg",
+    "category": [
+      "Aventura"
+    ],
+    "description": "Segue Kazuma e companhia \u00e0 medida que descobrem uma misteriosa \"Placa Negra\" que os amaldi\u00e7oa com desejos opostos \u00e0s suas personalidades. O gangue deve agora encontrar e fornecer ingredientes \u00e0 placa para criar trajes que correspondam e satisfa\u00e7am os seus novos desejos, e assim quebrar a maldi\u00e7\u00e3o deles. Est\u00e1s preparado para conhecer a Darkness como uma dominadora impiedosa? E a Aqua como uma deusa certinha? Ou a Megumin como a orgulhosa l\u00edder da Liga das Lolitas?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/785d626f8d814071e06086d570065920f6456989f1d364f8607cd9d890460145.jpg",
+    "id": "01001F501A9AA000",
+    "intro": "Uma Aventura Isekai de Romance Visual.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "KONOSUBA - God's Blessing on this Wonderful World! Love For These Clothes Of Desire!",
+    "nsuId": 70010000064009,
+    "numberOfPlayers": 1,
+    "publisher": "PQube",
+    "rating": 12,
+    "ratingContent": [
+      "Bad Language",
+      "Sex"
+    ],
+    "region": null,
+    "releaseDate": 20240208,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/c02e9317e60ab318dca6fac234a3d5e5b8602c12f89704d0007d3a8fca0c6117.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1ed714eff920bce43128d4b7d1c3c971e2770846872083df796bab21bca98c6d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4aefbbb87818c2859549e587d0ef7486c3b5189e97aa5f8af327c8ad6d2d770a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/07ba5b2b5cfb729cd7a808d37b0b87f114b9bd297b10ca6d5b40d7f2e9944189.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/09c388749cab6e7274ecace6367ebc6d22375a28ef4479e0a1bd3a4cbd971f2a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b43f38cc3870fc050340120bb1cd47e99d8bb5ec0149aeaf765e176aa3019b0c.jpg"
+    ],
+    "size": 3386900480,
     "version": null
   },
   "70010000070963": {
