@@ -43,6 +43,56 @@
     "size": 1015021568,
     "version": null
   },
+  "70010000065706": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ef65d229375d5057e067830d76429378bba2d9f82c516670248cb43f3f802266.jpg",
+    "category": [
+      "Adventure",
+      "RPG",
+      "Strategy",
+      "Simulation"
+    ],
+    "description": "Inspired by the beloved Chinese epic \"Romance of the Three Kingdoms,\" this game thrusts players into the turbulent final years of the Han dynasty. Players will encounter the many factions, wars and heroes of the saga as they swipe through to make high-stakes decisions, team up with the right army at the right time, gain power and more.\n\nDiscover new ways to enjoy this franchise's unique card-based swiping mechanic as you uncover the many secrets of a vast storyline, deploy strategy in turn-based battles and encounter a host of unexpected mini-games.\n\nFeatures:\n\u2022 Experience a distinctive narrative told through encountering a vast variety of characters and scenarios.\n\u2022 Play dozens of quests with specific arcs, heroes to recruit, people to wed and children to raise.\n\u2022 Recruit new heroes to fight with you in new turn-based card battles.\n\u2022 Build your own dynasty and see your political progress.\n\u2022 For the first time, take your recruits into battle against other players in online-ranked card battles.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c7aebaab1d213e9de2a87721de2913c83f1f57f8d3bdbc1215d0871c5ded19f7.jpg",
+    "id": "010091701AF62000",
+    "intro": "Swipe through military negotiations, marry to strengthen alliances and recruit soldiers to fight in turn-based card battles in this historical epic.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "pt",
+      "fr",
+      "de",
+      "it",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Reigns: Three Kingdoms",
+    "nsuId": 70010000065706,
+    "numberOfPlayers": 1,
+    "publisher": "Devolver Digital",
+    "rating": 13,
+    "ratingContent": [
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/c5276bbf64a180f62bbb0e58544aa352f15c85cd80b5f40ebe713e942d527b1b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/eb9b02601f01b286094078106d9f22b2e603724b9baeddaff5af9624650e712c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c94ba13acf506434080c36c0a0e538d6c992b66ecfd0b9e871fb493b7c645795.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ceb7efdb652ef557af7e877efa7a5902368a02dab203e4d02ab7b968f6b715a2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aee84522aba206a89ce4f6a06b5d79c043aa696a999d02c3e516fb40f0edd454.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/48b04c0552715a7c901820d51c450642ffd4d9055f196ef800f906eadf4c3b1d.jpg"
+    ],
+    "size": 288358400,
+    "version": null
+  },
   "70010000070732": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a12a9dadd822600a08179520a56b11eccd837c459042ac096513cad8038142f7.jpg",
     "category": [

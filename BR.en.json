@@ -599,6 +599,50 @@
     "size": 1249902592,
     "version": null
   },
+  "70010000067627": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2ca890f780d6ba5035d93aa2d7dc9e70630e8ea2a2b715c5ee6b8533ac1669d8.jpg",
+    "category": [
+      "Adventure"
+    ],
+    "description": "The amazing world of Super Sean 007 consists of various beautiful sceneries from nature: forests, caves, mountains, and abandoned ruins telling the stories of when there used to be a civilization there.\n\u2022\tPlayers will defeat various types of enemies.\n\u2022\tPlayers will go through the level until all the main quest requirements in that level are finished. \n\u2022\tAdditions: Players are able to go back to the previous level if they are willing to finish the side quests through the teleport points\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8a2ed16ea49738ee177cbe9e7d0b2d81c210b5ef6a6f27ead78fed8ff5341d9f.jpg",
+    "id": "01009ED01B7EE000",
+    "intro": "Super Sean 007 is a platform game with a mesmerizing world",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Super Sean 007",
+    "nsuId": 70010000067627,
+    "numberOfPlayers": 1,
+    "publisher": "SOFT SOURCE",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/92eae84f61fc88bb9167cf6a8311c4987f3150f7ed3dcde966137dc00780774b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5042892b7a05aeb9c7aca50014535a6ca8b89ddcef58cfd127ed9f8e75a61bab.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/42d3875200e7655f0e20bf6e3246363b842260181763cbb55ae2f5fa8974d660.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/17538d56b4d14f4eda508e7febdd911eb7f5acf9c7d9c38ae465fcb9331416c8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3bb04a831f5bff845cb8348af544c165b6c47b249f0915593a24e4efce9be30a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/05885b7f69d04c9cc8a8a005e581dfafbbaf45075011728e04fe7a35b5c42c2a.jpg"
+    ],
+    "size": 501219328,
+    "version": null
+  },
   "70010000070726": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ee22e0f57a2f1ea786c92b7a87465a19be180f03188ee47e6abbdaeb99a67b21.jpg",
     "category": [
@@ -804,6 +848,213 @@
     "size": 2361393152,
     "version": null
   },
+  "70010000074325": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/959a3e3acd4cd2cee03bc197f9d7d69ab496a6a291925be77dc27642d004d6bb.jpg",
+    "category": [
+      "Study",
+      "Training",
+      "Party",
+      "Communication"
+    ],
+    "description": "This is a fast-paced quiz game where you guess what the three sequentially revealed clues represent as time progresses.\nPlaying is simple:\n\nRead the hints displayed on the screen carefully and think about their common link.\nOnce you figure it out, press the answer button and input your answer.\nDepending on how quickly you figure it out, you'll be rated with 1 to 3 stars.\nIt supports both Japanese and Korean, making it ideal for language learning!\nAim for 3 stars in all languages and stages.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f7bb508bdfab026a9c6c7ca1fe6450d1de1fdf4dfb4a6e94d1ef850fa16baec.jpg",
+    "id": "010025901D64C000",
+    "intro": "Find the Common Link Among Three Clues!\nA Fast-Paced Quiz Game Also Supporting Japanese & Korean",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "ko"
+    ],
+    "name": "Fastest Finger First! 3 Hint Quiz",
+    "nsuId": 70010000074325,
+    "numberOfPlayers": 1,
+    "publisher": "TT",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/0e1c0157854a74e8a9d85a0483aa2afa1990cd0de57b313ce2c3f6ca0de846b9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1455121ffc6e060e74e13436706f490bcda04e4e187266fad433835e98e320be.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f6b4ee3fd6c1edf6b5f20563cd55c68d7c6caf0864474dac91be61f068562562.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/596142da5aa9bf2a36a4b28547aa0cbb954f33691c9a9603d632ba45378824f8.jpg"
+    ],
+    "size": 423624704,
+    "version": null
+  },
+  "70010000074677": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c71ecc77175d2ab1604cf1a0ba892e186f8b76b3b04490248855f537ecb34f0.jpg",
+    "category": [
+      "RPG",
+      "Adventure",
+      "Strategy",
+      "Simulation"
+    ],
+    "description": "The land of Eldraad is in the midst of a war between the humans, born from the Twilight Deity, and the monsters, born from the Nightfall Deity, to control all nine temples. King Edwahl wields twilight's might, turning humans into vampires via a ritual. Yet, a sinister force awakens among monsters. Will nightfall or twilight triumph?\n\nOne of the main characters, Thoma, wields a unique Blood Gauge, replacing HP and MP. Using this gauge, characters can activate Bloodthirst, granting new skills and appearances. Equip bats found in dungeons for passive effects like protection from ailments and boosted attack power. Seize victory by claiming all nine temples. Unravel the mysteries and battle the monsters within to conquer them!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e66a47f411ce59c13b66f4f2050c032cfbb5e11cc019dd72d3b2b0055ef8a9ef.jpg",
+    "id": "01006CD01D78C000",
+    "intro": "Unleash Bloodthirst skills in an epic vampire RPG!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "name": "Knights of Grayfang",
+    "nsuId": 70010000074677,
+    "numberOfPlayers": 1,
+    "publisher": "KEMCO",
+    "rating": 12,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Conte\u00fado Sexual",
+      "Drogas L\u00edcitas",
+      "Compras on-line"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/18d34915e80fe9104711fefe97dc90e3a47acfcaccac965ed7468e93c5633f68.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7e567a6794e9e6cb2139a6cd48136489148541927a1b1385d567b51713ed0c2d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/631b8535fd8ba54e8d41ae3412b3ed8f371cf032d8e2cb25d714b03f03e4202f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/59fc75e424518610c4f8fa9b30d63ef9980f31e31a32908f60c6acc344bb6e04.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bab4db115e1656ff9bd8cf424b5cb422cce9d8017c915e36475d22b2379c73dd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/272ab2697b9e140951a6b0960804947645a269ed13b10dcd92750acc6acae457.jpg"
+    ],
+    "size": 282066944,
+    "version": null
+  },
+  "70010000074742": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cea666e9fc3b6527b86135e8cb00440f2b8e97f0565872ab238fe93df31cb909.jpg",
+    "category": [
+      "Puzzle",
+      "Action",
+      "Party",
+      "Training"
+    ],
+    "description": "The official casual game of the anime \"\"DROPKICK ON MY DEVIL!\"\" is here!\nHelp \"\"JASHIN-CHAN\"\" by drawing lines from the approaching danger!\n\n\u25a0Points of the game\nIn this puzzle game, the game is over when an obstacle hits \"\"JASHIN-CHAN\"\" or she is attacked by an enemy!\nThe lines you draw become three-dimensional and protect \"\"JASHIN-CHAN\"\" from obstacles and enemies, but the game is over when the lines themselves collide with each other.\n\nOnly you can save \"\"JASHIN-CHAN\"\"! Protect \"\"JASHIN-CHAN\"\" in every way possible!\nAs you advance through the stages, that character may appear...\n\n\n\u25a0How to play the game\n1) Look carefully at the stage and check the dangers that are approaching \"\"JASHIN-CHAN\"\".\n2) Draw a line with one stroke to protect your character from the danger.\n3) If you can protect your character, the stage is cleared and you can proceed to the next stage.\n4) If you fail, you can try the same stage again and again until you succeed.\n\n\nThe game supports both button controls and touch controls, allowing you to play in TV mode, handheld mode, or tabletop mode.\n\u203bThis game is designed to be played on the Nintendo Switch\u2122 in vertical orientation.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dcfc3aaa5616f8f4fd305c15c3ce66f834997d17ceea5e0c02fb70dda5659386.jpg",
+    "id": "0100DDF01D836000",
+    "intro": "Official casual anime game",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Rescue\uff01DROPKICK ON MY DEVIL!!",
+    "nsuId": 70010000074742,
+    "numberOfPlayers": 1,
+    "publisher": "TT",
+    "rating": 10,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Conte\u00fado Sexual"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d56815004a0b420fe7e806ccc23303d038c3bac3a363f43ee1c843dc1d772b0e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a9a9671d055bec4f4a49fd2deafde3c8ade9e76a650c4cb836bc735b85e642a7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c231d22a8c0998f850886f0bb040a31c7edb86b59e47d43d448c1a2324e2ba84.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6f2c247a55b0f11ecb81b5a742ab3f3f839d6266e3963d93bdac9315445a3fc8.jpg"
+    ],
+    "size": 244318208,
+    "version": null
+  },
+  "70010000075394": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/294cae9eb935b16ef61a75149b122d57f0d84ec23d0fc10039ec3ff5040c166b.jpg",
+    "category": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "description": "DETECTIVE: Stella Porta Case, puts you in the shoes of a detective who investigates three strange disappearances.\n\nIn all cases there is a contract signed by the disappeared, that contract is from an organization called \"\"Stella Porta\"\".\n\nEach case presents a completely different scenario, but they all seem to be connected in some way, as a detective your job is to solve the cases and find the connection between them.\n\nAs a police detective, you must reach the crime zone and collect all the evidence you see, these evidence will help you later to solve the case.\n\nAnything is important, details, objects, conversations, you will need to be observant in order to move forward.\n\nFeatures:\n\n- Three different cases.\n\n- You will have to mark the evidence and photograph it.\n\n- Once you have the evidence, you must go to your office and order it to solve the case.\n\nDETECTIVE: Stella Porta Case, is dark and macabre, showing unfiltered contemporary social reality.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/186c0a7c9eca2717c029b581e07aa9a6726299dbf5cb28a45e9f0e4953781653.jpg",
+    "id": "01005AB01DAD0000",
+    "intro": "First-person investigation game",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "zh"
+    ],
+    "name": "Detective - Stella Porta Case",
+    "nsuId": 70010000075394,
+    "numberOfPlayers": 1,
+    "publisher": "JanduSoft",
+    "rating": 16,
+    "ratingContent": [
+      "Viol\u00eancia Extrema"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f8d68491e5e11ba07dda4e9f24c57204eddb3ca873552577568bc02ab17bcbf6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c0040d94f9d69a9ce8dba8c59ca31e9cc031897c8d160b6ec3cb85767fb0c6f6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/77f2ef384578b4e563d03c62b9dfa4085632a6c03c8d4c17559998a265c6bfcc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/835e1ae3ebc789c93b79c7672eb8e53a4acae2c61b39383308de74b1f285c247.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/913aa3e1c0afad1792b173242b88efd34991abeea544795031f3131f48e33d32.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6b7b58eebe59c611ecaf9076d0910d72964246f92e620172af82842daa319dcd.jpg"
+    ],
+    "size": 4116709376,
+    "version": null
+  },
+  "70010000075793": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/89b585e5ceea33ee5365b37ca87e2247becff8558ec1cde49b331092023a2d61.jpg",
+    "category": [
+      "Board Game",
+      "Utility",
+      "Party",
+      "Communication"
+    ],
+    "description": "Introducing Easy Dice for RPG/Tabletop, the ultimate tool tailored for both casual and professional players of Board Games and RPGs. Elevate your gaming experience with a host of features designed to enhance every tabletop adventure and make your gatherings/parties unforgettable. Here's what Easy Dice has to offer:\n\n - Universal Dice Selection: Roll a variety of dice including d2, d4, d6, d8, d10, d12, d20, and d100.\n\n - Multiple Roll Capability: Throw multiple dice at once with ease, streamlining your gameplay and saving time for more exciting moments.\n\n- History Tracker: Keep track of your rolls with the built-in history feature.\n\n- Adjustable Roll Counts: Customize your experience by increasing or decreasing the current number. \n\n- Effortless Restart: Hit the reset button with a single tap.\n\n- Automatic Summation: Save time on calculations as the game automatically adds up the results of your dice rolls.\n\n - Immersive Features: Feel the thrill with vibration feedback during each dice throw and enjoy the realistic sounds of dice hitting the tabletop.\n\n- Universal Gaming: Extend the fun beyond RPGs\n\n- Party-Ready: Elevate your gatherings with Easy Dice. Whether it's a holiday celebration or a casual get-together, this game brings an extra layer of excitement to any party.\n\nExperience the next level of tabletop gaming with Easy Dice for RPG/Tabletop. Streamlined, immersive, and loaded with features, it's the perfect companion for your gaming adventures. Download now and let the dice roll!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/df16111c33ed0fb7fce85d1dabc8a7f180b7d5a1b444a678add112d20c133879.jpg",
+    "id": "0100E7C01DB96000",
+    "intro": "Every Dice Roll Sparks the Life of the Party!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Easy Dice for RPG/Tabletop",
+    "nsuId": 70010000075793,
+    "numberOfPlayers": 1,
+    "publisher": "SOURCE BYTE",
+    "rating": 0,
+    "ratingContent": [
+      "Compras on-line"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/21289f45dc5f72db4ed73738d2ac36d17ef500b750257900fc34ddbd69551d9f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/db1128de2297b8caf77a5756783551bd27d3ff0f08c208a7659f306b543955c6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e17599657e32300bad3021b183093b9141094cb33bad50dc4796adbfb13f1769.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4b81d8ed906a9fe782ec726bbbbdbe8553d7cdcd8fc7f0e860f4996e4492f861.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/88094105d4972f7bf018647c268b26495f86df7d93e9559a2989d9896ac93e34.jpg"
+    ],
+    "size": 55574528,
+    "version": null
+  },
   "70050000043606": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b88756ec57bf724a571e02a9e205d725af407f9ffe1f21efcfd265dc9afdc31f.jpg",
     "category": null,
@@ -852,6 +1103,100 @@
     "rightsId": null,
     "screenshots": null,
     "size": 0,
+    "version": null
+  },
+  "70050000046524": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f8edd1db70deb89f8c4e12e5822810c066af96e4afd1dcbde872a43683242fae.jpg",
+    "category": null,
+    "description": "Unleash the fiery spirit of dragons with our Dragon DLC theme for Easy Dice. Immerse your rolls in a vibrant red backdrop and conquer your tabletop adventures in true draconic style!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Dragon DLC theme for Easy Dice for RPG/Tabletop",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Easy Dice for RPG/Tabletop - Dragon Theme",
+    "nsuId": 70050000046524,
+    "numberOfPlayers": null,
+    "publisher": "SOURCE BYTE",
+    "rating": 0,
+    "ratingContent": [
+      "Compras on-line"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/b84b3193eb89bb3c977886cbf56993557baacb6309ffb9c5d8d2549ae187a74f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/07542cad80eba63f2c8120ede58d9d52cda3dc04af3785c32cc7d5b9eb13847e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9c5e2a1ed6c3ac6c32cdd33f22520bd668c429dda5dc9478275a8ca7dbd4d5f1.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70050000046525": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f638a660a91ef65f1a8b761533c764315b176c26a418698a212dd8673c30fff1.jpg",
+    "category": null,
+    "description": "Embark on a heroic journey with the Warrior DLC theme for Easy Dice. ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Warrior DLC theme",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Easy Dice for RPG/Tabletop - Warrior",
+    "nsuId": 70050000046525,
+    "numberOfPlayers": null,
+    "publisher": "SOURCE BYTE",
+    "rating": 0,
+    "ratingContent": [
+      "Compras on-line"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8eb5bb410065c5856193ef09dcfc5167e0ceb477e0c7d48a32053a40b477418d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a1801527aa97f187aeaf3a5b8ac6d32c7a31ba5533891536b25365bf4603c777.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0f2a1d0505db127ab246c33bf9e8728d9c1895fd0662f1495b95b484747a2c09.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70070000017471": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4d98abffefee0b2e3708b5954223e11b01ef10d969921d41c4a05fbffbae09a0.jpg",
+    "category": null,
+    "description": "Experience a magical journey with a variety of gameplay styles, from absorbing energy in magical realms to creating logical circuits and solving color-based puzzles! \n\nMagicolors \nEmbark on a mystical journey with Magicolors, where you wield a magical staff to solve intricate puzzles. Absorb the energy from rare magic crystals to unlock powerful spells and navigate through increasingly challenging levels. Each puzzle is a step closer to becoming a master wizard in this enchanting world.\n\nPuzzletronics: Digital Infinite \nEnter the minimalist world of Puzzletronics: Digital Infinite, where logic and serenity blend seamlessly. This jigsaw-puzzle game challenges you to arrange pieces to form complex digital circuits. Accompanied by a calming soundtrack, it's a peaceful yet stimulating experience for puzzle enthusiasts.\n\nDungeon Color \nDungeon Color is an innovative top-down puzzle adventure. In this game, you'll navigate through a labyrinth of rooms, each requiring a specific flame color to unlock. Switch between different colored flames to solve puzzles and aim to achieve the elusive rainbow flame in every room. It's a test of strategy and color theory in a unique dungeon setting.\n\nPuzzle Car \nFor a relaxing and minimalist challenge, Puzzle Car is your go-to game. Tasked with assembling a path for your car, you must strategize to collect items and navigate safely through each level. It's a simple yet captivating experience that combines puzzle-solving with a serene driving adventure.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Explore a vibrant world of puzzles and magic with Colorful Adventures, featuring four enchanting indie games. Immerse yourself in this bundle for a magical experience!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Colorful Adventures Bundle",
+    "nsuId": 70070000017471,
+    "numberOfPlayers": null,
+    "publisher": "QUByte Interactive",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/2fd7735828243eca7e65f3ad980af88b394edb784bcae30c9593ac753722f442.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1802c70fea52a5f3f8e7906f1725a41181409093d571fb33f4550a5009e70fe5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a57a2d8569b1fe05b089a1202d881106b3ec89ea05518762c02aa36be878b033.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1e59e72097f57b73d0b1f7edbea805c41b272c9eddad819ebb6093b01e4977e0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a4fed8f4bc139674dbb4a3a9428e83e5ef441d04e9b36f22cc157630eb590958.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d8026c5cc0451cb915097df1dd69473467c91c1e67a86732e481744c604f0888.jpg"
+    ],
+    "size": 818937856,
     "version": null
   },
   "70070000020450": {
@@ -1417,6 +1762,56 @@
     "size": 4749000704,
     "version": null
   },
+  "70010000067115": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/abd87220ae96644c530fcc84018f076e48d470d79345023c17f4694c834a049a.jpg",
+    "category": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "description": "Join Clicky on a new, enchanted adventure in Hidden Through Time 2: Myths & Magic! This charming 2D hidden object game is sure to delight with its playful tone, cozy vibes and endless fun. Search for all the hidden objects scattered around beautiful hand-drawn worlds, and unlock more as you go. With both a single player campaign and an online mode where you can create your own dreamworld, the adventure never ends!\n\nStory Mode\nSet out on a journey through four magical eras, discovering all the items hidden within. Find objects to advance through the stages and explore the storyline of each era \u2013 who knows what secrets you\u2019ll uncover next!\n\nReality-Shift:\nMaster the power of time with the brand-new Reality Shift feature, adding an extra dimension to your hidden object experience. Shift from Day to Night, Summer to Winter, \u2026 and explore maps in multiple states. But keep an eye out for those objects only present in one or the other! \n\nArchitect 2.0:\nHave a creative streak? The improved Architect Mode lets you build and share your own unique experiences with greater ease than ever before! Show off your map-making skills and see how your creations stack up against those of others.\n\nImproved Customization Options:\nIn addition to the improved visuals, Hidden Through Time 2: Myths & Magic also offers increased customization options with Architect 2.0. Create custom structures and dozens of characters with one click, or sculpt terrain any way you want with the all-new terrain painter. Why not let your creativity run wild and build the map of your dreams?\n\nSo what are you waiting for? Join us on this enchanted journey through time. Your adventures are just a Click(y) away!\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0b70246553cd2f10b8f06bb9655083f8390290142f2132f5562c0a66d455f8bd.jpg",
+    "id": "0100C1401B5BC000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "nl",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Hidden Through Time 2: Myths & Magic",
+    "nsuId": 70010000067115,
+    "numberOfPlayers": 1,
+    "publisher": "Rogueside",
+    "rating": 0,
+    "ratingContent": [
+      "Usu\u00e1rios Interagem"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/42a996843412ce5313b85059342ba0e7d18ad12e7e53b095609ac98ca1bc44bf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4a1fe2f05a332113122ccc4108f45f20f81dbe361173f73f5918d3afb5596462.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a0026a357da47bfd46258d8fa1939310ed630196881dab564147896534fee747.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aa1c4c486d7d9e7dff35e98430ada359332b45e9118ea07132b8f72bfd3a9b16.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/91c6d8ecd47c70db783084c7b6a8110cd68da5dd9ff693f8aa6d56d7de856508.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b06957a7d2320c82020a634d2db71a15e8a96cda9f8424f554714b3eb41bc6f4.jpg"
+    ],
+    "size": 702545920,
+    "version": null
+  },
   "70010000067777": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a66014db42b305a43d8e09d04d77eaf4700774b66618097d8ce11fa232983b94.jpg",
     "category": [
@@ -1461,6 +1856,90 @@
       "https://img-eshop.cdn.nintendo.net/i/43c7379209d2a0fcab5d3756f845214d52bbc6fb35a9ce70f63a84c908575f3c.jpg"
     ],
     "size": 13863223296,
+    "version": null
+  },
+  "70010000068768": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/deec5bfdf35fa80a5ecbef6ab44b098bb74e5a643f1a34feba6376340db4abb6.jpg",
+    "category": [
+      "Arcade",
+      "Action",
+      "Shooter",
+      "Adventure"
+    ],
+    "description": "Get ready for exciting naval combat!\nTake control of a small boat as you navigate through various biomes, armed with your trusty weapons. But be warned - enemy ships are out to get you! Engage in intense battles as you shoot and destroy these despicable foes, testing your reflexes and aiming skills. Immerse yourself in the thrilling world of boat combat. Survive challenging fights and show off your boat-shooting skills today!\n\nIn this game, you play as a boat that is trying to defend itself from an invasion of opposing ships.\nEach level begins in a different biome with different obstacles, styles, and decorations, teeming with enemies.\nOnce the enemies have spotted you they start moving towards you and start shooting at you with relatively slow flying bullets. You are able to outmaneuver your enemies by simply dodging their bullets or diving beneath them. Then you can use your front or side cannons to fight back against them by shooting at them. At the end of each level waits a big opponent with more energy and bigger bullets. You have 3 lives before the game ends, so be careful not to get hit by a bullet.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2009884bd3418e1914a526610c0c8cb316eeb249b4356b237bb2de40697c659e.jpg",
+    "id": "010038501BD22000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Boaty Tanks 2",
+    "nsuId": 70010000068768,
+    "numberOfPlayers": 1,
+    "publisher": "EpiXR Games",
+    "rating": 10,
+    "ratingContent": [
+      "Viol\u00eancia"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/04ea1b9ddb7fe93ec330d76c4cbd23a5aa24db7920355855bf8ceec9eb36c629.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/adf1102e94af323720b6aa888b62bd40cdf35991c43a3ad51c862220d1595601.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3cfe7a6e1c6c337bf09e35113334ece3564ef3041d187386a88a75fb20a488e4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cf772eee8e4be7f95dca4423c1972baa4c243ee9235dd0964984ff507816f99a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/13c2f82b745ae1e34d47aa4e36d2e78a2a0abf6dce56617d1370de6dae0d98f0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8959391a1c85159c3e23e6339f7be0940dbfe263d9b0273fb3a6426ca68ce0de.jpg"
+    ],
+    "size": 2654994432,
+    "version": null
+  },
+  "70010000070479": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/06f7dd370dca5ac3430e490ea5832baa00e77e2ed9dab991ec2e0bd0a4e1e0b5.jpg",
+    "category": [
+      "Action",
+      "Adventure",
+      "Arcade"
+    ],
+    "description": "Jett Rider, the most unlikely hero stars in the biggest 2D adventure of the year. Save the planet Gravos, free its people, face the toughest bosses... And don't forget to recycle!\n\nA collision in the orbit of the planet Gravos is the starting point of an unforgettable adventure with tons of fun and love for the classics. Jett, the space sweeper, was only supposed to pick up the wreckage of the AC-137 cargo ship, but he soon discovered that something messy was brewing on the surface of Gravos.\n\nFeatures\n\n- Shooter action, exploration, lots of humor and impressive bosses.\n- Upgrade your jetpack and skills to reach unexplored areas of Gravos.\n- Make money by recycling space debris.\n- Expand your arsenal and choose your favorite weapon.\n- Collect the Golden Idols and exchange them for unique items at the Peach Store.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9a9b030b58669bb220d42878f5c765f70f0f00c5679f4448c7d51fa6b7cbf8a2.jpg",
+    "id": "01003F001C57C000",
+    "intro": "An epic action adventure",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de"
+    ],
+    "name": "Jett Rider",
+    "nsuId": 70010000070479,
+    "numberOfPlayers": 1,
+    "publisher": "JanduSoft",
+    "rating": 0,
+    "ratingContent": [
+      "Viol\u00eancia Fantasiosa"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/3d1a8b68ab0bc06049926347cabd4f7b7ea037c702f874e7e44ec25b0a2fcdf1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f7b3c26225e3b43e1e2bdae86c9e29fa329325ab8bb159d2e82d2005fa90ae6a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e8534b098bfd371428567ef1f3783ca9c9f0c208bd22b27b6a6a237f3dc47176.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/012cc396b9082bc540cdaa1b5ee0cefc0fbcf77ecf195a6ce678e508a3f734cd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/92fb23936aa4cb700f1d71eff1d0896ff0057ffdab19c1415feafbb5137866ae.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3d84c01b957d8d306c75d9391b1e9249402ef58c03227d77d2b88dc6d9d4920a.jpg"
+    ],
+    "size": 262144000,
     "version": null
   },
   "70010000070807": {
@@ -1548,6 +2027,91 @@
       "https://img-eshop.cdn.nintendo.net/i/303c94a2776e9984b190726f94ae2ba1c841a946dc476cbbd52b2c9a09917074.jpg"
     ],
     "size": 758120448,
+    "version": null
+  },
+  "70010000073284": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ab2e3ae984923e7147a94b8b8535c1750301c3f60675b7d26a12ec3a1a2ce393.jpg",
+    "category": [
+      "Action",
+      "Adventure",
+      "Shooter",
+      "Other"
+    ],
+    "description": "Devil Inside Us: Roots of Evil is a story focused horror game.\nPlay as a priest and help a family with their cursed house, explore, follow your visions and exorcize the evil!\n\nAughust Heylel, an exorcist legitimized by the vatican and a relevant priest doesn't belive in his own faith anymore. \n\nHe writes a letter talking about his life and his worst mission, the case \"Roots of Evil\", which started in 1984.\n\nHis mission was to investigate a house with paranormal activities, but the problem was way deeper.\n\nThe case stuck into Aughust's head for more than 30 years, and now, it's finally the time to finish it!\n\nFeatures:\n- Explore the house, find itens, notes and cursed objects\n- Control a 74 year old priest with limited movement, beware of his condition\n- Aughust's medium skills will take you to unusual places and guide you to solve the mistery\n- Use your crucifix to exorcize cursed objects and Devils",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b5a8e1a76c61b0ff98e860691718c6929bba48ba5a8c0fc1a8b6377e4636c600.jpg",
+    "id": "010039401D2D0000",
+    "intro": "Play as a priest and exorcize the evil!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "Devil Inside Us: Roots of Evil",
+    "nsuId": 70010000073284,
+    "numberOfPlayers": 1,
+    "publisher": "QUByte Interactive",
+    "rating": 18,
+    "ratingContent": [
+      "Viol\u00eancia Extrema",
+      "Linguagem Impr\u00f3pria",
+      "Temas Sens\u00edveis"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/e362b2061106c8f945898f1e4afbf87f05faac9ffa3a3d65a7adfeeb457ecb90.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f508017f6b006b9ad2e60e442305130ff5c6a6cd8a05fa1a15dc1435808d4805.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aa3a77c8a09d15ac0ebc7a22fb1dad1c8b17445a1746e5de4bfcef2de6ec8f3e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/970ed42cb66a1d73b74aa7cd98a6f4035f81681579db8900eb57a91862664da6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/54f27c30f7c83ee8cf4358dfb8eef12ddb252cdad17ebe66f80eab20bcdbf412.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/68904413b38587e58e65d27b6a1d27f323fc42862649fb266f3a9f9ed23eb2ce.jpg"
+    ],
+    "size": 3868196864,
+    "version": null
+  },
+  "70010000073968": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a292cdc0ca5de3fd0f1d7156c93eeb4d2d842e258ab506ada5f36434495a84bf.jpg",
+    "category": [
+      "First-Person Shooter",
+      "Arcade",
+      "Action",
+      "Adventure"
+    ],
+    "description": "KOBOLOK is an ethnic horror game based on an Eastern European fairytale about round bread \"Kolobok\" aka \"O Kobl\u00ed\u017ekovi\" aka \"Pannkauken\".\n\nThis is a story about a boy who ran away from his parents and got lost in the woods. The woods were dark and trembling, so the boy wanted to find a new herd, and he did indeed!\n\nThat was a wonderful pack full of friendship and unity, but every good essence has its price, and the price for the boy was terrible! A brutal bread contest that was necessary to happen every 3 years. I can not tell you about the contest. If I do, it will be spoiled. So take a deep dive into the mystery!\n\n-The mysterious story about a man, who is stuck in a time loop with the cult in the mountains\n-Different locations from forests to roads and old Ukrainian apartment\n-Nostalgic graphics\n-Atmospheric sound\n-You will be spooked and intrigued!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3fac4766bf57079f8a437b3afe50e4e939ebd1d36c54717490577df7bca154bc.jpg",
+    "id": "010088401D52E000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "KOBOLOK",
+    "nsuId": 70010000073968,
+    "numberOfPlayers": 1,
+    "publisher": "Marginalact",
+    "rating": 10,
+    "ratingContent": [
+      "Medo",
+      "Viol\u00eancia Fantasiosa"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/0063d6603c8f3fbb3ae5b37860ece85e16d047999714e1e014a0db4df5b84286.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/63e426bf8878d98d32c09c1ce3ed33d5c80b5d9169a84c39613181c02a51f74e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5b479c96f8eb8bc388599f45b47b75484863d7c9da9aee10daf87ee24236694b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a4fe7f6adf9dd7aac744593fc478db8c6ae1648af9f3d05a9a644e4904364e34.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4c046c58e9a3d9bf6c2decf76d4f434155b1f25eb915b79f8081a5bd36825a70.jpg"
+    ],
+    "size": 796917760,
     "version": null
   },
   "70010000075526": {
@@ -2081,6 +2645,53 @@
     "rightsId": null,
     "screenshots": null,
     "size": 0,
+    "version": null
+  },
+  "70010000058408": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1ff78d9ff0e61b7bcb22cc6a42d6e1967486204cdb760b04ee4931eded799b1c.jpg",
+    "category": [
+      "Platformer",
+      "Action",
+      "Arcade",
+      "Adventure"
+    ],
+    "description": "\"Teppo and The Secret Ancient City\" is an exciting adventure where players take on the role of explorer Teppo, searching for the legendary stone fortress hidden in the Amazon jungle. Meeting the mysterious Tanaca Wanax, the last chief of the unknown tribe of elected allies, Ugha Lulala, players will discover the incredible and fantastic history of a highly evolved ancient civilization, superior to that of the Mayas and the Incas. With the help of unknown technologies from space visitors, including magical diamond-shaped stones that can open a portal to access parallel worlds, players will have to overcome obstacles and challenges to reach the fortress and open the first portal. A mystery and discovery filled adventure for fans of exploration and archaeology.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2c8398bdd83cda5b5c84ae536ee885e60e3f52ba6fdf4fe6daee9789d1f46e4b.jpg",
+    "id": "010059F0195F0000",
+    "intro": "Fantastic action game.\nAmazing soundtrack.\nBeautiful colors.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt"
+    ],
+    "name": "Teppo and The Secret Ancient City",
+    "nsuId": 70010000058408,
+    "numberOfPlayers": 1,
+    "publisher": "7 Raven Studios",
+    "rating": 0,
+    "ratingContent": [
+      "Viol\u00eancia Fantasiosa"
+    ],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f1ba77daa5c38ccc7f599830f6023a82b577f6865ec1b8316a99fec90dcc81b4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5d0e63c97bbf8bf79a33e930fa51975820cbbf9c799d59f1c54728b3c21a3ac5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1d1b34f4844212fad147f8445b784c9fb07712d271ebcd023de94908cd401f63.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/42f58c0db2a4fc5f8c875fdb0e7c1ccf4bbb89a718e3e4e62f58bee1ef92b002.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7cf0af077ebb48a14ad3378ebf309e0d86c4304506b7597ee6d3f575b253290b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9d82df6a0e714d85ec85710600eb502e30921505236c6c5809ed0577cceb6a97.jpg"
+    ],
+    "size": 565182464,
     "version": null
   },
   "70010000075147": {
