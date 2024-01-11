@@ -1387,6 +1387,57 @@
     "size": 2140143616,
     "version": null
   },
+  "70010000065452": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dee59b7876e35ec4355de2ea7b52a6561e2fd87568113c585ff33d98d8d8ce06.jpg",
+    "category": [
+      "Acci\u00f3n",
+      "Aventura",
+      "Disparos"
+    ],
+    "description": "Eres el Agente 47, un asesino profesional en el punto de mira de una agencia rival, \"La Franquicia\".\n\nEmb\u00e1rcate en una arriesgada misi\u00f3n para acabar con los letales art\u00edfices de una conspiraci\u00f3n oscura y emplea todas las herramientas a tu disposici\u00f3n para hacer tu trabajo sin que nadie se entere. Inf\u00edltrate, asesina y escapa sin que te detecten.\n\nCon mejoras en la jugabilidad inspiradas en juegos posteriores de la serie, Reprisal es un redise\u00f1o art\u00edstico de un cl\u00e1sico de acci\u00f3n y sigilo, adaptado con maestr\u00eda para Nintendo Switch\u2122.\n\nASESINAR LO ES TODO\nViaja por todo el mundo, desde la \u00d3pera de Par\u00eds hasta el Strip de Las Vegas, para eliminar objetivos de alto nivel.\n\nEL MEJOR PROFESIONAL\nLos peque\u00f1os detalles son la clave. Asesina silenciosamente sin testigos o manipula el entorno para provocar tr\u00e1gicos \"accidentes\". Cuanto m\u00e1s limpio sea el golpe, mejor ser\u00e1 la recompensa.\n\nDOMINA TU OFICIO\nConvi\u00e9rtete en un maestro del disfraz, el ingenio y la improvisaci\u00f3n. Con m\u00faltiples formas de abordar cada objetivo, las misiones abiertas de Blood Money fomentan la experimentaci\u00f3n, la creatividad y la rejugabilidad. \u00a1La pr\u00e1ctica hace al maestro!\n\nUN NUEVO MODO INSTINTO\nInspirado en los \u00faltimos juegos de HITMAN, el modo Instinto resalta los objetivos, los guardias y los puntos de inter\u00e9s cr\u00edticos de la misi\u00f3n para que mates con sigilo y huyas r\u00e1pidamente: las se\u00f1as de identidad de un asesino silencioso.\n\nUN PASO POR DELANTE\nEnt\u00e9rate de la situaci\u00f3n en tiempo real con el nuevo minimapa y estate pendiente de las alertas que se han a\u00f1adido, que te avisar\u00e1n si el Agente 47 est\u00e1 en una zona restringida o levanta sospechas.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7aa9caa7236c0d7db3951348ee67a1806113cfaf015205673a8c2681bfd33320.jpg",
+    "id": "010083A018262000",
+    "intro": "S\u00e9 el asesino definitivo.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "ru"
+    ],
+    "name": "Hitman: Blood Money \u2014 Reprisal",
+    "nsuId": 70010000065452,
+    "numberOfPlayers": 1,
+    "publisher": "Feral Interactive",
+    "rating": 17,
+    "ratingContent": [
+      "Sangre",
+      "Humor vulgar",
+      "Violencia intensa",
+      "Temas sexuales",
+      "Lenguaje fuerte",
+      "Uso de Drogas y Alcohol"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8e6521fef6a8946f83e4a5d8218b592c40a45a8981dbf8b906dffb8f50f48b47.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/91649d6395709451fd67cf569f8007b4fe5259ab881fb6f6ebc188325b9acea8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/301bf4ae56e9a4cea19157c7552e6672fcfd8b03b9ee55c2b50c3e7dc217f3a4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/924ac82c23cb3d8e1a38a110c4cec1b18626ec4ec623b7addbff55f74011bcaf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3babbad7cd28458120901a30db0ea96fed9de0023a0f4933156dd1babcb835b6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/81aaea559adc9dc3c9c3621a5356bf77920d8434a119da65e0f44ad493a580bc.jpg"
+    ],
+    "size": 4749000704,
+    "version": null
+  },
   "70010000067777": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a66014db42b305a43d8e09d04d77eaf4700774b66618097d8ce11fa232983b94.jpg",
     "category": [

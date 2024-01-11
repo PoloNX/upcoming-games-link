@@ -43,6 +43,51 @@
     "size": 1015021568,
     "version": null
   },
+  "70010000070732": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a12a9dadd822600a08179520a56b11eccd837c459042ac096513cad8038142f7.jpg",
+    "category": [
+      "Puzzle",
+      "Action",
+      "Arcade"
+    ],
+    "description": "\"COSMO GANG THE PUZZLE\" is a puzzle action game released by Namco (Bandai Namco Entertainment) in 1992.\nMake sure to line up the cosmos and containers that fall from above to eliminate them.\nContainers disappear when lined up horizontally, and cosmos can disappear when hit by the blue ball.\nThe key to strategy is to rotate the parts well and create a good path for the ball.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3aef8ea1959a5cabc96eb3f1266dad9075697b6fb85057956615e09751f2254e.jpg",
+    "id": "0100F0001C6E8000",
+    "intro": "More strategic, more interesting.\nChallenge puzzles, compete in puzzles!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Arcade Archives COSMO GANG THE PUZZLE",
+    "nsuId": 70010000070732,
+    "numberOfPlayers": 2,
+    "publisher": "HAMSTER",
+    "rating": 0,
+    "ratingContent": [
+      "Very Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/c4f7435c1805aa893746abdc58fb9e94dabefccb3c3ad4e8bfdfc93fe7d18858.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/107bc4596c9e4ca392c37f46ac7271c944be697f9b967a89e56c7d0ed1648a16.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b5501907c04259f48b48f66e02e0dbe1bbed4ca51beb4a308aae238560660df6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f12b9b989bdd062c9375f288342ba4458090c1012744b44e71ae837f19cfa4f5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8f9f197c42355a235b8aa18d5421340fa7dde792fb5f0e27695a945fe627539e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/413019b326187f135a308f8cf1127a68a1512c90b92815f9b9b7686391bdd367.jpg"
+    ],
+    "size": 63963136,
+    "version": null
+  },
   "70010000071789": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/65e0424ba951a29ff7777aeed18de23db26afc8c01ea48f8f78a9c8c0c84ad39.jpg",
     "category": [
@@ -385,6 +430,82 @@
       "https://img-eshop.cdn.nintendo.net/i/b3ae6265a26486293cb1af9181bf875fb6d4c7391036cc0a569fef9ffea7f36b.jpg"
     ],
     "size": 1897922560,
+    "version": null
+  },
+  "70010000075287": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b6d624f7d9d21471c1155c0dc3d3546508fadd783d626a0b317329a66c1eb901.jpg",
+    "category": [
+      "Shooter",
+      "Action"
+    ],
+    "description": "\"SILPHEED\" is a vertical scrolling 3D shooter game released by GAMEARTS in 1986. \nThe player boards the air fighter SA-08 SILPHEED and sets out to crush the insurgency.\n\nThe game consists of a total of 20 areas, including outer space, inside the base, and above the planet, and players advance while destroying enemies who fly in one after another. \nSILPHEED can be powered up by collecting items placed in each area, and weapons are added according to the score. \n\nAt the end of each area, players will be confronted by large enemies with unique attack methods, such as attacking with ring lasers or reflecting our lasers. \n\n*This application does not have a scene select mode.\n*This application does not have a game speed change function. \n*The main game and gallery screen (*Gallery) are in Japanese version.\n*Other menu screens and \"\"How to play\"\" screens are in English.\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5dea2355c464cd3833d8eca904b90168fb8b4e59cfe9e872287c73fdc4ece120.jpg",
+    "id": "010021101D9DE000",
+    "intro": "The best 3D shooter game of the 80's. Drive the SILPHEED fighter jet and crush the ambitions of the XACALITE who have sacked GLOIRE. ",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "name": "EGGCONSOLE SILPHEED PC-8801mkIISR",
+    "nsuId": 70010000075287,
+    "numberOfPlayers": 1,
+    "publisher": "D4 Enterprise",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Violence",
+      "Scary Scenes"
+    ],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d1111d67cbd1bf3e11ad2d162b6358e74086636ccc1d825d6cbe57101a2c8645.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c83a60f4805a3a1d4e7f3421c739bb939330ab0124c72950365425e8de900f05.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e55783b94d61d9ac1d8f5ff5ace26addefb9b3f555e997859771aba96662c502.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3e2198760cc4ae87e94d8907f80898a9d5507231cc8a71ca092626782276ea41.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9755a6c2d6a9231147b32b917b5d122c6bb8129323df3bb294ba1ac830789988.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/54f6b215db95051af2d82f914089b84ffc92409ea755845308b0ac7f82556206.jpg"
+    ],
+    "size": 59768832,
+    "version": null
+  },
+  "70070000020214": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/10c16f7d81797e5c4c6db9bf06d71e296ea39482fefa798f49dec1668111226b.jpg",
+    "category": null,
+    "description": "Here is what all players have been waiting for - an amazing flip clock.\n\nA simple, fail-proof design. It can be used as a decorative color accent on your desk, but also as a practical reminder using the alarm function.\n\nThis time, along with 3 DLC: the Elegant, Spin, and Digital Clock.\n\nKey features:\n\n- Tells time!\n- Setting alarms\n- Great for any ages\n- Brilliant design\n- Cute platformer game included!\n- Customization",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Always with you - AAA Clock. Great retro game included!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "AAA Clock Ultra GOTY Edition",
+    "nsuId": 70070000020214,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240112,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/9e7fdc1d526a6c835b43770a67e1a52c3f4c3cf18cd13ef6e962240bd6754d5b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ee8bf4208a8a7e6551cccc126046580372d37af3a3a5b059b0c27e3a68660e15.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8c8d3963514449d5c8c4242ee05370d78cfc12c2b0e57a7dd2aacc2af1c00e6e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/12cb26983f5468d48753d3be0ffa0ae38d86a6709e6b760c1c14b24160d5c360.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/547ea7f8809ec12253191799e0be140007fe1badb2167a9b3afb6f80d1703bc0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8ba65393dc7b9f71817da566b070785076847c1e6f8a74d9345babbcfb21f186.jpg"
+    ],
+    "size": 263192576,
     "version": null
   },
   "70070000020379": {
@@ -1211,6 +1332,47 @@
     "size": 39845888,
     "version": null
   },
+  "70010000072939": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c01702147c23149bd62e985fed9f1a0d3f63b9f5eadac3a350f91925eea6acec.jpg",
+    "category": [
+      "Puzzle",
+      "Platformer",
+      "Adventure"
+    ],
+    "description": "Enjoy this textless journey, where all ideas are shared in icons and your powers of observation will be put to the test. You play by rearranging and reconnecting public signs in order to explore and advance through each engaging environment.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/17438e6cfb1da23ce9a6380f0648f588e17a5fa3e351f50c2a9be30f61b52943.jpg",
+    "id": "010065601BA18000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "The Pedestrian",
+    "nsuId": 70010000072939,
+    "numberOfPlayers": 1,
+    "publisher": "Skookum Arts",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Themes",
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d14223adf0c73166dc1b5ba67754b394cb4181f9b7941b4845bb1800c85e37b0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cf6fbd6837542925f5e387d0f3d8622f8885dbc37641b8475f3cb63da0922d4c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/92ef62d8ec55be397eed7c989e1bf35eac6d59618fc0dba1214c1d57170d7c6e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0779f5cb80d79506730f17b2d2d2a982405bf3910605e1d816cda33af6c97c26.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c2069a0ba5b69729f9976587b4442f7c4c1120195ab70a0109bce8eb71c7c569.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e05a95da09be0f527daa20c003422af3956419ec904cd1ce1e0d88efecb91ff4.jpg"
+    ],
+    "size": 2361393152,
+    "version": null
+  },
   "70010000073107": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39e4bdcacbc7c0463f3bb7df0e6eb4d76ab6360bdffb77fa7f48fa924d49dddf.jpg",
     "category": [
@@ -1297,6 +1459,53 @@
       "https://img-eshop.cdn.nintendo.net/i/2605d8fa85c7d0b9b4a0c884edd81312390d58158ed8b05b5fa5e90c133558ed.jpg"
     ],
     "size": 1281359872,
+    "version": null
+  },
+  "70010000074678": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c71ecc77175d2ab1604cf1a0ba892e186f8b76b3b04490248855f537ecb34f0.jpg",
+    "category": [
+      "RPG",
+      "Adventure",
+      "Strategy",
+      "Simulation"
+    ],
+    "description": "The land of Eldraad is in the midst of a war between the humans, born from the Twilight Deity, and the monsters, born from the Nightfall Deity, to control all nine temples. King Edwahl wields twilight's might, turning humans into vampires via a ritual. Yet, a sinister force awakens among monsters. Will nightfall or twilight triumph?\n\nOne of the main characters, Thoma, wields a unique Blood Gauge, replacing HP and MP. Using this gauge, characters can activate Bloodthirst, granting new skills and appearances. Equip bats found in dungeons for passive effects like protection from ailments and boosted attack power. Seize victory by claiming all nine temples. Unravel the mysteries and battle the monsters within to conquer them!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e66a47f411ce59c13b66f4f2050c032cfbb5e11cc019dd72d3b2b0055ef8a9ef.jpg",
+    "id": "01006CD01D78C000",
+    "intro": "Unleash Bloodthirst skills in an epic vampire RPG!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "name": "Knights of Grayfang",
+    "nsuId": 70010000074678,
+    "numberOfPlayers": 1,
+    "publisher": "KEMCO",
+    "rating": 8,
+    "ratingContent": [
+      "Online Interactivity",
+      "Mild Themes",
+      "Mild Violence",
+      "Scary Scenes",
+      "Sexualised Imagery",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/18d34915e80fe9104711fefe97dc90e3a47acfcaccac965ed7468e93c5633f68.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7e567a6794e9e6cb2139a6cd48136489148541927a1b1385d567b51713ed0c2d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/631b8535fd8ba54e8d41ae3412b3ed8f371cf032d8e2cb25d714b03f03e4202f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/59fc75e424518610c4f8fa9b30d63ef9980f31e31a32908f60c6acc344bb6e04.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bab4db115e1656ff9bd8cf424b5cb422cce9d8017c915e36475d22b2379c73dd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/272ab2697b9e140951a6b0960804947645a269ed13b10dcd92750acc6acae457.jpg"
+    ],
+    "size": 282066944,
     "version": null
   },
   "70010000075458": {
@@ -1426,6 +1635,143 @@
       "https://img-eshop.cdn.nintendo.net/i/a217cd7195a1eb3fed868d2b19575cf80d79ba9b9789150d748a0a8c32cfd15e.jpg"
     ],
     "size": 397410304,
+    "version": null
+  },
+  "70070000017450": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4d98abffefee0b2e3708b5954223e11b01ef10d969921d41c4a05fbffbae09a0.jpg",
+    "category": null,
+    "description": "Experience a magical journey with a variety of gameplay styles, from absorbing energy in magical realms to creating logical circuits and solving color-based puzzles! \n\nMagicolors \nEmbark on a mystical journey with Magicolors, where you wield a magical staff to solve intricate puzzles. Absorb the energy from rare magic crystals to unlock powerful spells and navigate through increasingly challenging levels. Each puzzle is a step closer to becoming a master wizard in this enchanting world.\n\nPuzzletronics: Digital Infinite \nEnter the minimalist world of Puzzletronics: Digital Infinite, where logic and serenity blend seamlessly. This jigsaw-puzzle game challenges you to arrange pieces to form complex digital circuits. Accompanied by a calming soundtrack, it's a peaceful yet stimulating experience for puzzle enthusiasts.\n\nDungeon Color \nDungeon Color is an innovative top-down puzzle adventure. In this game, you'll navigate through a labyrinth of rooms, each requiring a specific flame color to unlock. Switch between different colored flames to solve puzzles and aim to achieve the elusive rainbow flame in every room. It's a test of strategy and color theory in a unique dungeon setting.\n\nPuzzle Car \nFor a relaxing and minimalist challenge, Puzzle Car is your go-to game. Tasked with assembling a path for your car, you must strategize to collect items and navigate safely through each level. It's a simple yet captivating experience that combines puzzle-solving with a serene driving adventure.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Explore a vibrant world of puzzles and magic with Colorful Adventures, featuring four enchanting indie games. Immerse yourself in this bundle for a magical experience!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Colorful Adventures Bundle",
+    "nsuId": 70070000017450,
+    "numberOfPlayers": null,
+    "publisher": "QUByte Interactive",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/2fd7735828243eca7e65f3ad980af88b394edb784bcae30c9593ac753722f442.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1802c70fea52a5f3f8e7906f1725a41181409093d571fb33f4550a5009e70fe5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a57a2d8569b1fe05b089a1202d881106b3ec89ea05518762c02aa36be878b033.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1e59e72097f57b73d0b1f7edbea805c41b272c9eddad819ebb6093b01e4977e0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a4fed8f4bc139674dbb4a3a9428e83e5ef441d04e9b36f22cc157630eb590958.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d8026c5cc0451cb915097df1dd69473467c91c1e67a86732e481744c604f0888.jpg"
+    ],
+    "size": 818937856,
+    "version": null
+  },
+  "70070000017452": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c21e418ae11b2f6c531e5918b7a53cd56524ad78452c890ba734ab5c65638aac.jpg",
+    "category": null,
+    "description": "Discover the benefits that games that require concentration and analytical thinking can bring you in a light and fun way. In this unmissable package for those who like to challenge their intelligence, you'll find:\n\nChess Brain\nDraw the correct path and don't let the King be killed by the opposing pieces. Every second, all the pieces will move. Solve 30 puzzles, some of which may be simple, but others will make you think about every second to come!\n\nZen Chess Collection\nFour minimalist chess puzzle games to test your skills in a series of 600 challenges, designed for both experienced chess players and beginners.\n\nChess Knights: Shinobi\nA turn-based puzzle game inspired by chess. Become a ninja in feudal Japan and prove your skills in the art of infiltration, sabotage and assassination. 50 levels of increasing complexity, plus 10 \"surreal\" secret levels.\n\nChess Knights: Viking Lands\nHelp the knights rescue their kings and queens in the beautiful and dangerous Viking Lands in 40 levels of increasing complexity.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Boost your brain with four unique chess and puzzle games that will improve your mood, your problem-solving skills, your memory and your ability to concentrate.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Chess Grandmaster Royal Bundle",
+    "nsuId": 70070000017452,
+    "numberOfPlayers": null,
+    "publisher": "QUByte Interactive",
+    "rating": 0,
+    "ratingContent": [
+      "General",
+      "Very Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/6742ab3eac26a8a4b8e86c9f85c8e897fe3c66434139607c244b42acf24cab56.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4a608ffb96189abbba387980b0efc495e003fc00660ec1bbf971a9114af000bf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/00e46c59da502ac62db9754c26713c7959edbba69d83b64ce16b3ed3d1500c49.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/632b4db23295ae9b8d2320678b67483cc2c4e2e0b7231252908171c2d86dd068.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0ddd85d356f2045e70a6089174b046df5f0c91830bd35df27f3aec2dfc2f0f5f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e8339a83639cbdefcac12a348afde4a757c0a043d5389d1b6dd9cd0f6eaabe9e.jpg"
+    ],
+    "size": 2087714816,
+    "version": null
+  },
+  "70070000020321": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/01d41e92f6ec2bd549d0cf45d60b462cec1226c0d1af9cea07ef127a47be025b.jpg",
+    "category": null,
+    "description": "Experience the ultimate rush with our \"Highway Racing Bundle\" \u2013 featuring the acclaimed \"Car Racing Highway Driving Simulator\" and a thrilling expansion pack! Unleash over 30 cars, from racing speedsters to off-road SUVs, with unique driving physics. Overtake traffic in the fastest car, test your skills, and conquer endless highway challenges. Upgrade, tune, and customize your favorite car for maximum performance. This bundle includes a brand-new high-performance car in the expansion pack, elevating your highway driving to new heights. Get ready to rev your engines, dominate the roads, and feel the pulse of the asphalt with this essential DLC pack \u2013 the key to an unparalleled driving experience!\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Fuel the Speed, Conquer Challenges: Highway Racing \u2013 Where Velocity Meets the Ultimate Thrill!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Car Racing Highway Driving Simulator - PREMIUM EDITION",
+    "nsuId": 70070000020321,
+    "numberOfPlayers": null,
+    "publisher": "Erlano",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/42b98f02a5b77833c3b3c1c56d7de95a4d0f12ca1c749ab76e65af7a2e538d67.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9b1dc0b3594882fcf3fc12e49c81b9cdb52e63a1d663e1b5cee2a0241f11d78a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/19e78c94eea4541bd78962ed8f75237be4a7af00b8ead5dcd15cf4bbe6cebe43.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d4979d193cedd8cc19e89fbc3fa82c5806f5b1facce1fe554a6d2863e1b8460f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fc56dce474b42e81f83c6124484da87d0be376cdd7da6dbafa13435b2d36cc4c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/165dadc499e9603475690ac9f6bbd798dbd2121828f890b2f0bf8ae2ae765a36.jpg"
+    ],
+    "size": 1032847360,
+    "version": null
+  },
+  "70070000020500": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eb777c354e4fbfaaf96c989c6d74465b4def391103ad5160aaeb209650687d4d.jpg",
+    "category": null,
+    "description": "This is a second episode of series in which we present you with popular classic games from the world! \n\nShow your mastery in those titles by playing against the AI or a friend in a local co-op mode.\n\nThis is a great game bundle to get your brain juices flowing!\n\nGames included in the bundle are:\n\nMahjong - Traditional Asian game in which you will have to match sets and pairs of tiles.\n\nWord Search - discover all the words hidden in the puzzle!\n\nBattleships - Select a right strategy to predict the position of the rival ships on the map!\n\nHangman - Can you guess the right word before the stick man hangs?\n\nTry them all and discover why these games are still absorbing after all those years!\n\nThis bundle includes base game and DLC #1 Classic Holiday Spirit with:\n- Christmas-themed delight. Bring the joy of the holiday season to your gaming with festive designs that echo the beloved cozy patterns of holiday sweaters and decorations.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Welcome to the \"Classic Games Collection Vol.2\"!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Classic Games Collection Vol.2 Holiday Edition",
+    "nsuId": 70070000020500,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Minis",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d2c776bd22c7f6d2a8889aafad80b563f07e5fd558d89ddef0ced2e04d357fce.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d7b6f5e28aa4db3bdaf0c9ea036490a052f4677153b71a5d9f6c2dd50d63282b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/89fa52b82beb8620b9fc2e0fd6a4c860dbb9f044c579db35650b6623aca101b5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4da4da5fba9bdccaf4d4a5bbed743362dd4c383d672a710a2ca7596a6f2f341a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/94e27b8dfac85601b59384be97ad0b9f2d114bbfcd38803fc7dd3b58cc129fe0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bbc7601b791242e192e560ba1503be5fc83ec47884a15e702f213059a19a885a.jpg"
+    ],
+    "size": 402653184,
     "version": null
   },
   "70010000070090": {
@@ -1881,6 +2227,130 @@
       "https://img-eshop.cdn.nintendo.net/i/12f7754720abcfc93e537d9bb72cc3edae9e90e68f06808b01729e167ea3efb8.jpg"
     ],
     "size": 2146435072,
+    "version": null
+  },
+  "70010000068769": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/deec5bfdf35fa80a5ecbef6ab44b098bb74e5a643f1a34feba6376340db4abb6.jpg",
+    "category": [
+      "Arcade",
+      "Action",
+      "Shooter",
+      "Adventure"
+    ],
+    "description": "Get ready for exciting naval combat!\nTake control of a small boat as you navigate through various biomes, armed with your trusty weapons. But be warned - enemy ships are out to get you! Engage in intense battles as you shoot and destroy these despicable foes, testing your reflexes and aiming skills. Immerse yourself in the thrilling world of boat combat. Survive challenging fights and show off your boat-shooting skills today!\n\nIn this game, you play as a boat that is trying to defend itself from an invasion of opposing ships.\nEach level begins in a different biome with different obstacles, styles, and decorations, teeming with enemies.\nOnce the enemies have spotted you they start moving towards you and start shooting at you with relatively slow flying bullets. You are able to outmanoeuvre your enemies by simply dodging their bullets or diving beneath them. Then you can use your front or side cannons to fight back against them by shooting at them. At the end of each level waits a big opponent with more energy and bigger bullets. You have 3 lives before the game ends, so be careful not to get hit by a bullet.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2009884bd3418e1914a526610c0c8cb316eeb249b4356b237bb2de40697c659e.jpg",
+    "id": "010038501BD22000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Boaty Tanks 2",
+    "nsuId": 70010000068769,
+    "numberOfPlayers": 1,
+    "publisher": "EpiXR Games",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240126,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/04ea1b9ddb7fe93ec330d76c4cbd23a5aa24db7920355855bf8ceec9eb36c629.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/adf1102e94af323720b6aa888b62bd40cdf35991c43a3ad51c862220d1595601.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3cfe7a6e1c6c337bf09e35113334ece3564ef3041d187386a88a75fb20a488e4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cf772eee8e4be7f95dca4423c1972baa4c243ee9235dd0964984ff507816f99a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/13c2f82b745ae1e34d47aa4e36d2e78a2a0abf6dce56617d1370de6dae0d98f0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8959391a1c85159c3e23e6339f7be0940dbfe263d9b0273fb3a6426ca68ce0de.jpg"
+    ],
+    "size": 2654994432,
+    "version": null
+  },
+  "70010000070480": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af72f24437ce74b5bbc144a5494e3d7d53ccadfd864b6c631ea08c756052dc2a.jpg",
+    "category": [
+      "Adventure",
+      "Action",
+      "Arcade"
+    ],
+    "description": "Jett Rider, the most unlikely hero stars in the biggest 2D adventure of the year. Save the planet Gravos, free its people, face the toughest bosses... And don't forget to recycle!\n\nA collision in the orbit of the planet Gravos is the starting point of an unforgettable adventure with tons of fun and love for the classics. Jett, the space sweeper, was only supposed to pick up the wreckage of the AC-137 cargo ship, but he soon discovered that something messy was brewing on the surface of Gravos.\n\nFeatures\n\n- Shooter action, exploration, lots of humor and impressive bosses.\n- Upgrade your jetpack and skills to reach unexplored areas of Gravos.\n- Make money by recycling space debris.\n- Expand your arsenal and choose your favorite weapon.\n- Collect the Golden Idols and exchange them for unique items at the Peach Store.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9a9b030b58669bb220d42878f5c765f70f0f00c5679f4448c7d51fa6b7cbf8a2.jpg",
+    "id": "01003F001C57C000",
+    "intro": "An epic action adventure",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de"
+    ],
+    "name": "Jett Rider",
+    "nsuId": 70010000070480,
+    "numberOfPlayers": 1,
+    "publisher": "JanduSoft",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240126,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/3d1a8b68ab0bc06049926347cabd4f7b7ea037c702f874e7e44ec25b0a2fcdf1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f7b3c26225e3b43e1e2bdae86c9e29fa329325ab8bb159d2e82d2005fa90ae6a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e8534b098bfd371428567ef1f3783ca9c9f0c208bd22b27b6a6a237f3dc47176.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/012cc396b9082bc540cdaa1b5ee0cefc0fbcf77ecf195a6ce678e508a3f734cd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/92fb23936aa4cb700f1d71eff1d0896ff0057ffdab19c1415feafbb5137866ae.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3d84c01b957d8d306c75d9391b1e9249402ef58c03227d77d2b88dc6d9d4920a.jpg"
+    ],
+    "size": 262144000,
+    "version": null
+  },
+  "70010000073969": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a292cdc0ca5de3fd0f1d7156c93eeb4d2d842e258ab506ada5f36434495a84bf.jpg",
+    "category": [
+      "Arcade",
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "description": "KOBOLOK is an ethnic horror game based on an Eastern European fairytale about round bread \"Kolobok\" aka \"O Kobl\u00ed\u017ekovi\" aka \"Pannkauken\".\n\n\nThis story is about a boy who ran away from his parents and got lost in the woods. The woods were dark and trembling, so the boy wanted to find a new herd, and he did indeed!\n\nThat was a wonderful pack full of friendship and unity, but every good essence has its price, and the price for the boy was terrible! A brutal bread contest that was necessary to happen every three years. I can not tell you about the contest. If I do, it will be spoiled. So, take a deep dive into the mystery!\n\n\n\nThe mysterious story about a man who is stuck in a time loop with the cult in the mountains\nDifferent locations, from forests to roads and old Ukrainian apartment\nNostalgic retro-style graphics\nAtmospheric sound\nYou will be spooked and intrigued!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3fac4766bf57079f8a437b3afe50e4e939ebd1d36c54717490577df7bca154bc.jpg",
+    "id": "010088401D52E000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "KOBOLOK",
+    "nsuId": 70010000073969,
+    "numberOfPlayers": 1,
+    "publisher": "Marginalact",
+    "rating": 8,
+    "ratingContent": [
+      "Scary Scenes"
+    ],
+    "region": null,
+    "releaseDate": 20240126,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/0063d6603c8f3fbb3ae5b37860ece85e16d047999714e1e014a0db4df5b84286.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/63e426bf8878d98d32c09c1ce3ed33d5c80b5d9169a84c39613181c02a51f74e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5b479c96f8eb8bc388599f45b47b75484863d7c9da9aee10daf87ee24236694b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a4fe7f6adf9dd7aac744593fc478db8c6ae1648af9f3d05a9a644e4904364e34.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4c046c58e9a3d9bf6c2decf76d4f434155b1f25eb915b79f8081a5bd36825a70.jpg"
+    ],
+    "size": 796917760,
     "version": null
   },
   "70010000075467": {
@@ -2976,6 +3446,134 @@
       "https://img-eshop.cdn.nintendo.net/i/5e3b9a9eaaa413dd58bec934b2b85267ef30ce178606e4f1ceabdd7fc8428220.jpg"
     ],
     "size": 476053504,
+    "version": null
+  },
+  "70010000065250": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/151a3fe397cb6279d17a4cc5307e975a24195d96c77b5d0c47dc63703263df2c.jpg",
+    "category": [
+      "Strategy",
+      "RPG"
+    ],
+    "description": "From the masterminds that brought 13 Sentinels: Aegis Rim and Odin Sphere, ATLUS x Vanillaware presents the rebirth of tactical fantasy RPG. Fight against fate and embark on a royal adventure to regain your reign alongside trustworthy allies.\n\nUnicorn Overlord combines the timeless tactical RPG genre with overworld exploration and innovative battle system for a unique epic fantasy experience in the iconic Vanillaware style.\n\nKey Features:\n\u00b7 Traverse a vibrant world, assemble units and direct them into exquisitely animated battles\n\u00b7 Perform heroic deeds and grow renown throughout the five nations\n\u00b7 Cultivate a grand army with over 60 unique characters, from humans and elves to massive beasts and heavenly angels",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1f0dc6477068ec077e6700877179b280797647e0b1929e6f8cb7914d50fff8d7.jpg",
+    "id": "010069401ADB8000",
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Unicorn Overlord",
+    "nsuId": 70010000065250,
+    "numberOfPlayers": 1,
+    "publisher": "SEGA",
+    "rating": 8,
+    "ratingContent": [
+      "Mild themes, violence, sexualised imagery and coarse language"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/40327627de0962f0e18587898eb4a530d45c1126be6ef2f010f039d5952ea8da.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f2ca5cc2e31da05a6df4f7b125d53148ce9190eb648336afbb97e15d9b032b68.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc5114baeca301cf91c27b89b3379f6890278ff4d2d4678c1dc6195c6e0626bd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/be2577a8a7ab669ec66cb2e9eae34220ae1e419d62d7613c2788e570012d6421.jpg"
+    ],
+    "size": 3210739712,
+    "version": null
+  },
+  "70050000045804": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5dd6b6111acf8048cde186ab3b924deae1eac72f1bcf77b4160b3bac0b32174a.jpg",
+    "category": null,
+    "description": "Pre-order now and receive exclusive in-game insignias with the ATLUS x Vanillaware Heraldry Pack, a fan-focused DLC set that lets you customize the Liberation Army\u2019s flag with\nemblem designs from \"Odin Sphere,\" \"Dragon's Crown,\" and \"13 Sentinels: Aegis Rim\".\n\nPre-order available until March 7, 2024",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010069401ADB9001",
+    "ids": [
+      "010069401ADB9001"
+    ],
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "ATLUS x Vanillaware Heraldry Pack",
+    "nsuId": 70050000045804,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 8,
+    "ratingContent": [
+      "Mild themes, violence, sexualised imagery and coarse language"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70050000046256": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e4a3aa351350e21e7fbb1c65698aab0cd4b37c6d62fc838952c62cfb8f6ae03.jpg",
+    "category": null,
+    "description": "Immerse yourself in the captivating world of Unicorn Overlord with the 16-bit Arranged Music Album, offering a selection of 20 tracks to enjoy. \n\nEmbark on a visual journey through 132 pages of Unicorn Overlord's captivating digital artbook, where you'll discover intricate character designs, visionary concept art, immersive backgrounds, and more, offering deeper insights into the game's world.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010069401ADB9002",
+    "ids": [
+      "010069401ADB9002"
+    ],
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Unicorn Overlord: 16-bit Arranged Music Album and Digital Artbook",
+    "nsuId": 70050000046256,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 8,
+    "ratingContent": [
+      "Mild themes, violence, sexualised imagery and coarse language"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70070000020378": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c6ea7cb9f61578d8dd7bafb1f5e7a175acaaf0de279721a371455da8481b0d3.jpg",
+    "category": null,
+    "description": "The Unicorn Overlord Monarch Edition contains\n- 16-bit Arranged Music Album (20 tracks) \n- Digital Artbook (132 pages)\n\nFrom the masterminds that brought 13 Sentinels: Aegis Rim, Odin Sphere, and Dragon's Crown, ATLUS x Vanillaware presents the rebirth of tactical fantasy RPG. Fight against fate and embark on a royal adventure to regain your reign alongside trustworthy allies.\n\nUnicorn Overlord combines the timeless tactical RPG genre with overworld exploration and innovative battle system for a unique epic fantasy experience in the iconic Vanillaware style.\n\nKey Features:\n\u00b7 Traverse a vibrant world, assemble units and direct them into exquisitely animated battles\n\u00b7 Perform heroic deeds and grow renown throughout the five nations\n\u00b7 Cultivate a grand army with over 60 unique characters, from humans and elves to massive beasts and heavenly angels",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Unicorn Overlord Monarch Edition",
+    "nsuId": 70070000020378,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 8,
+    "ratingContent": [
+      "Mild themes, violence, sexualised imagery and coarse language"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3213885440,
     "version": null
   },
   "70050000042854": {

@@ -1466,6 +1466,57 @@
     "size": 2140143616,
     "version": null
   },
+  "70010000065452": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dee59b7876e35ec4355de2ea7b52a6561e2fd87568113c585ff33d98d8d8ce06.jpg",
+    "category": [
+      "Action",
+      "Aventure",
+      "Jeu de tir"
+    ],
+    "description": "Vous incarnez l\u2019agent 47, un tueur professionnel dans la ligne de mire d\u2019une agence rivale, \u00ab\u00a0La\u00a0Franchise\u00a0\u00bb.\n\nLancez-vous dans une mission audacieuse pour \u00e9liminer les architectes mortels d\u2019une conspiration de l\u2019ombre et utilisez tous les outils \u00e0 votre disposition pour finir le travail, tout en faisant profil bas. Infiltrez, ex\u00e9cutez et \u00e9chappez-vous sans vous faire rep\u00e9rer.\n\nAvec ses am\u00e9liorations de jouabilit\u00e9 inspir\u00e9es des derniers titres de la s\u00e9rie, Reprisal est une refonte astucieuse d\u2019un classique de l\u2019action furtive, savamment adapt\u00e9 pour Nintendo Switch\u2122.\n\nSEULE L\u2019EX\u00c9CUTION COMPTE\nParcourez le monde pour \u00e9liminer des cibles de premier plan, de l\u2019Op\u00e9ra de Paris au Strip de Las Vegas.\n\nLE PROFESSIONNEL ULTIME\nLe diable est dans les d\u00e9tails. Proc\u00e9dez \u00e0 des \u00e9liminations silencieuses et sans t\u00e9moin, ou manipulez l\u2019environnement pour organiser des \u00ab\u00a0accidents\u00a0\u00bb tragiques. Plus le coup est net, meilleur est le r\u00e9sultat.\n\nMA\u00ceTRISEZ VOTRE ART\nDevenez un ma\u00eetre du d\u00e9guisement, de l\u2019ing\u00e9niosit\u00e9 et de l\u2019improvisation. Avec plusieurs fa\u00e7ons d\u2019aborder chaque objectif, les missions bac \u00e0 sable de Blood Money encouragent l\u2019exp\u00e9rimentation, la cr\u00e9ativit\u00e9 et la r\u00e9p\u00e9tition des parties. S\u2019entra\u00eener rend parfait\u00a0!\n\nPR\u00c9SENTATION DU MODE INSTINCT\nInspir\u00e9 des derniers jeux HITMAN, le mode Instinct fait ressortir les cibles, les gardes et les points d\u2019int\u00e9r\u00eat critiques de chaque mission pour des \u00e9liminations furtives et des \u00e9vasions rapides, la marque de fabrique d\u2019un ma\u00eetre-assassin.\n\nUNE LONGUEUR D\u2019AVANCE\nUne toute nouvelle mini carte permet de prendre connaissance de la situation en temps r\u00e9el, tandis que des alertes suppl\u00e9mentaires vous avertissent quand 47 commet une intrusion ou \u00e9veille les soup\u00e7ons.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7aa9caa7236c0d7db3951348ee67a1806113cfaf015205673a8c2681bfd33320.jpg",
+    "id": "010083A018262000",
+    "intro": "Vous allez cartonner.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "ru"
+    ],
+    "name": "Hitman: Blood Money \u2014 Reprisal",
+    "nsuId": 70010000065452,
+    "numberOfPlayers": 1,
+    "publisher": "Feral Interactive",
+    "rating": 17,
+    "ratingContent": [
+      "Sang",
+      "Humour grossier",
+      "Violence intense",
+      "Th\u00e8mes sexuels",
+      "Langage ordurier",
+      "Usage de drogue et d'alcool"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8e6521fef6a8946f83e4a5d8218b592c40a45a8981dbf8b906dffb8f50f48b47.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/91649d6395709451fd67cf569f8007b4fe5259ab881fb6f6ebc188325b9acea8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/301bf4ae56e9a4cea19157c7552e6672fcfd8b03b9ee55c2b50c3e7dc217f3a4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/924ac82c23cb3d8e1a38a110c4cec1b18626ec4ec623b7addbff55f74011bcaf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3babbad7cd28458120901a30db0ea96fed9de0023a0f4933156dd1babcb835b6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/81aaea559adc9dc3c9c3621a5356bf77920d8434a119da65e0f44ad493a580bc.jpg"
+    ],
+    "size": 4749000704,
+    "version": null
+  },
   "70010000067777": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a66014db42b305a43d8e09d04d77eaf4700774b66618097d8ce11fa232983b94.jpg",
     "category": [

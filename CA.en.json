@@ -1466,6 +1466,57 @@
     "size": 2140143616,
     "version": null
   },
+  "70010000065452": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dee59b7876e35ec4355de2ea7b52a6561e2fd87568113c585ff33d98d8d8ce06.jpg",
+    "category": [
+      "Action",
+      "Adventure",
+      "Shooter"
+    ],
+    "description": "You are Agent 47 \u2014 a contract killer caught in the crosshairs of rival agency, \u201cThe Franchise\u201d.\n\nEmbark on a daring mission to take out the conspiracy\u2019s shadowy architects. Employ all the tricks of your trade to get the job done, and keep a low profile. Infiltrate, execute, and escape undetected.\n\nFeaturing gameplay improvements inspired by later games in the series, Reprisal is an artful redesign of a stealth-action classic, expertly adapted for Nintendo Switch\u2122.\n\nEXECUTION IS EVERYTHING\nTravel the world to eliminate high-profile targets \u2014 from the Paris Opera to the Las Vegas Strip.\n\nTHE ULTIMATE PROFESSIONAL\nThe devil is in the details. Perform silent, witness-free kills, or manipulate the environment to engineer tragic \u2018accidents\u2019. The cleaner the hit, the better the payoff.\n\nMASTER YOUR CRAFT\nBecome a master of disguise, invention and improvisation. With multiple ways to approach each objective, Blood Money\u2019s sandbox missions encourage experimentation, creativity, and repeat playthroughs. Practice makes perfect!\n \nINTRODUCING INSTINCT MODE\nInspired by later HITMAN games, Instinct Mode highlights targets, guards and mission-critical points of interest for stealthy kills and quick getaways \u2014 the tradecraft of a professional assassin.\n\nONE STEP AHEAD\nAn all-new Minimap offers situational awareness in real-time, while added alerts warn players when 47 is trespassing or arousing suspicion.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7aa9caa7236c0d7db3951348ee67a1806113cfaf015205673a8c2681bfd33320.jpg",
+    "id": "010083A018262000",
+    "intro": "Prepare to make a killing.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "ru"
+    ],
+    "name": "Hitman: Blood Money \u2014 Reprisal",
+    "nsuId": 70010000065452,
+    "numberOfPlayers": 1,
+    "publisher": "Feral Interactive",
+    "rating": 17,
+    "ratingContent": [
+      "Blood",
+      "Crude Humor",
+      "Intense Violence",
+      "Sexual Themes",
+      "Strong Language",
+      "Use of Drugs and Alcohol"
+    ],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8e6521fef6a8946f83e4a5d8218b592c40a45a8981dbf8b906dffb8f50f48b47.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/91649d6395709451fd67cf569f8007b4fe5259ab881fb6f6ebc188325b9acea8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/301bf4ae56e9a4cea19157c7552e6672fcfd8b03b9ee55c2b50c3e7dc217f3a4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/924ac82c23cb3d8e1a38a110c4cec1b18626ec4ec623b7addbff55f74011bcaf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3babbad7cd28458120901a30db0ea96fed9de0023a0f4933156dd1babcb835b6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/81aaea559adc9dc3c9c3621a5356bf77920d8434a119da65e0f44ad493a580bc.jpg"
+    ],
+    "size": 4749000704,
+    "version": null
+  },
   "70010000067777": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a66014db42b305a43d8e09d04d77eaf4700774b66618097d8ce11fa232983b94.jpg",
     "category": [
