@@ -1,607 +1,4 @@
 {
-  "70010000068638": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6dcce36a8a9357e8bcd43846aa51d48b7ffb50efea057f7012a9dbdeba85e344.jpg",
-    "category": [
-      "Adventure",
-      "Puzzle",
-      "Action",
-      "Other"
-    ],
-    "description": "A third-person, stealth, adventure game focused on the story of the Moonshadow Huntress: Cynthia Stranborg. Take control of the young adept and learn new stealth skills during your journey. Find out what happened in the home village and follow your desired path to rescue the ones you love the most. Travel through Tesana Valley to find a secretly hidden missing piece of artifact to enhance your bow. The Dark Power is coming from the north. You need to destroy the source of this power before it's too late. You are the last one that can reach that destination. At least you need to try, for your loved ones!\n\nKey features:\n-Stylized and colorful world\n-Fully voice acted emotional story\n-Stealth mechanics, arrows crafting, climbing sequences and light puzzle solving\n-A short story-driven game (to finish in one evening)\n-Several alternative outfits to unlock throughout the game.\n-A dedicated photo mode with multiple options to modify: pose, camera effects, stickers, face mimics etc.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/53ac70656204423dd4de8c5423f19e89a425b4c648a25c9ca0acd6798796ba1c.jpg",
-    "id": "010001C01BCAC000",
-    "intro": "3rd-person Action-Adventure game with stealth and puzzle solving.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "es",
-      "fr",
-      "de"
-    ],
-    "name": "Cynthia: Hidden in the Moonshadow",
-    "nsuId": 70010000068638,
-    "numberOfPlayers": 1,
-    "publisher": "Catthia Games",
-    "rating": 0,
-    "ratingContent": [
-      "Online Interactivity",
-      "Very Mild Violence",
-      "In-Game Purchases"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/f0ae3ad081003723c2211a26db1754f2c8744f14c0a1e7afdccaeb2315876292.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cc7a71b80f8e7df4e030aa001bad97ef9bca442b354f2ad8dcb5557d6ce054c6.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/274b64039101ef7e1ab94ff04ad7a23f1376e4b1cd7de6ca9583b6f02a3818e7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/55103c7f7180aa1f433d5b6b33fa0ab9a9fb3c295bac4deee92115e9b8dcee7c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cd35ab9ff0358579c9d4369ed7f91034b2c13f33b1c9a8fe1a7b0bfeb8f84a72.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ffa4c8aeb0e067e5d71c13e31173c612fb8dffbd1a2922f77c66ba61077cc1ca.jpg"
-    ],
-    "size": 2554331136,
-    "version": null
-  },
-  "70010000069236": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d61d2f097ed50a288e3bbd8a07e0cafc6af2eb46e8306670102fc66108581db6.jpg",
-    "category": [
-      "Simulation",
-      "Adventure"
-    ],
-    "description": "We were inspired by sandbox and simulation games, where players can create something of their own, set up processes, develop their creation, put their soul into it and show their creativity. In Cafe Owner Simulator you have such an opportunity, our goal is to give the world a game - in which everyone can realize his dream and open his own restaurant business.\n\nCleaning and Restoration.\nWhen you buy a room for your own restaurant - you will need to free it from trash and make major repairs, it is not an easy task, but what can be better than to clean up the future of a successful restaurant or cafe?\n\nCovering Surfaces.\nAfter cleaning and repairing - you will have to choose the best wallpaper, carpet or coverings of different materials, this is where your design will begin.\n\nKitchen and equipment.\nSo how do you do without kitchen equipment? Decide on the type of your future establishment and buy all the necessary equipment for it. Also, do not forget to connect it to the outlets.\n\nMenu and products\nTo open a place - you need to add a minimum of 5 dishes to the menu.\nTo prepare these dishes - you'll need products, you can buy them at the grocery store.\n\nManagement and employees\nThe game has a job market. To hire a staff member, pay a headhunter and he will find a marketable staff member for you. Every worker has his own characteristics, so choose the best ones.\nThe higher the characteristics - the higher the salary the worker wants. Over time, the motivation to work decreases - pay bonuses or hire new workers, here the choice is yours.\n\nDevelopment of the restaurant, levels\nFor performing various actions in the game - you earn experience points.\nWhen you reach a certain limit - the level grows and you get a lot of opportunities:\nnew furniture and equipment to set up, new dishes on the menu, new features on your tablet, cash rewards and more.\n\nRestaurant expansion and new features\nEarning money - you will be able to open new areas of your cafe to make all your design ideas come true. In the future it will be possible to build a hotel near the restaurant and create a square for recreation and entertainment of visitors.\n\nDuties of a restaurant owner\nLike any owner or manager of a restaurant business - there is a lot of work and daily tasks waiting for you. Paying bills, managing employees, ordering food, checking the condition of the equipment and its repair, controlling various pests and cleaning the premises, working at the cash register and at the cafe counter (until you hire employees for this), passing inspections by the fire inspector, setting up and ordering advertising, marketing, if necessary you can take a loan from the bank, but it is better to pay back in time, otherwise there will be problems, and much more.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/82ab54c0c0f0112cfa2d97798062b411b5385af51a68f9a5723d39f68eb24f46.jpg",
-    "id": "01000FD01BF7A000",
-    "intro": "Open your dream restaurant. Create a unique exterior and interior, hire the best workers and chefs, create a place where people will love to eat, spend time and spend their money. ",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "es",
-      "fr",
-      "de",
-      "it",
-      "pt",
-      "ru",
-      "zh"
-    ],
-    "name": "Cafe Owner Simulator",
-    "nsuId": 70010000069236,
-    "numberOfPlayers": 1,
-    "publisher": "RockGame",
-    "rating": 8,
-    "ratingContent": [
-      "Mild Themes"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/751508c8b734e0f4b5e7a9bda5fbcdfa6eaa8711f2e25da29e0f9188da28571e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/74232010b62d24ea7e6f1ff994c541e74de4d7c038e4f3466b204cd5ccec210d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d4a394a40c7bc9b8df056cf809343c8c31c9b8ec408cdd417000ccbdc6088469.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/abf56635c7dee933d27fc1b7ed086f33e2c292d2b6bdaa8288f361e714afc61c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/277bc1bf3232f38bb0e20039006dfa548410cf67c5c2c153a2bf228d2d2e75ee.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/1daaa403a3bab842ac29d408521386747aa941fffeba55a06a78bc5007480703.jpg"
-    ],
-    "size": 2037383168,
-    "version": null
-  },
-  "70010000069702": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/647be45a4db1f1e8b0d6a96f08896420c030d5c0dc92aaecce424087512a6c4a.jpg",
-    "category": [
-      "Puzzle",
-      "Strategy",
-      "Adventure"
-    ],
-    "description": "In Wild Seas, a 2D tower defense game, you play as a friendly crocodile who possesses a jewel that has been passed down through generations, protecting the nearby islands. Now, you need all the help you can get to combat the pirates who want to conquer everything in their path and steal the great jewel.\n\nUse your trusty wooden staff to dodge enemy bullets, purchase powerful towers, and upgrade them with the tools you find along the way. There are four islands with many challenges that you can face:\n\n- Open chests to discover great treasures!\n- Uncover new islands!\n- Build your defense strategically!\n- Buy new towers to survive the hordes!\n\nWill you be able to survive against these terrible and dangerous enemies and save your home?",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b6f6fe1aacfd692bcb89673d5eaef2cd69220a3887914e94fa858a1136b30c9f.jpg",
-    "id": "010040001C1D6000",
-    "intro": "Defend the jewel from the evil pirates",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Wild Seas",
-    "nsuId": 70010000069702,
-    "numberOfPlayers": 1,
-    "publisher": "Afil Games",
-    "rating": 0,
-    "ratingContent": [
-      "Very Mild Violence"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/cc9eb7b41d67e3d88ec25158f70141af43d44185b9e3ff6268f292df193bcbe2.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/6e8ccbdc22363c897c432fe3ab6a1c3aa051f257980ba46470b5d67a5e99363d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/2ee0d88420150a16b6e293b026971483c97fefc57ae32ba9a0e5062c7b4f614f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/534b57be3633ba8e7dae53cf4d28e486c5a5749d2157a6e29211b2159c0955f1.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/30f4776e2437f5a8e1ec45390ed3b3b3a764e9eb1d97d8553a3ae7a6d670b346.jpg"
-    ],
-    "size": 63963136,
-    "version": null
-  },
-  "70010000073707": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6ac12ddfc3e24f67ae7b2f057102ae249c77a154998d784495e7fed5495b6d46.jpg",
-    "category": [
-      "RPG",
-      "Fighting",
-      "Adventure",
-      "Puzzle"
-    ],
-    "description": "Fight evil with pixelated style, in this turn-based, choose-your-boss-path game made with just 8 colors!\n\nA heartfelt, ironic homage to the tokusatsu genre\nOh no! Evil alien monsters have attacked Earth (yet again)! But fret not, because the Star Guardians, an elite group of fighters led by the hot-blooded Rhea, is going to kick their backs back to outer space!\n\nPlan your path\nFace eight gigantic galactic monsters, carefully choosing which ones to tackle first! Unlock skills by defeating the weakest ones and use them to best the heavy-hitters! And don't worry if you don't do it at the first attempt, your teammates will offer precious advice after every defeat!\n\nMeet your (dysfunctional) heroines!\nThe Star Guardians are a motley crew of girls and women at different stages of their lives, with their quirks, aspirations, crushes and little idiosyncrasies. Learn more about their relationships after beating (or being defeated) by a boss.\n\nUp for one more challenge?\nChoose between a more relaxed Story Mode, with dialogues, hints and charming interactions, and a more brutal Arcade Mode, where you'll have to best all enemies in a set amount of turns. Can you beat them all before the timer runs out?\n\nWait, there's more!\nThis edition adds more content and quality-of-life improvements, compared to the original version:\nStory Mode Chapter 2: One year after the end of Chapter 1, fight through a gauntlet of deadly ensembles of monsters, find the truth behind the mysterious White Guardian, and bring back peace to the planet once more!\nUnlockable costumes for all characters, obtained by clearing Story and Arcade mode\nImproved settings and user interface",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f11567511c452789374d2eaa0cacf682f904ddb84f4c4cee719f18a127bcd2ca.jpg",
-    "id": "01001FB01D448000",
-    "intro": "Alien monsters have invaded Earth! It's up to the Star Guardians, a dysfunctional group of heroines, to protect the planet and awkwardly save the day (yet again)!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "8-Colors Star Guardians +",
-    "nsuId": 70010000073707,
-    "numberOfPlayers": 1,
-    "publisher": "Flynns Arcade",
-    "rating": 8,
-    "ratingContent": [
-      "Mild Violence"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/8e17092b2d7ab6b36be7d0ddabfa7740c7877598e0b0ae51e9e7d5f4bee824d8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aa5ba14caa991f5371ba3d7f070d9d00f478573c3372ad6d3544264f402086de.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d4fd4d99ba7d02099d2b9c18e46af1a7bfd18caba6e20c23b1b67b2ddc643b21.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dc6259f7c3590cafe718c759a72442ec3694d75f1a866a1ee9e8f19a9c12c2b4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/05a1f2a6af659d61bd967fca082a8893c9796e52c5c18e86750875086ac2cba7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5bf676e7289d8859b11f32fbc3f9a99cefbf3b4abffd2ca9028ded1777fad4d2.jpg"
-    ],
-    "size": 92274688,
-    "version": null
-  },
-  "70010000074466": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66d9d63c51a31c96b641d5faa1c0468b4679dcd2bc578c3fc348857777f88438.jpg",
-    "category": [
-      "Arcade",
-      "Puzzle",
-      "Simulation",
-      "Sports"
-    ],
-    "description": "Grab your equipment with you and begin your journey to become a master of nGolf. Explore beautiful and minimalist locations full of traps, puzzles, and amazing views.\n\n\nFIND YOUR WAY\nWhile playing nGolf you will face many challenges on your way. Lasers, spikes, flames and many more will try to stop your ball. Remember that timing is the key to success and you shouldn\u2019t hurry with your hit. Go with the flow and master all worlds.\n\n\nPLAN YOUR APPROACH\nThere is an unlimited number of possible solutions to finish levels. Different angles and strengths can change the trajectory of the ball diametrically. Check your surroundings for hills, teleports, or speed boosters. Each element gives you a new opportunity to hit the hole. \n\n\nBECOME A GOLF MASTER\nTo become a professional, you have to collect all stars on each stage and accomplish the lowest amount of hits. Study the layout of the map, take as many attempts as you need and obtain the title of champion!\n\n\n\nKEY FEATURES:\n- 8 unique worlds\n- Over 60 levels to master\n- Scorecards to help you track your progress",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16b0bb802a5fe1924dcb37c9ebe60c1048a3c3b86652af07968b6df09c10861d.jpg",
-    "id": "010090801D6E2000",
-    "intro": "Set off on the most engaging golf adventure you have ever seen and visit breathtaking places from around the world.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "fr",
-      "de",
-      "zh"
-    ],
-    "name": "nGolf",
-    "nsuId": 70010000074466,
-    "numberOfPlayers": 1,
-    "publisher": "RedDeer.Games",
-    "rating": 0,
-    "ratingContent": [
-      "General"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/dd16659d32371cdef0ddf14069b92393824c836ebef9eff8ef7d52f6e4abe081.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/abaa816f2560f6606eb1e632c75dbd058006147b84e45a8046cb0d115098f81b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/6fdb694174deace2afb53ee4cdc48df8ef74d1573aa75f38b700bcca3467a80b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/804adf4d04b73311e61e403a609308ccb441a2e17ebbf719e5388e0a4c12785e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/011d2fff8f9a584c309ff7709a6be849d6de806e5f9ba5fee81abb2b7743c059.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/fb588d26a9629227f3e5c38fac64e4b93704eee634ecc7fa48facb4e1b0184e4.jpg"
-    ],
-    "size": 238026752,
-    "version": null
-  },
-  "70010000074841": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/161d82606a676e2c5ca55ed8058769f1d37e380e8d98e3388965155a868f385f.jpg",
-    "category": [
-      "Racing",
-      "Arcade",
-      "Multiplayer",
-      "Other"
-    ],
-    "description": "\nTop Racer Collection brings back the 90s classic in one incredible package, bringing together three iconic games from the renowned racing franchise. With online features, get up to speed and experience the nostalgic mix of action and addictive gameplay!\n\nThe Top Racer Collection features classic titles such as Top Racer, Top Racer 2 and Top Racer 3000. In addition, the collection will feature new and exclusive content.\n\nOriginally released for older systems, Top Racer won over gamers with its engaging gameplay, vibrant graphics and iconic soundtracks.\n\nFeatures\n- Filters for a nostalgic experience;\n- Online mode for multiplayer races;\n- Challenges with friends and opponents from around the world in ranking mode;\n- Time Attack mode to test your racing skills against the clock.\n- Campaign Mode and Custom Cup Mode",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bdfbbf48fdfba0906bc260f998e3ae8bdff7240618d29b3c16f5f2ecd1175fc5.jpg",
-    "id": "010029001D8A8000",
-    "intro": "The Top Racer Collection showcases the renowned 16-bit racing game franchise, featuring Top Racer, Top Racer 2, and Top Racer 3000, along with exciting new and exclusive content!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Top Racer Collection",
-    "nsuId": 70010000074841,
-    "numberOfPlayers": 2,
-    "publisher": "QUByte Interactive",
-    "rating": 8,
-    "ratingContent": [
-      "Sexualised Imagery"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/f4f93816063d36e8b2ac57fad0f818e19db80bfee38751695d91b597660e2a08.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/73ca25d89b58d87a441d6e3ca922bbd2b2d6c6b4a36b029395183d4e3b9302fe.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/75290aafafa9834b080da5408733985963a0954e2942dca143521e7ef78028eb.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7906ec448ad92b3453a45e59f8b4f10990825914f3badafcac0a6a8e76876499.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/56ea3e0fcb832db20fb5cfcd6821f8398eb374703016915d58fb9761891285fa.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c27357528da93b69137f2601584610e53cd7129f43bb327e69a02300c15ebd7b.jpg"
-    ],
-    "size": 890241024,
-    "version": null
-  },
-  "70050000044658": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4282389d8664b966ececd9b3f32768c6772e9a0e20f6707a918dff9449ed6038.jpg",
-    "category": null,
-    "description": "The legendary women's wrestling champion from down under Toni Storm joins the Fight Forever playable wrestler roster along with 10 new tracks.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "AEW: Fight Forever The STORM is coming!",
-    "nsuId": 70050000044658,
-    "numberOfPlayers": null,
-    "publisher": "THQ Nordic",
-    "rating": 13,
-    "ratingContent": [
-      "Violence",
-      "Online interactivity"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": null,
-    "size": 3145728,
-    "version": null
-  },
-  "70050000045889": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f8ce732d47c4456509197eb68cec59ab3c62b76d989d0b6a700a18004894e6ab.jpg",
-    "category": null,
-    "description": "\"Cyberthia\" Costume DLC contains alternative outfit for Cynthia character.\n\nThank you so much <3 ",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "010001C01BCAD001",
-    "ids": [
-      "010001C01BCAD001"
-    ],
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Cynthia: Hidden in the Moonshadow - 'Cyberthia' Costume",
-    "nsuId": 70050000045889,
-    "numberOfPlayers": null,
-    "publisher": "Catthia Games",
-    "rating": 0,
-    "ratingContent": [
-      "Online Interactivity",
-      "Very Mild Violence",
-      "In-Game Purchases"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/de84954fead4994d58421b07e5b1a485df8f7a395e089f81b06aa403da6cbaaa.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b5b9e4b4e7b881bd39dc8dca264326bc1fb7a8aff18910e5af0144c2bb1058e6.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/687e7e7c5cd9f13034b9489b03317763167b1a99f33573fd4c2ae696c3274d8f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ad280163f120976bb812cd5bca1c13f72deafb60437c10d1b6b86f588df2542c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/8f87ec7a31e24088925918bb88f8ffb1c978af2033dd8a7b7153122c8d200f30.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
-  "70050000045890": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1522da59f72d65d84e6b560f1124bd7998b2a4adf5ae535d0ed751714eae3b13.jpg",
-    "category": null,
-    "description": "To celebrate summer we are releasing a brand new 'Tropical Blossom' Costume DLC, which contains alternative outfit for Cynthia character.\n\nThank you so much <3 ",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "010001C01BCAD002",
-    "ids": [
-      "010001C01BCAD002"
-    ],
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Cynthia: Hidden in the Moonshadow - 'Tropical Blossom' Costume",
-    "nsuId": 70050000045890,
-    "numberOfPlayers": null,
-    "publisher": "Catthia Games",
-    "rating": 0,
-    "ratingContent": [
-      "Online Interactivity",
-      "Very Mild Violence",
-      "In-Game Purchases"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/6950aa02dffc09694e6cedf6089b4da5dbce414e50db72567c5fa175f1a46cd6.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/43658ea2e4083b242716b1dc118d59d91a2b6cc62b9266f4b2d3f7cfe153f6af.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9797202d4a397903cbe14335884e13285800db54d4d2f3d8ef54be87b0058938.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bdb030e7c2451a74e7c2a72e0fdcf79a9774472abeeeab91dc181fb592202600.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ad0ec78cebe3b93c1ffc6c15acc6b28bc6588368a1182cb42b4b27c7c580c9c4.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
-  "70050000045891": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d59faf1fc5203cabcb27b953e883744fe00b3ca4118cba2b4800286b82ff26dc.jpg",
-    "category": null,
-    "description": "\"Xmas\" Costume DLC is here! Cynthia is now fully ready for the winter season. Celebrate this time with us and our third (and the last) DLC that contains alternative outfit for Cynthia.\n\nMuch love <3",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": "010001C01BCAD003",
-    "ids": [
-      "010001C01BCAD003"
-    ],
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Cynthia: Hidden in the Moonshadow - 'Xmas' Costume",
-    "nsuId": 70050000045891,
-    "numberOfPlayers": null,
-    "publisher": "Catthia Games",
-    "rating": 0,
-    "ratingContent": [
-      "Online Interactivity",
-      "Very Mild Violence",
-      "In-Game Purchases"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a19b505aad8ffe16488e17d32654cca6103d7c87cd94df523e276f3d2d110130.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3344f14a838a6faf3dd0913f56345e1320e383d24ede505db6550d0333e04810.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4cc21fe1c11b9283e12e16c914877a2b1515826a4f5d0873192d24b16426cd95.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aee66f188370b0c5f49d01117a0d6d51595f2a3f5327109f1d97089e1969cdb2.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b0c28cf3ce7650d3353baaf4545a324b6ea6b464012e5a959bb038364d224a7e.jpg"
-    ],
-    "size": 3145728,
-    "version": null
-  },
-  "70050000046194": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9d3b8ad42d332fa853e765b407d563780f8099b1f97eae71a7078adbb4193f0f.jpg",
-    "category": null,
-    "description": "An additional music pack that adds popular tracks from the hit movie, One Piece Film: Red, as background music to the game.\nAfter purchasing the pack, you can change the music settings on the Battle Preparation screen to listen to any track you desire during battle.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "ONE PIECE: PIRATE WARRIORS 4 One Piece Film: Red Anime Song Pack",
-    "nsuId": 70050000046194,
-    "numberOfPlayers": null,
-    "publisher": "BANDAI NAMCO Entertainment",
-    "rating": 8,
-    "ratingContent": [
-      "Mild violence and coarse language",
-      "Online interactivity"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": null,
-    "size": 110100480,
-    "version": null
-  },
-  "70070000019905": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bcbb8859e2511b7de10f5226141f462b06bcf86894035910314eb1924e934085.jpg",
-    "category": null,
-    "description": "SPROUT VALLEY\n\nADORABLE CAT\nHelp cute cat Niko escape from the big city and settle with him on the Ostara archipelago. Just choose an island and start your new life! His knowledge and passion for nature will let you turn this island into the most stunning place on Earth. \n\nGAME ECONOMY\nYour garden will produce many products you can sell and earn money. Remember to order unnecessary seeds, saplings and equipment to make your garden grow even bigger. Manage space on your island and pick the best place for your crops. Don\u2019t forget to water them every day!\n\nVARIOUS ACTIVITIES\nIt\u2019s your choice what to do. Developing your skills by farming, mining, foraging, crafting, fishing will let you unlock new recipes and abilities. Make sure to unlock all of them and explore all possibilities in the game.\n\nKEY FEATURES:\n- Charming 2D pixel art graphics\n- More than 20 hours of amazing gameplay\n- Outfit customization\n- Your own pets!\n- Simple and clear economy system\n- Lovely music track\n\nGARDEN BUDDIES\n\nSIMPLE AND FUN\n\nIn Garden Buddies, simplicity reigns supreme, enabling you to unwind and immerse yourself in soothing gameplay. \n\nWith intuitive mechanics and a user-friendly interface, the game effortlessly guides your journey, encouraging relaxation and fostering a focus on the captivating experience that awaits.\n\nFRIENDSHIP IS A KEY\n\nCompanionship takes center stage as you embark on delightful encounters with adorable animals and extraordinary plant creatures each day. \n\nAs you form a bond with these charming critters, you'll help them overcome hurdles through engaging and delightful mini-games. These challenges entertain and bring in a sense of accomplishment and camaraderie.\n\nHEAL YOUR MIND\n\nBeyond the joy of gardening and mini-games, Garden Buddies offers a healing experience for your mind and soul. Step away from the hustle and bustle of everyday life, take a deep breath, and let the game guide you toward inner peace. \n\nLearn essential life skills such as box breathing and grounding techniques, while exploring emotions and engaging in discussions that promote emotional well-being. \n\nGarden Buddies becomes your virtual oasis, providing a safe haven to reduce stress and anxiety, all while immersing yourself in the beauty of digital nature.\n\nKEY FEATURES:\n- 90-minute story mode filled with enchanting narratives, heartwarming interactions, and unexpected twists.\n- Multiple Game Modes.\n- A Soothing soundtrack made for relaxation and harmony.\n- A healing experience for the mind, introducing essential life skills such as mindfulness exercises, stress reduction techniques, and emotional well-being practices.\n- Charming characters and animal companions.\n- Multiple customization options \u2013 unlock an array of decorative items and accessories for your oasis of peace and quiet.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Make your dream of settling on an island and growing a beautiful garden come true as well cultivate a vibrant flower garden alongside your new friend Mutsy.",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Sprout Valley + Garden Buddies",
-    "nsuId": 70070000019905,
-    "numberOfPlayers": null,
-    "publisher": "RedDeer.Games",
-    "rating": 0,
-    "ratingContent": [
-      "General"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/f5480837cf3a54ea3435adeb8945c1ca0b8daf8885055185ee49b6da0947535e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/0fc70c338770f3411c67e0e9e2de7afb61149ab3cea46b93136c2438bff5277e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d0c2ce92a64792197d418d6462c0b630ddd0ef72609a24a82e3af32522d67ee7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/48079be58c9cc6dde6bb07826e0a1c7ad8d0b498923b7441148b01c463057dd4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/659c7f99ec04df0e4d553b7b49ec2132a37afe8e8bfbf3aa6c7cdae6e052eb37.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3130b9ce51c64c7813ce037e12d3d479d1c68b5f958e8a18a1e7b93b52040664.jpg"
-    ],
-    "size": 1645215744,
-    "version": null
-  },
-  "70070000020109": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/321a7ca92debbe94ddc3919bfbf2b1e619f19f8054558fc4cb89cec5817474f9.jpg",
-    "category": null,
-    "description": "*See the official store pages for details on the content.\n*The Full Game is also included in the Standard Edition and Deluxe Edition. As well, the Season Pass and Costume Packs are also available for purchase separately, so please be careful not to buy duplicates of an item.\n\nThe Ultimate Edition containing the Deluxe Edition and the Season Pass is now available!\n\nContent:\n-Fuga: Melodies of Steel 2 - Deluxe Edition\n\u30fbFuga: Melodies of Steel 2 - Full Game\n\u30fbFuga: Melodies of Steel 2 - Digital Art Book (80 pages)\n\u30fbFuga: Melodies of Steel 2 - Digital Soundtrack (15 tracks)\n\u30fbFuga: Melodies of Steel 2 - In-Game Bonuses:\n\u2460Sleepwear costumes for all characters (can be used during intermission and expedition)\n\u2461Dummy Energy for the Managarm (can use the Managarm 1 time without using a character's life force)\n\u2462Dummy Soul for the Soul Cannon (can use the Soul Cannon 1 time without sacrificing a character)\n\u2463Set of items\n\n-Fuga: Melodies of Steel 2 - Season Pass\n\u30fbTail Concerto Costume Pack\n\u30fbSteampunk Costume Pack\n\u30fbAnimal Costume Pack\n\n*The Digital Art Book is available in Japanese/English.\n*You may download your copy of the Fuga: Melodies of Steel 2 - Digital Art Book & Digital Soundtrack by accessing the download page (https://dli.cc2.co.jp/fuga2/) from the official website.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "A dramatic simulation RPG depicting a pursuit rife with hope and despair!",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Fuga: Melodies of Steel 2 - Ultimate Edition",
-    "nsuId": 70070000020109,
-    "numberOfPlayers": null,
-    "publisher": "CyberConnect2",
-    "rating": 13,
-    "ratingContent": [
-      "Crude Humour",
-      "Horror Themes",
-      "Mature Themes",
-      "Violence"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a3850bec88ac444623bd85b7b197b87ce69041992ae4f0efb49f1cbea6156e56.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/33c3c58368a5f264ecfcc1bd0a87f86795e47f96df1dea93aa303a06bd1e560f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b75655607585b364713d61594ef28f531e921d0bebd8eb992c92f65a493a42c8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5de7ac713684a0251aa379ddcb111c145c902ad58c876883b13f97dc3169ac39.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/24a0819fa588df1599d7c935565b4a2bfaea988a0be5ef617f15a751731ff013.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ba3f1a923017be32a5af820a9fbed2060793aff56d523a96c0be46006483d65a.jpg"
-    ],
-    "size": 4801429504,
-    "version": null
-  },
-  "70070000020114": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a9528db2126affc8a1ac45743552067ad15b7aae888c36ed7be738c86d80b7f1.jpg",
-    "category": null,
-    "description": "*See the official store pages for details on the content.\n*The Full Game is also included in the Standard Edition and Deluxe Edition. As well, the Costume Packs are also available for purchase separately, so please be careful not to buy duplicates of an item.\n\nThe Ultimate Edition containing the Deluxe Edition and Costume Packs is now available!\n\nContent:\n-Fuga: Melodies of Steel - Deluxe Edition\n\u30fbFuga: Melodies of Steel - Full Game\n\u30fbFuga: Melodies of Steel - Digital Art Book (80 pages)\n\u30fbFuga: Melodies of Steel - Digital Soundtrack (15 tracks)\n\u30fbFuga: Melodies of Steel - In-Game Bonuses:\n \u2460Swimwear costumes for all characters (can be used during intermission and expedition)\n \u2461Dummy Soul for the Soul Cannon (can use the Soul Cannon 1 time without sacrificing a character)\n \u2462Set of items\n\n-Fuga: Melodies of Steel - Costume Packs\n\u30fbBack to School Costume Pack\n\u30fbWay of the Sword Costume Pack\n\u30fbFantasy Costume Pack\n\n*The Digital Art Book is available in Japanese/English.\n*You may download your copy of the Fuga: Melodies of Steel - Digital Art Book & Digital Soundtrack by accessing the download page from the official website (https://www.cc2.co.jp/fuga/en).",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "A dramatic action strategy RPG depicting hope and despair.",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Fuga: Melodies of Steel - Ultimate Edition",
-    "nsuId": 70070000020114,
-    "numberOfPlayers": null,
-    "publisher": "CyberConnect2",
-    "rating": 13,
-    "ratingContent": [
-      "Violence"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/eff2edf39e72a4c22771a2c445b583725a923289cf19b6a00f3fb5bb93f4d865.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/2bf1b94a89587ae68dfcfad8bc6d4f115343d67a7267bdcc96d327c11982e2a0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/311cde89b69255b06c903129580912ca7ae4963a0ecb95097dfee4c545713f44.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/fad4a984758a5e65241a39d3b23e1744833b3965b7be6dfb242cf614d01c39a9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/67e131840d2cecccec6d3e28572696a5bec6c337f9aef8ef80d79562c21b77b5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/f228f2f762d49a77894f7b60c14874575da7b82b85a177276e6d5f15a06a4d5e.jpg"
-    ],
-    "size": 1476395008,
-    "version": null
-  },
-  "70070000020204": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f055a82acaf41b263d8d6d6b29bf82a9cba6c71c1bfc2b8dced855fc01c627ab.jpg",
-    "category": null,
-    "description": "WRITE IT DOWN\n\nPut your life in order. You'll never forget to buy milk, skip a dentist appointment or lose THE TASTIEST muffin recipe in your life. Customize your notes and create your own style.\n\nSTICK TO WHAT'S BEST\n\nEnjoy a collection of adorable stickers and play around with their settings. Brighten up your memories without any effort. \n\nGet access to new colorful stickers with Sticker Pack 3 included in this bundle.\n\nKey Features:\n\n- Cutest stickers you've seen\n- Classic notepad formula with extra steps\n- Dozens of color combinations\n- A safe place for your memories\n- Simple design with high functionality",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Write down every amazing moment of your day using Notes + Stickers. Discover a new outlet for your fantastic memories.",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Notes + Stickers Extended Edition",
-    "nsuId": 70070000020204,
-    "numberOfPlayers": null,
-    "publisher": "RedDeer.Games",
-    "rating": 0,
-    "ratingContent": [
-      "General"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/2fa632f2c5efb076eb98ca558605e55c4de65cfdc3a2d00327fc81fe489da872.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dc8960179dd198bf1b5b375aea6e0b271eff3d6e4918e0324bfb8b097251ab8c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e8e0004aa93aa2b0f62b02e51aae6c5cc3900424940adbad515ba67e166092ad.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c453190c52a0133e176420f55270b73e6cf5a31054f6194a32605de0d40d1502.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3dbd022abda55c4b7bcb3951df88672bd113210d212f05281ea46f795c8bf395.jpg"
-    ],
-    "size": 234881024,
-    "version": null
-  },
-  "70070000020208": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/826c5cb9410dc8fb4c4fad46e429d3aa631db6be179503580f4928b373316fd7.jpg",
-    "category": null,
-    "description": "A third-person, stealth, adventure game focused on the story of the Moonshadow Huntress: Cynthia Stranborg. Take control of the young adept and learn new stealth skills during your journey. Find out what happened in the home village and follow your desired path to rescue the ones you love the most. Travel through Tesana Valley to find a secretly hidden missing piece of artifact to enhance your bow. The Dark Power is coming from the north. You need to destroy the source of this power before it's too late. You are the last one that can reach that destination. At least you need to try, for your loved ones!\n\nKey features:\n-Stylized and colorful world\n-Fully voice acted emotional story\n-Stealth mechanics, arrows crafting, climbing sequences and light puzzle solving\n-A short story-driven game (to finish in one evening)\n-Several alternative outfits to unlock throughout the game.\n-A dedicated photo mode with multiple options to modify: pose, camera effects, stickers, face mimics etc.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Cynthia: Hidden in the Moonshadow - Complete Edition",
-    "nsuId": 70070000020208,
-    "numberOfPlayers": null,
-    "publisher": "Catthia Games",
-    "rating": 0,
-    "ratingContent": [
-      "Online Interactivity",
-      "Very Mild Violence",
-      "In-Game Purchases"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/f0ae3ad081003723c2211a26db1754f2c8744f14c0a1e7afdccaeb2315876292.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cc7a71b80f8e7df4e030aa001bad97ef9bca442b354f2ad8dcb5557d6ce054c6.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/274b64039101ef7e1ab94ff04ad7a23f1376e4b1cd7de6ca9583b6f02a3818e7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/55103c7f7180aa1f433d5b6b33fa0ab9a9fb3c295bac4deee92115e9b8dcee7c.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cd35ab9ff0358579c9d4369ed7f91034b2c13f33b1c9a8fe1a7b0bfeb8f84a72.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ffa4c8aeb0e067e5d71c13e31173c612fb8dffbd1a2922f77c66ba61077cc1ca.jpg"
-    ],
-    "size": 2557476864,
-    "version": null
-  },
   "70010000057394": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b75969d7c76d4a1783c4f01ace8ac0ae4cc6f4e027d578f40c00db01ff59d7c.jpg",
     "category": [
@@ -1566,6 +963,46 @@
     "size": 501219328,
     "version": null
   },
+  "70010000072535": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b022fc1b6d75abbbed3266271759d87092b24b372fdf48e71ccc042e3f542cc9.jpg",
+    "category": [
+      "Action",
+      "Adventure"
+    ],
+    "description": "Fairytale Theatre-Momotaro's Adventure- is a 2D action game.\nAim for Onigashima by defeating ogres and monsters and saving your friends.\nMomotaro gets power-ups by opening treasure chests. When you defeat bosses, Momotaro learns new moves.\nAdventure through the world of fairy tales such as Kintaro, Urashima Taro, and Kachichiyama.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7a47526f544cfce0a641511f3932f3e900484b4ffeac26f0f4bcd39ec3fc9b59.jpg",
+    "id": "0100FE301CFD6000",
+    "intro": "Momotaro's adventurous action game!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "name": "Fairytale Theatre-Momotaro's Adventure-",
+    "nsuId": 70010000072535,
+    "numberOfPlayers": 1,
+    "publisher": "HUNTERS",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4dcb7e4fc7b650f1d1260fde268b3ee507aba277f81ccd542d63a9a48ef98674.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c622063c523fb9f595961aadda470cca1813b298277c8b016558576f00d874d2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bdee6613c35cc6bc36bfb682ff9a3f10e0129ae4f6a669d8984516f1b4eae736.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b352093a6c8c3df6aff6dac3b3f59bccf5c67ffae7b55a8191447f5ac304ce47.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c1f21a55165d643c5b3c64c802c43600f93d9c06d1d01e9d8fb0d6ecbdac6754.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/439c9c5ec3bf90fc8d7022314ed0423800a900b42a1cbe74d6231b4120bd38c9.jpg"
+    ],
+    "size": 94371840,
+    "version": null
+  },
   "70010000072892": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1bd06e9bb034411016132325ce3d6ed12d1999254b61f3df9f1a58b0cfbbbe7a.jpg",
     "category": [
@@ -2394,6 +1831,52 @@
       "https://img-eshop.cdn.nintendo.net/i/12f7754720abcfc93e537d9bb72cc3edae9e90e68f06808b01729e167ea3efb8.jpg"
     ],
     "size": 2146435072,
+    "version": null
+  },
+  "70010000075467": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4deb374d94a41285b3496d1a843f887d34738c3a2cf6dca83e6af6294fe6f1f5.jpg",
+    "category": [
+      "Simulation",
+      "RPG",
+      "Lifestyle",
+      "Other"
+    ],
+    "description": "Embark on an engaging adventure within the realm of \"Fantasy Blacksmith,\" where you step into the shoes of a master blacksmith. This immersive game invites you to the heart of the forge, where you can meticulously craft an impressive arsenal of weapons, including majestic swords and nimble daggers, using either durable metals or the rustic charm of wood.\n\nYour craftsmanship goes beyond mere functionality, as each swing of the hammer is a deliberate dance that transforms raw materials into intricate works of art. The weapons you create not only showcase your skill but also contribute to your wealth through their sale, earning you valuable coins. These coins serve as a key to unlocking a variety of recipes, unveiling new and exciting possibilities that add depth and diversity to your creations.\n\nAs you navigate the challenges along the blacksmith's path, view them not as obstacles but as stepping stones toward vibrant new beginnings. Embrace the natural rhythm of your journey, where every unexpected turn enriches your story, shaping your identity as a resilient and creative blacksmith. The in-game economy pulsates with the beat of your craftsmanship, providing a dynamic backdrop to your immersive adventures.\n\nPrepare for a journey where setbacks are not defeats but strategic detours leading to new and enriching beginnings. Will you embrace the essence of the forge and carve your path to greatness in this compelling adventure? As a blacksmith, the choice is yours \u2014 forge the path to your destiny.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eda8133f56f0e8f3c5c3016b448e5a09a6661f8fb79b36f55d275a0ec66ee716.jpg",
+    "id": "010057801DAFC000",
+    "intro": "Master the forge in Blacksmith Shop Simulator. Craft swords, daggers, and more with metal or wood. Unlock recipes using earned coins. Every setback is a chance for a new beginning.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "de",
+      "zh",
+      "zh"
+    ],
+    "name": "Fantasy Blacksmith Shop Simulator",
+    "nsuId": 70010000075467,
+    "numberOfPlayers": 1,
+    "publisher": "Halva Studio",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240126,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4df28bda01534a71166cddad999d5d777502b6ec69435706318fe4fd3c55cb3f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/81da33ba0e86652b24db668b986905d1a306cf6befddd8bd37a6d3e1e57ad8f9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cd8796c3befea31a8f35390d455bed5d430f5bb5b0a73e9da4231922ffb40a72.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7a9be2d7db0d3184deb3179800929fe40ef24d911bf759955444f4e07ba04777.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/262b85f1efd8ee2d80878cfda0aabe76c286bd2d47630ad7e5753a6f9ca3ed83.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5ec6b2aec5a6e8a46a2f69e88ae1f14ab9d2a856db588c7fcea57f43d770a561.jpg"
+    ],
+    "size": 228589568,
     "version": null
   },
   "70070000019225": {

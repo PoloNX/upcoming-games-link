@@ -1,289 +1,4 @@
 {
-  "70010000069702": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/647be45a4db1f1e8b0d6a96f08896420c030d5c0dc92aaecce424087512a6c4a.jpg",
-    "category": [
-      "Puzzle",
-      "Estrat\u00e9gia",
-      "Aventura"
-    ],
-    "description": "Em Wild Seas um jogo de defesa da torre 2D, voc\u00ea joga como um crocodilo amig\u00e1vel que possui uma j\u00f3ia que foi transmitida atrav\u00e9s de gera\u00e7\u00f5es que protege as ilhas pr\u00f3ximas.\nAgora voc\u00ea precisa de toda a ajuda poss\u00edvel para combater os piratas que querem conquistar tudo em seu caminho e roubar a grande j\u00f3ia.\nUse seu fiel bast\u00e3o de madeira para esquivar-se das balas inimigas, compre torres poderosas e melhore-as com as ferramenta que voc\u00ea encontra ao longo do caminho. \nExistem 4 ilhas com muitos desafios que voc\u00ea pode enfrentar: \n\n- Abra ba\u00fas para descobrir grandes tesouros!\n- Descubra novas ilhas!\n- Construa sua defesa estrategicamente!\n- Compre novas torres para sobreviver \u00e0s hordas!\n\nVoc\u00ea ser\u00e1 capaz de sobreviver contra esses terr\u00edveis e perigosos inimigos e salvar sua casa?",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b6f6fe1aacfd692bcb89673d5eaef2cd69220a3887914e94fa858a1136b30c9f.jpg",
-    "id": "010040001C1D6000",
-    "intro": "Defenda a j\u00f3ia contra os piratas do mal!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Wild Seas",
-    "nsuId": 70010000069702,
-    "numberOfPlayers": 1,
-    "publisher": "Afil Games",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/cc9eb7b41d67e3d88ec25158f70141af43d44185b9e3ff6268f292df193bcbe2.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/6e8ccbdc22363c897c432fe3ab6a1c3aa051f257980ba46470b5d67a5e99363d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/2ee0d88420150a16b6e293b026971483c97fefc57ae32ba9a0e5062c7b4f614f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/534b57be3633ba8e7dae53cf4d28e486c5a5749d2157a6e29211b2159c0955f1.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/30f4776e2437f5a8e1ec45390ed3b3b3a764e9eb1d97d8553a3ae7a6d670b346.jpg"
-    ],
-    "size": 63963136,
-    "version": null
-  },
-  "70010000071789": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/65e0424ba951a29ff7777aeed18de23db26afc8c01ea48f8f78a9c8c0c84ad39.jpg",
-    "category": [
-      "Puzzle",
-      "Estrat\u00e9gia",
-      "Jogo de Tabuleiro"
-    ],
-    "description": "Welcome to Pan'orama, the relaxing puzzle simulation game that allows you to create breathtaking landscapes using different types of tiles. In Pan'orama, you'll be transported to a world of beauty and tranquility, where you can take a break from the stress of everyday life and enjoy the relaxing music, peaceful ambience and most of all, the soothing vistas of your own creation.\n\n*Relax and unleash your creativity!\nImmerse yourself in a tranquil world and let your creativity run wild as you explore the endless possibilities of combining tiles and structures to form unique and mesmerizing landscapes. Completing quests and creating biomes will let you unlock and place structures that will expand your creative possibilities, as well as net you extra points.\n\n*Discover a wide variety of structures with unique abilities!\nIn Pan'orama, you will discover a wide range of structures, each with their own unique abilities that will enhance your landscape creation process. Whether you want to create a serene forest surrounding a forester's lodge, an endless ocean full of geysers or a bustling city filled with unique buildings, the possibilities are limitless.\n\n*Relax with soothing puzzles or make it a fun challenge!\nWhile Pan'orama is designed to be a relaxing and soothing experience, it also offers plenty of challenges for players who want to test their skills and take their creativity to the next level. You can compete against other players by beating their high scores and create even more impressive landscapes. So whether you want to unwind with a relaxing puzzle game or push yourself to achieve new heights, Pan'orama has something for everyone.\n\n* Pet cute animals while taking a break from creating your own paradise!\nAnd if you need a break from creating stunning landscapes, why not take a moment to pet the cats and other cute animals that roam around your creations. The inhabitants of this colorful world would surely love some pets and attention!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e564b275a47866af22c3c0b34563db217da6379d823d476bd1f63d1e8e51f407.jpg",
-    "id": "010022801CD9E000",
-    "intro": "Immerse yourself and let your mind wander as you create your own little, beautiful world.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "pt",
-      "es",
-      "fr",
-      "de",
-      "it",
-      "zh",
-      "zh"
-    ],
-    "name": "Pan'orama",
-    "nsuId": 70010000071789,
-    "numberOfPlayers": 1,
-    "publisher": "Awaken Realms",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/ce8037cba08170c04648aae5f357d8391c278e4028d34a429a06361d33c2a055.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dcb25ddc517d49703a067661105c3352513118687f9febdacdb36f0123636326.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/71d0cd29d377cff8a6db00010ba9cba524cff55c65c09aae62916d9ed46a94a6.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/953cd5dbac224833577eacd7f7c086163137869163f387795f6a7d1d240b2352.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4227d9f512a22b98ed1f88fa12de0ecee5d20dcd73cf79e2fc142fff6be17588.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/08270ad1e399e55398dfd81a7e091e7d8db7d6dfa1c5664619cefce203f8b4db.jpg"
-    ],
-    "size": 385875968,
-    "version": null
-  },
-  "70010000073707": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6ac12ddfc3e24f67ae7b2f057102ae249c77a154998d784495e7fed5495b6d46.jpg",
-    "category": [
-      "RPG",
-      "Luta",
-      "Aventura",
-      "Puzzle"
-    ],
-    "description": "Lute contra o mal em estilo pixelizado neste jogo baseado em turnos onde voc\u00ea escolhe o caminho do seu chefe e criado com apenas 8 cores!\n\nUma homenagem sincera e ir\u00f4nica ao g\u00eanero tokusatsu.\nOh n\u00e3o! Monstros alien\u00edgenas malignos atacaram a Terra (mais uma vez)! Mas n\u00e3o se preocupe, porque as Guardi\u00e3s Estelares, um grupo de lutadores de elite liderados pela apaixonada Rhea, est\u00e3o voltando para o espa\u00e7o sideral!\n\nPlaneje seu caminho\nEnfrente oito gigantescos monstros gal\u00e1cticos e escolha cuidadosamente quais deles enfrentar primeiro! Desbloqueie habilidades derrotando os mais fracos e use-as para derrotar os pesos pesados! E n\u00e3o se preocupe se n\u00e3o conseguir na primeira tentativa, seus companheiros lhe dar\u00e3o conselhos valiosos ap\u00f3s cada derrota!\n\nConhe\u00e7a suas hero\u00ednas (disfuncionais)!\nAs Guardi\u00e3s Estelares s\u00e3o um grupo heterog\u00eaneo de meninas e mulheres em diferentes est\u00e1gios de suas vidas, com suas peculiaridades, aspira\u00e7\u00f5es, paix\u00f5es e pequenas idiossincrasias. Aprenda mais sobre seus relacionamentos depois de ser atingido (ou derrotado) por um chefe.\n\nVoc\u00ea est\u00e1 pronto para mais um desafio?\nEscolha entre um Modo Hist\u00f3ria mais descontra\u00eddo, com di\u00e1logos, pistas e intera\u00e7\u00f5es encantadores, e um Modo Arcade mais brutal, onde voc\u00ea ter\u00e1 que derrotar todos os inimigos em um determinado n\u00famero de turnos. Voc\u00ea consegue vencer todos eles antes que o tempo acabe?\n\nEspere, tem mais!\nEsta edi\u00e7\u00e3o adiciona mais conte\u00fado e melhorias na qualidade de vida, em compara\u00e7\u00e3o com a vers\u00e3o original:\nModo Hist\u00f3ria Cap\u00edtulo 2: Um ano ap\u00f3s o final do Cap\u00edtulo 1, lute contra um desafio de conjuntos mortais de monstros, descubra a verdade por tr\u00e1s do misterioso Guardi\u00e3o Branco e traga de volta a paz ao planeta mais uma vez!\nTrajes desbloque\u00e1veis para todos os personagens, obtidos ao completar os modos Story e Arcade\nConfigura\u00e7\u00f5es e interface de usu\u00e1rio aprimoradas",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f11567511c452789374d2eaa0cacf682f904ddb84f4c4cee719f18a127bcd2ca.jpg",
-    "id": "01001FB01D448000",
-    "intro": "Monstros alien\u00edgenas invadiram a Terra! Cabe \u00e0s Guardi\u00e3s Estelares, um grupo disfuncional de hero\u00ednas, proteger o planeta e salvar o dia de maneira desajeitada (mais uma vez)!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "8-Colors Star Guardians +",
-    "nsuId": 70010000073707,
-    "numberOfPlayers": 1,
-    "publisher": "Flynns Arcade",
-    "rating": 7,
-    "ratingContent": [
-      "Viol\u00eancia Ligeira"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/8e17092b2d7ab6b36be7d0ddabfa7740c7877598e0b0ae51e9e7d5f4bee824d8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aa5ba14caa991f5371ba3d7f070d9d00f478573c3372ad6d3544264f402086de.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d4fd4d99ba7d02099d2b9c18e46af1a7bfd18caba6e20c23b1b67b2ddc643b21.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dc6259f7c3590cafe718c759a72442ec3694d75f1a866a1ee9e8f19a9c12c2b4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/05a1f2a6af659d61bd967fca082a8893c9796e52c5c18e86750875086ac2cba7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5bf676e7289d8859b11f32fbc3f9a99cefbf3b4abffd2ca9028ded1777fad4d2.jpg"
-    ],
-    "size": 92274688,
-    "version": null
-  },
-  "70010000074466": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66d9d63c51a31c96b641d5faa1c0468b4679dcd2bc578c3fc348857777f88438.jpg",
-    "category": [
-      "Arcada",
-      "Puzzle",
-      "Simula\u00e7\u00e3o",
-      "Desporto"
-    ],
-    "description": "Pega no teu equipamento e come\u00e7a a tua viagem para te tornares um mestre do nGolf. Explora locais bonitos e minimalistas cheios de armadilhas, puzzles e vistas fant\u00e1sticas.\n\n\nENCONTRA O TEU CAMINHO\nEnquanto jogas nGolf, vais enfrentar muitos desafios no teu caminho. Lasers, espig\u00f5es, chamas e muito mais tentar\u00e3o parar a tua bola. Lembra-te de que o timing \u00e9 a chave do sucesso e que n\u00e3o deves apressar a tua tacada. Segue o fluxo e domina todos os mundos.\n\n\nPLANEIA A TUA ABORDAGEM\nH\u00e1 um n\u00famero ilimitado de solu\u00e7\u00f5es poss\u00edveis para terminar os n\u00edveis. Diferentes \u00e2ngulos e for\u00e7as podem alterar diametralmente a trajet\u00f3ria da bola. Verifica se existem colinas, teletransportes ou impulsionadores de velocidade \u00e0 tua volta. Cada elemento d\u00e1-te uma nova oportunidade de acertar no buraco. \n\n\nTORNAR-SE UM MESTRE DO GOLFE\nPara te tornares um profissional, tens de recolher todas as estrelas em cada fase e conseguir o menor n\u00famero de tacadas. Estuda a disposi\u00e7\u00e3o do mapa, faz tantas tentativas quantas as necess\u00e1rias e obt\u00e9m o t\u00edtulo de campe\u00e3o!\n\n\n\nCARACTER\u00cdSTICAS PRINCIPAIS:\n- 8 mundos \u00fanicos\n- Mais de 60 n\u00edveis para dominar\n- Cart\u00f5es de pontua\u00e7\u00e3o para te ajudar a acompanhar o teu progresso",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16b0bb802a5fe1924dcb37c9ebe60c1048a3c3b86652af07968b6df09c10861d.jpg",
-    "id": "010090801D6E2000",
-    "intro": "Parta para a aventura de golfe mais envolvente que alguma vez viu e visite lugares de cortar a respira\u00e7\u00e3o em todo o mundo.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "fr",
-      "de",
-      "zh"
-    ],
-    "name": "nGolf",
-    "nsuId": 70010000074466,
-    "numberOfPlayers": 1,
-    "publisher": "RedDeer.Games",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/dd16659d32371cdef0ddf14069b92393824c836ebef9eff8ef7d52f6e4abe081.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/abaa816f2560f6606eb1e632c75dbd058006147b84e45a8046cb0d115098f81b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/6fdb694174deace2afb53ee4cdc48df8ef74d1573aa75f38b700bcca3467a80b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/804adf4d04b73311e61e403a609308ccb441a2e17ebbf719e5388e0a4c12785e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/011d2fff8f9a584c309ff7709a6be849d6de806e5f9ba5fee81abb2b7743c059.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/fb588d26a9629227f3e5c38fac64e4b93704eee634ecc7fa48facb4e1b0184e4.jpg"
-    ],
-    "size": 238026752,
-    "version": null
-  },
-  "70010000074665": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a0ff7cf53151e850b1db96a5252083658c299f50de489687665bc514db6dd386.jpg",
-    "category": [
-      "Plataformas",
-      "Aventura",
-      "A\u00e7\u00e3o"
-    ],
-    "description": "Viaje entre o reino e suas diferentes regi\u00f5es nesta aventura 3D inspirada nos jogos dos anos 90. Explore cada regi\u00e3o livremente, descubra os segredos, e salve os seus amigos ursos! Este reino era um lugar pac\u00edfico antes, at\u00e9 as abelhas come\u00e7arem a produzir o mel roxo, uma subst\u00e2ncia estranha que transforma todos que comem em um inimigo sem rumo. Voc\u00ea joga como Baaren, um corajoso urso cujo o objetivo \u00e9 de libertar o reino desta amea\u00e7a de origem desconhecida.\n\nPelo caminho, voc\u00ea achar\u00e1 v\u00e1rios colecion\u00e1veis, itens cosm\u00e9ticos para seu personagem, lugares empolgantes para explorar, ve\u00edculos velozes para dirigir, desafioes di\u00e1rios para testar suas habilidades, e mini-games divertidos para se jogar. Usando o conjunto de movimentos diretos por\u00e9m completos do Baaren, voce conseguir\u00e1 escalar montanhas ingrimes, lutar com inimigos perigosos, e explorar este mundo recheado de surpresas.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0fca578d015b47f01f9371323bd8dd2c7f523102bc5abdcea70b2503acba151f.jpg",
-    "id": "010032D01C788000",
-    "intro": "Explore mundos vastos neste jogo 3D de aventura do tipo sandbox",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "es",
-      "fr",
-      "pt",
-      "de",
-      "it",
-      "nl",
-      "ru"
-    ],
-    "name": "Super Bear Adventure",
-    "nsuId": 70010000074665,
-    "numberOfPlayers": 1,
-    "publisher": "Earthkwak Games",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/1ba2f68a30b937df803e371653db2f4ec761f8688f46635f237beeea592d7ae5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/601ad6c448b1308ef4cdca519dc5082ab6457014e75b62bf04dc87def9066cd3.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/1bbc80c131ac00b9980abbb87a36676db9a27e3acbd5c3dc98f2888d9c57333a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/99d7a30deced84c94b998b42b5ed3aa70be96cde09e9b9cdecd0f8af7a9b5855.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c99df578d72a3d2f2ab8e3a9384221b3c5822472bfee337018120654227a20a8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/32352cc1af58b4b216ad7fc84fb9c4c0066fda6faf96af0acea6886a8d2e5ae6.jpg"
-    ],
-    "size": 367001600,
-    "version": null
-  },
-  "70010000074841": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/161d82606a676e2c5ca55ed8058769f1d37e380e8d98e3388965155a868f385f.jpg",
-    "category": [
-      "Corridas",
-      "Arcada",
-      "Multijogadores",
-      "Outro"
-    ],
-    "description": "Top Racer Collection traz de volta o cl\u00e1ssico dos anos 90 em um pacote incr\u00edvel, reunindo tr\u00eas jogos ic\u00f4nicos da renomada franquia de corrida. Com recursos on-line, acelere e experimente a mistura nost\u00e1lgica de a\u00e7\u00e3o e jogabilidade viciante!\n\nA Top Racer Collection apresenta t\u00edtulos cl\u00e1ssicos como Top Racer, Top Racer 2 e Top Racer 3000. Al\u00e9m disso, a cole\u00e7\u00e3o contar\u00e1 com conte\u00fado novo e exclusivo.\n\nLan\u00e7ado originalmente para sistemas mais antigos, o Top Racer conquistou os jogadores com sua jogabilidade envolvente, gr\u00e1ficos vibrantes e trilhas sonoras ic\u00f4nicas.\n\nRecursos\n- Filtros para uma experi\u00eancia nost\u00e1lgica;\n- Modo on-line para corridas multijogador;\n- Desafios com amigos e advers\u00e1rios de todo o mundo no modo de classifica\u00e7\u00e3o;\n- Modo Time Attack para testar suas habilidades de corrida contra o rel\u00f3gio.\n- Modo Campanha e Modo Copa Personalizada",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bdfbbf48fdfba0906bc260f998e3ae8bdff7240618d29b3c16f5f2ecd1175fc5.jpg",
-    "id": "010029001D8A8000",
-    "intro": "Top Racer Collection apresenta a renomada franquia de jogos de corrida de 16 bits, com Top Racer, Top Racer 2 e Top Racer 3000, al\u00e9m de conte\u00fado novo e exclusivo!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Top Racer Collection",
-    "nsuId": 70010000074841,
-    "numberOfPlayers": 2,
-    "publisher": "QUByte Interactive",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/f4f93816063d36e8b2ac57fad0f818e19db80bfee38751695d91b597660e2a08.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/73ca25d89b58d87a441d6e3ca922bbd2b2d6c6b4a36b029395183d4e3b9302fe.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/75290aafafa9834b080da5408733985963a0954e2942dca143521e7ef78028eb.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7906ec448ad92b3453a45e59f8b4f10990825914f3badafcac0a6a8e76876499.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/56ea3e0fcb832db20fb5cfcd6821f8398eb374703016915d58fb9761891285fa.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c27357528da93b69137f2601584610e53cd7129f43bb327e69a02300c15ebd7b.jpg"
-    ],
-    "size": 890241024,
-    "version": null
-  },
-  "70070000020379": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c158eb2a9ad1751c37f3ed8801b8d216f7b3c37820f17014e9bbcb76674b166.jpg",
-    "category": null,
-    "description": "Percorre o universo com este rogue-like spaceshooter. Descobre os in\u00fameros perks/consum\u00edveis e os seus efeitos sinerg\u00e9ticos. Explora a gal\u00e1xia gerada aleatoriamente e encontra os mercadores, desbloqueia naves, ganha cartuchos da StellarNetES e risca da lista as tuas vit\u00f3rias sobre os v\u00e1rios Mestres Perdidos.\nE morre. Muito!\n\nSudoku Zenkai \u00e9 um jogo para iniciantes e para experientes na arte de resolver um Sudoku.\nDeixa-o jogar cooperativamente com os seus amigos! Pode come\u00e7ar um novo jogo com um amigo ou simplesmente pedir ajuda quando encontrar um mais dif\u00edcil, duas cabe\u00e7as s\u00e3o sempre melhores que uma (normalmente).\n\n",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Explora uma gal\u00e1xia gerada aleatoriamente e destrua todos os bosses gal\u00e1cticos. Resolva Sudokus com seus amigos!",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Stellar Interface + Sudoku Zenkai",
-    "nsuId": 70070000020379,
-    "numberOfPlayers": null,
-    "publisher": "ImaginationOverflow",
-    "rating": 7,
-    "ratingContent": [
-      "Viol\u00eancia Ligeira"
-    ],
-    "region": null,
-    "releaseDate": 20240111,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/336fe18a86cb075c531587b1791be3b98765c403c11b2152c03829123b316d0a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e7005cc0d72ecb3aa23b754144131fab5a6b3915ab5285c27924ccd7cc5f200e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a51beea12ec144627fd59468c188d768b0a0dc7f298359829194def1a2711e11.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d1b6d86db29572db5448940c5b4709f5ddd9476b681157a01b72a9a6d3d314b7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dc8282b197ce964e370c3938b808fde8c40d7692f5d4c37935a1d4f84154f6a1.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/61d51a5dec511a86f62b41f466b6e7b8366f26f850ead3868d276fb6037c5296.jpg"
-    ],
-    "size": 666894336,
-    "version": null
-  },
   "70010000041414": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1ec03c75011d6e14cdd421d24b6cd91f826aea9c950f96a4debf2f9bf3727c74.jpg",
     "category": [
@@ -1064,6 +779,46 @@
       "https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
     ],
     "size": 118489088,
+    "version": null
+  },
+  "70010000072535": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b022fc1b6d75abbbed3266271759d87092b24b372fdf48e71ccc042e3f542cc9.jpg",
+    "category": [
+      "A\u00e7\u00e3o",
+      "Aventura"
+    ],
+    "description": "Fairytale Theatre-Momotaro's Adventure- is a 2D action game.\nAim for Onigashima by defeating ogres and monsters and saving your friends.\nMomotaro gets power-ups by opening treasure chests. When you defeat bosses, Momotaro learns new moves.\nAdventure through the world of fairy tales such as Kintaro, Urashima Taro, and Kachichiyama.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7a47526f544cfce0a641511f3932f3e900484b4ffeac26f0f4bcd39ec3fc9b59.jpg",
+    "id": "0100FE301CFD6000",
+    "intro": "Momotaro's adventurous action game!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "name": "Fairytale Theatre-Momotaro's Adventure-",
+    "nsuId": 70010000072535,
+    "numberOfPlayers": 1,
+    "publisher": "HUNTERS",
+    "rating": 12,
+    "ratingContent": [
+      "Viol\u00eancia Moderada"
+    ],
+    "region": null,
+    "releaseDate": 20240117,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4dcb7e4fc7b650f1d1260fde268b3ee507aba277f81ccd542d63a9a48ef98674.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c622063c523fb9f595961aadda470cca1813b298277c8b016558576f00d874d2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bdee6613c35cc6bc36bfb682ff9a3f10e0129ae4f6a669d8984516f1b4eae736.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b352093a6c8c3df6aff6dac3b3f59bccf5c67ffae7b55a8191447f5ac304ce47.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c1f21a55165d643c5b3c64c802c43600f93d9c06d1d01e9d8fb0d6ecbdac6754.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/439c9c5ec3bf90fc8d7022314ed0423800a900b42a1cbe74d6231b4120bd38c9.jpg"
+    ],
+    "size": 94371840,
     "version": null
   },
   "70010000054312": {
@@ -1935,6 +1690,45 @@
     "size": 2140143616,
     "version": null
   },
+  "70010000075527": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5407ff1ab9e2502db4e32250a52cc0510e7368bdd66f25c093d1bc4abe561bfc.jpg",
+    "category": [
+      "Aventura"
+    ],
+    "description": "The Story:\nGreat job, fulfilling hobbies.\nYou're loving the single life.\n\nThat is, until you end up married\nand all on a drunken impulse!\n\nA sparkling ring on your finger, kisses to welcome you home.\n\nIt's a marriage of convenience,\nso why does it feel like you're falling in love?\n\nNeither your vows nor your wedding certificate\nare proof of affection in this case.\n\nCan marriage be a starting point for love?\n\nCharacters:\nKunihiro Kasai     \"Ambitious & Romantic\"\nKuranosuke Kiba    \"Sly & Assertive\"\nShu Hasunuma         \"Brusque & Shy\"\nEiji Takao      \"Haughty & Mysterious\"\nUkyo Senkawa      \"Sexy & Intrepid\"\n\nContents:\nIncludes Main Stories from the app Love 365: Find Your Story up until \"Season 2\" ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fa6f7791848613a137c22b8b94db2cd574089a0b75c89709f4eb7c7f7d1e00aa.jpg",
+    "id": "0100FC301DB32000",
+    "intro": "You accidentally wed\n\"that guy\" from work when you're drunk!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "name": "Oops, I Said Yes?!",
+    "nsuId": 70010000075527,
+    "numberOfPlayers": 1,
+    "publisher": "Voltage",
+    "rating": 16,
+    "ratingContent": [
+      "Sexo"
+    ],
+    "region": null,
+    "releaseDate": 20240124,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/c7f357534db94d00355b746bf0390363803b473c16d474ad94f1419e021be4d4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e3a73125a26f1aaa0b5c3eae68b28ebe8d0d1eafdf467522812882d5e9977d00.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/391a79bcb98e6bad32deb8303456d0a45e33018ce2df6dde2d786a5494585215.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2f95b38053da5e08a34340df772bad6294dc9f653ebbd204110fb856d50b6621.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2204cda3cdd6a2928ab5919705609fd892af35f005a71d5db28d0c14685886e7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a446ba9fb2e8b101780a5bcf5ffaccced0bb19307eb827da5c1637d1ebd9f57c.jpg"
+    ],
+    "size": 963641344,
+    "version": null
+  },
   "70050000045349": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/733295bb19fd0e1b6d6a52ac1206e1a86a65562305eb8d6599154726c4c2b774.jpg",
     "category": null,
@@ -2141,6 +1935,50 @@
       "https://img-eshop.cdn.nintendo.net/i/e8e7b34f5862cc72ca2297182be7023e9c4f3896064f37c0f9a72d82905c07dd.jpg"
     ],
     "size": 758120448,
+    "version": null
+  },
+  "70010000075467": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4deb374d94a41285b3496d1a843f887d34738c3a2cf6dca83e6af6294fe6f1f5.jpg",
+    "category": [
+      "Simula\u00e7\u00e3o",
+      "RPG",
+      "Estilo de Vida",
+      "Outro"
+    ],
+    "description": "Embark on an engaging adventure within the realm of \"Fantasy Blacksmith,\" where you step into the shoes of a master blacksmith. This immersive game invites you to the heart of the forge, where you can meticulously craft an impressive arsenal of weapons, including majestic swords and nimble daggers, using either durable metals or the rustic charm of wood.\n\nYour craftsmanship goes beyond mere functionality, as each swing of the hammer is a deliberate dance that transforms raw materials into intricate works of art. The weapons you create not only showcase your skill but also contribute to your wealth through their sale, earning you valuable coins. These coins serve as a key to unlocking a variety of recipes, unveiling new and exciting possibilities that add depth and diversity to your creations.\n\nAs you navigate the challenges along the blacksmith's path, view them not as obstacles but as stepping stones toward vibrant new beginnings. Embrace the natural rhythm of your journey, where every unexpected turn enriches your story, shaping your identity as a resilient and creative blacksmith. The in-game economy pulsates with the beat of your craftsmanship, providing a dynamic backdrop to your immersive adventures.\n\nPrepare for a journey where setbacks are not defeats but strategic detours leading to new and enriching beginnings. Will you embrace the essence of the forge and carve your path to greatness in this compelling adventure? As a blacksmith, the choice is yours \u2014 forge the path to your destiny.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eda8133f56f0e8f3c5c3016b448e5a09a6661f8fb79b36f55d275a0ec66ee716.jpg",
+    "id": "010057801DAFC000",
+    "intro": "Master the forge in Blacksmith Shop Simulator. Craft swords, daggers, and more with metal or wood. Unlock recipes using earned coins. Every setback is a chance for a new beginning.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "de",
+      "zh",
+      "zh"
+    ],
+    "name": "Fantasy Blacksmith Shop Simulator",
+    "nsuId": 70010000075467,
+    "numberOfPlayers": 1,
+    "publisher": "Halva Studio",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240125,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/4df28bda01534a71166cddad999d5d777502b6ec69435706318fe4fd3c55cb3f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/81da33ba0e86652b24db668b986905d1a306cf6befddd8bd37a6d3e1e57ad8f9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cd8796c3befea31a8f35390d455bed5d430f5bb5b0a73e9da4231922ffb40a72.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7a9be2d7db0d3184deb3179800929fe40ef24d911bf759955444f4e07ba04777.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/262b85f1efd8ee2d80878cfda0aabe76c286bd2d47630ad7e5753a6f9ca3ed83.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5ec6b2aec5a6e8a46a2f69e88ae1f14ab9d2a856db588c7fcea57f43d770a561.jpg"
+    ],
+    "size": 228589568,
     "version": null
   },
   "70010000076076": {
