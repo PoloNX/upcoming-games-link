@@ -1,420 +1,4 @@
 {
-  "70010000041414": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1ec03c75011d6e14cdd421d24b6cd91f826aea9c950f96a4debf2f9bf3727c74.jpg",
-    "category": [
-      "RPG"
-    ],
-    "description": " In a time of turmoil, the tribe of the valley turn to your powers of divination and come to you for guidance.\n\nTheir fate will change depending on your auguries. Overthink every constellation, or let the stars freely enter your mind. You are the Soothsayer and yours is the way to read the future.\n\nKey Features:\n\nLook to the sky from the sacred rock, draw the constellations, and read the stars.\nLearn to read the bones and foretell the future or contact those who are gone.\nGet to know your people and help them face their problems.\nChoose wisely your answers as you\u2019ll change the present and future of your tribe. They will thrive or die depending on your words.\nA visual style that mixes 2D and 3D art brings the confined world of Grotto to life.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c959a1d6530939f8c6457bc3c26d20cb71f9dd6535309f707f2fd654595641cd.jpg",
-    "id": "010034E01517E000",
-    "intro": "Grotto is a mystical, narrative-focused experience. You are the Soothsayer. The one capable of talking with the stars and unveiling their messages. ",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Grotto",
-    "nsuId": 70010000041414,
-    "numberOfPlayers": 1,
-    "publisher": "Digerati",
-    "rating": 18,
-    "ratingContent": [
-      "Drugs",
-      "Strong Language"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/86d46b3339433e77e5134c8cef17cb05f3a01a969440064e05f573cd8e1f32fc.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3f02f29c1cf83882eec3277193d7947ae40da70b785bf91a437c629af60ebdfa.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c173adb7b59653a57a2db87d3b423a59da2a449e4575df87f847377c71b832a3.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/0d5668be1ae7c0d604a0599e91b1c4193370a4592d4a124b3a7a10b288f517c5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5753b57a5a1bd4a8d13b459f6e91af65323f4cb8f6ff792089bea6da3e585084.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/53299e8ba8cef30c273cfb2bbc75e4417e5e81839599a7f79dad4b7b71514046.jpg"
-    ],
-    "size": 248512512,
-    "version": null
-  },
-  "70010000057394": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b75969d7c76d4a1783c4f01ace8ac0ae4cc6f4e027d578f40c00db01ff59d7c.jpg",
-    "category": [
-      "Shooter",
-      "Arcade",
-      "Action"
-    ],
-    "description": "SHINORUBI is a Shoot'Em Up game rooted in the Bullet Hell, Danmaku, and Manic Shooter genres.\n\nIn the universe, there is a compound that can only be found on one singular planet, SHINORUBI.\nThe compound gives their owner infinite power and exceptional longevity via biological mutations; its name is \"R-R\".\n\nFor a thousand years, the BA\u00c4A family has ruled mercilessly over SHINORUBI and the \"R-R\".\n\nKing R.LOYD III has six sons and a daughter. He and his sons left for war 150 years ago against the TRADDESS and ZOOGT empires, lightyears away from SHINORUBI.\n\nThe kingdom was entrusted to five generals close to the royal family, under the command of the king's only daughter: NEMEZIYA BA\u00c4A.\n\nNight falls on KADDIN, the capital... The endless night before the solstice of BA\u00c4A's thousand-year rule. Eight mercenaries will try the impossible under cover of night: overthrow the kingdom.\n\nSHINORUBI packs a great arcade action punch with great replayability thanks to its numerous difficulty levels, arranged modes, and player ships.\n\nThe only part of your ship vulnerable to enemy shots is the center. Better avoid the myriad of missiles and bullets aiming for you and destroy everything between you and your target!\n\nThere is only one rule: Do not die... and destroy the BA\u00c4A kingdom.\n\n\nFeatures:\n- HD graphics taking you through 5 awe-inspiring environments, between futuristic forests, military bases and stormy skies; \n- 5 difficulty modes, from super easy to very hard, for a variety of challenges!\n- 8 playable ships, with varied POWER, SPEED and SHOT COVER stats to adapt to your playstyle;\n- 12 \"arranged\" modes: play against the clock in \"Caravan Mode\", take risks in \"Shield\" mode, test your stamina in \"Journey\" mode or catch pigs in \"Pink Pig Mode\"!\n- A BOSS RUSH mode with three difficulty levels!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cfca77319656e8de4bb10e3fccbb6c1ea9075dc2e27b196297cdcc00ffaf501e.jpg",
-    "id": "010005D019272000",
-    "intro": "Inspired by Japanese shmup arcade games, SHINORUBI is a pure shot of action combining all the best aspects of Bullet Hell and Manic Shooter genres!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "es",
-      "fr",
-      "de",
-      "it"
-    ],
-    "name": "Shinorubi",
-    "nsuId": 70010000057394,
-    "numberOfPlayers": 1,
-    "publisher": "RED ART GAMES",
-    "rating": 7,
-    "ratingContent": [
-      "Violence"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/3970e9b5e018459038bf8fd4616e83f8599c2048521faf207013c06933b7e99d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/215cb8ecfb772901a7f3a2e99f6adaee47f5e79ef0f8c5b04f7146db44d5057b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dd157e2b0309ea69b0cdd37a9c79f751621b89cfb8ef5e60319adcaa9e281a89.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/00d3c52aab68fbc4cdbc7175b2a528b919c3ecb7143eca4c3ad8a1c7415644f2.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a99b74417066ac89ace70d6ffcbe69bec939ba31431869434732722a365ae7dc.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/980c148bb436e09f0965af5abc32a7b76bbe52b4df8e5b7c1c58e36430b93ed8.jpg"
-    ],
-    "size": 1015021568,
-    "version": null
-  },
-  "70010000070249": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9845d1cea516523c8d224f2e1843d61559263465cbcb59b22f7f53e50f7b26f4.jpg",
-    "category": [
-      "Platformer",
-      "Adventure"
-    ],
-    "description": "Kitten Hero is a fast-paced action platformer were you play as an extremely cute little cat trying to rescue his human friend who was abducted by evil artificial intelligence.\n\nHelp the kitten save his human and other kittens trapped inside a spaceship controlled by a powerful supercomputer. To get there, you\u2019ll jump, climb and dash your way through 80 levels filled with deadly spikes, saws, missiles and more.\n\nYou\u2019ll need to rely on your cat-like speed and reflexes to survive!\n\n\nFeatures\n* Platform action gameplay\n* 80 hand-crafted levels\n* Customize your cat with 15 hats\n* 2D pixel-art \n* Relaxing lofi soundtrack",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/57e2df6c39cf0b4c4ef412db8f1308230deeb4f939ea41ba69b761a719bc75b0.jpg",
-    "id": "010097801C4C2000",
-    "intro": "Help this kitten save his human friend from an evil computer",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "pt",
-      "en",
-      "es",
-      "fr",
-      "it"
-    ],
-    "name": "Kitten Hero",
-    "nsuId": 70010000070249,
-    "numberOfPlayers": 1,
-    "publisher": "Ratalaika Games",
-    "rating": 7,
-    "ratingContent": [
-      "Mild Violence"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/7a633f38c9de187678c30ca4bc6915592d590b2b904c9a2f146e81aa9729f6c6.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/93a9fbedf0a4d2721ac6e8eecab2d31c43e760115b0c5abdceee44474b3ca86a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7c4e7d1dc63e33d56ea821a4a6cc46a11bee93ba5d4e187a71cffc05fbafb6bc.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/595c3a9223487b37c31bbb8e264b37f86a3c4e3d4030e7e56abaa5cec4935ee4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d0bc6180b208233f0edd8790971d65991834e16c5c99bff09701d519b22eb221.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9838b99553b5470e1218097a751542fbd8e3bba95b22d4ac06bdf2958d9bb7d6.jpg"
-    ],
-    "size": 77594624,
-    "version": null
-  },
-  "70010000073986": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3cc96544de9710f6ac702692dd504c36d4e6c3136c3a7bc7a67415c0c2909417.jpg",
-    "category": [
-      "Simulation",
-      "Strategy"
-    ],
-    "description": "Journey back to the zenith of civilization in Roman Empire Simulator. Set amidst the grandeur and complexity of ancient Rome, this game masterfully blends Tower Defense mechanics with intricate war strategy elements, offering a gaming experience that's both immersive and intellectually challenging.\n\nKey Features:\nEpic Historical Setting: Relive the splendor of the Roman era, capturing its aesthetics, politics, and warfare.\nBuild and Fortify: Start with a modest town and transform it into an impregnable fortress. Upgrade walls, towers, and defenses, preparing for the onslaught.\nDiverse Enemies: Battle against waves of diverse adversaries, from the brute force of attacking elephants and relentless siege weapons to vast armies of barbarians, Gauls, Iberians, and Carthaginians.\nUnleash Mighty Defenses: With a sky blotted out by arrows and the ground scorched by your defenses, showcase Rome's might against its adversaries.\nExpansion and Strategy: Lead your legions to victory, conquering new lands throughout Europe and Africa. Strategically decide where to attack, which territories to fortify, and when to advance.\nDynamic Campaign: Encounter unique scenarios and challenges as you progress, each demanding a different approach to outsmart and conquer your enemies.\nHistorical Accuracy: Engage in authentic Roman tactics, leveraging the strengths of your Centurions, Praetorians, and other iconic units from the Roman military hierarchy.\n\nShape an Empire's Destiny\nIn Roman Empire Simulator, every decision, no matter how trivial, has the potential to alter the course of history. Will your Rome flourish as a beacon of civilization, or crumble under the weight of endless sieges? As the Caesar of your own story, the fate of the empire is in your hands. It's a call to glory, strategy, and defense like never before.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a83b348c302f7675d0d9616be06ee338fd3f23be9f29242bafe2ee9a84eda527.jpg",
-    "id": "010029001D53E000",
-    "intro": "Will your Rome flourish as a beacon of civilization, or crumble under the weight of endless sieges?",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Roman Empire Simulator",
-    "nsuId": 70010000073986,
-    "numberOfPlayers": 1,
-    "publisher": "DEMENCI Games",
-    "rating": 7,
-    "ratingContent": [
-      "Mild Violence"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/e41aa3ef12ccbd00ac21ae9b80f493f94e97c2235c2ae6e2c34afa8a5461f1ac.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7c1b111690c096fc6f219c24cf62666273d6130a5ac2f475ca178d546731e148.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e59f358f4de17c00fae68bcf092e063f2531e1b0958f1856178ee18182ceb142.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/8531fedfb804f80cd76b68f3a1981845d7cca967e5b0c47a2e747c94399471ba.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d4ed34b0bfd5084145498155c89c881c8a992a64c81bd571e93cec5ae0f591e9.jpg"
-    ],
-    "size": 195035136,
-    "version": null
-  },
-  "70010000074167": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8f2e3d55a2eaf106beafe71a92efed1578f4fff17b1b80e5e6e9b5617285a101.jpg",
-    "category": [
-      "RPG",
-      "Adventure",
-      "Platformer",
-      "Strategy"
-    ],
-    "description": "Explore the world, find Crystals, and fulfill the prophecy to bring balance to the land of Sequoia.\n\n...Or maybe you'd rather spend your time collecting neat equipment and artifacts? Or tame strange creatures and fill out all the entries in your archive? Or perhaps you'd rather hunt down every monster and conquer the world's toughest bosses. Or maybe you'd rather travel to the farthest reaches of the land and uncover the world's greatest mysteries.\n\nThe choice is yours, as it should be! Or is it? They say that those who stray out of line will be punished, killed, or worse. Maybe it's for your own good that you stick to collecting Crystals, just like everyone else. But where would the adventure be in that?\n\nTactical Battles:\n- No random encounters!\n- Manage Threat to control which party member a monster will attack.\n- No hidden information. Preview turn order, damage, and probabilities like in TRPGs.\n\nCustom Builds:\n- Discover and unlock new classes.\n- Assign sub-classes, pick passive abilities, and equip all kinds of special items.\n- Invent unique team compositions, or stick to the MMORPG Holy Trinity.\n\nAdventure:\n- No permanent missables!\n- Seamless transitions between zones with no loading screens anywhere.\n- Uncover the mysteries of the world all on your own.\n\nPlatforming:\n- Metroidvania-style progression.\n- No invisible walls! Try to jump and climb anywhere you want.\n- Overcome platforming challenges to discover neat loot... and other stuff.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab7731a1c2614daaad03857a833608cbff7db230b531be958fac4d66c678b080.jpg",
-    "id": "010088A01C628000",
-    "intro": "Crystal Project is a non-linear JRPG where you are the maker of your own adventure.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Crystal Project",
-    "nsuId": 70010000074167,
-    "numberOfPlayers": 1,
-    "publisher": "River Running Games",
-    "rating": 7,
-    "ratingContent": [
-      "Fear",
-      "Mild Violence"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/440bc610c959c85fdad00462429d6a43dde8b9684d7ccad27e5aa55906acd6cc.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/0c5e6093ad51bcac94f822fef8dda6c566fb54ff7e7bd86d216534284ac775d9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d97807862154d60b49815aa047e17fa15748a4eb7eeeb90a1d84a24d06b54da4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/712a2d375a15f4dc6c5ac1444a72f2f4a8ab98aa82c01f7e210d4c0d892a2309.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/41c18cfa2966fb32337af8129f60417bd42e28a572359920a3d07b1f43c30e17.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/554324e0ba8806a6f3ac08202d25bac665b6389f076f3c64c122c4a3a9e6482c.jpg"
-    ],
-    "size": 617611264,
-    "version": null
-  },
-  "70010000074558": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d822e996af223ef1bfe0f38ca5b382898a8f0de6e3191b86314ca61b4ec8cae.jpg",
-    "category": [
-      "Arcade",
-      "Platformer",
-      "Action",
-      "Other"
-    ],
-    "description": "Avoid tricky obstacles like deadly spikes, secret doors, spinning gates and objects falling from the sky - getting a perfect hit into the hole can be dangerous!\n\nBeware of the twisty road speed ramp, which makes your coin go super fast! Only those with true mastery can skillfully control their coin as it hurtles down the track!\n\nPut on different funny skins, collect coins as you roll down and complete as many levels as possible in this never ending game!\n\nReady to roll?",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e0da0a362e32116c0d0ff7a10d40882f4821fe7bf954a9e2a8ce257481d22402.jpg",
-    "id": "0100A5101D31A000",
-    "intro": "Roll your coin along the Coin Rush twisty road track and get a perfect hit right into the hole!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en"
-    ],
-    "name": "Coin Rush",
-    "nsuId": 70010000074558,
-    "numberOfPlayers": 1,
-    "publisher": "QubicGames",
-    "rating": 7,
-    "ratingContent": [
-      "Implied Violence"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/0174d8c222655ca86d0a5380fc5848d7da014c2c67544b3896a979770186f4c6.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d92f54577fb7766a75fce1059ff5b24f9e00f842cbcf99b1aae485c525da5cb5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e296227a644fb14cafb82f23028ec2cf60a73dd40659e374c6287871838e5b91.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cdfb1fb6d148bf758f7cfee0a22d0838031336e54a450f47bb698eb52be5a9cf.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dede191176632e1e0e385d5ca4578495a1d65288c6862b7e8600e69463b1830f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3c0d461f8419ab9ad90d870d1d3501afc6d53bd4be72b9854e2765e53846645c.jpg"
-    ],
-    "size": 393216000,
-    "version": null
-  },
-  "70010000074647": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8f2d0bd3cf00e1e34b837af003b79c6450e603290d8ef8786d6c2691402361e4.jpg",
-    "category": [
-      "Arcade",
-      "Simulation",
-      "Sports",
-      "Action"
-    ],
-    "description": "Immerse yourself in the world of bowling with Bowling Fever!\n\nTest your skills in countless game modes, visit amazingly realistic 3D locations, play fantastic mini-games and discover dozens of new bowling balls and pins!\n\nNeed a hand? Various power-ups and boosts will help you to meet the challenges.\n\nA bowling game has never been this exciting!\n\n- Fantastic bowling alleys from around the world.\n- Fantastic 20+ balls, pins and lanes to show off!\n- Multiple mini-games to complete.\n- Multiple game modes to play!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/06e40923b397f82e3fac8572dfd0ced02b6bf90a2f68699bdcd26c15075c9d25.jpg",
-    "id": "010077701D772000",
-    "intro": "Fire up \"Bowling Fever\" and be carried away by the emotions!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "es",
-      "fr",
-      "de",
-      "it"
-    ],
-    "name": "Bowling Fever",
-    "nsuId": 70010000074647,
-    "numberOfPlayers": 4,
-    "publisher": "Baltoro Minis",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/b185a4194397117ef3b1cea3c6427596a03c8c147063145748a016779eafcf4a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/1d12d10692d46a951a60b649395acb38a7fe1c5f4ea8b3bdc33288743fdfe48a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9cc45d42478defcfa18e439f24b4b8a9242e6037351a91d6b01b4efaddee3a32.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/da0e2cac263f111ade2d383e56538bdca59cdc9f0a6837d180eb742f6116aa3b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7e5ce88d8b5f7e8058ed81663bd6f9ceffc1631027a34ac026f56e67d672dcf2.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/35937982939c725f4bf34ddc42f8fb7945f101f5f8cc13fcd71a46f551f63ccf.jpg"
-    ],
-    "size": 476053504,
-    "version": null
-  },
-  "70010000074665": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a0ff7cf53151e850b1db96a5252083658c299f50de489687665bc514db6dd386.jpg",
-    "category": [
-      "Platformer",
-      "Adventure",
-      "Action"
-    ],
-    "description": "Travel through the kingdom and its different regions in this 3D adventure inspired by late 90s games. Explore each region freely, uncover their secrets, and save your bear friends! This realm was once a peaceful place, until the bees started producing purple honey, a strange substance that turns anyone who eats it into a mindless foe. You will play as Baaren, a courageous bear set on a quest to free the kingdom from this menace of unknown origin.\n\nAlong the way, you will find loads of collectibles, items to customize your character, exciting places to explore, speedy vehicles to drive, daily challenges to test your skills, and fun mini-games to play. Using Baaren\u2019s straightforward yet complete set of moves, you will be able to climb steep mountains, fight dangerous enemies, and explore this world packed with surprises.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0fca578d015b47f01f9371323bd8dd2c7f523102bc5abdcea70b2503acba151f.jpg",
-    "id": "010032D01C788000",
-    "intro": "Explore vast worlds in this sandbox-like 3D adventure",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "es",
-      "fr",
-      "pt",
-      "de",
-      "it",
-      "nl",
-      "ru"
-    ],
-    "name": "Super Bear Adventure",
-    "nsuId": 70010000074665,
-    "numberOfPlayers": 1,
-    "publisher": "Earthkwak Games",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/1ba2f68a30b937df803e371653db2f4ec761f8688f46635f237beeea592d7ae5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/601ad6c448b1308ef4cdca519dc5082ab6457014e75b62bf04dc87def9066cd3.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/1bbc80c131ac00b9980abbb87a36676db9a27e3acbd5c3dc98f2888d9c57333a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/99d7a30deced84c94b998b42b5ed3aa70be96cde09e9b9cdecd0f8af7a9b5855.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c99df578d72a3d2f2ab8e3a9384221b3c5822472bfee337018120654227a20a8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/32352cc1af58b4b216ad7fc84fb9c4c0066fda6faf96af0acea6886a8d2e5ae6.jpg"
-    ],
-    "size": 367001600,
-    "version": null
-  },
-  "70010000075267": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4b9be3082709dfe053180b4af8ae3242ea11b3a0b475ea4898686f159a962c2b.jpg",
-    "category": [
-      "Action",
-      "Adventure",
-      "Simulation",
-      "Strategy"
-    ],
-    "description": " Commence on a relentless journey through the inner corridors of the Empire's spaceships in HatLand, a game that turns every defeat into a step towards ultimate victory. Brace yourself for an adrenaline-fueled experience where encountering \"GAME OVER\" is not a setback but a pathway to empowerment.\nKey Features:\n\u2022 Dynamic Combat Mechanics: Engage in thrilling melee and ranged combat with enemies that evolve as you progress. \n\u2022 Explosive Tactics: Turn the tide of battle by utilizing traps, mines, and TNT strategically. Transform the environment into a weapon, using it to your advantage against relentless opponents.\n\u2022 Item and Upgrade System: Discover a diverse array of items and enhancements that will pave your way to the next room. \n\u2022 Formidable Boss Battles: Confront nine unique bosses, each presenting a new challenge and testing your skills to the limit. \n\u2022 Varied Enemy Arsenal: Face off against a relentless onslaught of 10 different types of enemies, each with its own set of skills and tactics. \n     In HatLand, every defeat is a stepping stone to becoming an unstoppable force within the Empire's dominion. Are you ready to embrace the challenge, overcome the odds, and emerge victorious in the face of adversity? \n\n",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7a29811a8ad6502ce079a4b632cd0e14c083aa80ccaeeddf639aa27af312b8b7.jpg",
-    "id": "0100A7301D9C8000",
-    "intro": "Rise from Defeat, Triumph in Every 'GAME OVER' - Navigate the Empire's Inner Corridors with HatLand!\n",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "ru"
-    ],
-    "name": "HatLand - Pixel Impossible GAME OVER",
-    "nsuId": 70010000075267,
-    "numberOfPlayers": 1,
-    "publisher": "SUCCESS GAMES",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/0289fc5f4a3ea9fd46e98ef8b8d73e3da379674a9bddf8c7e06654deac370481.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/53210d192609682426ce8fc732169d81b742ac954248525b66293836b812b560.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9f75d2052e18cb95b79c0b108db0a55496ef40c6db5c029735f3a91e88f33688.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/80daebfabfd6a6928090eea24d86450b572a9ea6c1cf5a492dfdfd281e62fe18.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/18067b17cfcf700a5eaaa9fa2b096ac4db4e665166c8a98b7c4ee1021e908545.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/214c89c6340b204af4482627361ec0eaa6b2f2f4adf4a4bb02ff4fcfc5b91e17.jpg"
-    ],
-    "size": 1362100224,
-    "version": null
-  },
-  "70010000075284": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a3121bc8974f94618f5154db7f236d449cbf0ab82efea8b0f4958f23145b73a.jpg",
-    "category": [
-      "Action",
-      "RPG",
-      "Adventure"
-    ],
-    "description": "Frogsong is a heartfelt adventure where it's okay to be small.\n\nChorus is a little frog with huge dreams of protecting the world. Being a tree frog, however, society expects them to lead a life of religious studies, instead of training to be a warrior. Their small size certainly doesn't help anyone take them seriously, either. Seeking a better life, Chorus moves to Boreala, a village where members of the Defense Guild train under the wisdom of an old veteran. They quickly learn things aren't going to be as easy as they hoped. With a powerful army and a mysterious rumour both on the rise, Chorus needs to discover how they can protect the ones they love - before it's too late.\n\nExplore a beautiful, atmospheric land and fight monsters on your journey to find your place in the world. \n\nFEATURES:\n-Friends and foes brought to life in expressive hand-drawn 2D animation!\n-Talk to lots of cute and strange characters as you explore the land of Salia!\n-Explore five unique areas filled with their own special enemies, villages, and bosses! \n-Upgrade your blade at the blacksmith's shop for stronger attacks!\n-Follow a heartfelt story that deals with themes of identity and self love!\n-Try to make the world just a little bit better! ",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2d2e6678c60777206ca257cc78f00fb4f0b4acf02f88208bdc5f3403ee9e29e2.jpg",
-    "id": "0100DDE01620E000",
-    "intro": " A heartfelt adventure in a fantasy world of frogs! Talk to weird and wonderful characters, fight vicious bugs, and explore a vibrant world in this charming action RPG. ",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Frogsong",
-    "nsuId": 70010000075284,
-    "numberOfPlayers": 2,
-    "publisher": "Brandon Braun",
-    "rating": 7,
-    "ratingContent": [
-      "Fear",
-      "Mild Violence"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/5227c54ffa9d34b78ad4008a3a2f26f19f860dd2596d8dcbb2ac7526ebd31b9d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/684051dc374abf9621c3f9ff52985e49f7e9352323e656e3a8faceac34a68e6d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cb0dd45a1898590c62b89928d0463ea1d6cbfe242af8053ee6b447ee606d066a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a1cfc3693383920cd25feb980ee16612ac4d4161e6f5afc7df42b1170e42f0b1.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b3ae6265a26486293cb1af9181bf875fb6d4c7391036cc0a569fef9ffea7f36b.jpg"
-    ],
-    "size": 1897922560,
-    "version": null
-  },
   "70010000075245": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d4adc53e452cfb85f45dd4ced4fbd6933c30b02b4036b189fa14d32a70dae8d0.jpg",
     "category": [
@@ -1765,6 +1349,70 @@
       "https://img-eshop.cdn.nintendo.net/i/30834b39aba50ba87cdaac849870e9b454d7c0462ce689ae9811df4772671ff0.jpg"
     ],
     "size": 3394240512,
+    "version": null
+  },
+  "70070000020321": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/01d41e92f6ec2bd549d0cf45d60b462cec1226c0d1af9cea07ef127a47be025b.jpg",
+    "category": null,
+    "description": "Experience the ultimate rush with our \"Highway Racing Bundle\" \u2013 featuring the acclaimed \"Car Racing Highway Driving Simulator\" and a thrilling expansion pack! Unleash over 30 cars, from racing speedsters to off-road SUVs, with unique driving physics. Overtake traffic in the fastest car, test your skills, and conquer endless highway challenges. Upgrade, tune, and customize your favorite car for maximum performance. This bundle includes a brand-new high-performance car in the expansion pack, elevating your highway driving to new heights. Get ready to rev your engines, dominate the roads, and feel the pulse of the asphalt with this essential DLC pack \u2013 the key to an unparalleled driving experience!\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Fuel the Speed, Conquer Challenges: Highway Racing \u2013 Where Velocity Meets the Ultimate Thrill!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Car Racing Highway Driving Simulator - PREMIUM EDITION",
+    "nsuId": 70070000020321,
+    "numberOfPlayers": null,
+    "publisher": "Erlano",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/42b98f02a5b77833c3b3c1c56d7de95a4d0f12ca1c749ab76e65af7a2e538d67.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9b1dc0b3594882fcf3fc12e49c81b9cdb52e63a1d663e1b5cee2a0241f11d78a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/19e78c94eea4541bd78962ed8f75237be4a7af00b8ead5dcd15cf4bbe6cebe43.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d4979d193cedd8cc19e89fbc3fa82c5806f5b1facce1fe554a6d2863e1b8460f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fc56dce474b42e81f83c6124484da87d0be376cdd7da6dbafa13435b2d36cc4c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/165dadc499e9603475690ac9f6bbd798dbd2121828f890b2f0bf8ae2ae765a36.jpg"
+    ],
+    "size": 1032847360,
+    "version": null
+  },
+  "70070000020500": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eb777c354e4fbfaaf96c989c6d74465b4def391103ad5160aaeb209650687d4d.jpg",
+    "category": null,
+    "description": "This is a second episode of series in which we present you with popular classic games from the world! \n\nShow your mastery in those titles by playing against the AI or a friend in a local co-op mode.\n\nThis is a great game bundle to get your brain juices flowing!\n\nGames included in the bundle are:\n\nMahjong - Traditional Asian game in which you will have to match sets and pairs of tiles.\n\nWord Search - discover all the words hidden in the puzzle!\n\nBattleships - Select a right strategy to predict the position of the rival ships on the map!\n\nHangman - Can you guess the right word before the stick man hangs?\n\nTry them all and discover why these games are still absorbing after all those years!\n\nThis bundle includes base game and DLC #1 Classic Holiday Spirit with:\n- Christmas-themed delight. Bring the joy of the holiday season to your gaming with festive designs that echo the beloved cozy patterns of holiday sweaters and decorations.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Welcome to the \"Classic Games Collection Vol.2\"!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Classic Games Collection Vol.2 Holiday Edition",
+    "nsuId": 70070000020500,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Minis",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d2c776bd22c7f6d2a8889aafad80b563f07e5fd558d89ddef0ced2e04d357fce.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d7b6f5e28aa4db3bdaf0c9ea036490a052f4677153b71a5d9f6c2dd50d63282b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/89fa52b82beb8620b9fc2e0fd6a4c860dbb9f044c579db35650b6623aca101b5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4da4da5fba9bdccaf4d4a5bbed743362dd4c383d672a710a2ca7596a6f2f341a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/94e27b8dfac85601b59384be97ad0b9f2d114bbfcd38803fc7dd3b58cc129fe0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bbc7601b791242e192e560ba1503be5fc83ec47884a15e702f213059a19a885a.jpg"
+    ],
+    "size": 402653184,
     "version": null
   },
   "70010000070090": {
@@ -3932,6 +3580,142 @@
       "https://img-eshop.cdn.nintendo.net/i/797bcb34a33dcdb694b3b0bd2d68a63be66df242b4f657a1836e2c7de62df517.jpg"
     ],
     "size": 4860149760,
+    "version": null
+  },
+  "70010000065250": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/151a3fe397cb6279d17a4cc5307e975a24195d96c77b5d0c47dc63703263df2c.jpg",
+    "category": [
+      "Strategy",
+      "RPG"
+    ],
+    "description": "From the masterminds that brought 13 Sentinels: Aegis Rim and Odin Sphere, ATLUS x Vanillaware presents the rebirth of tactical fantasy RPG. Fight against fate and embark on a royal adventure to regain your reign alongside trustworthy allies.\n\nUnicorn Overlord combines the timeless tactical RPG genre with overworld exploration and innovative battle system for a unique epic fantasy experience in the iconic Vanillaware style.\n\nKey Features:\n\u00b7 Traverse a vibrant world, assemble units and direct them into exquisitely animated battles\n\u00b7 Perform heroic deeds and grow renown throughout the five nations\n\u00b7 Cultivate a grand army with over 60 unique characters, from humans and elves to massive beasts and heavenly angels",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1f0dc6477068ec077e6700877179b280797647e0b1929e6f8cb7914d50fff8d7.jpg",
+    "id": "010069401ADB8000",
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Unicorn Overlord",
+    "nsuId": 70010000065250,
+    "numberOfPlayers": 1,
+    "publisher": "SEGA",
+    "rating": 12,
+    "ratingContent": [
+      "Bad Language",
+      "Violence",
+      "Horror"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/40327627de0962f0e18587898eb4a530d45c1126be6ef2f010f039d5952ea8da.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f2ca5cc2e31da05a6df4f7b125d53148ce9190eb648336afbb97e15d9b032b68.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc5114baeca301cf91c27b89b3379f6890278ff4d2d4678c1dc6195c6e0626bd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/be2577a8a7ab669ec66cb2e9eae34220ae1e419d62d7613c2788e570012d6421.jpg"
+    ],
+    "size": 3210739712,
+    "version": null
+  },
+  "70050000045804": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5dd6b6111acf8048cde186ab3b924deae1eac72f1bcf77b4160b3bac0b32174a.jpg",
+    "category": null,
+    "description": "Pre-order now and receive exclusive in-game insignias with the ATLUS x Vanillaware Heraldry Pack, a fan-focused DLC set that lets you customize the Liberation Army\u2019s flag with\nemblem designs from \"Odin Sphere,\" \"Dragon's Crown,\" and \"13 Sentinels: Aegis Rim\".\n\nPre-order available until March 7, 2024",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010069401ADB9001",
+    "ids": [
+      "010069401ADB9001"
+    ],
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "ATLUS x Vanillaware Heraldry Pack",
+    "nsuId": 70050000045804,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 12,
+    "ratingContent": [
+      "Bad Language",
+      "Violence",
+      "Horror"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70050000046256": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e4a3aa351350e21e7fbb1c65698aab0cd4b37c6d62fc838952c62cfb8f6ae03.jpg",
+    "category": null,
+    "description": "Immerse yourself in the captivating world of Unicorn Overlord with the 16-bit Arranged Music Album, offering a selection of 20 tracks to enjoy. \n\nEmbark on a visual journey through 132 pages of Unicorn Overlord's captivating digital artbook, where you'll discover intricate character designs, visionary concept art, immersive backgrounds, and more, offering deeper insights into the game's world.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010069401ADB9002",
+    "ids": [
+      "010069401ADB9002"
+    ],
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Unicorn Overlord: 16-bit Arranged Music Album and Digital Artbook",
+    "nsuId": 70050000046256,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 12,
+    "ratingContent": [
+      "Bad Language",
+      "Violence",
+      "Horror"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70070000020378": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c6ea7cb9f61578d8dd7bafb1f5e7a175acaaf0de279721a371455da8481b0d3.jpg",
+    "category": null,
+    "description": "The Unicorn Overlord Monarch Edition contains\n- 16-bit Arranged Music Album (20 tracks) \n- Digital Artbook (132 pages)\n\nFrom the masterminds that brought 13 Sentinels: Aegis Rim, Odin Sphere, and Dragon's Crown, ATLUS x Vanillaware presents the rebirth of tactical fantasy RPG. Fight against fate and embark on a royal adventure to regain your reign alongside trustworthy allies.\n\nUnicorn Overlord combines the timeless tactical RPG genre with overworld exploration and innovative battle system for a unique epic fantasy experience in the iconic Vanillaware style.\n\nKey Features:\n\u00b7 Traverse a vibrant world, assemble units and direct them into exquisitely animated battles\n\u00b7 Perform heroic deeds and grow renown throughout the five nations\n\u00b7 Cultivate a grand army with over 60 unique characters, from humans and elves to massive beasts and heavenly angels",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Unicorn Overlord Monarch Edition",
+    "nsuId": 70070000020378,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 12,
+    "ratingContent": [
+      "Bad Language",
+      "Violence",
+      "Horror"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3213885440,
     "version": null
   },
   "70050000042854": {

@@ -1,329 +1,4 @@
 {
-  "70010000041413": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1ec03c75011d6e14cdd421d24b6cd91f826aea9c950f96a4debf2f9bf3727c74.jpg",
-    "category": [
-      "Juego de rol",
-      "Aventura"
-    ],
-    "description": "Grotto is a mystical, narrative-focused experience. You are the Soothsayer. The one capable of talking with the stars and unveiling their messages. In a time of turmoil, the tribe of the valley turn to your powers of divination and come to you for guidance.\n\nTheir fate will change depending on your auguries. Overthink every constellation, or let the stars freely enter your mind. You are the Soothsayer and yours is the way to read the future.\n\nKey Features\nLook to the sky from the sacred rock, draw the constellations, and read the stars.\nLearn to read the bones and foretell the future or contact those who are gone.\nGet to know your people and help them face their problems.\nChoose wisely your answers as you\u2019ll change the present and future of your tribe. They will thrive or die depending on your words.\nA visual style that mixes 2D and 3D art brings the confined world of Grotto to life.\n",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c959a1d6530939f8c6457bc3c26d20cb71f9dd6535309f707f2fd654595641cd.jpg",
-    "id": "010034E01517E000",
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Grotto",
-    "nsuId": 70010000041413,
-    "numberOfPlayers": 1,
-    "publisher": "Digerati",
-    "rating": 17,
-    "ratingContent": [
-      "Sangre",
-      "Lenguaje",
-      "Desnudez parcial",
-      "Temas insinuantes",
-      "Uso de drogas",
-      "Violencia"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/86d46b3339433e77e5134c8cef17cb05f3a01a969440064e05f573cd8e1f32fc.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3f02f29c1cf83882eec3277193d7947ae40da70b785bf91a437c629af60ebdfa.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/c173adb7b59653a57a2db87d3b423a59da2a449e4575df87f847377c71b832a3.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/0d5668be1ae7c0d604a0599e91b1c4193370a4592d4a124b3a7a10b288f517c5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5753b57a5a1bd4a8d13b459f6e91af65323f4cb8f6ff792089bea6da3e585084.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/53299e8ba8cef30c273cfb2bbc75e4417e5e81839599a7f79dad4b7b71514046.jpg"
-    ],
-    "size": 248512512,
-    "version": null
-  },
-  "70010000070248": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9845d1cea516523c8d224f2e1843d61559263465cbcb59b22f7f53e50f7b26f4.jpg",
-    "category": [
-      "Plataformas",
-      "Aventura"
-    ],
-    "description": "Kitten Hero es un trepidante juego de acci\u00f3n y plataformas en el que controlas a un gatito mon\u00edsimo que intenta rescatar a su humano, secuestrado por una malvada inteligencia artificial.\n\nAyuda a este peque\u00f1\u00edn a salvar a su humano y a otros felinos atrapados en una nave espacial controlada por un potente superordenador. Para conseguirlo, tendr\u00e1s que saltar, trepar y correr a trav\u00e9s de 80 niveles llenos de p\u00faas, sierras, misiles y muchos m\u00e1s elementos letales.\n\n\u00a1Necesitar\u00e1s una velocidad y unos reflejos felinos para sobrevivir!\n\n\nCaracter\u00edsticas\n* Juego de acci\u00f3n de plataforma\n* 80 niveles hecho a mano\n* Personaliza a tu gato con 15 sombreros distintos\n* Arte de p\u00edxeles en 2D \n* Relajante banda sonora lofi",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/57e2df6c39cf0b4c4ef412db8f1308230deeb4f939ea41ba69b761a719bc75b0.jpg",
-    "id": "010097801C4C2000",
-    "intro": "Ayuda a este gatito a salvar a su humano de las garras de un malvado ordenador",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "pt",
-      "en",
-      "es",
-      "fr",
-      "it"
-    ],
-    "name": "Kitten Hero",
-    "nsuId": 70010000070248,
-    "numberOfPlayers": 1,
-    "publisher": "Ratalaika Games",
-    "rating": 10,
-    "ratingContent": [
-      "Violencia de fantasia",
-      "Bajo contenido de sangre"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/7a633f38c9de187678c30ca4bc6915592d590b2b904c9a2f146e81aa9729f6c6.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/93a9fbedf0a4d2721ac6e8eecab2d31c43e760115b0c5abdceee44474b3ca86a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/7c4e7d1dc63e33d56ea821a4a6cc46a11bee93ba5d4e187a71cffc05fbafb6bc.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/595c3a9223487b37c31bbb8e264b37f86a3c4e3d4030e7e56abaa5cec4935ee4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d0bc6180b208233f0edd8790971d65991834e16c5c99bff09701d519b22eb221.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9838b99553b5470e1218097a751542fbd8e3bba95b22d4ac06bdf2958d9bb7d6.jpg"
-    ],
-    "size": 77594624,
-    "version": null
-  },
-  "70010000074166": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cba3dfa8c9431dd682f42c4bd039f7e5886d2abb281c570bdca4ea8f653844fe.jpg",
-    "category": [
-      "Juego de rol",
-      "Aventura",
-      "Plataformas",
-      "Estrategia"
-    ],
-    "description": "Explore the world, find Crystals, and fulfill the prophecy to bring balance to the land of Sequoia.\n\n...Or maybe you'd rather spend your time collecting neat equipment and artifacts? Or tame strange creatures and fill out all the entries in your archive? Or perhaps you'd rather hunt down every monster and conquer the world's toughest bosses. Or maybe you'd rather travel to the farthest reaches of the land and uncover the world's greatest mysteries.\n\nThe choice is yours, as it should be! Or is it? They say that those who stray out of line will be punished, killed, or worse. Maybe it's for your own good that you stick to collecting Crystals, just like everyone else. But where would the adventure be in that?\n\nTactical Battles:\n- No random encounters!\n- Manage Threat to control which party member a monster will attack.\n- No hidden information. Preview turn order, damage, and probabilities like in TRPGs.\n\nCustom Builds:\n- Discover and unlock new classes.\n- Assign sub-classes, pick passive abilities, and equip all kinds of special items.\n- Invent unique team compositions, or stick to the MMORPG Holy Trinity.\n\nAdventure:\n- No permanent missables!\n- Seamless transitions between zones with no loading screens anywhere.\n- Uncover the mysteries of the world all on your own.\n\nPlatforming:\n- Metroidvania-style progression.\n- No invisible walls! Try to jump and climb anywhere you want.\n- Overcome platforming challenges to discover neat loot... and other stuff.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab7731a1c2614daaad03857a833608cbff7db230b531be958fac4d66c678b080.jpg",
-    "id": "010088A01C628000",
-    "intro": "Crystal Project is a non-linear JRPG where you are the maker of your own adventure.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Crystal Project",
-    "nsuId": 70010000074166,
-    "numberOfPlayers": 1,
-    "publisher": "River Running Games",
-    "rating": 10,
-    "ratingContent": [
-      "Violencia de fantasia",
-      "Bajo contenido de sangre",
-      "Lenguaje moderado"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/440bc610c959c85fdad00462429d6a43dde8b9684d7ccad27e5aa55906acd6cc.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/0c5e6093ad51bcac94f822fef8dda6c566fb54ff7e7bd86d216534284ac775d9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d97807862154d60b49815aa047e17fa15748a4eb7eeeb90a1d84a24d06b54da4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/712a2d375a15f4dc6c5ac1444a72f2f4a8ab98aa82c01f7e210d4c0d892a2309.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/41c18cfa2966fb32337af8129f60417bd42e28a572359920a3d07b1f43c30e17.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/554324e0ba8806a6f3ac08202d25bac665b6389f076f3c64c122c4a3a9e6482c.jpg"
-    ],
-    "size": 617611264,
-    "version": null
-  },
-  "70010000074557": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d822e996af223ef1bfe0f38ca5b382898a8f0de6e3191b86314ca61b4ec8cae.jpg",
-    "category": [
-      "Arcade",
-      "Plataformas",
-      "Acci\u00f3n",
-      "Otros"
-    ],
-    "description": "Avoid tricky obstacles like deadly spikes, secret doors, spinning gates and objects falling from the sky - getting a perfect hit into the hole can be dangerous!\n\nBeware of the twisty road speed ramp, which makes your coin go super fast! Only those with true mastery can skillfully control their coin as it hurtles down the track!\n\nPut on different funny skins, collect coins as you roll down and complete as many levels as possible in this never ending game!\n\nReady to roll?",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e0da0a362e32116c0d0ff7a10d40882f4821fe7bf954a9e2a8ce257481d22402.jpg",
-    "id": "0100A5101D31A000",
-    "intro": "Roll your coin along the Coin Rush twisty road track and get a perfect hit right into the hole!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en"
-    ],
-    "name": "Coin Rush",
-    "nsuId": 70010000074557,
-    "numberOfPlayers": 1,
-    "publisher": "QubicGames",
-    "rating": 10,
-    "ratingContent": [
-      "Violencia de fantasia"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/0174d8c222655ca86d0a5380fc5848d7da014c2c67544b3896a979770186f4c6.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/d92f54577fb7766a75fce1059ff5b24f9e00f842cbcf99b1aae485c525da5cb5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/e296227a644fb14cafb82f23028ec2cf60a73dd40659e374c6287871838e5b91.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cdfb1fb6d148bf758f7cfee0a22d0838031336e54a450f47bb698eb52be5a9cf.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dede191176632e1e0e385d5ca4578495a1d65288c6862b7e8600e69463b1830f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3c0d461f8419ab9ad90d870d1d3501afc6d53bd4be72b9854e2765e53846645c.jpg"
-    ],
-    "size": 393216000,
-    "version": null
-  },
-  "70010000075266": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4b9be3082709dfe053180b4af8ae3242ea11b3a0b475ea4898686f159a962c2b.jpg",
-    "category": [
-      "Acci\u00f3n",
-      "Aventura",
-      "Simulaci\u00f3n",
-      "Estrategia"
-    ],
-    "description": "     Commence on a relentless journey through the inner corridors of the Empire's spaceships in HatLand, a game that turns every defeat into a step towards ultimate victory. Brace yourself for an adrenaline-fueled experience where encountering \"GAME OVER\" is not a setback but a pathway to empowerment.\nKey Features:\n\u2022 Dynamic Combat Mechanics: Engage in thrilling melee and ranged combat with enemies that evolve as you progress. \n\u2022 Explosive Tactics: Turn the tide of battle by utilizing traps, mines, and TNT strategically. Transform the environment into a weapon, using it to your advantage against relentless opponents.\n\u2022 Item and Upgrade System: Discover a diverse array of items and enhancements that will pave your way to the next room. \n\u2022 Formidable Boss Battles: Confront nine unique bosses, each presenting a new challenge and testing your skills to the limit. \n\u2022 Varied Enemy Arsenal: Face off against a relentless onslaught of 10 different types of enemies, each with its own set of skills and tactics. \n     In HatLand, every defeat is a stepping stone to becoming an unstoppable force within the Empire's dominion. Are you ready to embrace the challenge, overcome the odds, and emerge victorious in the face of adversity? \n",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7a29811a8ad6502ce079a4b632cd0e14c083aa80ccaeeddf639aa27af312b8b7.jpg",
-    "id": "0100A7301D9C8000",
-    "intro": "Rise from Defeat, Triumph in Every 'GAME OVER' - Navigate the Empire's Inner Corridors with HatLand!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "HatLand - Pixel Impossible GAME OVER",
-    "nsuId": 70010000075266,
-    "numberOfPlayers": 1,
-    "publisher": "SUCCESS GAMES",
-    "rating": 6,
-    "ratingContent": [
-      "Referencias violentas"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/0289fc5f4a3ea9fd46e98ef8b8d73e3da379674a9bddf8c7e06654deac370481.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/53210d192609682426ce8fc732169d81b742ac954248525b66293836b812b560.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9f75d2052e18cb95b79c0b108db0a55496ef40c6db5c029735f3a91e88f33688.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/80daebfabfd6a6928090eea24d86450b572a9ea6c1cf5a492dfdfd281e62fe18.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/18067b17cfcf700a5eaaa9fa2b096ac4db4e665166c8a98b7c4ee1021e908545.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/214c89c6340b204af4482627361ec0eaa6b2f2f4adf4a4bb02ff4fcfc5b91e17.jpg"
-    ],
-    "size": 1362100224,
-    "version": null
-  },
-  "70010000075283": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a3121bc8974f94618f5154db7f236d449cbf0ab82efea8b0f4958f23145b73a.jpg",
-    "category": [
-      "Acci\u00f3n",
-      "Aventura",
-      "Juego de rol"
-    ],
-    "description": "Frogsong is a heartfelt adventure where it's okay to be small.\n\nChorus is a little frog with huge dreams of protecting the world. Being a tree frog, however, society expects them to lead a life of religious studies, instead of training to be a warrior. Their small size certainly doesn't help anyone take them seriously, either. Seeking a better life, Chorus moves to Boreala, a village where members of the Defense Guild train under the wisdom of an old veteran. They quickly learn things aren't going to be as easy as they hoped. With a powerful army and a mysterious rumour both on the rise, Chorus needs to discover how they can protect the ones they love - before it's too late.\n\nExplore a beautiful, atmospheric land and fight monsters on your journey to find your place in the world. \n\nFEAUTRES:\n-Friends and foes brought to life in expressive hand-drawn 2D animation!\n-Talk to lots of cute and strange characters as you explore the land of Salia!\n-Explore five unique areas filled with their own special enemies, villages, and bosses! \n-Upgrade your blade at the blacksmith's shop for stronger attacks!\n-Follow a heartfelt story that deals with themes of identity and self love!\n-Try to make the world just a little bit better! ",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2d2e6678c60777206ca257cc78f00fb4f0b4acf02f88208bdc5f3403ee9e29e2.jpg",
-    "id": "0100DDE01620E000",
-    "intro": " A heartfelt adventure in a fantasy world of frogs! Talk to weird and wonderful characters, fight vicious bugs, and explore a vibrant world in this charming action RPG. ",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Frogsong",
-    "nsuId": 70010000075283,
-    "numberOfPlayers": 2,
-    "publisher": "Brandon Braun",
-    "rating": 10,
-    "ratingContent": [
-      "Violencia de fantasia",
-      "Bajo contenido de sangre",
-      "Referencia al tabaco"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/5227c54ffa9d34b78ad4008a3a2f26f19f860dd2596d8dcbb2ac7526ebd31b9d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/684051dc374abf9621c3f9ff52985e49f7e9352323e656e3a8faceac34a68e6d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cb0dd45a1898590c62b89928d0463ea1d6cbfe242af8053ee6b447ee606d066a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a1cfc3693383920cd25feb980ee16612ac4d4161e6f5afc7df42b1170e42f0b1.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/849b729517f0b675827198e98115f56bda94d476b96104b2e5e6b363a54c24ce.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b3ae6265a26486293cb1af9181bf875fb6d4c7391036cc0a569fef9ffea7f36b.jpg"
-    ],
-    "size": 1897922560,
-    "version": null
-  },
-  "70070000019428": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e06d1f497225da39dfad900fb333a7965fb3ed4bc98a0e71b52e0a371e317629.jpg",
-    "category": null,
-    "description": "Tu aventura comienza en Food Truck Tycoon, un fest\u00edn de diversi\u00f3n en el que tendr\u00e1s que trocear, asar y fre\u00edr para elaborar centenares de platos distintos. \n\n\u00a1Pero recuerda que la aventura de los mil platos solo acaba de empezar!\n\nCuando domines las habilidades culinarias y consigas convertir tu gastroneta en la comidilla de la ciudad, tendr\u00e1s la ocasi\u00f3n de subir de nivel y explorar m\u00e1s juegos de gurmet con los DLC. \n\nPersonaliza tu cocina con un sinf\u00edn de mejoras y sirve platos deliciosos en distintos escenarios. Mant\u00e9n las parrillas encendidas y a los clientes satisfechos mientras confitas, horneas y sirves hasta llegar a la cima.\n\n\u00bfEstar\u00e1s a la atura del desaf\u00edo culinario y conseguir\u00e1s llegar a al Olimpo de los chefs?\n\nCoge el delantal, afila los cuchillos y ad\u00e9ntrate en Cooking Arena. La vida es un banquete: \u00a1prep\u00e1ralo bien!\n\nEste paquete contiene \"Cooking Arena\", \"Sweet Bakery Tycoon\", \"Food Truck Tycoon - Cocina asi\u00e1tica\" y \"Burger Chef Tycoon\".",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "\u00a1Te espera un universo repleto de sabores y aventuras culinarias! ",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Cooking Arena - 4 in 1 Edition",
-    "nsuId": 70070000019428,
-    "numberOfPlayers": null,
-    "publisher": "Baltoro Games",
-    "rating": 6,
-    "ratingContent": [
-      "Compras dentro del juego"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/b24cc7e6530c764f9d420f4975b29fc79be537b5698657b5a842bebb560622d3.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9f6979453c6877675e83c66909b0a8162573cb3897d588fa027e64f48f5c0718.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/0fc0033765123433f50dfc54edbd1081e5e0ae5649b90076f31da6e22ad6d504.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a85c3b62b2e4bde3c41886ae8c5c53b99c57c81ed7ab5b0d56774c76eed39fa0.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/24e42fddf32e42b031984dcbb515a75ecac29c28df955f9771bbd5fe416f4f30.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/a524fd4a4f9591e681939876e6ac4b90e150c5d077dc7692452e6e160dd75229.jpg"
-    ],
-    "size": 3530555392,
-    "version": null
-  },
-  "70070000020516": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ec3ebedaa242e9a793462f62fe54780dd8fd8ae75665cd7aba408759cd616957.jpg",
-    "category": null,
-    "description": "In this big, dark world, you're a little stickman with a huge mission. Get ready to ignite the excitement and light your way through an epic adventure! Light up each figure, bringing it to life with vibrant colors. Get ready to test your reflexes and agility as you navigate through this colorful world of shapes and light!\n\nFeatures:\n- jump, flip, slide and swing as a little stickman \n- light up over 280 levels!  \n- use 2000 additional gems to buy skins \n- think how to use obstacles to your advantage \n- avoid falling and touching the spikes \n- use 3 different boosters when you have trouble passing any of the levels\n- collect stars to unlock next levels\n- listen to satisfying sounds as shapes become lit up \n- unlock and wear all the skins that will make your stickman look awesome!\n\nJust when you start to feel like a stickman boss and love that color glow, things get complicated as you jump, flip and pass levels. Color shapes start moving, rotating, and even exploding, and lethal spikes become a constant threat to your little stickman's life. If you miss a jump, if your swing\u2019s a dud, if your flip isn\u2019t on point, or if you hit a spike\u2026 you fall into oblivion!\n\nSo what do you say, stickman? Ready to swing, jump, flip, light-it up and glow, in the brightest of all jumping games?",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": "Swing, jump, flip and slide your stickman body from one neon color shape to another to make them glow and light-it up!",
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Light-It Up: Complete Edition",
-    "nsuId": 70070000020516,
-    "numberOfPlayers": null,
-    "publisher": "QubicGames",
-    "rating": 6,
-    "ratingContent": [
-      "Violencia moderada de fantas\u00eda",
-      "Compras dentro del juego"
-    ],
-    "region": null,
-    "releaseDate": 20240112,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/b54d13155f88d0539e32ee7b9a21fb84db7c59379df5e59fdf753c823ba7d826.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/9501cbd615e45dd03b2c29dffe3401ac84b518ecb867e9a1bd8fe20cd4afedb4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/988b5c7a2ef7ac13c2abe810b71a4b63ce6af9ac676ebc8a2bf9ccc0bae85fd9.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/ccb5c249cfe28a82373ae87ae101c603ff0c9525f88f7fd600a53ff5ff3c2e9f.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/f2c0b69d197bf0c7d019b4bad5870032aab3fa4c7259f2eb8ed64ac1a8917fcb.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/cea39b5f7e75010d539ce3b928423faf267a055db267bb4004ee411855409434.jpg"
-    ],
-    "size": 375390208,
-    "version": null
-  },
   "70010000075244": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d4adc53e452cfb85f45dd4ced4fbd6933c30b02b4036b189fa14d32a70dae8d0.jpg",
     "category": [
@@ -3488,6 +3163,53 @@
       "https://img-eshop.cdn.nintendo.net/i/387f623e74f4763ddebbebf0f8b884a80f02b4112d9de06377fc8718177d3316.jpg",
       "https://img-eshop.cdn.nintendo.net/i/7d5a6f196c7b74134c1d94a536800832e395810ec170df62ec08e6f3c6eaeaea.jpg",
       "https://img-eshop.cdn.nintendo.net/i/40568c3fcd39ec53006044fb302d66d233c8d972b675ef6d8316d5c73eb7fa26.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70010000069073": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/189b149886f43179d9f13a7bc13eab97316ab79c50366dacba06263ff977c8fe.jpg",
+    "category": [
+      "Juego de rol",
+      "Simulaci\u00f3n"
+    ],
+    "description": "De parte de Lazy Bear, el estudio creador de Graveyard Keeper, ahora llega Bandle Tale: A League of Legends Story\u2122. Sum\u00e9rgete este encantador RPG de creaci\u00f3n ambientado en el m\u00e1gico mundo de la Ciudad de Bandle, hogar de los peludos y simp\u00e1ticos yordles.\n \n Tu personaje es un t\u00edmido yordle que vive en Villa Estambre, una acogedora isla obsesionada con el tejido. Tras completar 101 a\u00f1os de aprendizaje, tu mayor deseo es descubrir qu\u00e9 hay m\u00e1s all\u00e1 de los portales que conectan al resto de la Ciudad de Bandle. Pero desafortunadamente asistes a una fiesta en la cual algo sale terriblemente mal: \u00a1los portales colapsan y todo se vuelve un caos!\n \n \u00a1Pero con tu magia para tejer especial y tu esp\u00edritu inquebrantable comenzar\u00e1s a conseguir la ayuda de nuevos amigos, restaurar\u00e1s los portales y volver\u00e1s a unir a la Ciudad de Bandle!\n \n M\u00c1S ALL\u00c1 DE LOS BOSQUES DE BANDLE\n En Bandle Tale, experimentar\u00e1s la vida m\u00e1s all\u00e1 de los Bosques de Bandle como nunca antes se hab\u00eda visto. Conocer\u00e1s criaturas asombrosas, recolectar\u00e1s materiales para crear objetos inimaginables y despertar\u00e1s los portales m\u00e1gicos para viajar entre cinco islas inolvidables.\n \n \u00a1QUE SIGA LA FIESTA, CIUDAD DE BANDLE!\n Una buena vida en la Ciudad de Bandle depende de una sola cosa: \u00a1Sopa de betabel! Ay no, quise decir: \u00a1Divertirse! Organiza festivales para asegurar que tus amigos yordles est\u00e9n felices y se diviertan. Demuestra tus dones para la jardiner\u00eda y cocina exquisitos platillos desde la granja hasta la mesa para tus invitados o haz gala de tus habilidades para la ingenier\u00eda construyendo artefactos para impresionarlos.\n \n CONOCE A LOS CAMPEONES\n Haz amistad con mucho simp\u00e1ticos personajes y al\u00edate con los campeones de League of Legends conforme desentramas los misterios a tu alrededor y reparas a tu comunidad, una puntada m\u00e1gica a la vez.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Un peque\u00f1o Yordle, un problema enorme.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "pt",
+      "fr",
+      "de",
+      "it",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Bandle Tale: A League of Legends Story",
+    "nsuId": 70010000069073,
+    "numberOfPlayers": 1,
+    "publisher": "Riot Forge",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240221,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/e2b74c828ad052ec4f62ebc1612bdfe79862e47fb1a0ff6993e391db68037bb7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/574dc7605638bbf440b57dc5c696a52c89f25c4b91ae84f6ef7ee211f6d1a372.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ab5bb84c30d6a55efb8b03786e78954f2d7559deba7e7efbc1bea3181bc91704.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/260fca0886361bd3ef1eda633e473ba62ba2d97875e3d6646b0f97d5c0cac569.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/da418e55c353b36747478c3e1f153933a4a4d9e2b2c56e83e5a5e31d8a241caf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d6b781e966859576c6f2b1c525ce4a9bf1742900959b739d3a5412a6831a66c0.jpg"
     ],
     "size": 0,
     "version": null
