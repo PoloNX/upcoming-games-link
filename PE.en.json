@@ -3496,6 +3496,146 @@
     "size": 44040192,
     "version": null
   },
+  "70010000065249": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/151a3fe397cb6279d17a4cc5307e975a24195d96c77b5d0c47dc63703263df2c.jpg",
+    "category": [
+      "Strategy",
+      "RPG"
+    ],
+    "description": "From the masterminds that brought 13 Sentinels: Aegis Rim and Odin Sphere, ATLUS x Vanillaware presents the rebirth of tactical fantasy RPG. Fight against fate and embark on a royal adventure to regain your reign alongside trustworthy allies.\n\nUnicorn Overlord combines the timeless tactical RPG genre with overworld exploration and innovative battle system for a unique epic fantasy experience in the iconic Vanillaware style.\n\nKey Features:\n\u00b7 Traverse a vibrant world, assemble units and direct them into exquisitely animated battles\n\u00b7 Perform heroic deeds and grow renown throughout the five nations\n\u00b7 Cultivate a grand army with over 60 unique characters, from humans and elves to massive beasts and heavenly angels",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1f0dc6477068ec077e6700877179b280797647e0b1929e6f8cb7914d50fff8d7.jpg",
+    "id": "010069401ADB8000",
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Unicorn Overlord",
+    "nsuId": 70010000065249,
+    "numberOfPlayers": 1,
+    "publisher": "SEGA",
+    "rating": 13,
+    "ratingContent": [
+      "Blood",
+      "Fantasy Violence",
+      "Mild Language",
+      "Mild Suggestive Themes"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/40327627de0962f0e18587898eb4a530d45c1126be6ef2f010f039d5952ea8da.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f2ca5cc2e31da05a6df4f7b125d53148ce9190eb648336afbb97e15d9b032b68.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc5114baeca301cf91c27b89b3379f6890278ff4d2d4678c1dc6195c6e0626bd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/be2577a8a7ab669ec66cb2e9eae34220ae1e419d62d7613c2788e570012d6421.jpg"
+    ],
+    "size": 3210739712,
+    "version": null
+  },
+  "70050000045803": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5dd6b6111acf8048cde186ab3b924deae1eac72f1bcf77b4160b3bac0b32174a.jpg",
+    "category": null,
+    "description": "Pre-order now and receive exclusive in-game insignias with the ATLUS x Vanillaware Heraldry Pack, a fan-focused DLC set that lets you customize the Liberation Army\u2019s flag with\nemblem designs from \"Odin Sphere,\" \"Dragon's Crown,\" and \"13 Sentinels: Aegis Rim\".\n\nPre-order available until March 7, 2024",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010069401ADB9001",
+    "ids": [
+      "010069401ADB9001"
+    ],
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "ATLUS x Vanillaware Heraldry Pack",
+    "nsuId": 70050000045803,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 13,
+    "ratingContent": [
+      "Blood",
+      "Fantasy Violence",
+      "Mild Language",
+      "Mild Suggestive Themes"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70050000046255": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e4a3aa351350e21e7fbb1c65698aab0cd4b37c6d62fc838952c62cfb8f6ae03.jpg",
+    "category": null,
+    "description": "Immerse yourself in the captivating world of Unicorn Overlord with the 16-bit Arranged Music Album, offering a selection of 20 tracks to enjoy. \n\nEmbark on a visual journey through 132 pages of Unicorn Overlord's captivating digital artbook, where you'll discover intricate character designs, visionary concept art, immersive backgrounds, and more, offering deeper insights into the game's world.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010069401ADB9002",
+    "ids": [
+      "010069401ADB9002"
+    ],
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Unicorn Overlord: 16-bit Arranged Music Album and Digital Artbook",
+    "nsuId": 70050000046255,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 13,
+    "ratingContent": [
+      "Blood",
+      "Fantasy Violence",
+      "Mild Language",
+      "Mild Suggestive Themes"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70070000020377": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c6ea7cb9f61578d8dd7bafb1f5e7a175acaaf0de279721a371455da8481b0d3.jpg",
+    "category": null,
+    "description": "The Unicorn Overlord Monarch Edition contains\n- 16-bit Arranged Music Album (20 tracks) \n- Digital Artbook (132 pages)\n\nFrom the masterminds that brought 13 Sentinels: Aegis Rim, Odin Sphere, and Dragon's Crown, ATLUS x Vanillaware presents the rebirth of tactical fantasy RPG. Fight against fate and embark on a royal adventure to regain your reign alongside trustworthy allies.\n\nUnicorn Overlord combines the timeless tactical RPG genre with overworld exploration and innovative battle system for a unique epic fantasy experience in the iconic Vanillaware style.\n\nKey Features:\n\u00b7 Traverse a vibrant world, assemble units and direct them into exquisitely animated battles\n\u00b7 Perform heroic deeds and grow renown throughout the five nations\n\u00b7 Cultivate a grand army with over 60 unique characters, from humans and elves to massive beasts and heavenly angels",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Unicorn Overlord Monarch Edition",
+    "nsuId": 70070000020377,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 13,
+    "ratingContent": [
+      "Blood",
+      "Fantasy Violence",
+      "Mild Language",
+      "Mild Suggestive Themes"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3213885440,
+    "version": null
+  },
   "70050000042867": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2923f71643f5032d2b5786cc3fd896e3eb1d168b4a64ecc84ef0422295f73dee.jpg",
     "category": null,

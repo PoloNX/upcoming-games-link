@@ -3653,6 +3653,138 @@
     "size": 44040192,
     "version": null
   },
+  "70010000065249": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/151a3fe397cb6279d17a4cc5307e975a24195d96c77b5d0c47dc63703263df2c.jpg",
+    "category": [
+      "Estrat\u00e9gia",
+      "RPG"
+    ],
+    "description": "As mentes brilhantes da ATLUS e da Vanillaware, que criaram 13 Sentinels: Aegis Rim e Odin Sphere, apresentam o renascimento de um RPG t\u00e1tico de fantasia. Rebele-se contra o destino e embarque ao lado de aliados fi\u00e9is em uma grande aventura para salvar o reino.\n\nUnicorn Overlord combina o amado g\u00eanero RPG t\u00e1tico com explora\u00e7\u00e3o de mundo e um inovador sistema de batalha para criar uma experi\u00eancia de fantasia \u00e9pica e exclusiva no ic\u00f4nico estilo da Vanillaware.\n\nPrincipais caracter\u00edsticas:\n- Viaje por um mundo vibrante, organize unidades e mobilize-as em batalhas graciosamente animadas.\n- Mostre seu hero\u00edsmo e ganhe fama pelas cinco na\u00e7\u00f5es.\n- Gerencie um grande ex\u00e9rcito, com mais de 60 personagens \u00fanicos, de humanos a elfos, incluindo feras colossais e anjos celestiais.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1f0dc6477068ec077e6700877179b280797647e0b1929e6f8cb7914d50fff8d7.jpg",
+    "id": "010069401ADB8000",
+    "intro": "Liberte o reino e assuma as r\u00e9deas do seu destino",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Unicorn Overlord",
+    "nsuId": 70010000065249,
+    "numberOfPlayers": 1,
+    "publisher": "SEGA",
+    "rating": 12,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Drogas L\u00edcitas"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/40327627de0962f0e18587898eb4a530d45c1126be6ef2f010f039d5952ea8da.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f2ca5cc2e31da05a6df4f7b125d53148ce9190eb648336afbb97e15d9b032b68.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc5114baeca301cf91c27b89b3379f6890278ff4d2d4678c1dc6195c6e0626bd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/be2577a8a7ab669ec66cb2e9eae34220ae1e419d62d7613c2788e570012d6421.jpg"
+    ],
+    "size": 3210739712,
+    "version": null
+  },
+  "70050000045803": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5dd6b6111acf8048cde186ab3b924deae1eac72f1bcf77b4160b3bac0b32174a.jpg",
+    "category": null,
+    "description": "Compre na pr\u00e9-venda agora e receba ins\u00edgnias exclusivas do ATLUS x Vanillaware Heraldry Pack, um cen\u00e1rio de DLC focado nos f\u00e3s que permite personalizar a bandeira do Liberation Army\ncom emblemas tem\u00e1ticos de \"Odin Sphere\", \"Dragon's Crown\" e \"13 Sentinels: Aegis Rim\".\n\nPr\u00e9-venda dispon\u00edvel at\u00e9 7 de mar\u00e7o de 2024.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010069401ADB9001",
+    "ids": [
+      "010069401ADB9001"
+    ],
+    "intro": "Liberte o reino e assuma as r\u00e9deas do seu destino",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "ATLUS x Vanillaware Heraldry Pack",
+    "nsuId": 70050000045803,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 12,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Drogas L\u00edcitas"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70050000046255": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e4a3aa351350e21e7fbb1c65698aab0cd4b37c6d62fc838952c62cfb8f6ae03.jpg",
+    "category": null,
+    "description": "Envolva-se no mundo cativante de Unicorn Overlord com a trilha sonora 16 bits que oferece 20 faixas para voc\u00ea curtir. \n\nEmbarque em uma jornada visual ao longo das 132 p\u00e1ginas do encantador livro de ilustra\u00e7\u00f5es de Unicorn Overlord, no qual descobrir\u00e1 ilustra\u00e7\u00f5es de personagens ricas em detalhes, arte conceitual vision\u00e1ria, cen\u00e1rios imersivos, dentre outros elementos que proporcionam uma perspectiva mais compreensiva do mundo do jogo.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010069401ADB9002",
+    "ids": [
+      "010069401ADB9002"
+    ],
+    "intro": "Liberte o reino e assuma as r\u00e9deas do seu destino",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Unicorn Overlord: Trilha sonora 16 bits e livre de ilustra\u00e7\u00f5es",
+    "nsuId": 70050000046255,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 12,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Drogas L\u00edcitas"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70070000020377": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c6ea7cb9f61578d8dd7bafb1f5e7a175acaaf0de279721a371455da8481b0d3.jpg",
+    "category": null,
+    "description": "A Unicorn Overlord Monarch Edition cont\u00e9m\n- Trilha sonora 16 bits (20 faixas) \n- Livro de ilustra\u00e7\u00f5es digital (132 p\u00e1ginas)\n\nAs mentes brilhantes da ATLUS e da Vanillaware, que criaram 13 Sentinels: Aegis Rim, Odin Sphere e Dragon's Crown, apresentam o renascimento de um RPG t\u00e1tico de fantasia. Rebele-se contra o destino e embarque ao lado de aliados fi\u00e9is em uma grande aventura para salvar o reino.\n\nUnicorn Overlord combina o amado g\u00eanero RPG t\u00e1tico com explora\u00e7\u00e3o de mundo e um inovador sistema de batalha para criar uma experi\u00eancia de fantasia \u00e9pica e exclusiva no ic\u00f4nico estilo da Vanillaware.\n\nPrincipais caracter\u00edsticas:\n- Viaje por um mundo vibrante, organize unidades e mobilize-as em batalhas graciosamente animadas.\n- Mostre seu hero\u00edsmo e ganhe fama pelas cinco na\u00e7\u00f5es.\n- Gerencie um grande ex\u00e9rcito, com mais de 60 personagens \u00fanicos, de humanos a elfos, incluindo feras colossais e anjos celestiais.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Liberte o reino e assuma as r\u00e9deas do seu destino",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Unicorn Overlord Monarch Edition",
+    "nsuId": 70070000020377,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 12,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Drogas L\u00edcitas"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3213885440,
+    "version": null
+  },
   "70050000042867": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2923f71643f5032d2b5786cc3fd896e3eb1d168b4a64ecc84ef0422295f73dee.jpg",
     "category": null,

@@ -3736,6 +3736,146 @@
     "size": 44040192,
     "version": null
   },
+  "70010000065249": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/151a3fe397cb6279d17a4cc5307e975a24195d96c77b5d0c47dc63703263df2c.jpg",
+    "category": [
+      "Strat\u00e9gie",
+      "Jeu de r\u00f4les"
+    ],
+    "description": "Les esprits cr\u00e9atifs d'ATLUS x Vanillaware, qui ont con\u00e7u 13\u00a0Sentinels: Aegis Rim et Odin Sphere, pr\u00e9sentent la renaissance du jeu de r\u00f4le tactique fantastique. Luttez contre le destin et embarquez-vous dans une aventure royale pour r\u00e9cup\u00e9rer votre tr\u00f4ne aux c\u00f4t\u00e9s d'alli\u00e9s de confiance.\n\nUnicorn Overlord combine le jeu de r\u00f4le tactique intemporel avec de l'exploration et un syst\u00e8me de combat innovant, afin de vous offrir une exp\u00e9rience unique dans un univers fantastique \u00e9pique avec le style embl\u00e9matique de Vanillaware.\n\nCaract\u00e9ristiques principales\u00a0:\n- Traversez un monde dynamique, rassemblez des unit\u00e9s et dirigez-les dans des batailles anim\u00e9es magnifiques.\n- R\u00e9alisez des actes h\u00e9ro\u00efques et gagnez en renomm\u00e9e dans les cinq nations.\n- Cultivez une grande arm\u00e9e avec plus de 60\u00a0personnages uniques, rassemblant des humains, des elfes, ainsi que d'\u00e9normes b\u00eates et des anges c\u00e9lestes.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1f0dc6477068ec077e6700877179b280797647e0b1929e6f8cb7914d50fff8d7.jpg",
+    "id": "010069401ADB8000",
+    "intro": "Lib\u00e9rez votre royaume, soyez ma\u00eetre de votre destin",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Unicorn Overlord",
+    "nsuId": 70010000065249,
+    "numberOfPlayers": 1,
+    "publisher": "SEGA",
+    "rating": 13,
+    "ratingContent": [
+      "Sang",
+      "Violence fictive",
+      "Langage grossier",
+      "Th\u00e8mes l\u00e9g\u00e8rement suggestifs"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/40327627de0962f0e18587898eb4a530d45c1126be6ef2f010f039d5952ea8da.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f2ca5cc2e31da05a6df4f7b125d53148ce9190eb648336afbb97e15d9b032b68.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc5114baeca301cf91c27b89b3379f6890278ff4d2d4678c1dc6195c6e0626bd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/be2577a8a7ab669ec66cb2e9eae34220ae1e419d62d7613c2788e570012d6421.jpg"
+    ],
+    "size": 3210739712,
+    "version": null
+  },
+  "70050000045803": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5dd6b6111acf8048cde186ab3b924deae1eac72f1bcf77b4160b3bac0b32174a.jpg",
+    "category": null,
+    "description": "Pr\u00e9commandez maintenant et recevez des insignes exclusifs en jeu avec le Pack de blasons ATLUS x Vanillaware, un ensemble de contenus t\u00e9l\u00e9chargeables con\u00e7u pour les fans vous permettant de personnaliser le drapeau de l'Arm\u00e9e de lib\u00e9ration avec\ndes dessins d'embl\u00e8mes de \u00ab Odin Sphere \u00bb, \u00ab Dragon's Crown \u00bb et \u00ab 13 Sentinels: Aegis Rim \u00bb.\n\nPr\u00e9commande disponible jusqu'au 7 mars 2024",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010069401ADB9001",
+    "ids": [
+      "010069401ADB9001"
+    ],
+    "intro": "Lib\u00e9rez votre royaume, r\u00e9cup\u00e9rez votre destin\u00e9e",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Pack de blasons ATLUS x Vanillaware",
+    "nsuId": 70050000045803,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 13,
+    "ratingContent": [
+      "Sang",
+      "Violence fictive",
+      "Langage grossier",
+      "Th\u00e8mes l\u00e9g\u00e8rement suggestifs"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70050000046255": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e4a3aa351350e21e7fbb1c65698aab0cd4b37c6d62fc838952c62cfb8f6ae03.jpg",
+    "category": null,
+    "description": "Plongez dans le monde captivant de Unicorn Overlord avec un album de musiques arrang\u00e9es 16 bits, offrant une s\u00e9lection de 20 pistes \u00e0 appr\u00e9cier. \n\nLancez-vous dans un voyage visuel \u00e0 travers les 132 pages du captivant livre d'art num\u00e9rique d'Unicorn Overlord, o\u00f9 vous d\u00e9couvrirez des conceptions de personnages complexes, des concepts artistiques visionnaires, des arri\u00e8re-plans immersifs et bien plus encore, vous faisant p\u00e9n\u00e9trer au c\u0153ur du monde du jeu.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010069401ADB9002",
+    "ids": [
+      "010069401ADB9002"
+    ],
+    "intro": "Lib\u00e9rez votre royaume, r\u00e9cup\u00e9rez votre destin\u00e9e",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Unicorn Overlord\u00a0:\u00a0Album de musique arrang\u00e9es 16 bits et livre d'art num\u00e9rique",
+    "nsuId": 70050000046255,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 13,
+    "ratingContent": [
+      "Sang",
+      "Violence fictive",
+      "Langage grossier",
+      "Th\u00e8mes l\u00e9g\u00e8rement suggestifs"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70070000020377": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c6ea7cb9f61578d8dd7bafb1f5e7a175acaaf0de279721a371455da8481b0d3.jpg",
+    "category": null,
+    "description": "L'\u00e9dition Monarque de Unicorn Overlord contient\n- Album de musique arrang\u00e9es 16 bits (20 pistes) \n- Livre d'art num\u00e9rique (132 pages)\n\nLes esprits cr\u00e9atifs d'ATLUS x Vanillaware, qui ont con\u00e7u 13\u00a0Sentinels: Aegis Rim, Odin Sphere et Dragon's Crown, pr\u00e9sentent la renaissance du jeu de r\u00f4le tactique fantastique. Luttez contre le destin et embarquez-vous dans une aventure royale pour r\u00e9cup\u00e9rer votre tr\u00f4ne aux c\u00f4t\u00e9s d'alli\u00e9s de confiance.\n\nUnicorn Overlord combine le jeu de r\u00f4le tactique intemporel avec de l'exploration et un syst\u00e8me de combat innovant, afin de vous offrir une exp\u00e9rience unique dans un univers fantastique \u00e9pique avec le style embl\u00e9matique de Vanillaware.\n\nCaract\u00e9ristiques principales\u00a0:\n\u00b7 Traversez un monde dynamique, rassemblez des unit\u00e9s et dirigez-les dans des batailles anim\u00e9es magnifiques.\n\u00b7 R\u00e9alisez des actes h\u00e9ro\u00efques et gagnez en renomm\u00e9e dans les cinq nations.\n\u00b7 Cultivez une grande arm\u00e9e avec plus de 60\u00a0personnages uniques, rassemblant des humains, des elfes, ainsi que d'\u00e9normes b\u00eates et des anges c\u00e9lestes.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Lib\u00e9rez votre royaume, soyez ma\u00eetre de votre destin",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "\u00c9dition Monarque de Unicorn Overlord",
+    "nsuId": 70070000020377,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 13,
+    "ratingContent": [
+      "Sang",
+      "Violence fictive",
+      "Langage grossier",
+      "Th\u00e8mes l\u00e9g\u00e8rement suggestifs"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3213885440,
+    "version": null
+  },
   "70050000042867": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2923f71643f5032d2b5786cc3fd896e3eb1d168b4a64ecc84ef0422295f73dee.jpg",
     "category": null,
