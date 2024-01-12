@@ -1531,6 +1531,45 @@
     "size": 402653184,
     "version": null
   },
+  "70010000076431": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/89a94056e591ec5838381f6a13b0026279e182b5cb5d543c06a4f4dbf9ff34c1.jpg",
+    "category": [
+      "Action",
+      "Adventure"
+    ],
+    "description": "I'm Joe Salinger, a dedicated paranormal investigator. I couldn't resist delving into the rumors circulating about ghostly sightings at Crimson Motel. \nThe unsettling news revolves around a chilling incident from several months ago: a maniacal psychopath brutally murdered two teenagers within the hotel's walls. \nIn response, the management abruptly shut down the motel, citing \"renovations\" as a cover.\nDuring the supposed renovations, a wave of eerie occurrences unfolded. Construction workers reported encountering apparitions, and some even suffered severe mental distress, compelling them to abandon their work at the site. \nThe enigma shrouding Crimson Motel piqued my curiosity; it's precisely the kind of mystery I thrive on.\nArmed with my investigative prowess, I am determined to gather concrete evidence within the hotel's haunting confines. Backed by my comprehensive computer setup in the van, I will meticulously process all the information I collect. My ultimate goal is to  capture undeniable proof of these spectral entities on video camera. \nIf I manage to record any ghostly apparitions, that would be my invaluable contribution to unraveling the secrets veiled within the Crimson Motel.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e947b87e1e5c72bec634d7a758edb8823ee5dc7acd019069aabdd04733a8baee.jpg",
+    "id": "010054001DE62000",
+    "intro": "Death Motel is a first-person horror game.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Death Motel",
+    "nsuId": 70010000076431,
+    "numberOfPlayers": 1,
+    "publisher": "Playstige Interactive",
+    "rating": 15,
+    "ratingContent": [
+      "Strong Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240120,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/dbd1c661b610445973a11d69bcba656deafd1da7384bb60d3afc6625a38ab190.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/282a82abc12c9b3e2e4eb14a045edf5c83b39f7b25c2918eced191184e8e1c14.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8c38261dec5f2bcbf94612807329a1a7d063bb9f29e2b59d334626eee3f757ea.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0eaefaa4e811070f33604d618c8589b7dbae3f4091e75a99e1841695bcbbf027.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ff3114b8c74e7cc3c85071d31b2d5982f8bce1ca1fa4c5e464249d992d086eb0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0abaf352ff0b45ec5ad77366e552be2012a2f0287c885e8b381044037d014b6a.jpg"
+    ],
+    "size": 3245342720,
+    "version": null
+  },
   "70010000070090": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6431dc17b47f40537e3a7426d92fbda3f12e6706df373c6b42c8dda670cc445d.jpg",
     "category": [
