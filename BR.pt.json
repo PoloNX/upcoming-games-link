@@ -2040,6 +2040,46 @@
     "size": 2146435072,
     "version": null
   },
+  "70010000062124": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0480d9ea65819b37cb35dbb1193cbb1cbd906d5fb2b33d2f53a0212db36360b.jpg",
+    "category": [
+      "Aventura",
+      "Puzzle",
+      "Estrat\u00e9gia",
+      "Arcade"
+    ],
+    "description": "Dead Tomb \u00e9 uma nov\u00edssima aventura point e click que ir\u00e1 te levar de volta aos bons tempos dos jogos retro.\n\nSeu empregador te envia em um trabalho que faz com que volte no tempo, mas como as coisas n\u00e3o d\u00e3o sempre certo, voc\u00ea se encontra numa situa\u00e7\u00e3o complexa.\n\nUm erro na sua nave faz com que caia no Egito 1300AC onde por sorte voc\u00ea encontra uma pir\u00e2mide onde pode pousar. Bem, talvez n\u00e3o seja tanta sorte assim. \n\nOs reparos devem ser simples o suficiente. Coisas que voc\u00ea j\u00e1 fez antes. Logo mais voc\u00ea voltar\u00e1 \u00e0 sua jornada, n\u00e3o? \n\nBem, calma l\u00e1. Os soldados do Fara\u00f3 Seti I descobriram sua presen\u00e7a na terra deles e resolveram acabar com isso por conta propria. \n\nDe repente voc\u00ea acorda com um galo na cabe\u00e7a, nas profundezas da pir\u00e2mide.\n\nOnde voc\u00ea est\u00e1? Por que voc\u00ea est\u00e1 aqui? Voc\u00ea consegue sair e voltar para a miss\u00e3o?\n\nS\u00f3 o tempo dir\u00e1...\n\n- Desfrute de desafios e jogabilidade igual aos dias de gl\u00f3ria do point e click.\n- Mergulhe numa trama misteriosa e nas intera\u00e7\u00f5es de personagens\n- Surpreenda-se com fant\u00e1sticas anima\u00e7\u00f5es\n- Gr\u00e1ficos genuinamente 8-Bit\n- Balance a cabe\u00e7a ao ritmo de uma trilha Sonora de chiptune\n- Uma declara\u00e7\u00e3o de amor a um g\u00eanero perdido de jogos que definiu os prim\u00f3rdios dos jogos.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c90ab60250f1d6d9cdc0a1ba79cf72facb758d65d7e00f97645270f2399ad793.jpg",
+    "id": "0100B6501A2F6000",
+    "intro": "Reviva os dias de gl\u00f3ria dos jogos de apontar e clicar com uma nova Aventura!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "name": "Dead Tomb",
+    "nsuId": 70010000062124,
+    "numberOfPlayers": 1,
+    "publisher": "8 Bit Legit",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240126,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/085757d4a4a1cbd3a3da36ec1532d3e0810fc11cf96137353506138f4efada44.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1b33ceb488c3340dfc11c7e07b44fb38037dd46d90478b2f7f6ca4ff40b91913.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d4ce45063919500434cf2f9f44ba43d7a845f339ca563c59003f0580291c86b0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/535b7493b58f7a8ade7695e13b8f0a7f4d3c79ee15cce4173f87aa3d37d59505.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/60e640ee4251b911905264a35f0c72d9bbff9e488e084111224e189b9b28ad91.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7e5cd3297f74ceb91883e3b9d67b65b90b456cfbb29b98547cea042cf9d4b940.jpg"
+    ],
+    "size": 34603008,
+    "version": null
+  },
   "70070000019277": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/356b44cbc4f1f6907b7389494be285f83123df0cfbef5eddee42c695188491d4.jpg",
     "category": null,
