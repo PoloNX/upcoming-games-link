@@ -1050,6 +1050,38 @@
     "size": 1281359872,
     "version": null
   },
+  "70070000020320": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/01d41e92f6ec2bd549d0cf45d60b462cec1226c0d1af9cea07ef127a47be025b.jpg",
+    "category": null,
+    "description": "Experience the ultimate rush with our \"Highway Racing Bundle\" \u2013 featuring the acclaimed \"Car Racing Highway Driving Simulator\" and a thrilling expansion pack! Unleash over 30 cars, from racing speedsters to off-road SUVs, with unique driving physics. Overtake traffic in the fastest car, test your skills, and conquer endless highway challenges. Upgrade, tune, and customize your favorite car for maximum performance. This bundle includes a brand-new high-performance car in the expansion pack, elevating your highway driving to new heights. Get ready to rev your engines, dominate the roads, and feel the pulse of the asphalt with this essential DLC pack \u2013 the key to an unparalleled driving experience!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Fuel the Speed, Conquer Challenges: Highway Racing \u2013 Where Velocity Meets the Ultimate Thrill!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Car Racing Highway Driving Simulator - PREMIUM EDITION",
+    "nsuId": 70070000020320,
+    "numberOfPlayers": null,
+    "publisher": "Erlano",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/42b98f02a5b77833c3b3c1c56d7de95a4d0f12ca1c749ab76e65af7a2e538d67.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9b1dc0b3594882fcf3fc12e49c81b9cdb52e63a1d663e1b5cee2a0241f11d78a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/19e78c94eea4541bd78962ed8f75237be4a7af00b8ead5dcd15cf4bbe6cebe43.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d4979d193cedd8cc19e89fbc3fa82c5806f5b1facce1fe554a6d2863e1b8460f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fc56dce474b42e81f83c6124484da87d0be376cdd7da6dbafa13435b2d36cc4c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/165dadc499e9603475690ac9f6bbd798dbd2121828f890b2f0bf8ae2ae765a36.jpg"
+    ],
+    "size": 1032847360,
+    "version": null
+  },
   "70010000075476": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dab5af92eade158e47eca858a6b4b6724871dd352901de3170e18920f045faae.jpg",
     "category": [
@@ -3240,6 +3272,76 @@
       "https://img-eshop.cdn.nintendo.net/i/40568c3fcd39ec53006044fb302d66d233c8d972b675ef6d8316d5c73eb7fa26.jpg"
     ],
     "size": 0,
+    "version": null
+  },
+  "70070000019288": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/07a0e40ba8857e01aead26bc97422959a058167545ff33eceb59fd5aeee00525.jpg",
+    "category": null,
+    "description": "Corredores, cuidado! \n\nCorrida r\u00e1pida, polida e din\u00e2mica de motos agora no Nintendo Switch \u2122!\n\nUm jogo \u00fanico totalmente jog\u00e1vel com qualquer m\u00e9todo de controle, incluindo ... Moto de Toy-Con! (Nintendo Labo\u2122 Kit Veicular)\n\nEsque\u00e7a os limites de velocidade e regras de tr\u00e2nsito porque nesta estrada voc\u00ea \u00e9 o chefe!\n\nUma mistura \u00fanica de jogo de corrida intermin\u00e1vel e arcade com in\u00fameras horas de divers\u00e3o!\n\nEM MOTO RUSH GT TU ENCONTRAR\u00c1:\n\n\u2022 Mais de 100 n\u00edveis para vencer!\n\u2022 Experi\u00eancia de corrida sem fim\n\u2022 12 motos personaliz\u00e1veis\n\u2022 Toy-Con Suporte de moto \u2013 tire o p\u00f3 do seu LABO se tiver!\n\u2022 Corra contra o tempo, oponentes fantasmas ou tente v\u00e1rios desafios! \n\u2022 Suporte de inclina\u00e7\u00e3o \u2013 jogar girando seu console!\n\u2022 Jogue com o Pro Controller ou qualquer outro m\u00e9todo de controle!\n\u2022 Suporta todos os estilos de jogo - TV, Tampo da mesa, Port\u00e1til, Toy-Con Moto\n\u2022 Experimente 4 modos de jogo diferentes \n\u2022 Efeitos clim\u00e1ticos e do ciclo do dia: chuva, noite, tempestade! \n\u2022 Experimente estradas lindamente projetadas em todo o mundo\n\nEsse conjunto inclui o jogo base, o pacote de expans\u00e3o #2 (Full Garage), Grip Collection #1 e Grip Collection #2 com:\n- 13 novos ve\u00edculos, incluindo quadriciclo e bicicleta!\n- 8 luvas novas\n- oito pares de luvas de corrida de ponta que proporcionam o aperto e controle ideais\n\nConfira!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Experi\u00eancia de corrida de moto final para todas as idades!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Moto Rush GT DEFINITIVE Edition",
+    "nsuId": 70070000019288,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Games",
+    "rating": 0,
+    "ratingContent": [
+      "Compras on-line"
+    ],
+    "region": null,
+    "releaseDate": 20240216,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/05e97fe2699dc18516e36d56c7b8054ecedab8cba95d2f99f24b59bb4042689b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/05443a5d36533541917139ceab601e42b5a5fc4fb0c06e5b99f8194719e22224.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3b1703827daa33939541ecea1183d039640c72700ac35ada51d0ea90b9df4479.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/798eb6a742b1d290cf22e971dd8a8d49defead5c27fa862c9f0b93c3c9b147c9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/56d26e43fca4024f8d8899d7d17ceefa4d7d18baf554fb81455bd9d8c193072d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2ae48c85d81e2bfc8c196e7b2758503d5405cd1c94e343dbc2d0fbf89b3e28a2.jpg"
+    ],
+    "size": 5350883328,
+    "version": null
+  },
+  "70070000019397": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7f3598acc4eacc663f44e83ce1ba27dee71149ab3d04c0ab38059fd1e98ecbd6.jpg",
+    "category": null,
+    "description": "Inspirado nos cl\u00e1ssicos, desenvolvido para o p\u00fablico moderno.\n\nUma hist\u00f3ria cl\u00e1ssica de vingan\u00e7a com lugar num mundo de fantasia medieval... e um toque de armas de fogo, s\u00f3 para ser mais intenso. Luta contra ex\u00e9rcitos de mortos-vivos, mutantes, alien\u00edgenas, m\u00e1quinas e outras criaturas para recuperares o que \u00e9 teu por direito e devolveres a paz \u00e0 tua terra. Quem sabe, com suficiente esfor\u00e7o talvez consigas desvendar a hist\u00f3ria do pr\u00f3prio reino, h\u00e1 muito perdida at\u00e9 para os acad\u00e9micos deste mundo.\n\nKnights & Guns apresenta um mundo repleto de perigos onde ter\u00e1s de lutar, lado a lado com o teu amigo, contra dem\u00f3nios, monstros e fantasmas. Usa ca\u00e7adeiras, lasers e o poder do cavalheirismo para ultrapassares todos os obst\u00e1culos. Torna-te o melhor estilo de cavaleiro: aquele que tem uma pistola.\n\n\nNeste jogo:\n\u2022\tLuta contre bosses incr\u00edveis em v\u00e1rios n\u00edveis! \n\u2022\tConquista este mundo n\u00e3o-linear! Atravessa mais de 150 n\u00edveis desenhados \u00e0 m\u00e3o o mais r\u00e1pido que conseguires, ou diverte-te ao teu pr\u00f3prio ritmo enquanto procuras segredos e caminhos especiais!\n\u2022\tJogo completamente desenvolvido para um jogador ou multijogador. Convida um amigo quando quiseres para teres mais ajuda e caos.\n\u2022\tJogabilidade a 60 fps! Experimenta modos diferentes! Ca\u00e7a monstros! Sobrevive! Joga em mapas pequenos, grandes ou estreitos!\n\u2022\tExperimenta diversas armaduras fant\u00e1sticas e, claro, todas as ARMAS! Lasers, ca\u00e7adeiras, granadas, espingardas... Est\u00e1 tudo aqui!\n\u2022\tMais de 30 armas de fogo \u00fanicas. (Provavelmente um n\u00famero superior ao dos sabores de gelado que conheces.)\n\u2022\tMais de 25 tipos de inimigos, 5 tipos de mini-bosses e 3 tipos de bosses. A maioria destes vem com cores diferentes.\n\u2022\t30 armaduras \u00fanicas para os cavaleiros. Prote\u00e7\u00e3o e estilo extra!\n\u2022\tArmadilhas, tesouros, chaves, pergaminhos, hist\u00f3rias, livros de monstros...\n\nEste conjunto inclui o jogo base, o pacote de expans\u00e3o #2, Armor Pack #1 e Armor Pack #2 com:\n- 10 n\u00edveis novos para devolveres a paz ao mundo\n- 9 armaduras novas para te ajudarem na tua miss\u00e3o\n- Novos inimigos para dar uma pitada de emo\u00e7\u00e3o",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Cavaleiro de armadura resplandecente, luta e abre caminho... com pistolas!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Knights & Guns Definitive Edition",
+    "nsuId": 70070000019397,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Games",
+    "rating": 14,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Linguagem Impr\u00f3pria",
+      "Compras on-line"
+    ],
+    "region": null,
+    "releaseDate": 20240216,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/e7f2e9e0921a8402f540461d168cff9a63b53d45b3dc23e5efb4d730d72946e6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/32fb09d9af6a0380d5019373925e78433c513285761bf95f78ed1b4a215f6609.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8ee6da6ef219db32f271373fc45ba9d7bed8622b7dc964d0a194dde386b8f8f0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/69d5b5cb90c5e8c034454a434d87b72021156de0f928c5f9d2e9cbdee6332741.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8d8d69c0e5a0a007ed9a1cf3c8384e2dc84f222ed9efad7dbefda5d965da523d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/30834b39aba50ba87cdaac849870e9b454d7c0462ce689ae9811df4772671ff0.jpg"
+    ],
+    "size": 3397386240,
     "version": null
   },
   "70010000063534": {
