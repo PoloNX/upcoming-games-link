@@ -1393,6 +1393,70 @@
     "size": 3394240512,
     "version": null
   },
+  "70070000020321": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/01d41e92f6ec2bd549d0cf45d60b462cec1226c0d1af9cea07ef127a47be025b.jpg",
+    "category": null,
+    "description": "Experience the ultimate rush with our \"Highway Racing Bundle\" \u2013 featuring the acclaimed \"Car Racing Highway Driving Simulator\" and a thrilling expansion pack! Unleash over 30 cars, from racing speedsters to off-road SUVs, with unique driving physics. Overtake traffic in the fastest car, test your skills, and conquer endless highway challenges. Upgrade, tune, and customize your favorite car for maximum performance. This bundle includes a brand-new high-performance car in the expansion pack, elevating your highway driving to new heights. Get ready to rev your engines, dominate the roads, and feel the pulse of the asphalt with this essential DLC pack \u2013 the key to an unparalleled driving experience!\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Fuel the Speed, Conquer Challenges: Highway Racing \u2013 Where Velocity Meets the Ultimate Thrill!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Car Racing Highway Driving Simulator - PREMIUM EDITION",
+    "nsuId": 70070000020321,
+    "numberOfPlayers": null,
+    "publisher": "Erlano",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/42b98f02a5b77833c3b3c1c56d7de95a4d0f12ca1c749ab76e65af7a2e538d67.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9b1dc0b3594882fcf3fc12e49c81b9cdb52e63a1d663e1b5cee2a0241f11d78a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/19e78c94eea4541bd78962ed8f75237be4a7af00b8ead5dcd15cf4bbe6cebe43.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d4979d193cedd8cc19e89fbc3fa82c5806f5b1facce1fe554a6d2863e1b8460f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fc56dce474b42e81f83c6124484da87d0be376cdd7da6dbafa13435b2d36cc4c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/165dadc499e9603475690ac9f6bbd798dbd2121828f890b2f0bf8ae2ae765a36.jpg"
+    ],
+    "size": 1032847360,
+    "version": null
+  },
+  "70070000020500": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eb777c354e4fbfaaf96c989c6d74465b4def391103ad5160aaeb209650687d4d.jpg",
+    "category": null,
+    "description": "This is a second episode of series in which we present you with popular classic games from the world! \n\nShow your mastery in those titles by playing against the AI or a friend in a local co-op mode.\n\nThis is a great game bundle to get your brain juices flowing!\n\nGames included in the bundle are:\n\nMahjong - Traditional Asian game in which you will have to match sets and pairs of tiles.\n\nWord Search - discover all the words hidden in the puzzle!\n\nBattleships - Select a right strategy to predict the position of the rival ships on the map!\n\nHangman - Can you guess the right word before the stick man hangs?\n\nTry them all and discover why these games are still absorbing after all those years!\n\nThis bundle includes base game and DLC #1 Classic Holiday Spirit with:\n- Christmas-themed delight. Bring the joy of the holiday season to your gaming with festive designs that echo the beloved cozy patterns of holiday sweaters and decorations.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Welcome to the \"Classic Games Collection Vol.2\"!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Classic Games Collection Vol.2 Holiday Edition",
+    "nsuId": 70070000020500,
+    "numberOfPlayers": null,
+    "publisher": "Baltoro Minis",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d2c776bd22c7f6d2a8889aafad80b563f07e5fd558d89ddef0ced2e04d357fce.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d7b6f5e28aa4db3bdaf0c9ea036490a052f4677153b71a5d9f6c2dd50d63282b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/89fa52b82beb8620b9fc2e0fd6a4c860dbb9f044c579db35650b6623aca101b5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4da4da5fba9bdccaf4d4a5bbed743362dd4c383d672a710a2ca7596a6f2f341a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/94e27b8dfac85601b59384be97ad0b9f2d114bbfcd38803fc7dd3b58cc129fe0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bbc7601b791242e192e560ba1503be5fc83ec47884a15e702f213059a19a885a.jpg"
+    ],
+    "size": 402653184,
+    "version": null
+  },
   "70010000070090": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6431dc17b47f40537e3a7426d92fbda3f12e6706df373c6b42c8dda670cc445d.jpg",
     "category": [
@@ -3597,6 +3661,142 @@
       "https://img-eshop.cdn.nintendo.net/i/797bcb34a33dcdb694b3b0bd2d68a63be66df242b4f657a1836e2c7de62df517.jpg"
     ],
     "size": 4860149760,
+    "version": null
+  },
+  "70010000065250": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/151a3fe397cb6279d17a4cc5307e975a24195d96c77b5d0c47dc63703263df2c.jpg",
+    "category": [
+      "Strategy",
+      "RPG"
+    ],
+    "description": "From the masterminds that brought 13 Sentinels: Aegis Rim and Odin Sphere, ATLUS x Vanillaware presents the rebirth of tactical fantasy RPG. Fight against fate and embark on a royal adventure to regain your reign alongside trustworthy allies.\n\nUnicorn Overlord combines the timeless tactical RPG genre with overworld exploration and innovative battle system for a unique epic fantasy experience in the iconic Vanillaware style.\n\nKey Features:\n\u00b7 Traverse a vibrant world, assemble units and direct them into exquisitely animated battles\n\u00b7 Perform heroic deeds and grow renown throughout the five nations\n\u00b7 Cultivate a grand army with over 60 unique characters, from humans and elves to massive beasts and heavenly angels",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1f0dc6477068ec077e6700877179b280797647e0b1929e6f8cb7914d50fff8d7.jpg",
+    "id": "010069401ADB8000",
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it"
+    ],
+    "name": "Unicorn Overlord",
+    "nsuId": 70010000065250,
+    "numberOfPlayers": 1,
+    "publisher": "SEGA",
+    "rating": 12,
+    "ratingContent": [
+      "Bad Language",
+      "Violence",
+      "Horror"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/40327627de0962f0e18587898eb4a530d45c1126be6ef2f010f039d5952ea8da.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f2ca5cc2e31da05a6df4f7b125d53148ce9190eb648336afbb97e15d9b032b68.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc5114baeca301cf91c27b89b3379f6890278ff4d2d4678c1dc6195c6e0626bd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/be2577a8a7ab669ec66cb2e9eae34220ae1e419d62d7613c2788e570012d6421.jpg"
+    ],
+    "size": 3210739712,
+    "version": null
+  },
+  "70050000045804": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5dd6b6111acf8048cde186ab3b924deae1eac72f1bcf77b4160b3bac0b32174a.jpg",
+    "category": null,
+    "description": "Pre-order now and receive exclusive in-game insignias with the ATLUS x Vanillaware Heraldry Pack, a fan-focused DLC set that lets you customize the Liberation Army\u2019s flag with\nemblem designs from \"Odin Sphere,\" \"Dragon's Crown,\" and \"13 Sentinels: Aegis Rim\".\n\nPre-order available until March 7, 2024",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010069401ADB9001",
+    "ids": [
+      "010069401ADB9001"
+    ],
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "ATLUS x Vanillaware Heraldry Pack",
+    "nsuId": 70050000045804,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 12,
+    "ratingContent": [
+      "Bad Language",
+      "Violence",
+      "Horror"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70050000046256": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e4a3aa351350e21e7fbb1c65698aab0cd4b37c6d62fc838952c62cfb8f6ae03.jpg",
+    "category": null,
+    "description": "Immerse yourself in the captivating world of Unicorn Overlord with the 16-bit Arranged Music Album, offering a selection of 20 tracks to enjoy. \n\nEmbark on a visual journey through 132 pages of Unicorn Overlord's captivating digital artbook, where you'll discover intricate character designs, visionary concept art, immersive backgrounds, and more, offering deeper insights into the game's world.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": "010069401ADB9002",
+    "ids": [
+      "010069401ADB9002"
+    ],
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Unicorn Overlord: 16-bit Arranged Music Album and Digital Artbook",
+    "nsuId": 70050000046256,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 12,
+    "ratingContent": [
+      "Bad Language",
+      "Violence",
+      "Horror"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3145728,
+    "version": null
+  },
+  "70070000020378": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c6ea7cb9f61578d8dd7bafb1f5e7a175acaaf0de279721a371455da8481b0d3.jpg",
+    "category": null,
+    "description": "The Unicorn Overlord Monarch Edition contains\n- 16-bit Arranged Music Album (20 tracks) \n- Digital Artbook (132 pages)\n\nFrom the masterminds that brought 13 Sentinels: Aegis Rim, Odin Sphere, and Dragon's Crown, ATLUS x Vanillaware presents the rebirth of tactical fantasy RPG. Fight against fate and embark on a royal adventure to regain your reign alongside trustworthy allies.\n\nUnicorn Overlord combines the timeless tactical RPG genre with overworld exploration and innovative battle system for a unique epic fantasy experience in the iconic Vanillaware style.\n\nKey Features:\n\u00b7 Traverse a vibrant world, assemble units and direct them into exquisitely animated battles\n\u00b7 Perform heroic deeds and grow renown throughout the five nations\n\u00b7 Cultivate a grand army with over 60 unique characters, from humans and elves to massive beasts and heavenly angels",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Unicorn Overlord Monarch Edition",
+    "nsuId": 70070000020378,
+    "numberOfPlayers": null,
+    "publisher": "SEGA",
+    "rating": 12,
+    "ratingContent": [
+      "Bad Language",
+      "Violence",
+      "Horror"
+    ],
+    "region": null,
+    "releaseDate": 20240308,
+    "rightsId": null,
+    "screenshots": null,
+    "size": 3213885440,
     "version": null
   },
   "70050000042854": {
