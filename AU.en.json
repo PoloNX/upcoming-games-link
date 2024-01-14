@@ -1,4 +1,51 @@
 {
+  "70010000069697": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb81d5fdce6e40169892fb8acdfa876fa72949845c229d33113aaaa740ad2b08.jpg",
+    "category": [
+      "Simulation"
+    ],
+    "description": "You adopt a young Lebensborn child in Norway after WW2, but parenting will be hard as your child grows up in a hostile and hateful environment. See a different side of the war, inspired by the true stories of the Lebensborn children. Discover how hatred of our enemies continues to create victims, even after victory.\n\nDiscover their past and support them in the present. You must balance your time and resources to provide for your child. You will find answers to the hard questions; about their history, the hatred, bullying and the passing of blame.\n\nCan you help Klaus/Karin cope with the heavy inheritance of the German occupation, so they will find their place in a country that is celebrating its freedom? \nYou can make a difference.\n \nKey Features:\n - Influence the child\u2019s feelings, personality and worldview through your choices.\n - Look for the effects of your choices in your child\u2019s expressions and body language.\n - Explore a gripping storyline based upon true events.\n - Earn money as you work, then cook, craft, forage, and play.\n - Use your time and meager resources wisely.\n - Adopt a boy or girl, and support them through a defining year of their life.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6cb00ee99225734fc8ba14b42e9502967019835a9b9316e840f08c20a6fdf338.jpg",
+    "id": "0100FFC01BE60000",
+    "intro": "Help your child, in a story-driven nurture game based on true events.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "ru",
+      "ko",
+      "zh"
+    ],
+    "name": "My Child Lebensborn Remastered",
+    "nsuId": 70010000069697,
+    "numberOfPlayers": 1,
+    "publisher": "Sarepta Studio",
+    "rating": 18,
+    "ratingContent": [
+      "References to Sexual Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240115,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/871ac6fe9c5611ccd9845d202146e5ba950756979588abca112e814428eae3f1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/867ad179ddd04c6982383672f0b9d8adef28a1cc124f53ffac403b404a61cc06.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/465315ca810042be54d4fbfd3a2389fea460bdda4d6bc806edfc6ed7459557ff.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5075a15d55f04f40c656301128792937c6f0c48b1df5b99feb6cbb5db2baf772.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ac7db8810d71ada0cf0fdc74830186f0f286c56752de666729017e5b00127f9b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/02eaea752dd50e3c127f263bf8dd6d1a626c05bb9e1b5dcd7a1bb990b2c2f7bf.jpg"
+    ],
+    "size": 275775488,
+    "version": null
+  },
   "70010000074779": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5c711e87ae1e5f171b611112240da2181e47d32518837211ad951dc7a3f26678.jpg",
     "category": [
@@ -95,6 +142,202 @@
     "rightsId": null,
     "screenshots": null,
     "size": 0,
+    "version": null
+  },
+  "70050000044601": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b3deec2595a1c0fe357b94cf29302d38b7c9eee79b587d98e7630e1defc64997.jpg",
+    "category": null,
+    "description": "   We are pleased to present you Motorcycle Driving Simulator - DLC Pack! Now you have a unique opportunity to grow your bank account and expand your motorcycle world even further.\n   Get a significant amount of in-game currency immediately to achieve your motorcycle goals faster. With this money you can buy new motorcycles, improve existing ones and participate in exciting races with the best equipment!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "DLC Motorcycle Driving Simulator: More Money - More Fun!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Motorcycle Driving Simulator - DLC Pack",
+    "nsuId": 70050000044601,
+    "numberOfPlayers": null,
+    "publisher": "PublishMe",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240115,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/da2a0d2a622a1db872d24d3920f0334978b35db55b75a3e35433bc650c7a1c92.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/99386ce2a33204017631c8a39f4fab13c324b92e2900feda5aec1b97fdb05c82.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b9ae82299b7e4b91371c169075bed29a050ada074e0b22ac4ce83d307b6f1925.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8fe87d3e08ab264285e253b9cfa2a86f8c38a956374045d2e86c727ac0b3a369.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0d4d376200ad79c1734d56e4ccc60998f521faae12463a25217ed39bffd3db46.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c8fe9419bb4daf852382ae77900f0df3c3e2e437c9e0ef064dbb0b354e6f6c36.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70050000046326": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b64cc47ed5351dbe3d2ac1e7312a97a7a67aa4240db525e95278c9899a79705e.jpg",
+    "category": null,
+    "description": "Have fun with an adorable cat named Mojito or one of his friends.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Check out the new animals skins for Mojito the Cat.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Animals",
+    "nsuId": 70050000046326,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240115,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/44d90080e9f629611d482883a582c9d65e97cb7d440f8a21bf2ab4c7e35b0452.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/268f0e2b4851ad94506e36c9fc04e035e41042d8f30f7146a680834aa1526cdf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dee30aac5fbaa27d446b945e6b8d9ba62deff10ff3507ecfeeea14092f06ce54.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/94140ea525bb7404c5d783c6fe13533db55e7e7d5cdf21e3d0ebe40c94c237bd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bb19f9b2d6067eda50207e569328517685bc94315c5034bd219b428be9d84816.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70050000046693": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/052739403d21896f2ea9fef7a27b10b419de97a665cb6c7984a0627c1caa582c.jpg",
+    "category": null,
+    "description": "Train with Yumiko, Narumi and Misa on 5 brand new golf courses. ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Visit wonderful Prairie Greens and admire girls' winter outfits.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Prairie Greens",
+    "nsuId": 70050000046693,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 15,
+    "ratingContent": [
+      "Sexualised Imagery"
+    ],
+    "region": null,
+    "releaseDate": 20240115,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/160b9f62fc8861404c73c9542301252802879992c1dd3bcff0ec0379b6f4690b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/12b82ae561b7fefe237193596c0cdf45a33e434a8c9bfab454dfa96a030aecba.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/958b267915f15b10a62b43d2f0b48ffd43e3f2573f590fc99da03fe1f34a5f78.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ed30c8de330f1b5491775a458bbd4c3633b08c7baddde59c01f468c143065a54.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70050000046694": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/333ce6dda5e1e75b7c7e4cdded4db9ac533219f1081a513b71d9d5c369c88cc3.jpg",
+    "category": null,
+    "description": "Train with Yumiko, Narumi and Misa on 5 brand new golf courses. ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Visit wonderful River's Edge and admire girls' beach outfits.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "River's Edge",
+    "nsuId": 70050000046694,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 15,
+    "ratingContent": [
+      "Sexualised Imagery"
+    ],
+    "region": null,
+    "releaseDate": 20240115,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/b95f1bb51ace7dba5d2097ee833aff0e53df1b108d9819cba00d4d5d7d0b6cba.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/345c97f4866a4ed354beef7098702817463c2539318d57d3e7cfb01751845b76.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/845a7a38eace25ec2cb800e076f8851f5afd3b4cd78d66b5b3398f1c9deb1f78.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f3578ac0c7fb30af552b4132807794256ca3bf5300e90561c9f6431f3d56dc3a.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70050000046695": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5680ea135690510652129bb38d7cba8291c5a46ed2e887ae59db20142ec50eff.jpg",
+    "category": null,
+    "description": "Train with Yumiko, Narumi and Misa on 5 brand new golf courses. ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Visit wonderful Lakeside Fairways and admire girls' animal costumes.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Lakeside Fairways",
+    "nsuId": 70050000046695,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 15,
+    "ratingContent": [
+      "Sexualised Imagery"
+    ],
+    "region": null,
+    "releaseDate": 20240115,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/e43163e3691fd46bffb938cc17a8bea2f66639d4d7db85a8848b1acd72c23eaa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a00d390d515a9b85236baddeaa92cb8d52f29a5b2df61a89959374b5957d8dfa.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/bf10e6d9c2ea05c40c2512aa53094e15b6481c8f0d82c817125004e80fed9e6b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fdf7b0721d1df5587f27a604271a5ea35c7175a9af5d1eee8f33cca4e09c074f.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70050000046696": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/185a2eb95208ec687b9f84441f68330da5c70b5942c5ff82fef30d3813dbb492.jpg",
+    "category": null,
+    "description": "Train with Yumiko, Narumi and Misa on 5 brand new golf courses. ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Visit wonderful Sunset Pines and admire girls' housemaid outfits.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Sunset Pines",
+    "nsuId": 70050000046696,
+    "numberOfPlayers": null,
+    "publisher": "RedDeer.Games",
+    "rating": 15,
+    "ratingContent": [
+      "Sexualised Imagery"
+    ],
+    "region": null,
+    "releaseDate": 20240115,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/fbf16751cc0a4e538f8937e5a7bea93f878ef75478470df413bf8adaf97a2cb8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/731d40062416f230fe8ab8bbf4de94f748af472f122cc2960ec1e86a1039c7f4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9dc267ea792489cb9ff3883221270237b378b54dccdedf33e55a5540437f82b7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/035d0564b92540dde7733dfdebadfb2ec720c8ee9eb5e4e1584612b463176097.jpg"
+    ],
+    "size": 3145728,
     "version": null
   },
   "70070000017792": {
@@ -640,6 +883,46 @@
       "https://img-eshop.cdn.nintendo.net/i/3797d110eb7d200d4448b97f7a82a72dbc4c7361f58a5648d5cdfc55029bc8d1.jpg"
     ],
     "size": 369098752,
+    "version": null
+  },
+  "70010000075348": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/97d0a637720143107263ca81ae75b2296335a2d0ecfa2e5a51a4ad230fcc1801.jpg",
+    "category": [
+      "Shooter",
+      "Action",
+      "Arcade"
+    ],
+    "description": "Step into a world where cute meets the undead in \"Anime Girls: Highschool of Dead.\" Take on the role of an adorable high school girl braving hordes of relentless zombies and a variety of formidable enemies. With a diverse arsenal of weapons and a dash of anime charm, you're set for thrilling action.\n\nAnime Girl Power: Customize your gameplay experience by selecting from a variety of anime girl skins, each with unique stats and starting weapons. As you progress, unlock more options to tailor your ideal zombie-fighting avatar.\n\nWave-Based Mayhem: Test your survival skills in intense, wave-based gameplay. Face increasingly challenging waves of zombies, requiring strategic thinking and precision to prevail. Each enemy type presents a unique challenge, adding depth to your combat strategy.\n\nLooting Galore: Roam the high school grounds to find containers filled with essential supplies. Stock up on guns, health kits, and ammo to maintain your edge against the undead. The environment holds the key to your survival, with valuable resources hidden throughout.\n\nBoss Enemies: Beyond the regular zombie foes, prepare for encounters with boss enemies. These larger and more powerful adversaries will challenge your combat skills and strategic planning. Overcoming these formidable opponents requires agility and tactical prowess.\n\nSurvive, thrive, and restore the high school to a safe haven in \"Anime Girls: Highschool of Dead.\" Are you ready to single-handedly take on the undead and bring peace back to the halls of academia?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f61a6137a894b8339b2a507a0d5ffa90b8f82947209f59bc0792a5f764c0e34f.jpg",
+    "id": "01004EC01DAB6000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Anime Girls: Highschool of Dead",
+    "nsuId": 70010000075348,
+    "numberOfPlayers": 1,
+    "publisher": "Halva Studio",
+    "rating": 13,
+    "ratingContent": [
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8a8aac59aaa060712699c9ec7150b56ffaa49f7ed24cbf730b56cabae761a144.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/753e59155bd941c138d241146ab5561986e8b96130a685f7a99f483fd23589f0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a1ef8f1b6b6dfcdc50a18452ff450c3d6df5d97de9224eed639ec8d2a048ead8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/660e366806815bf90042c229be0bbb228cd028004ffbc98ada31e12de8fe6c8c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/814419ffbc606cd39fefa9adf4f0c4f48a881dc5c895f67dcee76146fc981661.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9a24e4eb4421995c7124227530a4e7d4581bf8b29e28e23a1c7da6f62acd7655.jpg"
+    ],
+    "size": 450887680,
     "version": null
   },
   "70070000020449": {
@@ -2408,6 +2691,47 @@
     "size": 5324668928,
     "version": null
   },
+  "70010000070318": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5b7b365178932b35f6bdc4aa47510803fed3cf6ac9f75e0840c74e621c2810e.jpg",
+    "category": [
+      "Simulation",
+      "Shooter",
+      "First-Person Shooter",
+      "Strategy"
+    ],
+    "description": "   Dive into the heart of intense combat in a gripping shooter experience where your skills are put to the ultimate test. This game offers two exhilarating modes to conquer. In the first, precision is paramount as you eliminate a dynamic number of foes, armed with a limited yet strategic arsenal. Will your finesse triumph over the challenge or will you face defeat with dwindling ammunition?\n   The second mode introduces a thrilling mission, demanding not only the defeat of adversaries but also the discovery of hidden treasures scattered across diverse maps. Your hard-earned cash prize becomes the key to upgrading your arsenal, from pistols to formidable automatic weapons. With each advancing level, the stakes rise as opponents multiply, requiring strategic firepower for triumph. But beware, as your life line inches closer to zero, pushing you perilously towards defeat.\n   With multiple maps offering unique challenges, this game promises relentless action, daring missions, and an unwavering pursuit of victory. Can you rise to the occasion and conquer the relentless onslaught?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/26b7ff14ed80692b69b9a77266d10a5b67347fec03b8f5ec2ed8873721a0d8fe.jpg",
+    "id": "0100D9801C51C000",
+    "intro": "Immerse yourself in an adrenaline-fueled world of tactical challenges, weapon upgrades, and hidden treasures in this gripping shooter adventure!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Counter Shooter Strike Zone",
+    "nsuId": 70010000070318,
+    "numberOfPlayers": 1,
+    "publisher": "GameToTop Corp.",
+    "rating": 15,
+    "ratingContent": [
+      "Strong Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240127,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/055d64f8523551c8dcab80d627c49e218eacdeb1291a7cccb5d0949c31f1266c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8f565a7be63a2a4545bd4153550b7bb824d8a081edfd61223ab41f00a0290eb6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/61e64bc41fcd211173e64b0c66a8c769bd8d0296b17b8059e9286f5657a29dee.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e1ae2ec3ee4d7627c6cd51142b4a3b1a84957e5811e1cf60575b12473e1b9aeb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d02921289a651dd9a99572bb3392fb4c240a05a1d5ec84955b123e59c1cae8f8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b01f4dfe04f70697b8cbc299c73c6353a008dc5bef1f3f6bd08eccb6980495f6.jpg"
+    ],
+    "size": 547356672,
+    "version": null
+  },
   "70010000073976": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1fc572c8eb8699a39478d1d8aaa5a64324c28b5db2f3211da4200ec9b3468667.jpg",
     "category": [
@@ -2836,6 +3160,50 @@
       "https://img-eshop.cdn.nintendo.net/i/aa477074efb63734737497e164710c96596967841a7ef2edd6d9a3ecfd1895b7.jpg"
     ],
     "size": 1219493888,
+    "version": null
+  },
+  "70010000071796": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/50a9bb5b008ef7071d2795f658e2377e3411b3b4f2ba2de4767c0f719a42a133.jpg",
+    "category": [
+      "First-Person Shooter",
+      "Shooter",
+      "Fighting",
+      "Action"
+    ],
+    "description": "Find yourself in a future city full of gangs, mafias, and other shady people. Become a merciless assassin who works during the day, and gets into a killing frenzy at night. Hop in the car, select a destination, and explore every corner of Crimson Tide.\n\nIf you want to feel an adrenaline rush, you can explore the city on foot but watch your back and don\u2019t ask too many questions.\n\n\nEVERYTHING CAN BE A WEAPON!\nSearch your surroundings for anything that looks deadly and use it to protect yourself. Throw bottles, knives, or even guns at the enemies. \n\nNothing around you? \n\nTake some pills and breach doors to stun opponents, or just disarm them by kicking their faces. They will be pleased to drop a weapon for you then. You should definitely find and lick a frog \u2013 you will love it.\n\n\nPLAN YOUR ATTACK\nIt\u2019s your decision how to enter combat and how to end it. Find your first victim, and go with the flow. Try every possibility and find the best way to get the highest score. \n\nKick an enemy while sliding to pick his weapon mid-air and land a headshot to defeat him. Creativity is the key to success. \n\n\nCREATE YOUR OWN STORY\nThere are 12 available endings waiting for you to be discovered. Each one takes around 4 hours for hardcore players to complete. The path you choose will never be completely the same next time. Also, check and search for collectibles that are hidden all over the city. \n\n\nKEY FEATURES:\n- 4 difficulty levels\n- Multiple possibilities of approach\n- Aim assist \u2013 if you need a little help\n- Retro-styled graphics\n- Entertaining soundtrack to keep combat exciting\n- Your own apartment with a retro console full of mini-games",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4353f0e7f68bf38e6f87ef513783fc83b10825afaf4b0f773ae51844f4fab2ff.jpg",
+    "id": "01006E601CDA2000",
+    "intro": "Fight your way out in this dirty retro-styled tactical FPS.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "ru"
+    ],
+    "name": "Project Downfall",
+    "nsuId": 70010000071796,
+    "numberOfPlayers": 1,
+    "publisher": "RedDeer.Games",
+    "rating": 15,
+    "ratingContent": [
+      "Sexualised Imagery",
+      "Strong Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240202,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/bcd0de281ce274ceddfb67620f133aeebba479d3175d3433d1c5b87ebe0754e2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c82248716124fcb35ff8606b5c6590f034ab709f6fa2cb406677e2b69c28be24.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b9ea6718d95f1c64ea26f5a0ddd1c37a775242886753ced27dc7f32e10f3f820.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3c5a0c1cb1126a0b428126050c35936cb6223ac428c04d401953ba317f858313.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e354c29e7509c263bddcb2f1f7440bc96394e3452da4d751c2f86e9ddf249a3b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/45a49a634af5a7ffb22c4f505f251d54560dfe88231e5c69a3b9b5a92fd1fd46.jpg"
+    ],
+    "size": 2168455168,
     "version": null
   },
   "70050000044684": {
