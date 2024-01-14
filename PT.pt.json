@@ -1,50 +1,4 @@
 {
-  "70010000074779": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5c711e87ae1e5f171b611112240da2181e47d32518837211ad951dc7a3f26678.jpg",
-    "category": [
-      "Corridas",
-      "Simula\u00e7\u00e3o",
-      "Desporto",
-      "Arcada"
-    ],
-    "description": "Hard Racing \u00e9 um jogo off-line de corrida de drift em 3D. Criado de acordo com as melhores tradi\u00e7\u00f5es dos jogos antigos de ajuste de carros e simuladores de automobilismo. Apresenta o m\u00e1ximo de realismo da f\u00edsica e do ajuste do carro. \nPersonalize carros lend\u00e1rios e pistas emocionantes. Dirija seu carro personalizado em corridas curtas com rivais legais. Seja um \u00e1s!\n\nRECURSOS: \n- f\u00edsica de controle realista exclusiva para cada carro\n- f\u00edsica espetacular de batidas e danos \u00e9picos nos carros\n- v\u00e1rios desafios na Campanha \u00danica e nos Eventos\n- carros, pistas e efeitos visuais incr\u00edveis e altamente detalhados\n- Op\u00e7\u00f5es de ajuste em 3D: personalize a cor, a pintura, os decalques, os aros, os pneus e os kits de carroceria\n- upgrades: nitro, turbo, intercooler, admiss\u00e3o, escapamento e outros\n- Placas de carro com trof\u00e9us para coletar dos advers\u00e1rios derrotados\n- simulador de corrida de arrancada altamente envolvente com trilhas sonoras atmosf\u00e9ricas originais e sons de motor verdadeiros\n- jogabilidade simples e viciante em um timekiller de tirar o f\u00f4lego\n\nCarreira \u00fanica\nJogue nos modos timeattack, drag, survival, checkpoints, sprint e corrida de rua cl\u00e1ssica. Ao vencer, voc\u00ea recebe pr\u00eamios, v\u00e1rios itens de personaliza\u00e7\u00e3o para o seu carro. Em cada cap\u00edtulo da carreira, o pr\u00eamio principal \u00e9 o bodykit exclusivo para o seu carro. \n\nEventos di\u00e1rios\nComplete os eventos di\u00e1rios e ganhe um carro de corrida lend\u00e1rio como pr\u00eamio. Re\u00fana uma cole\u00e7\u00e3o completa de ve\u00edculos GOAT legais, que voc\u00ea s\u00f3 pode personalizar no exterior, mas que podem ser totalmente atualizados. As amplas op\u00e7\u00f5es de ajuste do seu carro permitem que voc\u00ea supere seus rivais. Use o Nitro para acelerar e o freio de m\u00e3o para drifting.\n\nEnt\u00e3o, junte-se \u00e0 comunidade de pilotos de Hard Racing e queime borracha nesse incr\u00edvel simulador de corridas de arrancada! Instale esse drift agora mesmo e jogue seus melhores jogos de dire\u00e7\u00e3o e ajuste de carros! Desafie-se.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/470c53cf9efd4d916cb6c7b1cc12f1b43604810e5a38e49494776599922ccfdc.jpg",
-    "id": "0100E8101D85C000",
-    "intro": "Um novo simulador de corrida de carros em estilo arcade. Carros de ponta, jogos emocionantes de ajuste de carros e uma verdadeira vibra\u00e7\u00e3o de dire\u00e7\u00e3o!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "es",
-      "fr",
-      "pt",
-      "de",
-      "ru",
-      "ko",
-      "zh"
-    ],
-    "name": "Hard Racing: Stunt Car Driving",
-    "nsuId": 70010000074779,
-    "numberOfPlayers": 1,
-    "publisher": "Nikita Alexeevich",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240114,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a8f4d047804df2c735217cd51db117101e02ed6af3539f62e272e649d5c1a431.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4537b8efff09de4586efe8201cd7a08d1840025a013426ea55d5d7887c2e3a6a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/189774959255a2e7750c6729eaba31d2387418e656c03c969102b3fbb15ec0d4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bf8efa29e590ffcfe48e82b0fdf6896ca2dd276b12728ac833582e71e1fdee82.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/2419967586ffb620e091160fa70c930239d73fcdcae048d1cfc337454a1c50fc.jpg"
-    ],
-    "size": 896532480,
-    "version": null
-  },
   "70010000057408": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/803fcd9dc3e4de93e42cd47302a8ac6045699d95e612b945abed1fc43daeb07d.jpg",
     "category": [
@@ -3631,6 +3585,55 @@
       "https://img-eshop.cdn.nintendo.net/i/797bcb34a33dcdb694b3b0bd2d68a63be66df242b4f657a1836e2c7de62df517.jpg"
     ],
     "size": 4860149760,
+    "version": null
+  },
+  "70010000062269": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0be82775e4d225274e421aa9b75c9103a54b246c9a6d0aedb7d35e587a0f3033.jpg",
+    "category": [
+      "Shooter",
+      "A\u00e7\u00e3o",
+      "Estrat\u00e9gia",
+      "Luta"
+    ],
+    "description": "OTXO (pronuncia-se ot\u2019ch\u00f4), \u00e9 um violento shooter de vista superior com elementos roguelite. Joga na pele do protagonista e infiltra-te numa mans\u00e3o extraordin\u00e1ria em busca da tua amada. Quanto mais te aventurares pelos confins da mans\u00e3o, mais segredos sobre a mesma vir\u00e3o ao de cima.\n \n N\u00e3o tens nada, nome, nem sequer mem\u00f3rias de como vieste aqui parar, mas o prop\u00f3sito... esse n\u00e3o o esqueceste. Ela espera-te, algures nesta mans\u00e3o e n\u00e3o te atreves a ir embora sem a encontrar. Explora as v\u00e1rias \u00e1reas \u00fanicas e conhece novos aliados enquanto mergulhas cada vez mais fundo neste mar de mist\u00e9rios, enfrentas os teus dem\u00f3nios interiores e os aniquilas.\n \n MOSTRA QUEM MANDA\n Armas n\u00e3o te faltam, habilidades h\u00e1 mais de 100 e o Focus permite-te desviar de balas como e quando quiseres. Por isso, n\u00e3o tens desculpa para n\u00e3o causar estragos e dizimar todo e qualquer inimigo que se atreva a fazer-te frente.\n \n Funcionalidades:\n - Um jogo que transpira longevidade: OTXO conduz-te por 8 \u00e1reas, apresentando um esquema aleat\u00f3rio que inclui salas de um repert\u00f3rio de mais de 150 exemplares cuidadosamente criados \u00e0 m\u00e3o. N\u00e3o haver\u00e1 partidas iguais.\n - Personaliza\u00e7\u00e3o: atrav\u00e9s das mais de 100 habilidades que podes adquirir no gar\u00e7om, descobre a f\u00f3rmula que te permitir\u00e1 p\u00f4r um ponto final ao ciclo.\n - Estilo de jogo: Focus, a funcionalidade de c\u00e2mara lenta, d\u00e1-te uma sensa\u00e7\u00e3o de poder e controlo. Mas n\u00e3o te deixes adormecer... H\u00e1 v\u00e1rios e distintos inimigos \u00e0 espreita que, se n\u00e3o tiveres destreza para te adaptar, ir\u00e3o virar o jogo num piscar de olhos.\n - Banda sonora: deixa-te levar pelo brutal bal\u00e9 de assassinatos com nuances de jazz noir, enquanto a arrepiante banda sonora composta pelo pr\u00f3prio criador do jogo te embala nesta aventura.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/388e400821644b39d12544255bd2a51dad681adfd8b6ca9304d75009d0509132.jpg",
+    "id": "01009C2018A28000",
+    "intro": "Infiltra-te numa extraordin\u00e1ria e enigm\u00e1tica mans\u00e3o para salvar a tua amada neste fren\u00e9tico, brutal e sombrio roguelite com tiroteios violentos e precisos, de m\u00e3o dada com a c\u00e2mara lenta.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "ru",
+      "zh"
+    ],
+    "name": "OTXO",
+    "nsuId": 70010000062269,
+    "numberOfPlayers": 1,
+    "publisher": "Super Rare Games",
+    "rating": 18,
+    "ratingContent": [
+      "Viol\u00eancia Extrema",
+      "Consumo de \u00c1lcool/Tabaco"
+    ],
+    "region": null,
+    "releaseDate": 20240229,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d8727739c065539a78eda68463fc1a9990b49f8e99320e742a292e16f09becf1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/04d51a7c6bfae5ffce80096c50e1c7d55c3add1f474f087113ab769759587370.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a21a16c1429577409478d81a62c43f4323a59dc8d22e324b4f5ff38c8a199ea0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87e492f9bb1898a8115967ca1e7f04e97420c92086eba13ad516677dbe22ac40.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e133118b29f25b25ae73741d5154c05fccfc02c149f6cd8bf5b2a71beac62fba.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/06e59cb364cdf859dd7282af8c3033dabfe108d90863f0d06f845ca843cbd660.jpg"
+    ],
+    "size": 778043392,
     "version": null
   },
   "70010000065250": {

@@ -1,50 +1,4 @@
 {
-  "70010000074779": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5c711e87ae1e5f171b611112240da2181e47d32518837211ad951dc7a3f26678.jpg",
-    "category": [
-      "Course",
-      "Simulation",
-      "Sport",
-      "Arcade"
-    ],
-    "description": "Hard Racing est un jeu de course de drift en 3D hors ligne. Cr\u00e9\u00e9 dans les meilleures traditions des jeux de tuning et des simulateurs de sport automobile de la vieille \u00e9cole. R\u00e9alisme maximal de la physique et du r\u00e9glage des voitures. \nPersonnalisez des voitures l\u00e9gendaires et des circuits palpitants. Conduisez votre voiture personnalis\u00e9e dans des courses courtes avec des rivaux sympas. Devenez un as !\n\nCARACT\u00c9RISTIQUES : \n- Physique r\u00e9aliste des commandes, unique pour chaque voiture\n- Physique spectaculaire des collisions et des d\u00e9g\u00e2ts \u00e9piques.\n- Nombreux d\u00e9fis dans la campagne unique et les \u00e9v\u00e9nements\n- Des voitures, des circuits et des effets visuels incroyables et tr\u00e8s d\u00e9taill\u00e9s.\n- Options de r\u00e9glage en 3D : personnalisation de la couleur, de la livr\u00e9e, des d\u00e9calcomanies, des jantes, des pneus et des carrosseries.\n- Am\u00e9liorations : nitro, turbo, intercooler, admission, \u00e9chappement, etc.\n- plaques d'immatriculation troph\u00e9es \u00e0 collecter aupr\u00e8s des adversaires vaincus\n- simulateur de course de dragster tr\u00e8s captivant avec des bandes sonores atmosph\u00e9riques originales et des sons de moteur authentiques\n- gameplay simple et addictif dans un timekiller \u00e0 couper le souffle\n\nCarri\u00e8re unique\nJouez dans les modes chrono, dragster, survie, points de contr\u00f4le, sprint et course de rue classique. Lorsque vous gagnez, vous obtenez des prix, divers objets de personnalisation pour votre voiture. Dans chaque chapitre de la carri\u00e8re, le prix principal est un kit de carrosserie unique pour votre voiture. \n\n\u00c9v\u00e9nements quotidiens\nTerminez les \u00e9v\u00e9nements quotidiens et obtenez une voiture de course l\u00e9gendaire comme prix. Rassemblez une collection compl\u00e8te de v\u00e9hicules GOAT cool, que vous pouvez seulement personnaliser \u00e0 l'ext\u00e9rieur, mais que vous pouvez enti\u00e8rement am\u00e9liorer. Les nombreuses options de r\u00e9glage de votre voiture vous permettent de surpasser vos rivaux. Utilisez la nitro pour acc\u00e9l\u00e9rer et le frein \u00e0 main pour d\u00e9river.\n\nAlors, rejoignez la communaut\u00e9 de Hard Racing et br\u00fblez de la gomme dans ce superbe simulateur de course de dragster ! Installez ce drift d\u00e8s maintenant et jouez \u00e0 vos meilleurs jeux de conduite et de tuning ! Relevez le d\u00e9fi.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/470c53cf9efd4d916cb6c7b1cc12f1b43604810e5a38e49494776599922ccfdc.jpg",
-    "id": "0100E8101D85C000",
-    "intro": "Un nouveau simulateur de course automobile. Des voitures de r\u00eave, des jeux de tuning passionnants et de vraies sensations de conduite!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "es",
-      "fr",
-      "pt",
-      "de",
-      "ru",
-      "ko",
-      "zh"
-    ],
-    "name": "Hard Racing: Stunt Car Driving",
-    "nsuId": 70010000074779,
-    "numberOfPlayers": 1,
-    "publisher": "Nikita Alexeevich",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240114,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a8f4d047804df2c735217cd51db117101e02ed6af3539f62e272e649d5c1a431.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4537b8efff09de4586efe8201cd7a08d1840025a013426ea55d5d7887c2e3a6a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/189774959255a2e7750c6729eaba31d2387418e656c03c969102b3fbb15ec0d4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bf8efa29e590ffcfe48e82b0fdf6896ca2dd276b12728ac833582e71e1fdee82.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/2419967586ffb620e091160fa70c930239d73fcdcae048d1cfc337454a1c50fc.jpg"
-    ],
-    "size": 896532480,
-    "version": null
-  },
   "70010000057408": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/803fcd9dc3e4de93e42cd47302a8ac6045699d95e612b945abed1fc43daeb07d.jpg",
     "category": [
@@ -3585,6 +3539,55 @@
       "https://img-eshop.cdn.nintendo.net/i/797bcb34a33dcdb694b3b0bd2d68a63be66df242b4f657a1836e2c7de62df517.jpg"
     ],
     "size": 4860149760,
+    "version": null
+  },
+  "70010000062269": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0be82775e4d225274e421aa9b75c9103a54b246c9a6d0aedb7d35e587a0f3033.jpg",
+    "category": [
+      "Jeu de tir",
+      "Action",
+      "Strat\u00e9gie",
+      "Combat"
+    ],
+    "description": "OTXO (prononc\u00e9 oh-cho) est un jeu de tir en vue du dessus violent et int\u00e9grant des \u00e9l\u00e9ments de rogue-lite. Le protagoniste entre dans un \u00e9trange manoir afin de secourir son amour perdu. Plus vous vous enfoncez \u00e0 l'int\u00e9rieur, plus vous en d\u00e9couvrez les secrets.\n\nSans visage, sans nom et sans aucune id\u00e9e de comment vous \u00eates arriv\u00e9 ici... vous ne vous souvenez que d'une chose : pourquoi. Elle vous attend, quelque part dans ce manoir, et vous ne pouvez partir sans elle. Frayez-vous un chemin \u00e0 travers des zones uniques et rencontrez de nouveaux alli\u00e9s tout en avan\u00e7ant jusqu'\u00e0 la source du myst\u00e8re. Faites face \u00e0 vos d\u00e9mons int\u00e9rieurs, et massacrez-les !\n\nSOYEZ PLUS PUISSANT QU'EUX\nAvec une foule d'armes, plus de 100 capacit\u00e9s et la possibilit\u00e9 de ralentir le temps \u00e0 n'importe quel moment, d\u00e9foncez toutes les portes et tous les ennemis assez fous pour se mettre sur votre chemin. \n\nCaract\u00e9ristiques :\n- Rejouabilit\u00e9 immense : OTXO m\u00e8nera le joueur dans 8 zones, avec des configurations de pi\u00e8ces g\u00e9n\u00e9r\u00e9es al\u00e9atoirement \u00e0 partir des 150 mod\u00e8les cr\u00e9\u00e9s \u00e0 la main. Aucune partie ne sera semblable \u00e0 une autre.\n- Personnalisation : Brisez le cycle gr\u00e2ce \u00e0 une vaste s\u00e9lection d'armes et plus de 100 capacit\u00e9s d\u00e9blocables aupr\u00e8s de l'\u00e9nigmatique barman.\n- Style de jeu : Avec un m\u00e9canisme de dilatation du temps, OTXO donne au joueur les r\u00eanes du combat. Cependant, ne vous endormez pas sur vos lauriers, car diff\u00e9rents types d'ennemis peuvent rapidement faire basculer le cours d'un combat si vous ne vous y adaptez pas imm\u00e9diatement.\n- Bande-son : Plongez dans un ballet t\u00e9n\u00e9breux inspir\u00e9 des films noirs, avec une bande-son brute et rythmique compos\u00e9e par le d\u00e9veloppeur lui-m\u00eame.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/388e400821644b39d12544255bd2a51dad681adfd8b6ca9304d75009d0509132.jpg",
+    "id": "01009C2018A28000",
+    "intro": "P\u00e9n\u00e9trez dans un myst\u00e9rieux manoir pour sauver un \u00eatre cher dans ce rogue-lite sombre au rythme effr\u00e9n\u00e9, m\u00ealant action, brutalit\u00e9 et bullet-time.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "ru",
+      "zh"
+    ],
+    "name": "OTXO",
+    "nsuId": 70010000062269,
+    "numberOfPlayers": 1,
+    "publisher": "Super Rare Games",
+    "rating": 18,
+    "ratingContent": [
+      "Violence extr\u00eame",
+      "Consommation d\u2019alcool/de tabac"
+    ],
+    "region": null,
+    "releaseDate": 20240229,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d8727739c065539a78eda68463fc1a9990b49f8e99320e742a292e16f09becf1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/04d51a7c6bfae5ffce80096c50e1c7d55c3add1f474f087113ab769759587370.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a21a16c1429577409478d81a62c43f4323a59dc8d22e324b4f5ff38c8a199ea0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87e492f9bb1898a8115967ca1e7f04e97420c92086eba13ad516677dbe22ac40.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e133118b29f25b25ae73741d5154c05fccfc02c149f6cd8bf5b2a71beac62fba.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/06e59cb364cdf859dd7282af8c3033dabfe108d90863f0d06f845ca843cbd660.jpg"
+    ],
+    "size": 778043392,
     "version": null
   },
   "70010000065250": {

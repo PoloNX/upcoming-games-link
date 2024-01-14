@@ -1,50 +1,4 @@
 {
-  "70010000074779": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5c711e87ae1e5f171b611112240da2181e47d32518837211ad951dc7a3f26678.jpg",
-    "category": [
-      "Racing",
-      "Simulation",
-      "Sports",
-      "Arcade"
-    ],
-    "description": "Hard Racing is a 3D drift racing offline game. Created in the best traditions of old-school car tuning games and motorsport simulators. Features maximum realism of physics and car tuning. \nCustomize legendary cars and thrilling tracks. Drive your customized car in short runs with cool rivals. Be an ace!\n\nFEATURES: \n- realistic control physics unique for each car\n- spectacular physics of epic car crashes and damages\n- numerous challenges in the Single Campaign and Events\n- amazing highly-detailed cars, tracks, and visual effects\n- 3D tuning options: customize color, livery, decals, rims, tires, and bodykits\n- upgrades: nitro, turbo, intercooler, intake, exhaust and others\n- trophy license plates to collect from defeated opponents\n- highly engaging drag racing simulator with original atmospheric soundtracks and true engine sounds\n- addictive and simple gameplay in breathtaking timekiller\n\nSingle Career\nPlay in timeattack, drag, survival, checkpoints, sprint, and classic street racing modes. When you win, you get prizes, various customization items for your car. In each chapter of the Career, the main prize is the unique bodykit for your car. \n\nDaily Events\nComplete Daily Events and get a legendary racing car as your prize. Gather a complete collection of cool GOAT vehicles, which you can only customize in exterior but fully upgrade. The extensive tuning options of your car allow you to outperform your rivals. Use Nitro for acceleration and handbrake for drifting.\n\nSo, join motorhead community of Hard Racing and burn rubber in this awesome drag racing simulator! Install this drift  right now and play your best driving and car tuning games! Challenge yourself.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/470c53cf9efd4d916cb6c7b1cc12f1b43604810e5a38e49494776599922ccfdc.jpg",
-    "id": "0100E8101D85C000",
-    "intro": "A new car racing arcade simulator. GOAT cars, exciting car tuning games, and true driving vibes!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "es",
-      "fr",
-      "pt",
-      "de",
-      "ru",
-      "ko",
-      "zh"
-    ],
-    "name": "Hard Racing: Stunt Car Driving",
-    "nsuId": 70010000074779,
-    "numberOfPlayers": 1,
-    "publisher": "Nikita Alexeevich",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240114,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a8f4d047804df2c735217cd51db117101e02ed6af3539f62e272e649d5c1a431.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4537b8efff09de4586efe8201cd7a08d1840025a013426ea55d5d7887c2e3a6a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/189774959255a2e7750c6729eaba31d2387418e656c03c969102b3fbb15ec0d4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bf8efa29e590ffcfe48e82b0fdf6896ca2dd276b12728ac833582e71e1fdee82.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/2419967586ffb620e091160fa70c930239d73fcdcae048d1cfc337454a1c50fc.jpg"
-    ],
-    "size": 896532480,
-    "version": null
-  },
   "70010000057408": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/803fcd9dc3e4de93e42cd47302a8ac6045699d95e612b945abed1fc43daeb07d.jpg",
     "category": [
@@ -3670,6 +3624,55 @@
       "https://img-eshop.cdn.nintendo.net/i/797bcb34a33dcdb694b3b0bd2d68a63be66df242b4f657a1836e2c7de62df517.jpg"
     ],
     "size": 4860149760,
+    "version": null
+  },
+  "70010000062269": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0be82775e4d225274e421aa9b75c9103a54b246c9a6d0aedb7d35e587a0f3033.jpg",
+    "category": [
+      "Shooter",
+      "Action",
+      "Strategy",
+      "Fighting"
+    ],
+    "description": "OTXO (pronounced oh-cho) is a violent top-down shooter with roguelite elements. Play as the protagonist entering an inexplicable mansion in search of his lost love. As you venture deeper into the Mansion, more of its secrets will be unveiled to you.\n\nFeatureless, unnamed, and without memories of how you came here\u2026 but you remember why. She\u2019s waiting for you somewhere in this Mansion and you cannot leave until you find her. Cut your way through various unique areas and meet new allies as you delve deeper into the mystery, face your inner demons, and annihilate them.\n\nOVERPOWER THEM\nWith a massive variety of guns, over 100 abilities, and Focus to dodge bullets at your disposal, kick down doors and eviscerate the variety of enemies standing in between you and your mission.\nFeatures:\n- Tons of replayability: OTXO will take the player through 8 areas with a randomly laid out selection of rooms out of the over 150 hand-crafted rooms built in the game. No two runs of the game will be the same.\n- Customization: Find the setup that\u2019ll help you break the cycle from a whole selection of unlockable weapons and over 100 acquirable abilities from the game\u2019s enigmatic bartender.\n- Playstyle: With the slow-mo mechanic, Focus, at your disposal OTXO will make the player feel powerful and in control. However, be careful because the variety of enemy types thrown in your way can quickly turn the tides of the combat if you don\u2019t adapt accordingly.\n- Soundtrack: Fully immerse yourself into the brutal noir-esque murder ballet through the gritty pulse pumping soundtrack composed by the developer himself.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/388e400821644b39d12544255bd2a51dad681adfd8b6ca9304d75009d0509132.jpg",
+    "id": "01009C2018A28000",
+    "intro": "Enter an inexplicable, abstract mansion to rescue a loved one in this fast-paced, brutal, and dark roguelite filled with precise but savage gunplay and time-bending slow motion.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "ru",
+      "zh"
+    ],
+    "name": "OTXO",
+    "nsuId": 70010000062269,
+    "numberOfPlayers": 1,
+    "publisher": "Super Rare Games",
+    "rating": 18,
+    "ratingContent": [
+      "Extreme Violence",
+      "Use of Alcohol/Tobacco"
+    ],
+    "region": null,
+    "releaseDate": 20240229,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d8727739c065539a78eda68463fc1a9990b49f8e99320e742a292e16f09becf1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/04d51a7c6bfae5ffce80096c50e1c7d55c3add1f474f087113ab769759587370.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a21a16c1429577409478d81a62c43f4323a59dc8d22e324b4f5ff38c8a199ea0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87e492f9bb1898a8115967ca1e7f04e97420c92086eba13ad516677dbe22ac40.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e133118b29f25b25ae73741d5154c05fccfc02c149f6cd8bf5b2a71beac62fba.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/06e59cb364cdf859dd7282af8c3033dabfe108d90863f0d06f845ca843cbd660.jpg"
+    ],
+    "size": 778043392,
     "version": null
   },
   "70010000065250": {

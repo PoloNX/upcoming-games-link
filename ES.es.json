@@ -1,50 +1,4 @@
 {
-  "70010000074779": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5c711e87ae1e5f171b611112240da2181e47d32518837211ad951dc7a3f26678.jpg",
-    "category": [
-      "Carreras",
-      "Simulaci\u00f3n",
-      "Deportes",
-      "Arcade"
-    ],
-    "description": "Hard Racing es un juego offline de carreras de derrapes en 3D. Creado en la mejor tradici\u00f3n de los juegos de tuning de coches de la vieja escuela y los simuladores de deportes de motor. Ofrece el m\u00e1ximo realismo de la f\u00edsica y el tuning de coches. \nPersonaliza coches legendarios y circuitos emocionantes. Conduce tu coche personalizado en carreras cortas con rivales geniales. \u00a1Convi\u00e9rtete en un as!\n\nCARACTER\u00cdSTICAS: \n- f\u00edsica de control realista \u00fanica para cada coche\n- f\u00edsica espectacular de choques y da\u00f1os \u00e9picos de los coches\n- numerosos desaf\u00edos en la campa\u00f1a individual y en los eventos\n- Incre\u00edbles coches, circuitos y efectos visuales con todo lujo de detalles.\n- Opciones de tuning 3D: personaliza el color, la decoraci\u00f3n, las pegatinas, las llantas, los neum\u00e1ticos y los kits de carrocer\u00eda.\n- Mejoras: nitro, turbo, intercooler, admisi\u00f3n, escape y otras.\n- trofeos de matr\u00edcula para recoger de los oponentes derrotados\n- Atractivo simulador de carreras de aceleraci\u00f3n con bandas sonoras originales y sonidos de motor reales.\n- adictivo y sencillo juego en timekiller impresionante\n\nCarrera individual\nJuega en los modos timeattack, drag, survival, checkpoints, sprint y carreras callejeras cl\u00e1sicas. Cuando ganas, obtienes premios, varios objetos de personalizaci\u00f3n para tu coche. En cada cap\u00edtulo de la Carrera, el premio principal es el kit de carrocer\u00eda \u00fanico para tu coche. \n\nEventos diarios\nCompleta los eventos diarios y consigue un coche de carreras legendario como premio. Re\u00fane una colecci\u00f3n completa de fant\u00e1sticos veh\u00edculos GOAT, que solo podr\u00e1s personalizar en el exterior pero mejorar por completo. Las amplias opciones de tuning de tu coche te permitir\u00e1n superar a tus rivales. Usa el Nitro para acelerar y el freno de mano para derrapar.\n\n\u00danete a la comunidad de motoristas de Hard Racing y quema rueda en este impresionante simulador de carreras de aceleraci\u00f3n. \u00a1Instala este drift ahora mismo y juega a tus mejores juegos de conducci\u00f3n y tuning de coches! Desaf\u00edate a ti mismo.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/470c53cf9efd4d916cb6c7b1cc12f1b43604810e5a38e49494776599922ccfdc.jpg",
-    "id": "0100E8101D85C000",
-    "intro": "Un nuevo simulador arcade de carreras de coches. Coches GOAT, emocionantes juegos de tuning y aut\u00e9nticas vibraciones de conducci\u00f3n.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "es",
-      "fr",
-      "pt",
-      "de",
-      "ru",
-      "ko",
-      "zh"
-    ],
-    "name": "Hard Racing: Stunt Car Driving",
-    "nsuId": 70010000074779,
-    "numberOfPlayers": 1,
-    "publisher": "Nikita Alexeevich",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240114,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a8f4d047804df2c735217cd51db117101e02ed6af3539f62e272e649d5c1a431.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4537b8efff09de4586efe8201cd7a08d1840025a013426ea55d5d7887c2e3a6a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/189774959255a2e7750c6729eaba31d2387418e656c03c969102b3fbb15ec0d4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bf8efa29e590ffcfe48e82b0fdf6896ca2dd276b12728ac833582e71e1fdee82.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/2419967586ffb620e091160fa70c930239d73fcdcae048d1cfc337454a1c50fc.jpg"
-    ],
-    "size": 896532480,
-    "version": null
-  },
   "70010000057408": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/803fcd9dc3e4de93e42cd47302a8ac6045699d95e612b945abed1fc43daeb07d.jpg",
     "category": [
@@ -3631,6 +3585,55 @@
       "https://img-eshop.cdn.nintendo.net/i/797bcb34a33dcdb694b3b0bd2d68a63be66df242b4f657a1836e2c7de62df517.jpg"
     ],
     "size": 4860149760,
+    "version": null
+  },
+  "70010000062269": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0be82775e4d225274e421aa9b75c9103a54b246c9a6d0aedb7d35e587a0f3033.jpg",
+    "category": [
+      "Disparos (Shooter)",
+      "Acci\u00f3n",
+      "Estrategia",
+      "Lucha"
+    ],
+    "description": "OTXO (pronunciado ocho) es un violento shooter con perspectiva cenital y elementos de roguelite. M\u00e9tete en la piel del protagonista en busca de su amor perdido dentro de una inexplicable mansi\u00f3n. Descubrir\u00e1s m\u00e1s y m\u00e1s secretos a medida que te adentres en las profundidades de la mansi\u00f3n.\n\nNo tienes rasgos distintivos, nombre ni recuerdos de c\u00f3mo llegaste aqu\u00ed..., pero no olvidas por qu\u00e9. Ella te espera en alg\u00fan lugar de esta mansi\u00f3n, y no puedes salir hasta que la encuentres. \u00c1brete camino a trav\u00e9s de varias zonas \u00fanicas y conoce a nuevos aliados mientras profundizas en el misterio, te enfrentas a tus demonios interinos y los destruyes.\n\nACABA CON ELLOS\nEcha mano de una gran variedad de armas, m\u00e1s de 100 habilidades y la capacidad de concentrarte para esquivar balas para derribar puertas y aniquilar a los diferentes enemigos que se interponen entre tu misi\u00f3n y t\u00fa. \n\nCaracter\u00edsticas:\nAlta rejugabilidad: OTXO gu\u00eda al jugador a trav\u00e9s de 8 \u00e1reas del juego con una selecci\u00f3n aleatoria de salas de las m\u00e1s de 150 creadas artesanalmente. No habr\u00e1 dos partidas iguales.\nPersonalizaci\u00f3n: Encuentra la configuraci\u00f3n que te ayudar\u00e1 a romper el ciclo entre toda una selecci\u00f3n de armas para desbloquear y m\u00e1s de 100 habilidades adquiribles del enigm\u00e1tico camarero del juego.\nEstilo de juego: La mec\u00e1nica de concentraci\u00f3n de c\u00e1mara lenta de OTXO har\u00e1 que el jugador se sienta poderoso y con el control. Aunque debes tener cuidado, ya que la variedad de enemigos que te desaf\u00edan puede cambiar r\u00e1pidamente el rumbo del combate y necesitar\u00e1s adaptarte.\nBanda sonora: La cruda banda sonora compuesta por el propio desarrollador har\u00e1 que te sumerjas por completo en el brutal ballet de asesinato al estilo noir.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/388e400821644b39d12544255bd2a51dad681adfd8b6ca9304d75009d0509132.jpg",
+    "id": "01009C2018A28000",
+    "intro": "Entra en una mansi\u00f3n abstracta para rescatar a un ser querido en este roguelite trepidante, y oscuro con tiroteos precisos una c\u00e1mara lenta que desaf\u00eda las leyes del tiempo.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "ru",
+      "zh"
+    ],
+    "name": "OTXO",
+    "nsuId": 70010000062269,
+    "numberOfPlayers": 1,
+    "publisher": "Super Rare Games",
+    "rating": 18,
+    "ratingContent": [
+      "Violencia extrema",
+      "Consumo de tabaco o alcohol"
+    ],
+    "region": null,
+    "releaseDate": 20240229,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d8727739c065539a78eda68463fc1a9990b49f8e99320e742a292e16f09becf1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/04d51a7c6bfae5ffce80096c50e1c7d55c3add1f474f087113ab769759587370.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a21a16c1429577409478d81a62c43f4323a59dc8d22e324b4f5ff38c8a199ea0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87e492f9bb1898a8115967ca1e7f04e97420c92086eba13ad516677dbe22ac40.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e133118b29f25b25ae73741d5154c05fccfc02c149f6cd8bf5b2a71beac62fba.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/06e59cb364cdf859dd7282af8c3033dabfe108d90863f0d06f845ca843cbd660.jpg"
+    ],
+    "size": 778043392,
     "version": null
   },
   "70010000065250": {

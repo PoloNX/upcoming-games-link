@@ -1,50 +1,4 @@
 {
-  "70010000074779": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5c711e87ae1e5f171b611112240da2181e47d32518837211ad951dc7a3f26678.jpg",
-    "category": [
-      "Rennspiel",
-      "Simulation",
-      "Sport",
-      "Arcade"
-    ],
-    "description": "Hard Racing ist ein 3D-Drift-Rennspiel f\u00fcr unterwegs. Erstellt in den besten Traditionen der Old-School-Auto-Tuning-Spiele und Motorsport-Simulatoren. Maximaler Realismus bei Physik und Autotuning. \nPasse legend\u00e4re Autos und aufregende Strecken an. Fahre dein angepasstes Auto in kurzen Rennen mit coolen Gegnern. Sei ein Ass!\n\nFEATURES: \n- realistische Steuerungsphysik, die f\u00fcr jedes Auto einzigartig ist\n- Spektakul\u00e4re Physik von epischen Autounf\u00e4llen und Sch\u00e4den\n- zahlreiche Herausforderungen in der Einzelkampagne und in Events\n- verbl\u00fcffend detailgetreue Autos, Strecken und visuelle Effekte\n- 3D-Tuning-Optionen: Farbe, Lackierung, Aufkleber, Felgen, Reifen und Bodykits individuell anpassen\n- Upgrades: Nitro, Turbo, Ladeluftk\u00fchler, Einlass, Auspuff und andere\n- Troph\u00e4en-Kennzeichen zum Sammeln von besiegten Gegnern\n- hochgradig fesselnder Drag-Racing-Simulator mit originellen, atmosph\u00e4rischen Soundtracks und echten Motorenger\u00e4uschen\n- s\u00fcchtig machendes und einfaches Gameplay in atemberaubendem Zeitraffer\n\nEinzelkarriere\nSpielen Sie in den Modi Timeattack, Drag, Survival, Checkpoints, Sprint und Classic Street Racing. Wenn du gewinnst, erh\u00e4ltst du Preise und verschiedene Anpassungsgegenst\u00e4nde f\u00fcr dein Auto. In jedem Kapitel der Karriere ist der Hauptpreis ein einzigartiges Bodykit f\u00fcr dein Auto. \n\nT\u00e4gliche Ereignisse\nSchlie\u00dfe t\u00e4gliche Events ab und erhalte einen legend\u00e4ren Rennwagen als Preis. Sammeln Sie eine komplette Sammlung von coolen GOAT-Fahrzeugen, die Sie nur \u00e4u\u00dferlich anpassen, aber vollst\u00e4ndig aufr\u00fcsten k\u00f6nnen. Die umfangreichen Tuning-Optionen deines Wagens erm\u00f6glichen es dir, deine Rivalen auszustechen. Benutze Nitro zum Beschleunigen und Handbremse zum Driften.\n\nSchlie\u00dfen Sie sich also der Motorhead-Community von Hard Racing an und lassen Sie in diesem fantastischen Drag Racing-Simulator die Sau raus! Installiere diesen Drift jetzt und spiele dein bestes Fahr- und Autotuning-Spiel! Fordere dich selbst heraus.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/470c53cf9efd4d916cb6c7b1cc12f1b43604810e5a38e49494776599922ccfdc.jpg",
-    "id": "0100E8101D85C000",
-    "intro": "Ein neuer Arcade-Simulator f\u00fcr Autorennen. GOAT-Autos, aufregende Auto-Tuning-Spiele und echte Fahr-Vibes!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "es",
-      "fr",
-      "pt",
-      "de",
-      "ru",
-      "ko",
-      "zh"
-    ],
-    "name": "Hard Racing: Stunt Car Driving",
-    "nsuId": 70010000074779,
-    "numberOfPlayers": 1,
-    "publisher": "Nikita Alexeevich",
-    "rating": 3,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240114,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a8f4d047804df2c735217cd51db117101e02ed6af3539f62e272e649d5c1a431.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4537b8efff09de4586efe8201cd7a08d1840025a013426ea55d5d7887c2e3a6a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/189774959255a2e7750c6729eaba31d2387418e656c03c969102b3fbb15ec0d4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bf8efa29e590ffcfe48e82b0fdf6896ca2dd276b12728ac833582e71e1fdee82.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/2419967586ffb620e091160fa70c930239d73fcdcae048d1cfc337454a1c50fc.jpg"
-    ],
-    "size": 896532480,
-    "version": null
-  },
   "70010000057408": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/803fcd9dc3e4de93e42cd47302a8ac6045699d95e612b945abed1fc43daeb07d.jpg",
     "category": [
@@ -3589,6 +3543,55 @@
       "https://img-eshop.cdn.nintendo.net/i/797bcb34a33dcdb694b3b0bd2d68a63be66df242b4f657a1836e2c7de62df517.jpg"
     ],
     "size": 4860149760,
+    "version": null
+  },
+  "70010000062269": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0be82775e4d225274e421aa9b75c9103a54b246c9a6d0aedb7d35e587a0f3033.jpg",
+    "category": [
+      "Shooter",
+      "Action",
+      "Strategie",
+      "Kampf"
+    ],
+    "description": "OTXO (Aussprache: \u201eoh-tschoh\u201c) ist ein brutaler Top-Down-Shooter mit Roguelite-Elementen. Du \u00fcbernimmst die Rolle des Protagonisten, der auf der Suche nach seiner verlorenen Liebe eine unerkl\u00e4rliche Villa betritt. W\u00e4hrend du tiefer in die Villa vordringst, offenbaren sich dir stets weitere Geheimnisse.\n\nOhne besondere Merkmale, ohne Namen und ohne Erinnerung daran, wie du hierhergekommen bist ... aber du erinnerst dich an das Warum. Irgendwo in dieser Villa wartet sie auf dich und du kannst erst fort, wenn du sie gefunden hast. K\u00e4mpfe dich durch diverse einzigartige Bereiche und triff auf neue Verb\u00fcndete, w\u00e4hrend du tiefer in das Mysterium eintauchst, dich deinen inneren D\u00e4monen stellst und sie ausl\u00f6schst.\n\nOVERPOWER THEM\nNutze eine gro\u00dfe Auswahl an Waffen, mehr als 100 F\u00e4higkeiten und weiche mit Fokus Kugeln aus, damit du T\u00fcren eintreten und das Spektrum an Feinden vernichten kannst, die zwischen dir und deiner Mission stehen. \n\nFeatures:\nHoher Wiederspielwert: OTXO f\u00fchrt den Spieler durch 8 Bereiche mit einer zuf\u00e4lligen Auswahl an R\u00e4umen aus mehr als 150 manuell erstellten R\u00e4umen im Spiel. Keine zwei Durchl\u00e4ufe des Spiels werden gleich sein.\nIndividuelle Anpassung: Finde das Setup, um den Kreis zu durchbrechen, und nutze dabei eine Auswahl an freischaltbaren Waffen und mehr als 100 vom mysteri\u00f6sen Barkeeper des Spiels erwerbbare F\u00e4higkeiten.\nSpielstil: Durch den Zeitlupen-Mechanismus Fokus versp\u00fcrt der Spieler bei OTXO Macht und Kontrolle. Allerdings musst du vorsichtig sein, denn die Vielfalt an Gegnern kann im Kampf schnell f\u00fcr eine Wendung sorgen, wenn du dich nicht entsprechend anpasst.\nSoundtrack: Tauche mit dem d\u00fcsteren, den Puls pushenden Soundtrack vollst\u00e4ndig in die brutale Mordgeschichte ein, komponiert vom Entwickler selbst.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/388e400821644b39d12544255bd2a51dad681adfd8b6ca9304d75009d0509132.jpg",
+    "id": "01009C2018A28000",
+    "intro": "Betritt bei diesem rasanten, brutalen und Roguelite-Spiel voll, aber wilder Schie\u00dfereien und zeitkr\u00fcmmender Zeitlupe abstrakte Villa, um einen geliebten Menschen zu retten.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "ru",
+      "zh"
+    ],
+    "name": "OTXO",
+    "nsuId": 70010000062269,
+    "numberOfPlayers": 1,
+    "publisher": "Super Rare Games",
+    "rating": 18,
+    "ratingContent": [
+      "Extreme Gewalt",
+      "Alkohol-/Tabakkonsum"
+    ],
+    "region": null,
+    "releaseDate": 20240229,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d8727739c065539a78eda68463fc1a9990b49f8e99320e742a292e16f09becf1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/04d51a7c6bfae5ffce80096c50e1c7d55c3add1f474f087113ab769759587370.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a21a16c1429577409478d81a62c43f4323a59dc8d22e324b4f5ff38c8a199ea0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87e492f9bb1898a8115967ca1e7f04e97420c92086eba13ad516677dbe22ac40.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e133118b29f25b25ae73741d5154c05fccfc02c149f6cd8bf5b2a71beac62fba.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/06e59cb364cdf859dd7282af8c3033dabfe108d90863f0d06f845ca843cbd660.jpg"
+    ],
+    "size": 778043392,
     "version": null
   },
   "70010000065250": {
