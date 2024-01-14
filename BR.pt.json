@@ -3688,6 +3688,55 @@
     "size": 138412032,
     "version": null
   },
+  "70010000062268": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0be82775e4d225274e421aa9b75c9103a54b246c9a6d0aedb7d35e587a0f3033.jpg",
+    "category": [
+      "Tiro",
+      "A\u00e7\u00e3o",
+      "Estrat\u00e9gia",
+      "Luta"
+    ],
+    "description": "OTXO (pronuncia-se oh-cho) \u00e9 um jogo de tiro com vis\u00e3o superior e elementos roguelite. Assuma o papel do protagonista adentrando uma mans\u00e3o inexplic\u00e1vel em busca de seu amor perdido. Quanto mais profundamente voc\u00ea se aventura na mans\u00e3o, mais segredos ser\u00e3o revelados a voc\u00ea.\n\nSem caracter\u00edsticas, sem nome e sem mem\u00f3rias de como voc\u00ea chegou aqui\u2026 mas voc\u00ea se lembra do motivo. Ela te aguarda em algum canto dessa mans\u00e3o e voc\u00ea n\u00e3o pode partir at\u00e9 encontr\u00e1-la. Atravesse \u00e1reas \u00fanicas e encontre novos aliados conforme se aprofunda no mist\u00e9rio, enfrenta seus dem\u00f4nios interiores e aniquila todos eles.\n\nDOMINE-OS\nCom uma variedade massiva de armas, mais de 100 habilidades, e o Foco para desviar de balas, chute portas e estra\u00e7alhe uma ampla gama de inimigos entre voc\u00ea e sua miss\u00e3o.\n\nCaracter\u00edsticas:\n- Alto valor de replay: OTXO ir\u00e1 levar o jogador atrav\u00e9s de 8 \u00e1reas com uma gama de salas dispostas de maneira aleat\u00f3ria pelos mais de 150 ambientes feitos \u00e0 m\u00e3o do jogo. Nenhuma jornada \u00e9 igual a outra.\n- Customiza\u00e7\u00e3o: Encontre o conjunto que ir\u00e1 te auxiliar a sair do ciclo em uma vasta sele\u00e7\u00e3o de armas desbloque\u00e1veis e mais de 100 habilidades acess\u00edveis pelo enigm\u00e1tico bartender do jogo.\n- Estilo de Jogo: Com a habilidade de c\u00e2mera lenta, Foco, em suas m\u00e3os, OTXO far\u00e1 com que o jogador se sinta poderoso e no controle de tudo. Mas tome cuidado, porque a variedade de inimigos jogados em sua dire\u00e7\u00e3o pode rapidamente mudar o jogo se voc\u00ea n\u00e3o se adaptar.\n- Trilha Sonora: Mergulhe completamente em um bal\u00e9 noir mortal e brutal com a trilha sonora sombria e agitada composta pelo pr\u00f3prio desenvolvedor.\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/388e400821644b39d12544255bd2a51dad681adfd8b6ca9304d75009d0509132.jpg",
+    "id": "01009C2018A28000",
+    "intro": "Entre em uma mans\u00e3o inexplic\u00e1vel e abstrata para resgatar sua amada nesse jogo roguelite \u00e1gil, brutal e sombrio, com c\u00e2mera lenta que altera o tempo e mec\u00e2nicas de tiro precisas e intensas",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "ru",
+      "zh"
+    ],
+    "name": "OTXO",
+    "nsuId": 70010000062268,
+    "numberOfPlayers": 1,
+    "publisher": "Super Rare Games",
+    "rating": 16,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Drogas L\u00edcitas",
+      "Linguagem Impr\u00f3pria"
+    ],
+    "region": null,
+    "releaseDate": 20240229,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d8727739c065539a78eda68463fc1a9990b49f8e99320e742a292e16f09becf1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/04d51a7c6bfae5ffce80096c50e1c7d55c3add1f474f087113ab769759587370.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a21a16c1429577409478d81a62c43f4323a59dc8d22e324b4f5ff38c8a199ea0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87e492f9bb1898a8115967ca1e7f04e97420c92086eba13ad516677dbe22ac40.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e133118b29f25b25ae73741d5154c05fccfc02c149f6cd8bf5b2a71beac62fba.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/06e59cb364cdf859dd7282af8c3033dabfe108d90863f0d06f845ca843cbd660.jpg"
+    ],
+    "size": 778043392,
+    "version": null
+  },
   "70050000043476": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ace6bacb405f26e2273a85063a8cc00b02c3cec7dda8020e8c0353f921b46e6a.jpg",
     "category": null,

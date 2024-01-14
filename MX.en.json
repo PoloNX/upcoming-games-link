@@ -3808,6 +3808,56 @@
     "size": 138412032,
     "version": null
   },
+  "70010000062268": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0be82775e4d225274e421aa9b75c9103a54b246c9a6d0aedb7d35e587a0f3033.jpg",
+    "category": [
+      "Shooter",
+      "Action",
+      "Strategy",
+      "Fighting"
+    ],
+    "description": "OTXO (pronounced oh-cho) is a violent top-down shooter with roguelite elements. Play as the protagonist entering an inexplicable mansion in search of his lost love. As you venture deeper into the Mansion, more of its secrets will be unveiled to you.\n\nFeatureless, unnamed, and without memories of how you came here\u2026 but you remember why. She\u2019s waiting for you somewhere in this Mansion and you cannot leave until you find her. Cut your way through various unique areas and meet new allies as you delve deeper into the mystery, face your inner demons, and annihilate them.\n\nOVERPOWER THEM\nWith a massive variety of guns, over 100 abilities, and Focus to dodge bullets at your disposal, kick down doors and eviscerate the variety of enemies standing in between you and your mission.\n\nFeatures:\n- Tons of replayability: OTXO will take the player through 8 areas with a randomly laid out selection of rooms out of the over 150 hand-crafted rooms built in the game. No two runs of the game will be the same.\n- Customization: Find the setup that\u2019ll help you break the cycle from a whole selection of unlockable weapons and over 100 acquirable abilities from the game\u2019s enigmatic bartender.\n- Playstyle: With the slow-mo mechanic, Focus, at your disposal OTXO will make the player feel powerful and in control. However, be careful because the variety of enemy types thrown in your way can quickly turn the tides of the combat if you don\u2019t adapt accordingly.\n- Soundtrack: Fully immerse yourself into the brutal noir-esque murder ballet through the gritty pulse pumping soundtrack composed by the developer himself.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/388e400821644b39d12544255bd2a51dad681adfd8b6ca9304d75009d0509132.jpg",
+    "id": "01009C2018A28000",
+    "intro": "Enter an inexplicable, abstract mansion to rescue a loved one in this fast-paced, brutal, and dark roguelite filled with precise but savage gunplay and time-bending slow motion.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "ru",
+      "zh"
+    ],
+    "name": "OTXO",
+    "nsuId": 70010000062268,
+    "numberOfPlayers": 1,
+    "publisher": "Super Rare Games",
+    "rating": 17,
+    "ratingContent": [
+      "Derramamiento de sangre",
+      "Violencia intensa",
+      "Lenguaje",
+      "Uso de alcohol"
+    ],
+    "region": null,
+    "releaseDate": 20240229,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d8727739c065539a78eda68463fc1a9990b49f8e99320e742a292e16f09becf1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/04d51a7c6bfae5ffce80096c50e1c7d55c3add1f474f087113ab769759587370.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a21a16c1429577409478d81a62c43f4323a59dc8d22e324b4f5ff38c8a199ea0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87e492f9bb1898a8115967ca1e7f04e97420c92086eba13ad516677dbe22ac40.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e133118b29f25b25ae73741d5154c05fccfc02c149f6cd8bf5b2a71beac62fba.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/06e59cb364cdf859dd7282af8c3033dabfe108d90863f0d06f845ca843cbd660.jpg"
+    ],
+    "size": 778043392,
+    "version": null
+  },
   "70050000043476": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ace6bacb405f26e2273a85063a8cc00b02c3cec7dda8020e8c0353f921b46e6a.jpg",
     "category": null,

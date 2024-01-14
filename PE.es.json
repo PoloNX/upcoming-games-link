@@ -3528,6 +3528,56 @@
     "size": 138412032,
     "version": null
   },
+  "70010000062268": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0be82775e4d225274e421aa9b75c9103a54b246c9a6d0aedb7d35e587a0f3033.jpg",
+    "category": [
+      "Disparos",
+      "Acci\u00f3n",
+      "Estrategia",
+      "Peleas"
+    ],
+    "description": "OTXO (se dice \u201co-cho\u201d) es un juego de disparos desde arriba de tipo roguelite. Ser\u00e1s el protagonista que se aventura en una mansi\u00f3n inexplicable en busca de su ser querido. A medida que avances por la mansi\u00f3n, descubrir\u00e1s m\u00e1s y m\u00e1s secretos.\n \nNo tienes nombre, rasgos ni recuerdos de c\u00f3mo llegaste aqu\u00ed, pero s\u00ed sabes por qu\u00e9. Ella te est\u00e1 esperando en alg\u00fan lugar de la mansi\u00f3n, y no puedes irte hasta que la encuentres. \u00c1brete camino por \u00e1reas \u00fanicas y conoce nuevos aliados a medida que vas develando el misterio, enfrentas a tus demonios interiores y los aniquilas.\n \nLIQU\u00cdDALOS\nCon una enorme variedad de armas, m\u00e1s de 100 habilidades y concentraci\u00f3n para esquivar las balas, patea puertas y acaba con quienes se interpongan entre tu objetivo y t\u00fa.\n \nCaracter\u00edsticas:\n- Rejugabilidad a montones: OTXO te llevar\u00e1 por 8 \u00e1reas con salas elegidas al azar entre las 150 creadas artesanalmente para el juego. No hay dos partidas iguales.\n- Armamento a medida: Para romper el ciclo, elige el equipamiento perfecto entre una amplia selecci\u00f3n de armas desbloqueables y m\u00e1s de 100 habilidades que puedes obtener del enigm\u00e1tico cantinero del juego.\n- Estilo de juego: Gracias a la mec\u00e1nica de concentraci\u00f3n en c\u00e1mara lenta de OTXO, tendr\u00e1s poder y control. Sin embargo, deber\u00e1s andar con cuidado porque la variedad de enemigos con los que te topar\u00e1s puede revertir r\u00e1pidamente el combate si no logras adaptarte a tiempo.\n- Banda de sonido: L\u00e1nzate de lleno al oscuro y brutal baile de sangre con la cruda banda sonora compuesta por el desarrollador mismo.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/388e400821644b39d12544255bd2a51dad681adfd8b6ca9304d75009d0509132.jpg",
+    "id": "01009C2018A28000",
+    "intro": "Ad\u00e9ntrate en una mansi\u00f3n y abstracta para rescatar a tu amada en este roguelite oscuro, brutal, a puros disparos precisos pero rabiosos y una c\u00e1mara lenta que desaf\u00eda al tiempo.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "ru",
+      "zh"
+    ],
+    "name": "OTXO",
+    "nsuId": 70010000062268,
+    "numberOfPlayers": 1,
+    "publisher": "Super Rare Games",
+    "rating": 17,
+    "ratingContent": [
+      "Derramamiento de sangre",
+      "Violencia intensa",
+      "Lenguaje",
+      "Uso de alcohol"
+    ],
+    "region": null,
+    "releaseDate": 20240229,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d8727739c065539a78eda68463fc1a9990b49f8e99320e742a292e16f09becf1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/04d51a7c6bfae5ffce80096c50e1c7d55c3add1f474f087113ab769759587370.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a21a16c1429577409478d81a62c43f4323a59dc8d22e324b4f5ff38c8a199ea0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87e492f9bb1898a8115967ca1e7f04e97420c92086eba13ad516677dbe22ac40.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e133118b29f25b25ae73741d5154c05fccfc02c149f6cd8bf5b2a71beac62fba.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/06e59cb364cdf859dd7282af8c3033dabfe108d90863f0d06f845ca843cbd660.jpg"
+    ],
+    "size": 778043392,
+    "version": null
+  },
   "70050000043476": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ace6bacb405f26e2273a85063a8cc00b02c3cec7dda8020e8c0353f921b46e6a.jpg",
     "category": null,

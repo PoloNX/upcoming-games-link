@@ -3808,6 +3808,56 @@
     "size": 138412032,
     "version": null
   },
+  "70010000062268": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0be82775e4d225274e421aa9b75c9103a54b246c9a6d0aedb7d35e587a0f3033.jpg",
+    "category": [
+      "Jeu de tir",
+      "Action",
+      "Strat\u00e9gie",
+      "Combat"
+    ],
+    "description": "OTXO (prononc\u00e9 oh-cho) est un jeu de tir violent en vue du dessus, qui comporte des \u00e9l\u00e9ments de rogue-lite. Incarnez un homme qui entre dans un manoir incompr\u00e9hensible pour retrouver son amour perdu. Plus vous vous enfoncerez dans le manoir, plus ses secrets vous seront r\u00e9v\u00e9l\u00e9s.\n\nSans visage, sans nom et sans souvenir de comment vous \u00eates arriv\u00e9 ici... mais vous vous souvenez pourquoi. Elle vous attend, quelque part dans ce manoir et vous ne pouvez pas partir avant de l'avoir retrouv\u00e9e. Frayez-vous un chemin \u00e0 travers divers environnements uniques et rencontrez de nouveaux alli\u00e9s alors que vous plongez plus profond\u00e9ment au c\u0153ur de ce myst\u00e8re, que vous affrontez vos d\u00e9mons et que vous les an\u00e9antissez.\n\n\u00c9CRASEZ-LES\nAvec l'immense vari\u00e9t\u00e9 d'armes, plus de 100 capacit\u00e9s et la capacit\u00e9 de ralentir le temps, d\u00e9foncez les portes et \u00e9liminez les ennemis qui se mettent dans votre chemin.\n\nCaract\u00e9ristiques :\n- Grande rejouabilit\u00e9 : OTXO entra\u00eene le joueur dans 8 environnements, avec une s\u00e9lection de plus de 150 pi\u00e8ces dispos\u00e9es de fa\u00e7on al\u00e9atoire. Vous ne ferez jamais deux parties identiques.\n- Personnalisation : Brisez le cycle gr\u00e2ce \u00e0 la grande s\u00e9lection d'armes et plus de 100 capacit\u00e9s que vous pouvez acheter du myst\u00e9rieux barman.\n- Style de jeu : Gr\u00e2ce au Focus, qui vous permet de ralentir le temps, vous vous sentirez puissant et en contr\u00f4le. Mais soyez prudent, la grande vari\u00e9t\u00e9 d'ennemis que vous rencontrerez pourrait vous poser probl\u00e8me si vous ne vous adaptez pas.\n- Trame sonore : Impr\u00e9gnez-vous compl\u00e8tement dans l'atmosph\u00e8re de ce ballet brutal et sanglant gr\u00e2ce \u00e0 la trame sonore palpitante compos\u00e9e par le d\u00e9veloppeur lui-m\u00eame.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/388e400821644b39d12544255bd2a51dad681adfd8b6ca9304d75009d0509132.jpg",
+    "id": "01009C2018A28000",
+    "intro": "Entrez dans un manoir abstrait et incompr\u00e9hensible pour sauver un \u00eatre cher dans ce rogue-lite brutal, effr\u00e9n\u00e9 et sombre, au gameplay brutal, pr\u00e9cis et rempli de s\u00e9quences de tir au ralenti.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt",
+      "es",
+      "fr",
+      "de",
+      "ru",
+      "zh"
+    ],
+    "name": "OTXO",
+    "nsuId": 70010000062268,
+    "numberOfPlayers": 1,
+    "publisher": "Super Rare Games",
+    "rating": 17,
+    "ratingContent": [
+      "Sang et carnage",
+      "Violence intense",
+      "Langage",
+      "Usage d'alcool"
+    ],
+    "region": null,
+    "releaseDate": 20240229,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/d8727739c065539a78eda68463fc1a9990b49f8e99320e742a292e16f09becf1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/04d51a7c6bfae5ffce80096c50e1c7d55c3add1f474f087113ab769759587370.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a21a16c1429577409478d81a62c43f4323a59dc8d22e324b4f5ff38c8a199ea0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/87e492f9bb1898a8115967ca1e7f04e97420c92086eba13ad516677dbe22ac40.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e133118b29f25b25ae73741d5154c05fccfc02c149f6cd8bf5b2a71beac62fba.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/06e59cb364cdf859dd7282af8c3033dabfe108d90863f0d06f845ca843cbd660.jpg"
+    ],
+    "size": 778043392,
+    "version": null
+  },
   "70050000043476": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ace6bacb405f26e2273a85063a8cc00b02c3cec7dda8020e8c0353f921b46e6a.jpg",
     "category": null,
