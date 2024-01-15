@@ -1,211 +1,4 @@
 {
-  "70010000057408": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/803fcd9dc3e4de93e42cd47302a8ac6045699d95e612b945abed1fc43daeb07d.jpg",
-    "category": [
-      "Rol (RPG)",
-      "Aventura",
-      "Simulaci\u00f3n",
-      "Estilo de vida"
-    ],
-    "description": "Farm Knight Adventures is a simple fantasy farming simulation with RPG elements and epic adventures. You start as a small farmer and start building your farm. You harvest the fruits you grow and sell them to the nearby hamlet, of course to buy more seeds and other useful things for your farm. With the newly bought items, you can level up and transform your small yard into a large farm with animals, growing fields of delicious vegetables and busy work stations in no time. Experience epic adventures in the gold or iron mine. Go on serious adventures in the dungeon or the crypt. However, these adventures are for experienced adventurers. A vibrant world awaits you with many places to explore and treasure maps lying around waiting for you to be discovered.\nSo if you like farming and would like to go on epic adventures, then grab a shovel and start your farm or take your sword and start your adventure today!\n\nFeatures:\n- Farming simulation with RPG elements\n- Many items from crafting, equipment, weapons, armour or seeds and even wings!\n- Four different disciplines to master (Farming, Hunting, Mining, Cooking)\n- Loving living world\n- Procedurally generated dungeons",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/629965246ff0824d8f0b3a5b46dc391ace85bf16063fd1803cd61120c84b1d98.jpg",
-    "id": "01009A1016AAA000",
-    "intro": "Build up your farm,grow fruits, cook food and grab your sword and go on epic adventures!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Farm Knight Adventures",
-    "nsuId": 70010000057408,
-    "numberOfPlayers": 1,
-    "publisher": "Kistler Studios",
-    "rating": 7,
-    "ratingContent": [
-      "Violencia leve"
-    ],
-    "region": null,
-    "releaseDate": 20240115,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/2fa5454ba10b67e093512945d5945d5a55fe12979007c5317bb5644f646e05aa.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/041aec581cea0f36521c195067b52cfe4369b2977c56a6611b107e9bd22a87c4.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3be455fee722818cf924093d3c7f179222e1bfdaada0e5bbb6df9019b034e2f5.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/022abf58b7be765d8e917d9fb3d7e7f27261f1548fea00441385374f0a5ef7fa.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/b50631da445edad03f615af00540e0b6d0b903811b2d17ab9a44d05cc82957ad.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/bdb5b561d7d9c43229e9c6be56c1c8b5a4181533c6ba558dffc6e2cef6908edd.jpg"
-    ],
-    "size": 347078656,
-    "version": null
-  },
-  "70010000067875": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69553c508e5a2739c9f81d4c28533b5a6ac7727187bb5be9c54d88fd589b7454.jpg",
-    "category": [
-      "Rol (RPG)",
-      "Aventura"
-    ],
-    "description": "A group of prisoners are sentenced to certain death by exiling them to the secluded Mount Grimrock for vile crimes they may or may not have committed. If they ever wish to see daylight again and reclaim their freedom the ragtag group of prisoners must form a team and descend through the mountain, level by level.\n\nThe game brings back the oldschool challenge with highly tactical real-time combat and grid-based movement, devious hidden switches and secrets as well as deadly traps and horrible monsters. Legend of Grimrock puts an emphasis on puzzles and exploration and the wits and perception of the player are more important tools than even the sharpest of swords could be. Are you ready to venture forth and unravel the mysteries of Mount Grimrock?\n\n- Explore a vast network of ancient tunnels, discover secrets and find a way to survive in the perilous dungeons of Mount Grimrock.\n- Cast spells with runes, craft potions with herbs and fight murderous monsters with a wide variety of weaponry.\n- Create a party of four characters and customize them with different races, classes, skills and traits.\n- Pure blooded dungeon crawling game with grid-based movement and thousands of squares riddled with hidden switches, pressure plates, sliding walls, floating crystals, forgotten altars, trapdoors and more.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bc9bf51b8bbd2fee4cae9b6d5cd568c9fe2753206a0a2f0be19ce35a05a9f223.jpg",
-    "id": "0100A2501B3B2000",
-    "intro": "Legend of Grimrock is a dungeon crawling role playing game with an oldschool heart but a modern execution. ",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en"
-    ],
-    "name": "Legend of Grimrock",
-    "nsuId": 70010000067875,
-    "numberOfPlayers": 1,
-    "publisher": "Almost Human",
-    "rating": 7,
-    "ratingContent": [
-      "Miedo",
-      "Violencia impl\u00edcita",
-      "Violencia leve"
-    ],
-    "region": null,
-    "releaseDate": 20240115,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/8878c84db2f489f02c9b1011f27709b8325aee1beffca5b8384eb9c61765a61d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/acdca677ba540bdbdeb7b349432db9715fd6cc4b41609164dcbadbc678e9be94.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/0d918190d919b380702a483ff82e1f2f4892e2a2997f6e0682ddaf15aaddd495.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/f1b5808a10aae9c93a15615a3d925b62b76bac528d3c27c268c505d3ea591db8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/557d2a6d8128b0091cbdcae687442c833eef0ea12377a9e54c34ec8ab7e10229.jpg"
-    ],
-    "size": 642777088,
-    "version": null
-  },
-  "70010000075092": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/266a2c89eff8ee813d172a684eae776c00d950d69bc99926064ed2cb5b527bdd.jpg",
-    "category": [
-      "Puzle",
-      "Otros"
-    ],
-    "description": "En esta aventura de terror y desaf\u00edos, debes permanecer con vida. Intenta sobrevivir a los vengativos juguetes de la f\u00e1brica de juguetes abandonada. Usa tu GrabPack para intervenir circuitos el\u00e9ctricos o tomar cualquier objeto que est\u00e9 lejos. Explora las misteriosas instalaciones\u2026 y evita que te atrapen.\n\n\u00a1Te damos la bienvenida a Playtime Co.!\nPlaytime Co. sol\u00eda ser el rey de la industria de fabricaci\u00f3n de juguetes... Hasta que, un d\u00eda, todas las personas dentro de la f\u00e1brica desaparecieron por completo. Ahora, a\u00f1os despu\u00e9s, debes explorar la f\u00e1brica y descubrir la verdad.\n\nLos juguetes\n\u00a1Los juguetes de Playtime Co. son un grupo vivaracho! \u00a1Tenemos a Boogie Bot, Huggy Wuggy, Catbee, Poppy y muchos m\u00e1s! Ya que est\u00e1s aqu\u00ed, \u00bfpor qu\u00e9 no visitas a los juguetes? Tal vez hagas algunos nuevos amigos\u2026\n\nEl GrabPack\nEste maravilloso GrabPack es una mochila que puedes vestir y viene acompa\u00f1ada de 2 manos artificiales unidas con cable de acero. Con esta \u00fatil herramienta de \u00faltima generaci\u00f3n, \u00a1los empleados de Playtime Co. no tienen l\u00edmites! La siguiente lista de funciones deber\u00eda ayudarte a vislumbrar lo que el GrabPack tiene para ofrecer:\n  \u2022 \u00a1El poderoso agarre de las manos te permite mover objetos pesados con facilidad!\n  \u2022 \u00a1Un alambre largo y flexible le otorga a cualquier empleado la habilidad de alcanzar todo lo que necesite!\n  \u2022 \u00a1El cable de acero conduce la electricidad como pan comido!\n\n\u00a1Ahora con mejoras!\n\u00a1La versi\u00f3n para Nintendo Switch\u2122 de Poppy Playtime: El Cap\u00edtulo 1 incluye mejoras gr\u00e1ficas y de jugabilidad, nuevas opciones, traducciones adicionales, soluci\u00f3n de errores y mucho m\u00e1s!\n\n\u00bfTe quedar\u00e1s con nosotros? Te espera una avalancha de diversi\u00f3n. Ya casi es la hora de jugar\u2026",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d144cdd8746485a823bedb3aea547b0a2de41abcc4b479b756da7f18c6ded285.jpg",
-    "id": "0100C3801C786000",
-    "intro": "Debes sobrevivir a los vengativos juguetes de la f\u00e1brica de juguetes abandonada.",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "ja",
-      "en",
-      "es",
-      "fr",
-      "de",
-      "it",
-      "pt",
-      "ru",
-      "ko"
-    ],
-    "name": "Poppy Playtime: Cap\u00edtulo 1",
-    "nsuId": 70010000075092,
-    "numberOfPlayers": 1,
-    "publisher": "Mob Entertainment",
-    "rating": 16,
-    "ratingContent": [
-      "Terror"
-    ],
-    "region": null,
-    "releaseDate": 20240115,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/389ff1aeefc7b6239ff06fbeab9c889682f84c2a750f5c3d2bca396a64ec8bf8.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/743afd4086dff05e84617d660c32fb9fe1a6152b6c13133258bf61b185815f36.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4278db2259cfbd71d322c134f119155ab5034fca9a04e555514760d284b7273a.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/96ed7530490f3e87644d0c1ebac2f446fd40236e1a99d4d6d85b8d60b25d0473.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/4284d203e26cb007f51f83c5f90eaae7e10162dcc2d3ffe8e09404f55493ab9f.jpg"
-    ],
-    "size": 2101346304,
-    "version": null
-  },
-  "70050000041801": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b88756ec57bf724a571e02a9e205d725af407f9ffe1f21efcfd265dc9afdc31f.jpg",
-    "category": null,
-    "description": "\u00a1Prep\u00e1rate con la armadura del guerrero persa de \u00e9lite!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Prince of Persia: La corona perdida - Atuendo Inmortal",
-    "nsuId": 70050000041801,
-    "numberOfPlayers": null,
-    "publisher": "Ubisoft",
-    "rating": 16,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240115,
-    "rightsId": null,
-    "screenshots": null,
-    "size": 0,
-    "version": null
-  },
-  "70050000041802": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c2a4b2f5067c2a5878a3525479ffc7c97fac78a4251b5ce28906d0fd0041f313.jpg",
-    "category": null,
-    "description": "Cu\u00e9lgate este talism\u00e1n del cuello para invocar un ave que te revelar\u00e1 tesoros ocultos.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Prince of Persia: La corona perdida - Talism\u00e1n del Ave de la prosperidad",
-    "nsuId": 70050000041802,
-    "numberOfPlayers": null,
-    "publisher": "Ubisoft",
-    "rating": 16,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240115,
-    "rightsId": null,
-    "screenshots": null,
-    "size": 0,
-    "version": null
-  },
-  "70070000017792": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6ba960c1d306974c74f65c9679ca7e417b227f9276437183fe67d146b7e08dad.jpg",
-    "category": null,
-    "description": "Saca el m\u00e1ximo partido a tu aventura con la Edici\u00f3n Deluxe, que incluye una gu\u00eda digital de la aventura y contenido exclusivo para el juego.\n\nAd\u00e9ntrate en un elegante juego de plataformas repleto de acci\u00f3n y aventura. Viaja por la mitolog\u00eda persa y manipula los l\u00edmites del espacio y el tiempo. \u00a1Controla a Sarg\u00f3n y pasa de ser un prodigio de la espada a toda una leyenda! Domina un combate \u00e1gil y desbloquea nuevos poderes del tiempo y habilidades especiales \u00fanicas que se acomoden a tu estilo de juego.\n\nLIBERA TU GUERRERO INTERIOR\nUsa tus poderes del tiempo, habilidades de combate y movimientos para desatar combos letales y derrotar enemigos corrompidos por el tiempo y criaturas mitol\u00f3gicas. Consigue nuevos amuletos en las tiendas para jugar a tu manera.\n\nSUM\u00c9RGETE EN LA VASTA MONTA\u00d1A DE QAF\nDescubre un mundo persa maldito y lleno de lugares exuberantes. Explora una gran variedad de biomas, cada uno con su propia identidad, maravillas y peligros. Ing\u00e9niatelas para resolver puzles, encontrar tesoros ocultos y completar misiones para descubrir m\u00e1s acerca de este lugar corrupto.\n\nVIVE UNA AVENTURA \u00c9PICA\nM\u00e9tete de lleno en un mundo de fantas\u00eda dentro de la mitolog\u00eda persa gracias a una historia original y misteriosa mientras usas tu ingenio para resolver rompecabezas, encontrar tesoros ocultos y completar misiones a fin de desvelar los misterios de este corrupto lugar.",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": null,
-    "id": null,
-    "intro": null,
-    "isDemo": false,
-    "key": null,
-    "languages": null,
-    "name": "Prince of Persia The Lost Crown Deluxe Edition",
-    "nsuId": 70070000017792,
-    "numberOfPlayers": null,
-    "publisher": "Ubisoft",
-    "rating": 16,
-    "ratingContent": [],
-    "region": null,
-    "releaseDate": 20240115,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/a6552a335ff877735f0477c032ee01755645fc0503b59a87d257822fee8b3b22.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/421631393b6fad28ef03c9332ea37da6e13019cf330750832c33fc95d6d6310b.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/149f009c0932c9715565a5696722a4daa60b425458e01f3615b535a6d23110e7.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/20fb363aaa5791c32ff9d1658b5d7305dcf76040dbaad69d3d15b926c37d9de3.jpg"
-    ],
-    "size": 0,
-    "version": null
-  },
   "70010000072366": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71f4953b94e5487a6ae29532ce0f90808e1fc5fd4e0d94d7828765a6cab77e0b.jpg",
     "category": [
@@ -801,6 +594,46 @@
       "https://img-eshop.cdn.nintendo.net/i/272ab2697b9e140951a6b0960804947645a269ed13b10dcd92750acc6acae457.jpg"
     ],
     "size": 282066944,
+    "version": null
+  },
+  "70010000075348": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/97d0a637720143107263ca81ae75b2296335a2d0ecfa2e5a51a4ad230fcc1801.jpg",
+    "category": [
+      "Disparos (Shooter)",
+      "Acci\u00f3n",
+      "Arcade"
+    ],
+    "description": "Entra en un mundo donde lo adorable se encuentra con los no-muertos en \"Anime Girls: Highschool of Dead\". Toma el papel de una adorable chica de secundaria enfrent\u00e1ndose a hordas de implacables zombis y una variedad de enemigos formidables. Con un diverso arsenal de armas y un toque de encanto anime, est\u00e1s preparada para una acci\u00f3n emocionante.\n\nPoder de Chica Anime: Personaliza tu experiencia de juego seleccionando entre una variedad de pieles de chicas anime, cada una con estad\u00edsticas \u00fanicas y armas iniciales. A medida que progreses, desbloquea m\u00e1s opciones para adaptar tu avatar ideal de lucha contra zombis.\n\nCaos Basado en Olas: Pon a prueba tus habilidades de supervivencia en un juego intenso basado en olas. Enfr\u00e9ntate a olas cada vez m\u00e1s desafiantes de zombis, que requieren pensamiento estrat\u00e9gico y precisi\u00f3n para prevalecer. Cada tipo de enemigo presenta un desaf\u00edo \u00fanico, a\u00f1adiendo profundidad a tu estrategia de combate.\n\nBot\u00edn en Abundancia: Recorre los terrenos de la escuela secundaria para encontrar contenedores llenos de suministros esenciales. Abast\u00e9cete de armas, kits de salud y munici\u00f3n para mantener tu ventaja contra los no-muertos. El entorno es clave para tu supervivencia, con valiosos recursos escondidos por todas partes.\n\nEnemigos Jefes: M\u00e1s all\u00e1 de los habituales enemigos zombis, prep\u00e1rate para encuentros con enemigos jefes. Estos adversarios m\u00e1s grandes y poderosos desafiar\u00e1n tus habilidades de combate y planificaci\u00f3n estrat\u00e9gica. Superar a estos formidables oponentes requiere agilidad y destreza t\u00e1ctica.\n\nSobrevive, prospera y restaura la escuela secundaria a un refugio seguro en \"Anime Girls: Highschool of Dead\". \u00bfEst\u00e1s lista para enfrentar a los no-muertos y devolver la paz a los pasillos de la academia?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f61a6137a894b8339b2a507a0d5ffa90b8f82947209f59bc0792a5f764c0e34f.jpg",
+    "id": "01004EC01DAB6000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Anime Girls: Highschool of Dead",
+    "nsuId": 70010000075348,
+    "numberOfPlayers": 1,
+    "publisher": "Halva Studio",
+    "rating": 12,
+    "ratingContent": [
+      "Violencia moderada"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8a8aac59aaa060712699c9ec7150b56ffaa49f7ed24cbf730b56cabae761a144.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/753e59155bd941c138d241146ab5561986e8b96130a685f7a99f483fd23589f0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a1ef8f1b6b6dfcdc50a18452ff450c3d6df5d97de9224eed639ec8d2a048ead8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/660e366806815bf90042c229be0bbb228cd028004ffbc98ada31e12de8fe6c8c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/814419ffbc606cd39fefa9adf4f0c4f48a881dc5c895f67dcee76146fc981661.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9a24e4eb4421995c7124227530a4e7d4581bf8b29e28e23a1c7da6f62acd7655.jpg"
+    ],
+    "size": 450887680,
     "version": null
   },
   "70010000075395": {
@@ -2369,6 +2202,47 @@
     "size": 5324668928,
     "version": null
   },
+  "70010000070318": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5b7b365178932b35f6bdc4aa47510803fed3cf6ac9f75e0840c74e621c2810e.jpg",
+    "category": [
+      "Simulaci\u00f3n",
+      "Disparos (Shooter)",
+      "Acci\u00f3n en primera persona",
+      "Estrategia"
+    ],
+    "description": "   Dive into the heart of intense combat in a gripping shooter experience where your skills are put to the ultimate test. This game offers two exhilarating modes to conquer. In the first, precision is paramount as you eliminate a dynamic number of foes, armed with a limited yet strategic arsenal. Will your finesse triumph over the challenge or will you face defeat with dwindling ammunition?\n   The second mode introduces a thrilling mission, demanding not only the defeat of adversaries but also the discovery of hidden treasures scattered across diverse maps. Your hard-earned cash prize becomes the key to upgrading your arsenal, from pistols to formidable automatic weapons. With each advancing level, the stakes rise as opponents multiply, requiring strategic firepower for triumph. But beware, as your life line inches closer to zero, pushing you perilously towards defeat.\n   With multiple maps offering unique challenges, this game promises relentless action, daring missions, and an unwavering pursuit of victory. Can you rise to the occasion and conquer the relentless onslaught?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/26b7ff14ed80692b69b9a77266d10a5b67347fec03b8f5ec2ed8873721a0d8fe.jpg",
+    "id": "0100D9801C51C000",
+    "intro": "Immerse yourself in an adrenaline-fueled world of tactical challenges, weapon upgrades, and hidden treasures in this gripping shooter adventure!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Counter Shooter Strike Zone",
+    "nsuId": 70010000070318,
+    "numberOfPlayers": 1,
+    "publisher": "GameToTop Corp.",
+    "rating": 16,
+    "ratingContent": [
+      "Violencia fuerte"
+    ],
+    "region": null,
+    "releaseDate": 20240127,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/055d64f8523551c8dcab80d627c49e218eacdeb1291a7cccb5d0949c31f1266c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8f565a7be63a2a4545bd4153550b7bb824d8a081edfd61223ab41f00a0290eb6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/61e64bc41fcd211173e64b0c66a8c769bd8d0296b17b8059e9286f5657a29dee.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e1ae2ec3ee4d7627c6cd51142b4a3b1a84957e5811e1cf60575b12473e1b9aeb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d02921289a651dd9a99572bb3392fb4c240a05a1d5ec84955b123e59c1cae8f8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b01f4dfe04f70697b8cbc299c73c6353a008dc5bef1f3f6bd08eccb6980495f6.jpg"
+    ],
+    "size": 547356672,
+    "version": null
+  },
   "70010000051840": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/79e1ce73d910dec229f123847afda531c29181fe741f556b770ca57ce4f86292.jpg",
     "category": [
@@ -2836,6 +2710,50 @@
       "https://img-eshop.cdn.nintendo.net/i/aa477074efb63734737497e164710c96596967841a7ef2edd6d9a3ecfd1895b7.jpg"
     ],
     "size": 1219493888,
+    "version": null
+  },
+  "70010000071796": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/50a9bb5b008ef7071d2795f658e2377e3411b3b4f2ba2de4767c0f719a42a133.jpg",
+    "category": [
+      "Acci\u00f3n en primera persona",
+      "Disparos (Shooter)",
+      "Lucha",
+      "Acci\u00f3n"
+    ],
+    "description": "Encu\u00e9ntrate en una ciudad del futuro llena de bandas, mafias y dem\u00e1s gente turbia. Convi\u00e9rtete en un asesino despiadado que trabaja durante el d\u00eda y se lanza a matar por la noche. S\u00fabete al coche, elige un destino y explora cada rinc\u00f3n de Crimson Tide.\n\nSi quieres sentir un subid\u00f3n de adrenalina, puedes explorar la ciudad a pie, pero vigila tus espaldas y no hagas demasiadas preguntas.\n\n\n\u00a1TODO PUEDE SER UN ARMA!\nBusca a tu alrededor cualquier cosa que parezca mortal y \u00fasala para protegerte. Lanza botellas, cuchillos o incluso pistolas a los enemigos. \n\n\u00bfNada a tu alrededor? \n\nCoge algunas pastillas y rompe puertas para aturdir a los oponentes, o simplemente des\u00e1rmales pate\u00e1ndoles la cara. Estar\u00e1n encantados de soltarte un arma. Definitivamente, deber\u00edas encontrar y lamer una rana: te encantar\u00e1.\n\n\nPLANIFICA TU ATAQUE\nT\u00fa decides c\u00f3mo entrar en combate y c\u00f3mo terminarlo. Encuentra a tu primera v\u00edctima y d\u00e9jate llevar. Prueba todas las posibilidades y encuentra la mejor manera de conseguir la mayor puntuaci\u00f3n. \n\nPatea a un enemigo mientras te deslizas para recoger su arma en el aire y asestarle un tiro en la cabeza para derrotarlo. La creatividad es la clave del \u00e9xito. \n\n\nCREA TU PROPIA HISTORIA\nHay 12 finales disponibles esperando a que los descubras. Cada uno de ellos tarda unas 4 horas en completarse para los jugadores hardcore. El camino que elijas nunca ser\u00e1 completamente el mismo la pr\u00f3xima vez. Adem\u00e1s, comprueba y busca los coleccionables que est\u00e1n escondidos por toda la ciudad. \n\n\nCARACTER\u00cdSTICAS PRINCIPALES:\n- 4 niveles de dificultad\n- M\u00faltiples posibilidades de enfoque\n- Asistente de punter\u00eda - si necesitas un poco de ayuda\n- Gr\u00e1ficos de estilo retro\n- Banda sonora entretenida para mantener el combate emocionante\n- Tu propio apartamento con una consola retro llena de minijuegos",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4353f0e7f68bf38e6f87ef513783fc83b10825afaf4b0f773ae51844f4fab2ff.jpg",
+    "id": "01006E601CDA2000",
+    "intro": "\u00c1brete camino luchando en este sucio FPS t\u00e1ctico de estilo retro.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "ru"
+    ],
+    "name": "Project Downfall",
+    "nsuId": 70010000071796,
+    "numberOfPlayers": 1,
+    "publisher": "RedDeer.Games",
+    "rating": 16,
+    "ratingContent": [
+      "Lenguaje fuerte",
+      "Violencia fuerte"
+    ],
+    "region": null,
+    "releaseDate": 20240202,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/bcd0de281ce274ceddfb67620f133aeebba479d3175d3433d1c5b87ebe0754e2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c82248716124fcb35ff8606b5c6590f034ab709f6fa2cb406677e2b69c28be24.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b9ea6718d95f1c64ea26f5a0ddd1c37a775242886753ced27dc7f32e10f3f820.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3c5a0c1cb1126a0b428126050c35936cb6223ac428c04d401953ba317f858313.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e354c29e7509c263bddcb2f1f7440bc96394e3452da4d751c2f86e9ddf249a3b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/45a49a634af5a7ffb22c4f505f251d54560dfe88231e5c69a3b9b5a92fd1fd46.jpg"
+    ],
+    "size": 2168455168,
     "version": null
   },
   "70050000044684": {
