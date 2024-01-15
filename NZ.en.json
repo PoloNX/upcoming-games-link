@@ -120,6 +120,119 @@
     "size": 2658140160,
     "version": null
   },
+  "70010000074868": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d898062407ebca83799b5f201ac1ee2aef1e9cdd8236409556d2b96d7211f10.jpg",
+    "category": [
+      "System Tool",
+      "Utility",
+      "Lifestyle",
+      "Study"
+    ],
+    "description": "Start your day by planning in order to save time and avoid forgetting anything. Note all important events and appointments, and never miss a meeting again.\n\n\nYOUR OWN PERSONAL CALENDAR\nWith nDay, you'll optimize your free time, schedule your day without worrying that something slipped your mind. Choose the year, month, day, exact hour and add a note. How simple is that? Add even more text in your description to remember more details about this date.\n\n\nCUSTOMIZE AS YOU LIKE\nIt doesn't matter whether you use a 12 or 24-hour clock. In nDay you can customize it as you prefer. Additionally, you can change the available colors of the entire calendar according to your preferences.\n\n\nKEY FEATURES:\n- Simple and clear interface\n- Helps you organize your day\n- Customizable",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3ef92bf7ced4a49d6fad8048bb550056ba9abd68d0849234e5d8970a29f3efce.jpg",
+    "id": "010088601D882000",
+    "intro": "Keep all your important dates and events organized in one place with nDay!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "de",
+      "ko",
+      "zh"
+    ],
+    "name": "nDay",
+    "nsuId": 70010000074868,
+    "numberOfPlayers": 1,
+    "publisher": "RedDeer.Games",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240116,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/9a709cb7a62cd4542bf76ccf660e734961cea40bb9e22347b995c9d6822b8325.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/929b91b776593dfc81fc65c492c885b3940059a495d27036c157db73df37081f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/197d1f944a18aa53d862892e4ccb4141319bc9e21cfc79df42c516888b4c81f3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/581ef71378fa703d937c8950e8d4885e8da23b96a2a17d18a0096f924bdb9321.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e9c650d1f5ab038e5399e2abc815c69e22b43f93967a1b11196010644dfa5378.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b9b5ba9dfc0332562891967335cb6a8a308a40551380690a24be84da3a08a58c.jpg"
+    ],
+    "size": 314572800,
+    "version": null
+  },
+  "70050000046710": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/27a941623f52ba78b7f124f6593ec38ebcefc63f9afcfaf1e15a7b4941319486.jpg",
+    "category": null,
+    "description": "Sail Forth: Maelstrom - Brave the Vortexes!\nDive headfirst into the heart of the storm with the Sail Forth Maelstrom expansion! A tempest has swept across the Deepblue, bringing forth colossal vortexes that promise unparalleled challenges and untold treasures. Are you ready to face the Maelstrom?\n\nMeet the Arcane Order\nThe Maelstrom is watched over by mysterious guardians who offer strange new rewards to sailors willing to risk charting the depths of the Underworld. In exchange for much-coveted Maelstrom Pearls, the Arcane Order is willing to offer everything from ancient weaponry to custom cosmetics.\n\nEnter the Maelstrom\nThe Underworld beneath the Maelstrom is brimming with fresh opportunities and dangerous new nastybads. Navigate treacherous waters as you encounter new, formidable foes and uncover the mysteries that lurk in the depths.\n\nBeware the Wormkin\nThe Maelstrom introduces a host of menacing adversaries that will test your sailing prowess and combat skills. The Underworld does not easily tolerate interlopers. Do not linger, or the Wormkin may claim your fleet.\n\nExpanded Vessel Customization\nExpress yourself with the brand new ship cosmetic system, adding dozens of decorative items that can be fitted to the vessels in your fleet. \n\nSail Forth into the Unknown\nContinue your nautical adventure with Maelstrom, where the call of the vortexes beckons you to uncharted waters. Will you return to the light, or be swallowed by the abyss?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Set sail and brace yourself for the Sail Forth Maelstrom expansion.",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Sail Forth: Maelstrom",
+    "nsuId": 70050000046710,
+    "numberOfPlayers": null,
+    "publisher": "The Quantum Astrophysicists Guild",
+    "rating": 8,
+    "ratingContent": [
+      "Scary Scenes"
+    ],
+    "region": null,
+    "releaseDate": 20240116,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/5847bdc7295298a163245a1f95b07de2c8e3dfb1df92e9938bdf1ada1d34750b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/213f752c8c4bd0d96ec0fe2dac25c827d7ce163dac756424acd083943630b4a8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fda743c80bed86b2e26fe41c1fdfe08771fa2d90f2400b82475ab1f6fca606da.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/50d6afc333190760cf726b04dcbb77376c0538acd2e882dde87bd15c60bdc45d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/be43891e308328faa31448d7e24cdef9f3cc43f457254870fad2b419eeb07edf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f5b0a79a229170ff9e7d664aba1b2189c785b43b8a3e02e931053e7467f2e3fc.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
+  "70070000020154": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d021dac3f954c07eaa0aa88e7bca730134a6d65a62ce582aaa4cd4d419b7a17c.jpg",
+    "category": null,
+    "description": "   Experience an adrenaline-fueled race like never before! This exclusive bundle not only boosts the excitement with intense action but also maximizes your earnings. Explore a plethora of opportunities with a diverse car selection, extensive tuning choices, and lifelike physics. Level up your drifting prowess, accumulate substantial in-game currency, and establish your dominance as a street legend. Now, you can unleash the potential with DLC Pack, amassing resources and unlocking fresh avenues for an authentically immersive gaming journey. \n    Secure this game-changing bundle now for the ultimate Midnight Drifter experience \u2013 don't let this enhanced adventure pass you by!\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Dive into the ultimate drifting experience with Midnight Drifter -  Bundle!\n",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Midnight Drifter-Drift Racing Car Racing Driving Simulator - PREMIUM EDITION",
+    "nsuId": 70070000020154,
+    "numberOfPlayers": null,
+    "publisher": "Erlano",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Themes"
+    ],
+    "region": null,
+    "releaseDate": 20240116,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/7e9dc0e9c724e039d4af34448e25b3513c34900927b34c38b05d5a24e27b3fa2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/578b1b1ba857f53f0292937f62f07cee9c584ee643e552d3bbbd373f46a4f5f3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0b98837bf658fcd91953776d819198d08a2832a3b23f8595ab951d552686db84.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a997172c73ff96ca088e8a1c61502b5f44e693d1d796e5e0844f1879ac4fb9c8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/061e9b3de8777f45419d7fcba74f6e4b49e85c7d03f9c514506e325c9bb1155b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aaf8a8c00159f31c0992ac7bc8458b380bf86c159cfe5bf952587ee438550f5c.jpg"
+    ],
+    "size": 1379926016,
+    "version": null
+  },
   "70010000072366": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71f4953b94e5487a6ae29532ce0f90808e1fc5fd4e0d94d7828765a6cab77e0b.jpg",
     "category": [
@@ -1066,6 +1179,42 @@
     "size": 402653184,
     "version": null
   },
+  "70070000020517": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ec3ebedaa242e9a793462f62fe54780dd8fd8ae75665cd7aba408759cd616957.jpg",
+    "category": null,
+    "description": "In this big, dark world, you're a little stickman with a huge mission. Get ready to ignite the excitement and light your way through an epic adventure! Light up each figure, bringing it to life with vibrant colors. Get ready to test your reflexes and agility as you navigate through this colorful world of shapes and light!\n\nFeatures:\n- jump, flip, slide and swing as a little stickman \n- light up over 280 levels!  \n- use 2000 additional gems to buy skins \n- think how to use obstacles to your advantage \n- avoid falling and touching the spikes \n- use 3 different boosters when you have trouble passing any of the levels\n- collect stars to unlock next levels\n- listen to satisfying sounds as shapes become lit up \n- unlock and wear all the skins that will make your stickman look awesome!\n\nJust when you start to feel like a stickman boss and love that color glow, things get complicated as you jump, flip and pass levels. Color shapes start moving, rotating, and even exploding, and lethal spikes become a constant threat to your little stickman's life. If you miss a jump, if your swing\u2019s a dud, if your flip isn\u2019t on point, or if you hit a spike\u2026 you fall into oblivion!\n\nSo what do you say, stickman? Ready to swing, jump, flip, light-it up and glow, in the brightest of all jumping games?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Swing, jump, flip and slide your stickman body from one neon color shape to another to make them glow and light-it up!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Light-It Up: Complete Edition",
+    "nsuId": 70070000020517,
+    "numberOfPlayers": null,
+    "publisher": "QubicGames",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "Very Mild Violence",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240120,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/b54d13155f88d0539e32ee7b9a21fb84db7c59379df5e59fdf753c823ba7d826.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9501cbd615e45dd03b2c29dffe3401ac84b518ecb867e9a1bd8fe20cd4afedb4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/988b5c7a2ef7ac13c2abe810b71a4b63ce6af9ac676ebc8a2bf9ccc0bae85fd9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ccb5c249cfe28a82373ae87ae101c603ff0c9525f88f7fd600a53ff5ff3c2e9f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f2c0b69d197bf0c7d019b4bad5870032aab3fa4c7259f2eb8ed64ac1a8917fcb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/cea39b5f7e75010d539ce3b928423faf267a055db267bb4004ee411855409434.jpg"
+    ],
+    "size": 375390208,
+    "version": null
+  },
   "70050000044834": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/80bf52eaecfd59c5c6413fd5ce8f5e5935c09567f76f72b8f028542934296ca5.jpg",
     "category": null,
@@ -1963,6 +2112,47 @@
       "https://img-eshop.cdn.nintendo.net/i/2ae48c85d81e2bfc8c196e7b2758503d5405cd1c94e343dbc2d0fbf89b3e28a2.jpg"
     ],
     "size": 5324668928,
+    "version": null
+  },
+  "70010000076108": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/10ac594ef7386c0d4b3f590d8cd75068c340c1c1cdb2554bf860da3c1f5f9f5c.jpg",
+    "category": [
+      "Adventure"
+    ],
+    "description": "You are thrust into the role as manager of the lingerie shop called 'Negligee', and soon a love story unfolds.\n\nHire the right girl (or girls) to aid you in running the shop, assist the various shoppers in finding what they want to buy, and master your newfound position in order to make the store successful.\n\nSell ladies\u2019 underwear in this high quality visual novel with multiple choices, multiple routes and multiple endings to unlock.\n\n\nFeatures\n* Yuri visual novel\n* A cute and fun well written story-line\n* Multiple routes and choices that affect the ending\n* High quality characters, backgrounds and CG Scenes\n* CG scene Gallery & Special Events to unlock\n* 11 Alternate Endings & 4 Epilogues",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9416d17138878159eff1d2f23e44b87c94acc1b5667a731640c6b6799bf9e23e.jpg",
+    "id": "01002E401DCD0000",
+    "intro": "Manage a lingerie shop in this visual novel",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Negligee",
+    "nsuId": 70010000076108,
+    "numberOfPlayers": 1,
+    "publisher": "Gamuzumi",
+    "rating": 13,
+    "ratingContent": [
+      "Coarse Language",
+      "Nudity",
+      "Sexualised Imagery",
+      "Sexual References"
+    ],
+    "region": null,
+    "releaseDate": 20240127,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/dd4a1a4088c9343f058a53912f226e931ad93b3394527ea90e8ad494ce8d7b36.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6bebcf85865c2a50172c90c214f9b2dbee8347610a1cf86b77a28193e250b1b2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0f92ed37154c636c0ea55b16d59f91e4f139194b93f2eaec9cc212dfd8e3aff9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9cddff943ae6554b122e4cea71f03e47c42361054ece921109a00065b18ce346.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a4d240930a03e7993100320f9ae031af171398900ce9e1b2627c1f93bce15e11.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a7a8340035fe3dcf5832b9c09c58f11554cee51db1db2d97ddee09ea95ce6fc1.jpg"
+    ],
+    "size": 457179136,
     "version": null
   },
   "70010000073976": {
