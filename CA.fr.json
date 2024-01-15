@@ -4251,6 +4251,51 @@
     "size": 0,
     "version": null
   },
+  "70010000064642": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0b3adb91ef9ddf5bb2c7e09a9ff3b69600f40b048220975c9f5f29523ba5f2eb.jpg",
+    "category": [
+      "Action",
+      "Aventure"
+    ],
+    "description": "South Park Digital Studios, le studio qui vous a propos\u00e9 South Park : Le B\u00e2ton de la V\u00e9rit\u00e9, South Park : L\u2019Annale du Destin et South Park : Phone Destroyer pr\u00e9sente aujourd\u2019hui le prochain chapitre du voyage du p\u2019tit nouveau.\n\nRejoignez Cartman, Stan, Kyle et Kenny dans un glorieux univers en trois dimensions et c\u00e9l\u00e9brez le jour le plus magique de la vie d\u2019un jeune enfant : un jour de neige ! Un immense blizzard a plong\u00e9 la ville dans le chaos... et surtout, provoqu\u00e9 la fermeture de l\u2019\u00e9cole !\n\nJouez avec jusqu\u2019\u00e0 trois amis, utilisez le matchmaking ou jouez en solo avec des bots alli\u00e9s et frayez-vous un chemin \u00e0 travers les rues enneig\u00e9es de South Park. Participez \u00e0 des combats fr\u00e9n\u00e9tiques et tr\u00e9pidants contre des factions en guerre dans une toute nouvelle histoire dans laquelle c\u2019est vous qui fixez les r\u00e8gles ! \u00c9quipez des armes uniques et d\u00e9ployez des comp\u00e9tences sp\u00e9ciales d\u00e9vastatrices et am\u00e9liorables dans une nouvelle aventure pour sauver le monde et profiter d\u2019un jour sans \u00e9cole.\n\nC\u2019est un jour de neige, mec !\n\n\n- C'est un tout nouveau jeu coop\u00e9ratif en 3D.\n- Une temp\u00eate de neige aux proportions \u00e9piques a enseveli la ville de South Park et c'est \u00e0 Cartman, Stan, Kenny, Kyle et toi, le petit nouveau, de la sauver.\n- D\u00e9couvre un jeu coop\u00e9ratif pour la toute premi\u00e8re fois dans un jeu South Park et fais \u00e9quipe avec trois amis ou bots alli\u00e9s pour lib\u00e9rer des attaques puissantes et coordonn\u00e9es sur vos ennemis.\n- \u00c9quipe et am\u00e9liore des armes de m\u00eal\u00e9e et de tir d\u00e9vastatrices. D\u00e9ploie des comp\u00e9tences et des pouvoirs sp\u00e9ciaux qui mettront \u00e0 genoux des hordes d'ennemis et des boss \u00e9piques.\n- Utilise tout un tas de cosm\u00e9tiques embl\u00e9matiques et personnalise ton nouveau avec des combinaisons infinies, des bonnets aux t-shirts Cheesy Poof, en passant par les couilles au menton.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/52e5c09f6c4218c89fd3cf9bf23483591acfd4c0f113d33832cd24c4bfd4bd4f.jpg",
+    "id": "0100D1501ABAE000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "es",
+      "pt",
+      "en",
+      "fr",
+      "de",
+      "ko"
+    ],
+    "name": "SOUTH PARK: SNOW DAY!",
+    "nsuId": 70010000064642,
+    "numberOfPlayers": 1,
+    "publisher": "THQ Nordic",
+    "rating": 17,
+    "ratingContent": [
+      "Sang",
+      "Humour adulte",
+      "Langage ordurier",
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240326,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/29e203856c9a6e3c7c106ba9969dd4d204076b7159d14b9e3016b33ca2c808ad.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e64fcf602f2b1be260dab1ab490b5622abe669d62adb495cab6e62b84f3a96e5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0a13f2eb6032ddd15783bf2441c3c7c0fc94fa5868046fa02d78ea345845bcc0.jpg"
+    ],
+    "size": 9970909184,
+    "version": null
+  },
   "70010000066559": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/36426f576b1cbeaf4d5ce7ea86b9994548798029fe8426bf55e6a0b19b9df35f.jpg",
     "category": [

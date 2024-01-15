@@ -768,6 +768,37 @@
     "size": 55574528,
     "version": null
   },
+  "70050000046522": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f8edd1db70deb89f8c4e12e5822810c066af96e4afd1dcbde872a43683242fae.jpg",
+    "category": null,
+    "description": "Unleash the fiery spirit of dragons with our Dragon DLC theme for Easy Dice. Immerse your rolls in a vibrant red backdrop and conquer your tabletop adventures in true draconic style!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Dragon DLC theme for Easy Dice for RPG/Tabletop",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Easy Dice for RPG/Tabletop - Dragon Theme",
+    "nsuId": 70050000046522,
+    "numberOfPlayers": null,
+    "publisher": "SOURCE BYTE",
+    "rating": 3,
+    "ratingContent": [
+      "In-game purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/07542cad80eba63f2c8120ede58d9d52cda3dc04af3785c32cc7d5b9eb13847e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b84b3193eb89bb3c977886cbf56993557baacb6309ffb9c5d8d2549ae187a74f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9c5e2a1ed6c3ac6c32cdd33f22520bd668c429dda5dc9478275a8ca7dbd4d5f1.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
   "70070000017450": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4d98abffefee0b2e3708b5954223e11b01ef10d969921d41c4a05fbffbae09a0.jpg",
     "category": null,
@@ -1441,6 +1472,91 @@
     "rightsId": null,
     "screenshots": null,
     "size": 0,
+    "version": null
+  },
+  "70010000052250": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/888df16c892d0a08268437e183f1796311ce6b1b422f9b7d6d0e970497d2cf8a.jpg",
+    "category": [
+      "Adventure",
+      "Puzzle",
+      "RPG",
+      "Strategy"
+    ],
+    "description": "In this deduction adventure, you play as Lil - an unlikely 12-year-old hero - covering your dad's shift at the guard shed and are tasked with deciding the fate of over 100 unique characters.\n\nYou will question humans, elves, goblins, cyclopses, and other fantasy creatures using your powers of deduction to determine who to admit or deny based on how they respond to your questions and your trusty tools. Sending visitors to jail, inadvertently zapping them to smithereens, or letting them go on their merry way are all part of the job. But be careful: who you let through the castle gates will determine the kingdom's fate.\n\nFEATURES:\n\n\u2022 Fantasy/Comedy Narrative: See the Sprawl and its fantastical & quirky citizens through a royal wedding to one of two kingdoms vying for an alliance, and a subsequent siege by whoever you've angered in the process. Your decisions can determine the fate of the city and its people!\n\u2022 Interrogation Puzzles: Interrogate 100+ fully voiced characters in just the right way to earn a perfect score.\n\u2022 Tools of the trade: Spend your hard earned gold wisely on powering up your guardsman toolkit, and strategically deploy these to admit or deny the right people or...goblins?\n\u2022 Rewind Time: Use your trusty Chronometer3000 to go back and get a higher score... but be careful not to break space and time in the process.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/75849524f3164854e80adc18f42cbd1734f8b027b6eb418b07a93bb6135e2c33.jpg",
+    "id": "010060B017F6E000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "de",
+      "zh"
+    ],
+    "name": "Lil' Guardsman",
+    "nsuId": 70010000052250,
+    "numberOfPlayers": 1,
+    "publisher": "Versus Evil",
+    "rating": 16,
+    "ratingContent": [
+      "Strong Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240123,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/638d22f762d7531f5572f0796aea650aff84e7e5913356229d4cf3be17825201.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/11a858306ef214395c9fde5a110335b30df3868918eb5ee0e0d7c10965f54a22.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6d461ef1605ac01f7fee33945690385f80866deabc725bf9e33a79ead81d084d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3b445965e6dfb9be0f09dd9efbd71ed279fdcce940e9af05c3fcb852d340d0b2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a4f7042f75f60eaf90dfa45fa67d3e31e2e771b66ae14ec84f148b7cda9900ee.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ab7e42e3616bcf4d0bd869d917b40905435c8fa8e02a19da0416c805c3080c75.jpg"
+    ],
+    "size": 998244352,
+    "version": null
+  },
+  "70010000062560": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/805c5a6f8bdd59d3745053934043540b7377384bc86a23a5e839c5cf98dd7311.jpg",
+    "category": [
+      "Arcade",
+      "Shooter",
+      "Action",
+      "Adventure"
+    ],
+    "description": "In a dystopian world where the Motorhead Empire has conquered and enslaved virtually the entire planet, mammoth battleships, armored locomotives, and invincible fortresses dominate the skies. However, there is hope for the republic of Silverhead, and you are the only one who can save it. Take control of the Striker airplane or Zeppelin with an aerial mine launcher and engage in intense euro-shmup action, battling enemies both in the air and on the ground, and using devastating screen-clearing attacks in tight spots. With improved graphics and controls, Steel Empire, originally released in the early 90s for a 16-bit console, has been ported to various handheld consoles. Join the fight and defeat the Motorhead Empire.\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8db002609bbee505f49cee40ec7e19285559a63d3b7ef1d3ef1c7615a03d546f.jpg",
+    "id": "01006B101A47A000",
+    "intro": "Restore peace in a steam punk world with the striker airplane or  zeppelin!\n",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "The Legend of Steel Empire",
+    "nsuId": 70010000062560,
+    "numberOfPlayers": 1,
+    "publisher": "ININ Games",
+    "rating": 7,
+    "ratingContent": [
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240123,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/b7fd5f2fc40ccc9b96540dfc824f7456ecc3a4e8d59bfed36e2ea001b1638fdd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e4addcd447ac03b529749924ffee739d861cb994a13fc2890b9782bb543782d6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/504cd19afdbe204162b8591bd73076ea1f045a0d8de3b476cdb633c7c0eb44c5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/af5e1d51503fdde774784f7ea5cc5cebdd6ad8038b5af440c291b75119c74f6a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5b562a9065921fb83630ab75d51d152e63bf0450346f7aa6c89b72d8681ab78f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/02bb0a08de68d7160cdf101e74acb4267b52f63bd986c65e0756b9a645ab3990.jpg"
+    ],
+    "size": 899678208,
     "version": null
   },
   "70010000070090": {
@@ -2364,6 +2480,46 @@
     "size": 34603008,
     "version": null
   },
+  "70010000073806": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a7c00f9cf2613eaea380e8aa40713fc1c73136f6790ca732bd47db71f76c5d5e.jpg",
+    "category": [
+      "Adventure",
+      "Platformer",
+      "Action"
+    ],
+    "description": "After nearly a decade; the legendary raid leader, General Panzer returns from his mysterious hiatus. Rejoined by his trusty lieutenant, Blarghe, the two of them set off on an incredible adventure to revisit their old raid team members. \n\nThe Adventures of Panzer 1:\nLegendary retired raid leader Panzer and his trusty sidekick Blarghe attempt to reunite with their former comrades. Unfortunately, after 10 long years theold crew may not be happy to see them!Join Panzer and Blarghe for 5 unique levels of incredible platforming action! Journey through locations such as Mecha-Grokk's Bandit Cave, The Dinosaur Jungle and Pugna's Warlock Castle. Use both physical melee and magic projectile attacks to crush your enemies! Fight monsters and mini-bosses, avoid bats and spiders and dodge arrows and magic spells so you can rescue\u2026 or possibly just kidnap...  Panzer's former raid members!\n\nThe Adventures of Panzer 2:\nSet approximately 1 year after the events of The first game, Panzer returns to his role as Raid Leader of the Zergadins. A new Head Quarters has been built, The old team has been rounded up and are ready for action.  A new evil has arrived and it will take the whole team working together to defeat it.  So This time Panzer doesn't have to fight alone! He is joined by the Hunter Kankaro with his bow and arrow,  the Ice Mage Ahzriaz  with her ice magic and the Crazed Troll Vespeto with his explosives!\n\nDo you like action platforming games? Do you like comedy-driven stories in your games? Do you like retro gaming? And most importantly, do you like classic retro gaming entertainment systems? Then The Adventures of Panzer: Legacy Collection is for you!\n\nThe Adventures of Panzer: Legacy Collection is a story-driven action platform game series full of unique levels and incredible platforming action. Select from multiple playable characters, choose your own non-linear game path, and guide Panzer and his team to Victory!\n\n\nFEATURES\n* 2 Panzer games\n* Platforming action gameplay\n* Multiple playable characters\n* Real-time character swapping\n* Non-linear progression\n* Epic and humorous story",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d8c644dd237eb071aa1436b64aa270a1445d9403baece8d193f9b8829a7aace5.jpg",
+    "id": "01005B201D48C000",
+    "intro": "Enter the epic and ridiculous world of General Panzer",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "The Adventures of Panzer: Legacy Collection",
+    "nsuId": 70010000073806,
+    "numberOfPlayers": 1,
+    "publisher": "Ratalaika Games",
+    "rating": 7,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240126,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f538cef07445a931e2282d17a45fab8b5a220a3983edee30dc2e96197602b1b3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7f294e8f2d75bea25891d25b40e7104b1eac8067f549b72dc6fa1982d15693b9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f66600568c7575285c3052fd885ec48af4cd0502cbc52a9b5a2922652fdef022.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8789df4dd8b9cfd141e9e2fe78d387b78b5660f4868217e984de4083224919da.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/56aac0d2d988070c140d053df733e0a9d1cb29be1f8cea84571257b2ac597bb6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6a23f2309cc942072ebfe56380a97339612ffa8fea765097426f6da612d6703d.jpg"
+    ],
+    "size": 162529280,
+    "version": null
+  },
   "70010000076108": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/10ac594ef7386c0d4b3f590d8cd75068c340c1c1cdb2554bf860da3c1f5f9f5c.jpg",
     "category": [
@@ -2509,6 +2665,45 @@
       "https://img-eshop.cdn.nintendo.net/i/b01f4dfe04f70697b8cbc299c73c6353a008dc5bef1f3f6bd08eccb6980495f6.jpg"
     ],
     "size": 547356672,
+    "version": null
+  },
+  "70010000075477": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dab5af92eade158e47eca858a6b4b6724871dd352901de3170e18920f045faae.jpg",
+    "category": [
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Action"
+    ],
+    "description": "Features:\n\n- 7 Single player game modes\n- 6 Trucks, each with 4 different styles\n- Vehicle tuning\n- Real driving experience\n- Incredible amount of fun",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4c41ec1def94cad5c9bf1947316d38399021a991971080c5e04a0649286731ab.jpg",
+    "id": "010046C01DB04000",
+    "intro": "Your craziest Monster Truck driving experience ever!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Monster Truck Freestyle",
+    "nsuId": 70010000075477,
+    "numberOfPlayers": 1,
+    "publisher": "IntuitiveComputers",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240127,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/2129cc3974fd8fb8d3c68df089ce77889efc6b024e45503a34676c2c8b85c8cb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3a2dc1aa738701e1469b6605c6c1676332d268652b467bbebb5cd5618dcea64e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/477e0cb21b493ff007df30ce97ac6fa2a86ef3b0bed0f562fe8197424393da13.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0409943f95889770608ad9f3457182d62620a0089e98e7db2e3379dfd68db0e0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9302f1e936a9dd5390048d2303994b0c4e95c1b039313ff546b7afe6dc8666b4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c752f3f6f836bbb4e5f6f11521785f1b4decc2934827c6f270c8e18b88ae7b1a.jpg"
+    ],
+    "size": 243269632,
     "version": null
   },
   "70010000051840": {
@@ -2814,6 +3009,47 @@
       "https://img-eshop.cdn.nintendo.net/i/4fa2cb1f3b15e4f7b9c702f7bf3ba991310f9cb0d9cd24a302f6aefec65f267b.jpg"
     ],
     "size": 584056832,
+    "version": null
+  },
+  "70010000075322": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4a16778e86f59afee48d1cd858749c5798188f1dc9ad0b3d5e7bc231bde97a26.jpg",
+    "category": [
+      "Puzzle"
+    ],
+    "description": "Eliminate various cute candies in the cup, with innovative and interesting gameplay, and various level designs. Snowball, Ink Candy, Snowflake Candy, Bird, Greedy Candy, Big Candy, Metamorphosis Candy, Panda Bomb, Spider Clip, make you unable to stop, and shaking can make the candies jump even more. Achieve a hundred more levels, you can't stop at all! Two player games are more fun, try to eliminate more candies, and strive to defeat each other. This game will make you feel happier!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/499938f6cf12090d958a8e1c3d7358104417e704b83150c5731f6b8ba4bd966c.jpg",
+    "id": "0100D9801D9DC000",
+    "intro": "Candy elimination casual game with unique and interesting gameplay, hundreds of levels, and more fun in multiplayer games",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Candy Shake Cup",
+    "nsuId": 70010000075322,
+    "numberOfPlayers": 2,
+    "publisher": "BluSped Studio",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a7cea862ccd24ca84127d39e720805ef6929fb7444077414cc04b0f6ff2c93dd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d8a950bf4d73d762904b0a37023da315448f059f5aef4aefe5df0e577c080d6f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/58bfe1415d06d0dab0f001a8f22802b133cc5cc709e98fd8422c9a1b400e91ab.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5ce607a58d39a52ddb6a5acab9246ac033973156b4407ed82ae1edfe0236d131.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a6fdc10176de56e35b2316d21c006757fd7aca0056ae9ed021f6633d66b202e6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/abdc69af206091169122acba232ac2cf4a5624a5282e094e65d64c4a5c49dcf2.jpg"
+    ],
+    "size": 85983232,
     "version": null
   },
   "70050000042851": {
@@ -4030,6 +4266,48 @@
       "https://img-eshop.cdn.nintendo.net/i/e66b11e93febb8f50ecdb5be9ce1f124f18933cc1126c696bce6e12bce7897c0.jpg"
     ],
     "size": 0,
+    "version": null
+  },
+  "70010000064643": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0b3adb91ef9ddf5bb2c7e09a9ff3b69600f40b048220975c9f5f29523ba5f2eb.jpg",
+    "category": [
+      "Action",
+      "Adventure"
+    ],
+    "description": "From South Park Digital Studios, the studio that brought you South Park: The Stick of Truth, South Park: The Fractured but Whole, and South Park: Phone Destroyer comes the next chapter in the journey of the New Kid.\n\nJoin Cartman, Stan, Kyle, and Kenny, in three-dimensional glory, to celebrate the most magical day in any young child\u2019s life - a snow day! A massive blizzard has thrown the town into chaos and, more importantly, canceled school.\n\nPlay with up to three friends, use matchmaking, or solo the game with ally bots and battle through the snow-piled town of South Park. Engage in frenetic, action-packed combat against warring factions in an all-new story where you make the rules. Equip unique weapons and deploy devastating, upgradable special abilities on a new adventure to save the world and enjoy a day without school.\n\nIt\u2019s a snow day, dude!\n\n- It\u2019s an all-new 3D co-op game.\n- A blizzard of epic proportions has blanketed the town of South Park and it\u2019s up to Cartman, Stan, Kenny, Kyle, and you, as the New Kid, to save the town.\n- Experience cooperative gameplay for the first time ever in a South Park game with up to three friends or ally bots - unleashing powerful, coordinated attacks on your foes.\n- Equip and upgrade devastating melee and ranged weapons. Deploy special abilities and powers that will bring hordes of enemies and epic bosses to their knees.\n- Use a wide range of iconic cosmetics and customize your New Kid with endless possible combinations from beanies to Cheesy Poof T-shirts to chin balls.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/52e5c09f6c4218c89fd3cf9bf23483591acfd4c0f113d33832cd24c4bfd4bd4f.jpg",
+    "id": "0100D1501ABAE000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "es",
+      "pt",
+      "en",
+      "fr",
+      "de",
+      "ko"
+    ],
+    "name": "SOUTH PARK: SNOW DAY!",
+    "nsuId": 70010000064643,
+    "numberOfPlayers": 1,
+    "publisher": "THQ Nordic",
+    "rating": 16,
+    "ratingContent": [
+      "Bad Language"
+    ],
+    "region": null,
+    "releaseDate": 20240326,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/29e203856c9a6e3c7c106ba9969dd4d204076b7159d14b9e3016b33ca2c808ad.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e64fcf602f2b1be260dab1ab490b5622abe669d62adb495cab6e62b84f3a96e5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0a13f2eb6032ddd15783bf2441c3c7c0fc94fa5868046fa02d78ea345845bcc0.jpg"
+    ],
+    "size": 9970909184,
     "version": null
   },
   "70010000066560": {

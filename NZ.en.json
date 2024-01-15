@@ -165,6 +165,81 @@
     "size": 314572800,
     "version": null
   },
+  "70010000074928": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f4304db6f404ef9986bb6b633210624a9afa2c6b74c1d48c0c099a19856b8b5.jpg",
+    "category": [
+      "Arcade",
+      "Simulation",
+      "Strategy"
+    ],
+    "description": "Embark on an exhilarating lunar mission where precision and finesse are your keys to success. Your spacecraft is equipped with limited fuel, and your mission is to land safely on the lunar surface to score points. But beware, the lunar gravity is tricky, and a misstep can cost you precious fuel.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9ec34daf29700ad90b49959e6bf2c8fec5818c792664d895b33c6387c53f841e.jpg",
+    "id": "01006A001D8CC000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Moon Lander",
+    "nsuId": 70010000074928,
+    "numberOfPlayers": 1,
+    "publisher": "Sabec",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240116,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/072336d891f95cc32d0b2d8cef262aabfbd4466b60b07936956247862b7a3cd9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b32fe360d0aa5ea6d435640d2ad8814d83fde8b81dd4dc682d4ddca0a437fe6e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/691f9d85ddf859ed525ad104b2180a4ec15bf0a4e9ab10e045fdbf20c46ef7c4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/60a03b9cc933099f74253dc0f85409899d7c68163292fe1477927f20753d51ee.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/52f9ec683a65288f8b66a6e8854b49b0b703731ca1ed1a6306560df3e29fa301.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/50a28cc2fb758a29884be49aa74cfad42adc3208058c1f10f079b1e499cef496.jpg"
+    ],
+    "size": 188743680,
+    "version": null
+  },
+  "70050000045892": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/86844916ac62ec2492c4de81e092703bd1d890a181b257019f4715218e3b225c.jpg",
+    "category": null,
+    "description": "Dive into the heart of history with the Easy Red 2 expansion, introducing two thrilling new campaigns:\n\nBlitzkrieg on Stonne - 1940:\nWitness the early chaos of World War II as you embark on the French Invasion in 1940, centered around the strategic Stonne area. Can you rewrite the fate of this pivotal battle?\n\nArdennes Bulge - 1944:\nShift gears to the late stages of the war in the Ardennes campaign, set in the unforgiving terrain of Bulge. Forge your path through the icy battlegrounds in a bid for victory.\n\nWhat's New:\n\u2022Immerse yourself in two fresh maps and tackle 13 historically accurate missions, available for both attackers and defenders.\n\u2022Take control of an impressive array of vehicles, including the Panzer II, Char B1 bis, FT-17, Citroen 23R, and more for the French campaign. Plus, unleash the Jagdpanther G1, M4A3E2 Sherman, and winter variants of base game vehicles in the Bulge campaign.\n\u2022Arm yourself with authentic early war French infantry weapons, including the MAS36, MAS38, Lebel 1886, FM 24/29, and the Ruby pistol.\n\u2022Experience revolutionary destructibility design, witnessing buildings crumble in a more realistic and immersive way than ever before in Easy Red 2.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Command history in Easy Red 2: Ardennes 1940 & 1944! Blitz through the early chaos of WWII's Invasion of France, then brace for the brutal winter battles of the Ardennes campaign. W",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Easy Red 2: Ardennes 1940 & 1944",
+    "nsuId": 70050000045892,
+    "numberOfPlayers": null,
+    "publisher": "Corvostudio di Amadei Marco",
+    "rating": 13,
+    "ratingContent": [
+      "Online Interactivity",
+      "Violence",
+      "Users Interact"
+    ],
+    "region": null,
+    "releaseDate": 20240116,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/489cfce8106768c2e5bc7122af5809f3d7fb0d84ff229026fc8f7c829f375ac3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/626f24b9c70ea782299bb2a14b7660de33de2c3b31476ab2c6e2aa2685d97475.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/150ac434653b4b2bb8421b06fc31d460cee7179f9e23ba760e164cebd7f7afbc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1081a88b4ff83c8570e889b0fcef529b8d517f6040d9d98f4049b1c3eb750255.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/278e0946fe52994ed9e9131b82472981a241f30f371811b0905ae9a22e5210b8.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
   "70050000046710": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/27a941623f52ba78b7f124f6593ec38ebcefc63f9afcfaf1e15a7b4941319486.jpg",
     "category": null,
@@ -231,6 +306,40 @@
       "https://img-eshop.cdn.nintendo.net/i/aaf8a8c00159f31c0992ac7bc8458b380bf86c159cfe5bf952587ee438550f5c.jpg"
     ],
     "size": 1379926016,
+    "version": null
+  },
+  "70070000020466": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a1c24c87fefcc6f441471e4dc40b6c28efcd7fb8781a9936cc30260e53501b50.jpg",
+    "category": null,
+    "description": "Embrace terror with Dead by Daylight\u2019s Gold Edition, which includes the base game and 12 Chapters for a total of 16 Killers and 19 Survivors.\n\nWhether you\u2019re starting your journey in The Fog or looking to take things to the next level, there\u2019s no better starting point than the Gold Edition. Experience a sprawling roster of horror characters in the quintessential Dead by Daylight experience.\n\n In addition to the base game characters, the Gold Edition includes: \n\n- The Legion and Jeff Johansen \n- The Plague and Jane Romero  \n- The Oni and Yui Kimura  \n- The Deathslinger and Zarina Kassir  \n- The Blight & Felix Richter  \n- The Twins and \u00c9lodie Rakoto  \n- The Trickster and Yun-Jin Lee  \n- Mikaela Reid  \n- Additional Outfits & DLC Exclusive Items",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Dead by Daylight - Gold Edition",
+    "nsuId": 70070000020466,
+    "numberOfPlayers": null,
+    "publisher": "Behaviour Interactive",
+    "rating": 16,
+    "ratingContent": [
+      "Contains violence and horror"
+    ],
+    "region": null,
+    "releaseDate": 20240116,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/2d053df332376b6b06328a1dd2c3e49746860965aa9f409edd58a107f7aec1e1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0b1e127d9f4812ad0ddbb9c9170e0ef4017c1c46e5e673272bce551eac2c7256.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b0aa4038ab3eaf704542ec7b77f453567a3b3f549f25736d443daeaae5df840b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/788062a07dfd908e7edef8ccc51536fc4cda9470d50ba968399d93cac5551ebf.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/febeaf4555f09900046fe78e3bde7998ed98621f8bcfcc62ea6b512e969b013f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9541a9d49fa3e36615781be8dfd2b8d6ad2a11bafed6beaa35fc69919152f658.jpg"
+    ],
+    "size": 19992150016,
     "version": null
   },
   "70010000072366": {
@@ -1042,6 +1151,38 @@
     "size": 397410304,
     "version": null
   },
+  "70050000046522": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f8edd1db70deb89f8c4e12e5822810c066af96e4afd1dcbde872a43683242fae.jpg",
+    "category": null,
+    "description": "Unleash the fiery spirit of dragons with our Dragon DLC theme for Easy Dice. Immerse your rolls in a vibrant red backdrop and conquer your tabletop adventures in true draconic style!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Dragon DLC theme for Easy Dice for RPG/Tabletop",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Easy Dice for RPG/Tabletop - Dragon Theme",
+    "nsuId": 70050000046522,
+    "numberOfPlayers": null,
+    "publisher": "SOURCE BYTE",
+    "rating": 0,
+    "ratingContent": [
+      "Online Interactivity",
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240119,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/07542cad80eba63f2c8120ede58d9d52cda3dc04af3785c32cc7d5b9eb13847e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b84b3193eb89bb3c977886cbf56993557baacb6309ffb9c5d8d2549ae187a74f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9c5e2a1ed6c3ac6c32cdd33f22520bd668c429dda5dc9478275a8ca7dbd4d5f1.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
   "70070000017450": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4d98abffefee0b2e3708b5954223e11b01ef10d969921d41c4a05fbffbae09a0.jpg",
     "category": null,
@@ -1534,6 +1675,94 @@
     "rightsId": null,
     "screenshots": null,
     "size": 7494172672,
+    "version": null
+  },
+  "70010000052250": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/888df16c892d0a08268437e183f1796311ce6b1b422f9b7d6d0e970497d2cf8a.jpg",
+    "category": [
+      "Adventure",
+      "Puzzle",
+      "RPG",
+      "Strategy"
+    ],
+    "description": "In this deduction adventure, you play as Lil - an unlikely 12-year-old hero - covering your dad's shift at the guard shed and are tasked with deciding the fate of over 100 unique characters.\n\nYou will question humans, elves, goblins, cyclopses, and other fantasy creatures using your powers of deduction to determine who to admit or deny based on how they respond to your questions and your trusty tools. Sending visitors to jail, inadvertently zapping them to smithereens, or letting them go on their merry way are all part of the job. But be careful: who you let through the castle gates will determine the kingdom's fate.\n\nFEATURES:\n\n\u2022 Fantasy/Comedy Narrative: See the Sprawl and its fantastical & quirky citizens through a royal wedding to one of two kingdoms vying for an alliance, and a subsequent siege by whoever you've angered in the process. Your decisions can determine the fate of the city and its people!\n\u2022 Interrogation Puzzles: Interrogate 100+ fully voiced characters in just the right way to earn a perfect score.\n\u2022 Tools of the trade: Spend your hard earned gold wisely on powering up your guardsman toolkit, and strategically deploy these to admit or deny the right people or...goblins?\n\u2022 Rewind Time: Use your trusty Chronometer3000 to go back and get a higher score... but be careful not to break space and time in the process.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/75849524f3164854e80adc18f42cbd1734f8b027b6eb418b07a93bb6135e2c33.jpg",
+    "id": "010060B017F6E000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "de",
+      "zh"
+    ],
+    "name": "Lil' Guardsman",
+    "nsuId": 70010000052250,
+    "numberOfPlayers": 1,
+    "publisher": "Versus Evil",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Drug References",
+      "Mild Themes",
+      "Mild Violence",
+      "Mild Gambling Themes"
+    ],
+    "region": null,
+    "releaseDate": 20240124,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/638d22f762d7531f5572f0796aea650aff84e7e5913356229d4cf3be17825201.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/11a858306ef214395c9fde5a110335b30df3868918eb5ee0e0d7c10965f54a22.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6d461ef1605ac01f7fee33945690385f80866deabc725bf9e33a79ead81d084d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3b445965e6dfb9be0f09dd9efbd71ed279fdcce940e9af05c3fcb852d340d0b2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a4f7042f75f60eaf90dfa45fa67d3e31e2e771b66ae14ec84f148b7cda9900ee.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ab7e42e3616bcf4d0bd869d917b40905435c8fa8e02a19da0416c805c3080c75.jpg"
+    ],
+    "size": 998244352,
+    "version": null
+  },
+  "70010000062560": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/805c5a6f8bdd59d3745053934043540b7377384bc86a23a5e839c5cf98dd7311.jpg",
+    "category": [
+      "Arcade",
+      "Shooter",
+      "Action",
+      "Adventure"
+    ],
+    "description": "In a dystopian world where the Motorhead Empire has conquered and enslaved virtually the entire planet, mammoth battleships, armored locomotives, and invincible fortresses dominate the skies. However, there is hope for the republic of Silverhead, and you are the only one who can save it. Take control of the Striker airplane or Zeppelin with an aerial mine launcher and engage in intense euro-shmup action, battling enemies both in the air and on the ground, and using devastating screen-clearing attacks in tight spots. With improved graphics and controls, Steel Empire, originally released in the early 90s for a 16-bit console, has been ported to various handheld consoles. Join the fight and defeat the Motorhead Empire.\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8db002609bbee505f49cee40ec7e19285559a63d3b7ef1d3ef1c7615a03d546f.jpg",
+    "id": "01006B101A47A000",
+    "intro": "Restore peace in a steam punk world with the striker airplane or  zeppelin!\n",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "The Legend of Steel Empire",
+    "nsuId": 70010000062560,
+    "numberOfPlayers": 1,
+    "publisher": "ININ Games",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240124,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/b7fd5f2fc40ccc9b96540dfc824f7456ecc3a4e8d59bfed36e2ea001b1638fdd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e4addcd447ac03b529749924ffee739d861cb994a13fc2890b9782bb543782d6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/504cd19afdbe204162b8591bd73076ea1f045a0d8de3b476cdb633c7c0eb44c5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/af5e1d51503fdde774784f7ea5cc5cebdd6ad8038b5af440c291b75119c74f6a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5b562a9065921fb83630ab75d51d152e63bf0450346f7aa6c89b72d8681ab78f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/02bb0a08de68d7160cdf101e74acb4267b52f63bd986c65e0756b9a645ab3990.jpg"
+    ],
+    "size": 899678208,
     "version": null
   },
   "70010000067116": {
@@ -2114,6 +2343,46 @@
     "size": 5324668928,
     "version": null
   },
+  "70010000073806": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a7c00f9cf2613eaea380e8aa40713fc1c73136f6790ca732bd47db71f76c5d5e.jpg",
+    "category": [
+      "Adventure",
+      "Platformer",
+      "Action"
+    ],
+    "description": "After nearly a decade; the legendary raid leader, General Panzer returns from his mysterious hiatus. Rejoined by his trusty lieutenant, Blarghe, the two of them set off on an incredible adventure to revisit their old raid team members. \n\nThe Adventures of Panzer 1:\nLegendary retired raid leader Panzer and his trusty sidekick Blarghe attempt to reunite with their former comrades. Unfortunately, after 10 long years theold crew may not be happy to see them!Join Panzer and Blarghe for 5 unique levels of incredible platforming action! Journey through locations such as Mecha-Grokk's Bandit Cave, The Dinosaur Jungle and Pugna's Warlock Castle. Use both physical melee and magic projectile attacks to crush your enemies! Fight monsters and mini-bosses, avoid bats and spiders and dodge arrows and magic spells so you can rescue\u2026 or possibly just kidnap...  Panzer's former raid members!\n\nThe Adventures of Panzer 2:\nSet approximately 1 year after the events of The first game, Panzer returns to his role as Raid Leader of the Zergadins. A new Head Quarters has been built, The old team has been rounded up and are ready for action.  A new evil has arrived and it will take the whole team working together to defeat it.  So This time Panzer doesn't have to fight alone! He is joined by the Hunter Kankaro with his bow and arrow,  the Ice Mage Ahzriaz  with her ice magic and the Crazed Troll Vespeto with his explosives!\n\nDo you like action platforming games? Do you like comedy-driven stories in your games? Do you like retro gaming? And most importantly, do you like classic retro gaming entertainment systems? Then The Adventures of Panzer: Legacy Collection is for you!\n\nThe Adventures of Panzer: Legacy Collection is a story-driven action platform game series full of unique levels and incredible platforming action. Select from multiple playable characters, choose your own non-linear game path, and guide Panzer and his team to Victory!\n\n\nFEATURES\n* 2 Panzer games\n* Platforming action gameplay\n* Multiple playable characters\n* Real-time character swapping\n* Non-linear progression\n* Epic and humorous story",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d8c644dd237eb071aa1436b64aa270a1445d9403baece8d193f9b8829a7aace5.jpg",
+    "id": "01005B201D48C000",
+    "intro": "Enter the epic and ridiculous world of General Panzer",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "The Adventures of Panzer: Legacy Collection",
+    "nsuId": 70010000073806,
+    "numberOfPlayers": 1,
+    "publisher": "Ratalaika Games",
+    "rating": 8,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240127,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f538cef07445a931e2282d17a45fab8b5a220a3983edee30dc2e96197602b1b3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7f294e8f2d75bea25891d25b40e7104b1eac8067f549b72dc6fa1982d15693b9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f66600568c7575285c3052fd885ec48af4cd0502cbc52a9b5a2922652fdef022.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8789df4dd8b9cfd141e9e2fe78d387b78b5660f4868217e984de4083224919da.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/56aac0d2d988070c140d053df733e0a9d1cb29be1f8cea84571257b2ac597bb6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6a23f2309cc942072ebfe56380a97339612ffa8fea765097426f6da612d6703d.jpg"
+    ],
+    "size": 162529280,
+    "version": null
+  },
   "70010000076108": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/10ac594ef7386c0d4b3f590d8cd75068c340c1c1cdb2554bf860da3c1f5f9f5c.jpg",
     "category": [
@@ -2153,6 +2422,47 @@
       "https://img-eshop.cdn.nintendo.net/i/a7a8340035fe3dcf5832b9c09c58f11554cee51db1db2d97ddee09ea95ce6fc1.jpg"
     ],
     "size": 457179136,
+    "version": null
+  },
+  "70010000075477": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dab5af92eade158e47eca858a6b4b6724871dd352901de3170e18920f045faae.jpg",
+    "category": [
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Action"
+    ],
+    "description": "Features:\n\n- 7 Single player game modes\n- 6 Trucks, each with 4 different styles\n- Vehicle tuning\n- Real driving experience\n- Incredible amount of fun",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4c41ec1def94cad5c9bf1947316d38399021a991971080c5e04a0649286731ab.jpg",
+    "id": "010046C01DB04000",
+    "intro": "Your craziest Monster Truck driving experience ever!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Monster Truck Freestyle",
+    "nsuId": 70010000075477,
+    "numberOfPlayers": 1,
+    "publisher": "IntuitiveComputers",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240128,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/2129cc3974fd8fb8d3c68df089ce77889efc6b024e45503a34676c2c8b85c8cb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3a2dc1aa738701e1469b6605c6c1676332d268652b467bbebb5cd5618dcea64e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/477e0cb21b493ff007df30ce97ac6fa2a86ef3b0bed0f562fe8197424393da13.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0409943f95889770608ad9f3457182d62620a0089e98e7db2e3379dfd68db0e0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9302f1e936a9dd5390048d2303994b0c4e95c1b039313ff546b7afe6dc8666b4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c752f3f6f836bbb4e5f6f11521785f1b4decc2934827c6f270c8e18b88ae7b1a.jpg"
+    ],
+    "size": 243269632,
     "version": null
   },
   "70010000073976": {

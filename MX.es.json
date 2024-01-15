@@ -4251,6 +4251,51 @@
     "size": 0,
     "version": null
   },
+  "70010000064642": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0b3adb91ef9ddf5bb2c7e09a9ff3b69600f40b048220975c9f5f29523ba5f2eb.jpg",
+    "category": [
+      "Acci\u00f3n",
+      "Aventura"
+    ],
+    "description": "South Park Digital Studios, el estudio responsable de South Park: La Vara de la Verdad, South Park: Retaguardia en Peligro y South Park: Phone Destroyer, te trae el siguiente cap\u00edtulo en el viaje de le Ni\u00f1e Nueve.\n\n\u00danete a Cartman, Stan, Kyle y Kenny en todo su esplendor tridimensional para celebrar el d\u00eda m\u00e1s m\u00e1gico de la infancia: \u00a1un d\u00eda de nieve! Una ventisca gigantesca ha desatado el caos en South Park y, lo que es m\u00e1s importante, se han cancelado las clases.\n\nJ\u00fantate con hasta tres colegas, usa el emparejamiento o juega en solitario con bots aliados para abriros paso luchando por el nevado pueblo de South Park. Vivid fren\u00e9ticos combates llenos de acci\u00f3n contra las facciones en guerra de una nueva historia en la que t\u00fa dictas las reglas. Equ\u00edpate con armas \u00fanicas y emplea devastadoras habilidades especiales mejorables en una nueva aventura para salvar el mundo y disfrutar de un d\u00eda sin cole.\n\n\u00a1Es d\u00eda de nieve, joder!\n\n\n- Es un juego cooperativo en 3D completamente nuevo.\n- Una tormenta de nieve de proporciones \u00e9picas ha cubierto el pueblo de South Park y depende de Cartman, Stan, Kenny, Kyle y de t\u00ed, como Ni\u00f1o Nuevo, salvar el pueblo.\n- Experimenta la jugabilidad cooperativa por primera vez en un juego de South Park con hasta tres amigos o bots, desatando ataques poderosos y coordinados contra tus enemigos.\n- Equipa y mejora devastadoras armas para ataque cuerpo a cuerpo y a distancia. Lanza habilidades y poderes especiales que derribar\u00e1n a hordas de enemigos y jefes \u00e9picos.\n- Utiliza una amplia gama de cosm\u00e9ticos ic\u00f3nicos y personaliza a tu Ni\u00f1o Nuevo con infinitas combinaciones posibles, desde gorros y camisas de Quesitos Poofs hasta bolas de barbilla.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/52e5c09f6c4218c89fd3cf9bf23483591acfd4c0f113d33832cd24c4bfd4bd4f.jpg",
+    "id": "0100D1501ABAE000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "es",
+      "pt",
+      "en",
+      "fr",
+      "de",
+      "ko"
+    ],
+    "name": "SOUTH PARK: SNOW DAY!",
+    "nsuId": 70010000064642,
+    "numberOfPlayers": 1,
+    "publisher": "THQ Nordic",
+    "rating": 17,
+    "ratingContent": [
+      "Sangre",
+      "Humor para adultos",
+      "Lenguaje fuerte",
+      "Violencia"
+    ],
+    "region": null,
+    "releaseDate": 20240326,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/29e203856c9a6e3c7c106ba9969dd4d204076b7159d14b9e3016b33ca2c808ad.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e64fcf602f2b1be260dab1ab490b5622abe669d62adb495cab6e62b84f3a96e5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0a13f2eb6032ddd15783bf2441c3c7c0fc94fa5868046fa02d78ea345845bcc0.jpg"
+    ],
+    "size": 9970909184,
+    "version": null
+  },
   "70010000066559": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/36426f576b1cbeaf4d5ce7ea86b9994548798029fe8426bf55e6a0b19b9df35f.jpg",
     "category": [

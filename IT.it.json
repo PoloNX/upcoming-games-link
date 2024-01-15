@@ -768,6 +768,37 @@
     "size": 55574528,
     "version": null
   },
+  "70050000046522": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f8edd1db70deb89f8c4e12e5822810c066af96e4afd1dcbde872a43683242fae.jpg",
+    "category": null,
+    "description": "Unleash the fiery spirit of dragons with our Dragon DLC theme for Easy Dice. Immerse your rolls in a vibrant red backdrop and conquer your tabletop adventures in true draconic style!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Dragon DLC theme for Easy Dice for RPG/Tabletop",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Easy Dice for RPG/Tabletop - Dragon Theme",
+    "nsuId": 70050000046522,
+    "numberOfPlayers": null,
+    "publisher": "SOURCE BYTE",
+    "rating": 3,
+    "ratingContent": [
+      "Acquisti in-game"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/07542cad80eba63f2c8120ede58d9d52cda3dc04af3785c32cc7d5b9eb13847e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b84b3193eb89bb3c977886cbf56993557baacb6309ffb9c5d8d2549ae187a74f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9c5e2a1ed6c3ac6c32cdd33f22520bd668c429dda5dc9478275a8ca7dbd4d5f1.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
   "70070000017450": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4d98abffefee0b2e3708b5954223e11b01ef10d969921d41c4a05fbffbae09a0.jpg",
     "category": null,
@@ -1441,6 +1472,91 @@
     "rightsId": null,
     "screenshots": null,
     "size": 0,
+    "version": null
+  },
+  "70010000052250": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/888df16c892d0a08268437e183f1796311ce6b1b422f9b7d6d0e970497d2cf8a.jpg",
+    "category": [
+      "Avventura",
+      "Puzzle",
+      "Gioco di ruolo (RPG)",
+      "Strategia"
+    ],
+    "description": "In questa avventura di deduzione impersonerai Lil, improbabile protagonista di 12 anni, mentre copre il turno del padre alla postazione di guardia con l'incarico di stabilire il destino di oltre 100 personaggi unici.\n\nDovrai interrogare umani, elfi, goblin, ciclopi e altre creature fantastiche usando i tuoi poteri di deduzione per determinare chi ammettere e chi respingere in base alle loro risposte alle tue domande e ai tuoi fidati strumenti. Imprigionare i visitatori, ridurli inavvertitamente in poltiglia, o semplicemente lasciarli andare felicemente per la loro strada fanno parte del lavoro. Ma attenzione: chiunque oltrepasser\u00e0 il varco per il castello determiner\u00e0 il destino del regno.\n\nCARATTERISTICHE:\n\n\u2022 Narrazione fantasy/comica: osserva The Sprawl e i suoi fantastici e stravaganti abitanti durante il matrimonio reale con uno dei due regni che competono per l'alleanza, e il successivo assedio di chiunque tu abbia fatto arrabbiare nel frattempo. Le due decisioni possono determinare il destino della citt\u00e0 e della sua gente!\n\u2022 Interrogatori a enigmi: sottoponi a interrogatorio pi\u00f9 di 100 personaggi (completamente doppiati) nel modo corretto per ottenere un punteggio perfetto.\n\u2022 Strumenti del mestiere: spendi saggiamente l'oro che hai guadagnato per potenziare i tuoi strumenti da guardia, e usali in modo strategico per ammettere o respingere le persone giuste o... i goblin?\n\u2022 Riavvolgi il tempo: usa il tuo fidato Chronometer3000 per tornare indietro e ottenere un punteggio migliore... ma fai attenzione a non rompere lo spazio-tempo mentre lo usi.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/75849524f3164854e80adc18f42cbd1734f8b027b6eb418b07a93bb6135e2c33.jpg",
+    "id": "010060B017F6E000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "es",
+      "de",
+      "zh"
+    ],
+    "name": "Lil' Guardsman",
+    "nsuId": 70010000052250,
+    "numberOfPlayers": 1,
+    "publisher": "Versus Evil",
+    "rating": 16,
+    "ratingContent": [
+      "Violenza intensa"
+    ],
+    "region": null,
+    "releaseDate": 20240123,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/638d22f762d7531f5572f0796aea650aff84e7e5913356229d4cf3be17825201.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/11a858306ef214395c9fde5a110335b30df3868918eb5ee0e0d7c10965f54a22.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6d461ef1605ac01f7fee33945690385f80866deabc725bf9e33a79ead81d084d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3b445965e6dfb9be0f09dd9efbd71ed279fdcce940e9af05c3fcb852d340d0b2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a4f7042f75f60eaf90dfa45fa67d3e31e2e771b66ae14ec84f148b7cda9900ee.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ab7e42e3616bcf4d0bd869d917b40905435c8fa8e02a19da0416c805c3080c75.jpg"
+    ],
+    "size": 998244352,
+    "version": null
+  },
+  "70010000062560": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/805c5a6f8bdd59d3745053934043540b7377384bc86a23a5e839c5cf98dd7311.jpg",
+    "category": [
+      "Arcade",
+      "Sparatutto",
+      "Azione",
+      "Avventura"
+    ],
+    "description": "In un mondo distopico in cui l'impero Motorhead ha conquistato e schiavizzato l'intero pianeta, i cieli sono dominati da gigantesche navi da guerra, locomotive corazzate e fortezze inespugnabili. Ma resta un'ultima speranza per la repubblica di Silverhead: tu. Sali a bordo di un aereo Striker o dello Zeppelin con lanciamine aereo e scatena una guerra in stile \"euroshmup\" attaccando i nemici a terra e in volo e usando devastanti attacchi nei momenti pi\u00f9 cruciali. Con grafica e comandi migliorati, Steel Empire, uscito inizialmente nei primi anni '90 per una console a 16 bit, ha ricevuto il porting per varie console tascabili. Unisciti allo scontro e sconfiggi l'impero Motorhead.\n",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8db002609bbee505f49cee40ec7e19285559a63d3b7ef1d3ef1c7615a03d546f.jpg",
+    "id": "01006B101A47A000",
+    "intro": "Riporta la pace in un mondo steampunk a bordo dello Striker o dello Zeppelin!\n",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "The Legend of Steel Empire",
+    "nsuId": 70010000062560,
+    "numberOfPlayers": 1,
+    "publisher": "ININ Games",
+    "rating": 7,
+    "ratingContent": [
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240123,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/b7fd5f2fc40ccc9b96540dfc824f7456ecc3a4e8d59bfed36e2ea001b1638fdd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e4addcd447ac03b529749924ffee739d861cb994a13fc2890b9782bb543782d6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/504cd19afdbe204162b8591bd73076ea1f045a0d8de3b476cdb633c7c0eb44c5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/af5e1d51503fdde774784f7ea5cc5cebdd6ad8038b5af440c291b75119c74f6a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5b562a9065921fb83630ab75d51d152e63bf0450346f7aa6c89b72d8681ab78f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/02bb0a08de68d7160cdf101e74acb4267b52f63bd986c65e0756b9a645ab3990.jpg"
+    ],
+    "size": 899678208,
     "version": null
   },
   "70010000070090": {
@@ -2364,6 +2480,46 @@
     "size": 34603008,
     "version": null
   },
+  "70010000073806": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a7c00f9cf2613eaea380e8aa40713fc1c73136f6790ca732bd47db71f76c5d5e.jpg",
+    "category": [
+      "Avventura",
+      "Piattaforme",
+      "Azione"
+    ],
+    "description": "Dopo quasi un decennio, il leggendario Generale Panzer ritorna dal suo misterioso ritiro. Raggiunto dal suo fidato tenente Blarghe, partir\u00e0 per un'incredibile viaggio in cui far\u00e0 visita ai vecchi membri della sua squadra di incursione. \n\nThe Adventures of Panzer 1:\nIl leggendario leader di incursione Panzer e il suo fidato compagno Blarghe tentano di ritrovare i loro compagni di squadra. Purtroppo per\u00f2, dopo 10 lunghi anni non \u00e8 detto che questi siano contenti di essere ritrovati! Unisciti a Panzer e Blarghe in 5 epici livelli di azione su piattaforme! Viaggia in scenari come la grotta dei banditi di Grokk, la giungla dei dinosauri e il castello di Pugna. Usa sia gli attacchi in corpo a corpo che i proiettili magici per sbaragliare i nemici! Combatti contro mostri e mini boss, evita pipistrelli e ragni, e schiva frecce e incantesimi magici per salvare... o forse rapire...  i vecchi membri della squadra di Panzer!\n\nThe Adventures of Panzer 2:\nAmbientato circa un anno dopo gli eventi del primo gioco, Panzer ritorna a indossare i panni del leader di incursione degli Zergadins. C'\u00e8 un nuovo quartier generale, e il vecchio team \u00e8 stato richiamato ed \u00e8 pronto all'azione.  \u00c8 giunto un nuovo nemico da sconfiggere,  ma questa volta Panzer non dovr\u00e0 combatterlo da solo! Con lui c'\u00e8 il cacciatore Kankaro con arco e frecce, la maga del ghiaccio Ahzriaz con i suoi incantesimi e il bizzarro troll Vespeto con i suoi esplosivi!\n\nTi piacciono i giochi d'azione su piattaforme? Ti divertono le storie con vena comica a fare da sfondo? Apprezzi i videogiochi retr\u00f2? Ma soprattutto: ti piacciono le vecchie console di gioco? Se hai risposto s\u00ec, The Adventures of Panzer: Legacy Collection fa proprio per te!\n\nThe Adventures of Panzer: Legacy Collection \u00e8 una serie di giochi narrativi a piattaforme, piena di livelli unici e dalla storia esilarante. Scegli fra diversi personaggi giocabili, segui un percorso di gioco non lineare e guida Panzer e il suo team fino alla vittoria!\n\n\nCARATTERISTICHE\n* 2 giochi di Panzer\n* Gameplay d'azione su piattaforme\n* Diversi personaggi giocabili\n* Scambio di personaggi in tempo reale\n* Progressione non lineare\n* Storia epica e piena di umorismo",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d8c644dd237eb071aa1436b64aa270a1445d9403baece8d193f9b8829a7aace5.jpg",
+    "id": "01005B201D48C000",
+    "intro": "Entra nell'epico ed esilarante mondo del Generale Panzer",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "The Adventures of Panzer: Legacy Collection",
+    "nsuId": 70010000073806,
+    "numberOfPlayers": 1,
+    "publisher": "Ratalaika Games",
+    "rating": 7,
+    "ratingContent": [
+      "Violenza moderata"
+    ],
+    "region": null,
+    "releaseDate": 20240126,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/f538cef07445a931e2282d17a45fab8b5a220a3983edee30dc2e96197602b1b3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7f294e8f2d75bea25891d25b40e7104b1eac8067f549b72dc6fa1982d15693b9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f66600568c7575285c3052fd885ec48af4cd0502cbc52a9b5a2922652fdef022.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8789df4dd8b9cfd141e9e2fe78d387b78b5660f4868217e984de4083224919da.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/56aac0d2d988070c140d053df733e0a9d1cb29be1f8cea84571257b2ac597bb6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6a23f2309cc942072ebfe56380a97339612ffa8fea765097426f6da612d6703d.jpg"
+    ],
+    "size": 162529280,
+    "version": null
+  },
   "70010000076108": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/10ac594ef7386c0d4b3f590d8cd75068c340c1c1cdb2554bf860da3c1f5f9f5c.jpg",
     "category": [
@@ -2509,6 +2665,45 @@
       "https://img-eshop.cdn.nintendo.net/i/b01f4dfe04f70697b8cbc299c73c6353a008dc5bef1f3f6bd08eccb6980495f6.jpg"
     ],
     "size": 547356672,
+    "version": null
+  },
+  "70010000075477": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dab5af92eade158e47eca858a6b4b6724871dd352901de3170e18920f045faae.jpg",
+    "category": [
+      "Corse",
+      "Simulazione",
+      "Sport",
+      "Azione"
+    ],
+    "description": "Features:\n\n- 7 Single player game modes\n- 6 Trucks, each with 4 different styles\n- Vehicle tuning\n- Real driving experience\n- Incredible amount of fun",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4c41ec1def94cad5c9bf1947316d38399021a991971080c5e04a0649286731ab.jpg",
+    "id": "010046C01DB04000",
+    "intro": "Your craziest Monster Truck driving experience ever!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Monster Truck Freestyle",
+    "nsuId": 70010000075477,
+    "numberOfPlayers": 1,
+    "publisher": "IntuitiveComputers",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240127,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/2129cc3974fd8fb8d3c68df089ce77889efc6b024e45503a34676c2c8b85c8cb.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/3a2dc1aa738701e1469b6605c6c1676332d268652b467bbebb5cd5618dcea64e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/477e0cb21b493ff007df30ce97ac6fa2a86ef3b0bed0f562fe8197424393da13.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0409943f95889770608ad9f3457182d62620a0089e98e7db2e3379dfd68db0e0.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9302f1e936a9dd5390048d2303994b0c4e95c1b039313ff546b7afe6dc8666b4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c752f3f6f836bbb4e5f6f11521785f1b4decc2934827c6f270c8e18b88ae7b1a.jpg"
+    ],
+    "size": 243269632,
     "version": null
   },
   "70010000051840": {
@@ -2814,6 +3009,47 @@
       "https://img-eshop.cdn.nintendo.net/i/4fa2cb1f3b15e4f7b9c702f7bf3ba991310f9cb0d9cd24a302f6aefec65f267b.jpg"
     ],
     "size": 584056832,
+    "version": null
+  },
+  "70010000075322": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4a16778e86f59afee48d1cd858749c5798188f1dc9ad0b3d5e7bc231bde97a26.jpg",
+    "category": [
+      "Puzzle"
+    ],
+    "description": "Eliminare varie caramelle carine nella tazza, con gameplay innovativo e interessante, e vari disegni di livello. Palla di neve, Candy Ink, Candy Fiocco di neve, Uccello, Candy avido, Candy grande, Candy Metamorfosi, Bomba Panda, Spider Clip, ti rendono incapace di fermarti, e scuotere pu\u00f2 fare le caramelle saltare ancora di pi\u00f9. Raggiungere un centinaio di livelli in pi\u00f9, non si pu\u00f2 fermare affatto! Giochi a due giocatori sono pi\u00f9 divertenti, cercare di eliminare pi\u00f9 caramelle, e sforzarsi di sconfiggere l'un l'altro. Questo gioco vi far\u00e0 sentire pi\u00f9 felice!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/499938f6cf12090d958a8e1c3d7358104417e704b83150c5731f6b8ba4bd966c.jpg",
+    "id": "0100D9801D9DC000",
+    "intro": "Candy eliminazione gioco casuale con gameplay unico e interessante, centinaia di livelli, e pi\u00f9 divertimento in giochi multiplayer",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "fr",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Candy Shake Cup",
+    "nsuId": 70010000075322,
+    "numberOfPlayers": 2,
+    "publisher": "BluSped Studio",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240201,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a7cea862ccd24ca84127d39e720805ef6929fb7444077414cc04b0f6ff2c93dd.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d8a950bf4d73d762904b0a37023da315448f059f5aef4aefe5df0e577c080d6f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/58bfe1415d06d0dab0f001a8f22802b133cc5cc709e98fd8422c9a1b400e91ab.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5ce607a58d39a52ddb6a5acab9246ac033973156b4407ed82ae1edfe0236d131.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a6fdc10176de56e35b2316d21c006757fd7aca0056ae9ed021f6633d66b202e6.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/abdc69af206091169122acba232ac2cf4a5624a5282e094e65d64c4a5c49dcf2.jpg"
+    ],
+    "size": 85983232,
     "version": null
   },
   "70050000042851": {
@@ -4030,6 +4266,48 @@
       "https://img-eshop.cdn.nintendo.net/i/e66b11e93febb8f50ecdb5be9ce1f124f18933cc1126c696bce6e12bce7897c0.jpg"
     ],
     "size": 0,
+    "version": null
+  },
+  "70010000064643": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0b3adb91ef9ddf5bb2c7e09a9ff3b69600f40b048220975c9f5f29523ba5f2eb.jpg",
+    "category": [
+      "Azione",
+      "Avventura"
+    ],
+    "description": "South Park Digital Studios, lo studio responsabile della creazione di South Park: Il bastone della verit\u00e0, South Park: Scontri di-retti e South Park: Phone Destroyer, presenta un nuovo capitolo della saga del nuovo arrivato.\n\nUnisciti a Cartman, Stan, Kyle e Kenny (in tre gloriose dimensioni) per festeggiare il giorno pi\u00f9 magico della vita di qualsiasi bambino: una giornata di neve! Una tremenda bufera ha scatenato il caos in citt\u00e0 e, cosa ancora pi\u00f9 importante, ha fatto chiudere la scuola.\n\nChiama fino a tre amici, usa la funzione di matchmaking o gioca con alleati controllati dall'IA nelle innevate strade di South Park. Affronta combattimenti frenetici contro diverse fazioni in una nuovissima storia dove sarai tu a decidere le regole. Equipaggia armi uniche e scatena devastanti abilit\u00e0 speciali e potenziabili mentre combatti per salvare il mondo e goderti una giornata senza scuola.\n\nOggi nevica!\n\n\n- Un nuovissimo gioco cooperativo in 3D.\n- Una bufera di proporzioni epiche ha coperto di neve le strade di South Park. Unisciti a Cartman, Stan, Kenny e Kyle per salvare la citt\u00e0.\n- Affronta il primo gioco cooperativo ambientato a South Park con un massimo di tre amici o alleati controllati dall'IA e devasta i tuoi nemici con potentissimi attacchi coordinati.\n- Equipaggia e potenzia devastanti armi da mischia e a distanza. Scatena abilit\u00e0 e poteri speciali per sgominare orde di nemici e boss epici.\n- Scopri tantissimi, inconfondibili oggetti estetici con cui personalizzare il nuovo arrivato: berretti da neve, magliette Cheesy Poof, menti palloni e tanto altro ancora!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/52e5c09f6c4218c89fd3cf9bf23483591acfd4c0f113d33832cd24c4bfd4bd4f.jpg",
+    "id": "0100D1501ABAE000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "es",
+      "pt",
+      "en",
+      "fr",
+      "de",
+      "ko"
+    ],
+    "name": "SOUTH PARK: SNOW DAY!",
+    "nsuId": 70010000064643,
+    "numberOfPlayers": 1,
+    "publisher": "THQ Nordic",
+    "rating": 16,
+    "ratingContent": [
+      "Bad Language"
+    ],
+    "region": null,
+    "releaseDate": 20240326,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/29e203856c9a6e3c7c106ba9969dd4d204076b7159d14b9e3016b33ca2c808ad.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e64fcf602f2b1be260dab1ab490b5622abe669d62adb495cab6e62b84f3a96e5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0a13f2eb6032ddd15783bf2441c3c7c0fc94fa5868046fa02d78ea345845bcc0.jpg"
+    ],
+    "size": 9970909184,
     "version": null
   },
   "70010000066560": {

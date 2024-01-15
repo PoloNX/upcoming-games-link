@@ -4251,6 +4251,51 @@
     "size": 0,
     "version": null
   },
+  "70010000064642": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0b3adb91ef9ddf5bb2c7e09a9ff3b69600f40b048220975c9f5f29523ba5f2eb.jpg",
+    "category": [
+      "Action",
+      "Adventure"
+    ],
+    "description": "From South Park Digital Studios, the studio that brought you South Park: The Stick of Truth, South Park: The Fractured but Whole, and South Park: Phone Destroyer comes the next chapter in the journey of the New Kid.\n\nJoin Cartman, Stan, Kyle, and Kenny, in three-dimensional glory, to celebrate the most magical day in any young child\u2019s life - a snow day! A massive blizzard has thrown the town into chaos and, more importantly, canceled school.\n\nPlay with up to three friends, use matchmaking, or solo the game with ally bots and battle through the snow-piled town of South Park. Engage in frenetic, action-packed combat against warring factions in an all-new story where you make the rules. Equip unique weapons and deploy devastating, upgradable special abilities on a new adventure to save the world and enjoy a day without school.\n\nIt\u2019s a snow day, dude!\n\n- It\u2019s an all-new 3D co-op game.\n- A blizzard of epic proportions has blanketed the town of South Park and it\u2019s up to Cartman, Stan, Kenny, Kyle, and you, as the New Kid, to save the town.\n- Experience cooperative gameplay for the first time ever in a South Park game with up to three friends or ally bots - unleashing powerful, coordinated attacks on your foes.\n- Equip and upgrade devastating melee and ranged weapons. Deploy special abilities and powers that will bring hordes of enemies and epic bosses to their knees.\n- Use a wide range of iconic cosmetics and customize your New Kid with endless possible combinations from beanies to Cheesy Poof T-shirts to chin balls.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/52e5c09f6c4218c89fd3cf9bf23483591acfd4c0f113d33832cd24c4bfd4bd4f.jpg",
+    "id": "0100D1501ABAE000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "es",
+      "pt",
+      "en",
+      "fr",
+      "de",
+      "ko"
+    ],
+    "name": "SOUTH PARK: SNOW DAY!",
+    "nsuId": 70010000064642,
+    "numberOfPlayers": 1,
+    "publisher": "THQ Nordic",
+    "rating": 17,
+    "ratingContent": [
+      "Blood",
+      "Mature Humor",
+      "Strong Language",
+      "Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240326,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/29e203856c9a6e3c7c106ba9969dd4d204076b7159d14b9e3016b33ca2c808ad.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e64fcf602f2b1be260dab1ab490b5622abe669d62adb495cab6e62b84f3a96e5.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0a13f2eb6032ddd15783bf2441c3c7c0fc94fa5868046fa02d78ea345845bcc0.jpg"
+    ],
+    "size": 9970909184,
+    "version": null
+  },
   "70010000066559": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/36426f576b1cbeaf4d5ce7ea86b9994548798029fe8426bf55e6a0b19b9df35f.jpg",
     "category": [
