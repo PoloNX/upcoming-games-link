@@ -700,6 +700,37 @@
     "size": 0,
     "version": null
   },
+  "70050000046793": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4db3b186f94441f60539db783085558c2a441b1e08c42293bd7213c6f28df452.jpg",
+    "category": null,
+    "description": "Embark on a heroic journey with the Spartan DLC theme for Easy Dice. ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Spartan DLC theme",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Easy Dice for RPG/Tabletop - Spartan Theme",
+    "nsuId": 70050000046793,
+    "numberOfPlayers": null,
+    "publisher": "SOURCE BYTE",
+    "rating": 0,
+    "ratingContent": [
+      "Compras on-line"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/efdf1269b9d5d6899c6d3fecffd7d02530e8dabbb91aeca04f2d5595370e2c3c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a83c5f3a6f9c95b2bff8cfc88ccf116787a84d990975d21f56e98a4032ba0ca4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/63b486d84f31c4c39919320c94b91987fa10e59c47ac3a82589da975ab5bec40.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
   "70050000046795": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6c13c855d91f1b1af2f2337d1cd24a05045458fa4b61c994744ae129c91b70b6.jpg",
     "category": null,
@@ -3152,6 +3183,54 @@
       "https://img-eshop.cdn.nintendo.net/i/d441af01fd77994091eb4dd3cc0172cd7d0bcf2a1b176432fbf38f42431c1ffb.jpg"
     ],
     "size": 699400192,
+    "version": null
+  },
+  "70010000073741": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a9d4355675dd768b2a36f64504785221ec8faf15a12acdc7863e00cd6c005a7.jpg",
+    "category": [
+      "Puzzle",
+      "Aventura"
+    ],
+    "description": "Viva uma aventura sombria repleta de mist\u00e9rios\nVoc\u00ea acorda em uma sala fria e com a luz fraca; pouco a pouco, seus sentidos se acostumam com os arredores curiosamente familiares. Uma sensa\u00e7\u00e3o estranha paira em voc\u00ea, lembrando que h\u00e1 algo fora do lugar. Conforme voc\u00ea se recomp\u00f5e, um item peculiar chama sua aten\u00e7\u00e3o no ch\u00e3o. Um caderno com os dizeres \"CLeM\" est\u00e1 diante de voc\u00ea. Voc\u00ea mergulha em suas p\u00e1ginas, repletas de esbo\u00e7os de insetos e s\u00edmbolos absconsos, e encontra um bilhete com uma mensagem cr\u00edptica: \"Traga-me BELEZA\". Voc\u00ea se deixa levar tentando decifrar o conte\u00fado, mas uma voz quebra sua concentra\u00e7\u00e3o.\n\nResolva enigmas e encontre o caminho\nEnigmas e explora\u00e7\u00e3o entrela\u00e7ados criam uma experi\u00eancia narrativa \u00fanica, nosso \"Puzzlevania\", com uma hist\u00f3ria sombria a desvelar e in\u00fameros desafios a superar.\n\nCrie brinquedos encantados e revele segredos\nCrie brinquedos m\u00e1gicos para revelar segredos ocultos, chegar a lugares inalcan\u00e7\u00e1veis e recuperar itens do passado enquanto descobre novas revela\u00e7\u00f5es em lugares familiares. \n\nDescubra um mundo fofo e sombrio\nInvestigue uma casa aparentemente desolada na companhia apenas de uma voz obscura e de um caderno cheio de anota\u00e7\u00f5es e desenhos sobre alquimia, insetos e outras criaturas sorrateiras.\n\nAbrace seu destino\nEscolha seu destino nesta hist\u00f3ria sombria de manipula\u00e7\u00e3o, orgulho, perd\u00e3o e reden\u00e7\u00e3o.\n\nRecursos:\n- Um novo g\u00eanero, \"Puzzlevania\", que une enigmas e explora\u00e7\u00e3o. Descubra segredos ocultos em todos os cantos conforme voc\u00ea mergulha cada vez mais fundo nos mist\u00e9rios com cada brinquedo m\u00e1gico criado.\n- Estilo art\u00edstico bonito e original com desenhos \u00e0 m\u00e3o.\n- Gr\u00e1ficos 2D e navega\u00e7\u00e3o ambiente 3D.\n- Enigmas complexos e variados para resolver.\n- Uma hist\u00f3ria enigm\u00e1tica, um segredo sombrio.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/720201d11cac19078c9127b86202ff9c2244600b266bc1b9aaaf91e1bad4e5d1.jpg",
+    "id": "010063401D45A000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "pt",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "nl",
+      "ru",
+      "ko",
+      "zh"
+    ],
+    "name": "CLeM",
+    "nsuId": 70010000073741,
+    "numberOfPlayers": 1,
+    "publisher": "Iceberg Interactive",
+    "rating": 12,
+    "ratingContent": [
+      "Viol\u00eancia"
+    ],
+    "region": null,
+    "releaseDate": 20240206,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/06d86311d2bf829b6d621e026224135326cb8537273b4ffb6345ef53ce219975.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ff86c0c7de302318c9b95eab42f403b7c61b87c7d0c07c57e996830c98160cc1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1bb68170fc78d80315d005f8bed3cf14cb2c44988d53bea7f83828809bb8427a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a668b5eacec742102d4bf49908a66a216b41f72d34c791a88aee6f7ed9752093.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ba44ac523d284ae546185ae3fc6f03683e764eb9598fa1fbff8d885339dc2ee3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f0ca35480a6e15b6c529f1a6ea87a4a843aab374bf002f28cafe0269c314d5f6.jpg"
+    ],
+    "size": 1108344832,
     "version": null
   },
   "70050000036517": {

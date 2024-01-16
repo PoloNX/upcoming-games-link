@@ -1,4 +1,31 @@
 {
+  "70050000044886": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9778a897083b44d17c3c5ed6ef7a7601495a1fd204b2c602d81ac9077a17341f.jpg",
+    "category": null,
+    "description": "\u7acb\u5373\u53d6\u5f97\u300c\u9032\u64ca\u7f94\u7f8a\u50b3\u8aaa\uff1a\u7f6a\u5b7d\u300d\u5167\u5bb9\u5305\uff0c\u76e1\u60c5\u6c89\u6d78\u5728\u7f6a\u5b7d\u4e2d\u5427\u3002\u5c0d\u65bc\u64c1\u6709\u570b\u738b\u738b\u540e\u7d1a\u653e\u7e31\u7f8e\u5b78\u7684\u4eba\u4f86\u8aaa\uff0c\u7f6a\u5b7d\u5305\u53ef\u662f\u6063\u60c5\u7e31\u617e\u7684\u7d55\u4f73\u9078\u64c7\u3002\u865b\u69ae\u96d6\u7136\u662f\u4e00\u7a2e\u7f6a\uff0c\u4f46\u662f\u865b\u69ae\u53c8\u6c92\u932f\uff01\n\n\u300c\u9032\u64ca\u7f94\u7f8a\u50b3\u8aaa\uff1a\u7f6a\u5b7d\u300d\u5167\u5bb9\u5305\u5167\u542b\uff1a\n5 \u500b\u5168\u65b0\u6559\u5f92\u5916\u89c0\uff1a\u96d9\u9afb\u9bab\u3001\u74e2\u87f2\u3001\u8001\u864e\u3001\u99f1\u99ac\u3001\u65af\u82ac\u514b\u65af\u8c93\n6 \u4ef6\u65b0\u6559\u5f92\u670d\u88dd\n6 \u500b\u65b0\u7684\u6839\u64da\u5730\u88dd\u98fe\n\u4e00\u5957\u7d66\u8056\u7f8a\u7684\u7f6a\u5b7d\u65b0\u6bdb\u7d21\uff01",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "\u9032\u64ca\u7f94\u7f8a\u50b3\u8aaa\uff1a\u7f6a\u5b7d\u5167\u5bb9\u5305",
+    "nsuId": 70050000044886,
+    "numberOfPlayers": null,
+    "publisher": "Devolver Digital",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240117,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/ede542eb99f912ace544bd09adf2b0f15a043d4f3fa2115cd6e2a8fb31663d3d.jpg"
+    ],
+    "size": 3145728,
+    "version": null
+  },
   "70010000057919": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c405a5d131f8fdff7d73805865cf404e8615eba41b389cb217e3140d10950378.jpg",
     "category": [

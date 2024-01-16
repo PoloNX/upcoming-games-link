@@ -709,6 +709,37 @@
     "size": 0,
     "version": null
   },
+  "70050000046793": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4db3b186f94441f60539db783085558c2a441b1e08c42293bd7213c6f28df452.jpg",
+    "category": null,
+    "description": "Embark on a heroic journey with the Spartan DLC theme for Easy Dice. ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Spartan DLC theme",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Easy Dice for RPG/Tabletop - Spartan Theme",
+    "nsuId": 70050000046793,
+    "numberOfPlayers": null,
+    "publisher": "SOURCE BYTE",
+    "rating": 6,
+    "ratingContent": [
+      "In-Game Purchases"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/efdf1269b9d5d6899c6d3fecffd7d02530e8dabbb91aeca04f2d5595370e2c3c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a83c5f3a6f9c95b2bff8cfc88ccf116787a84d990975d21f56e98a4032ba0ca4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/63b486d84f31c4c39919320c94b91987fa10e59c47ac3a82589da975ab5bec40.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
   "70050000046795": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6c13c855d91f1b1af2f2337d1cd24a05045458fa4b61c994744ae129c91b70b6.jpg",
     "category": null,
@@ -3302,6 +3333,54 @@
       "https://img-eshop.cdn.nintendo.net/i/d441af01fd77994091eb4dd3cc0172cd7d0bcf2a1b176432fbf38f42431c1ffb.jpg"
     ],
     "size": 699400192,
+    "version": null
+  },
+  "70010000073741": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a9d4355675dd768b2a36f64504785221ec8faf15a12acdc7863e00cd6c005a7.jpg",
+    "category": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "description": "Experience a dark adventure full of mystery\nYou awaken in a cold, dimly lit room, your senses slowly adjusting to the surroundings that, oddly, feel familiar. A strange sensation lingers in you, reminding you that something is not quite right. As you find your bearings, your attention is drawn to a peculiar item on the ground. A notebook labeled \"CLeM\" lies before you. As you delve into its pages, covered with intricate sketches of insects accompanied by vague symbols, you find a note containing a cryptic message: \u201cBring me BEAUTY.\u201d Lost in deciphering the contents, a voice interrupts your focus.\n\nSolve puzzles and find your way\nPuzzles intertwine with exploration, weaving a unique narrative experience we call \u201cPuzzlevania\u201d with a shadowy story to unravel and countless challenges to overcome.\n\nCraft enchanted toys and uncover secrets\nCraft magic toys to unveil hidden secrets, access unreachable spots, and reclaim items from the past as you uncover new revelations in familiar spaces. \n\nDiscover a cute and dark world\nInvestigate a seemingly desolate house accompanied only by an obscure voice and a notebook full of annotations and drawings on alchemy, insects, and other creepy crawlies.\n\nEmbrace your destiny\nChoose your fate in this dark story of manipulation, pride, forgiveness, and redemption.\n\nFeatures:\n- A new genre, \u201cPuzzlevania,\u201d intertwines puzzles and exploration. Discover hidden secrets in each room as you delve deeper into the mysteries with every crafted magical toy.\n- Unique and beautiful art style with hand-drawn elements.\n- 2D graphics with 3D environmental navigation.\n- Challenging and diverse puzzles to solve.\n- An enigmatic story with a dark turn.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/720201d11cac19078c9127b86202ff9c2244600b266bc1b9aaaf91e1bad4e5d1.jpg",
+    "id": "010063401D45A000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "pt",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "nl",
+      "ru",
+      "ko",
+      "zh"
+    ],
+    "name": "CLeM",
+    "nsuId": 70010000073741,
+    "numberOfPlayers": 1,
+    "publisher": "Iceberg Interactive",
+    "rating": 13,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240206,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/06d86311d2bf829b6d621e026224135326cb8537273b4ffb6345ef53ce219975.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ff86c0c7de302318c9b95eab42f403b7c61b87c7d0c07c57e996830c98160cc1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1bb68170fc78d80315d005f8bed3cf14cb2c44988d53bea7f83828809bb8427a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a668b5eacec742102d4bf49908a66a216b41f72d34c791a88aee6f7ed9752093.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ba44ac523d284ae546185ae3fc6f03683e764eb9598fa1fbff8d885339dc2ee3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f0ca35480a6e15b6c529f1a6ea87a4a843aab374bf002f28cafe0269c314d5f6.jpg"
+    ],
+    "size": 1108344832,
     "version": null
   },
   "70050000036517": {
