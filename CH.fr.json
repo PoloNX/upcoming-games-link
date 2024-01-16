@@ -757,6 +757,99 @@
     "size": 0,
     "version": null
   },
+  "70050000046523": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f638a660a91ef65f1a8b761533c764315b176c26a418698a212dd8673c30fff1.jpg",
+    "category": null,
+    "description": "Embarquez pour un voyage h\u00e9ro\u00efque avec le th\u00e8me Warrior DLC pour Easy Dice.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Guerrier DLC",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Easy Dice for RPG/Tabletop - Warrior Theme",
+    "nsuId": 70050000046523,
+    "numberOfPlayers": null,
+    "publisher": "SOURCE BYTE",
+    "rating": 3,
+    "ratingContent": [
+      "Achats int\u00e9gr\u00e9s"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/8eb5bb410065c5856193ef09dcfc5167e0ceb477e0c7d48a32053a40b477418d.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a1801527aa97f187aeaf3a5b8ac6d32c7a31ba5533891536b25365bf4603c777.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0f2a1d0505db127ab246c33bf9e8728d9c1895fd0662f1495b95b484747a2c09.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70050000046792": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4db3b186f94441f60539db783085558c2a441b1e08c42293bd7213c6f28df452.jpg",
+    "category": null,
+    "description": "Embarquez pour un voyage h\u00e9ro\u00efque avec le th\u00e8me Spartan DLC pour Easy Dice.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Spartan DLC theme",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Easy Dice for RPG/Tabletop - Spartan Theme",
+    "nsuId": 70050000046792,
+    "numberOfPlayers": null,
+    "publisher": "SOURCE BYTE",
+    "rating": 3,
+    "ratingContent": [
+      "Achats int\u00e9gr\u00e9s"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/efdf1269b9d5d6899c6d3fecffd7d02530e8dabbb91aeca04f2d5595370e2c3c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a83c5f3a6f9c95b2bff8cfc88ccf116787a84d990975d21f56e98a4032ba0ca4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/63b486d84f31c4c39919320c94b91987fa10e59c47ac3a82589da975ab5bec40.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70050000046794": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6c13c855d91f1b1af2f2337d1cd24a05045458fa4b61c994744ae129c91b70b6.jpg",
+    "category": null,
+    "description": "Embarquez pour un voyage h\u00e9ro\u00efque avec le th\u00e8me Wave DLC pour Easy Dice.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "DLC Th\u00e8me Vague",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Easy Dice for RPG/Tabletop - Wave Theme",
+    "nsuId": 70050000046794,
+    "numberOfPlayers": null,
+    "publisher": "SOURCE BYTE",
+    "rating": 3,
+    "ratingContent": [
+      "Achats int\u00e9gr\u00e9s"
+    ],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/a2cba06d9e25c93d3fbb85d73a175f520bd03c44118ef9722cd4a29d1b669b4b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/624d121c8ef1f17bb6d5823267b738315810f68c1d6558169aca401d97873988.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8a89138f3aab8e57b2d6f734140db94ee898071f5e2223860ba82e4389f10246.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
   "70070000017450": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4d98abffefee0b2e3708b5954223e11b01ef10d969921d41c4a05fbffbae09a0.jpg",
     "category": null,
@@ -3366,6 +3459,56 @@
     "size": 699400192,
     "version": null
   },
+  "70010000073742": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a9d4355675dd768b2a36f64504785221ec8faf15a12acdc7863e00cd6c005a7.jpg",
+    "category": [
+      "R\u00e9flexion",
+      "Aventure"
+    ],
+    "description": "Vis une aventure sombre et pleine de myst\u00e8re\nTu te r\u00e9veilles dans une pi\u00e8ce sombre et froide. Tes sens s'ajustent lentement \u00e0 cet environnement qui, \u00e9trangement, te semble familier. Il te reste une sensation bizarre, qui te rappelle que quelque chose ne va pas vraiment. En reprenant tes esprits, ton attention est attir\u00e9e par un curieux objet pos\u00e9 sur le sol. Un carnet intitul\u00e9 \u00ab CLeM \u00bb se trouve devant toi. En plongeant dans ses pages couvertes de dessins d'insectes et de vagues symboles, tu trouves une lettre contenant un message \u00e9nigmatique : \u00ab Apporte-moi de la BEAUT\u00c9. \u00bb Une voix interrompt ta lecture.\n\nR\u00e9sous des \u00e9nigmes et trouve ton chemin\nDes \u00e9nigmes se m\u00ealent \u00e0 l'exploration, cr\u00e9ant une exp\u00e9rience narrative unique que nous appelons \u00ab Puzzlevania \u00bb, avec une histoire obscure dont tu devras percer les myst\u00e8res et d'innombrables d\u00e9fis qu'il te faudra relever.\n\nFabrique des jouets enchant\u00e9s et perce des secrets\nFabrique des jouets magiques pour percer des secrets, acc\u00e9der \u00e0 des endroits inaccessibles et r\u00e9cup\u00e9rer des objets du pass\u00e9 tout en faisant de nouvelles d\u00e9couvertes dans les endroits d\u00e9j\u00e0 connus. \n\nD\u00e9couvre un monde \u00e0 la fois sombre et mignon\nFouille une maison qui semble abandonn\u00e9e, accompagn\u00e9 par une voix obscure et un carnet plein de notes et de dessins sur l'alchimie, les insectes et autres bestioles.\n\nEmbrasse ton destin\nChoisis ton destin dans cette sombre histoire de manipulation, d'orgueil, de pardon et de r\u00e9demption.\n\nCaract\u00e9ristiques:\n- Un nouveau genre, le \u00ab Puzzlevania \u00bb, alliant \u00e9nigmes et exploration. D\u00e9couvre des secrets cach\u00e9s dans chaque pi\u00e8ce et plonge plus avant dans le myst\u00e8re \u00e0 chaque jouet magique que tu fabriques.\n- Un style graphique adorable et unique, avec des \u00e9l\u00e9ments dessin\u00e9s \u00e0 la main.\n- Des graphiques en 2D et une navigation dans l'environnement en 3D.\n- Des \u00e9nigmes complexes et vari\u00e9es \u00e0 r\u00e9soudre.\n- Une histoire myst\u00e9rieuse qui prend un tour sombre.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/720201d11cac19078c9127b86202ff9c2244600b266bc1b9aaaf91e1bad4e5d1.jpg",
+    "id": "010063401D45A000",
+    "intro": null,
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "pt",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "nl",
+      "ru",
+      "ko",
+      "zh"
+    ],
+    "name": "CLeM",
+    "nsuId": 70010000073742,
+    "numberOfPlayers": 1,
+    "publisher": "Iceberg Interactive",
+    "rating": 7,
+    "ratingContent": [
+      "Peur",
+      "Violence implicite",
+      "Violence mod\u00e9r\u00e9e"
+    ],
+    "region": null,
+    "releaseDate": 20240206,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/06d86311d2bf829b6d621e026224135326cb8537273b4ffb6345ef53ce219975.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ff86c0c7de302318c9b95eab42f403b7c61b87c7d0c07c57e996830c98160cc1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1bb68170fc78d80315d005f8bed3cf14cb2c44988d53bea7f83828809bb8427a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a668b5eacec742102d4bf49908a66a216b41f72d34c791a88aee6f7ed9752093.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ba44ac523d284ae546185ae3fc6f03683e764eb9598fa1fbff8d885339dc2ee3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f0ca35480a6e15b6c529f1a6ea87a4a843aab374bf002f28cafe0269c314d5f6.jpg"
+    ],
+    "size": 1108344832,
+    "version": null
+  },
   "70050000036557": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02d5763d0c29ab56d3abeda45ee6f5322f66f31d66ff3472a2688507678ebc5c.jpg",
     "category": null,
@@ -3506,6 +3649,38 @@
       "https://img-eshop.cdn.nintendo.net/i/b43f38cc3870fc050340120bb1cd47e99d8bb5ec0149aeaf765e176aa3019b0c.jpg"
     ],
     "size": 3386900480,
+    "version": null
+  },
+  "70070000020444": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a711c71b5170db5ea2514556cf61cacc91eb265698aaa32a5ce19aed67f3397f.jpg",
+    "category": null,
+    "description": "Embarquez pour un voyage de plates-formes avec GeoJelly, en ma\u00eetrisant des sauts de pr\u00e9cision dans des chambres de test difficiles. Collectez des diamants pour d\u00e9bloquer plus de 50 niveaux, r\u00e9solvez des \u00e9nigmes logiques et devenez un champion du speedrunner. Donnez de l'ampleur \u00e0 votre aventure avec le DLC Odyss\u00e9e de l'espace, en vous aventurant dans le cosmos avec des portails hallucinants, des labyrinthes spatiaux complexes et une exp\u00e9rience stellaire qui porte le jeu de plateforme \u00e0 de nouveaux sommets. D\u00e9couvrez les secrets de l'univers en naviguant dans le vide, en combinant le jeu de base et le DLC pour une odyss\u00e9e \u00e9pique.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Sautez dans le cosmos avec GeoJelly Space Odyssey",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "GeoJelly Space Odyssey Bundle",
+    "nsuId": 70070000020444,
+    "numberOfPlayers": null,
+    "publisher": "SOURCE BYTE",
+    "rating": 3,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240208,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/20c7fd09bb0552464842857a5511b9046c7d29a5068ddd64f714e7cf2d8d19a9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/08443688ec2a5fc4ec40eeb2f91d10b4ed8e327e205a4fda867e04b6ea89b2e3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e47b6d3f99a25a406debad3cd0f72b346e595c2ddbbafc2811a59e8021e0925c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/62ca396b527c5a2f0108c5beaa56b4292edba6612e0048404738a4709cffc33c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/aff8a3a3a6b4996b02d41b5301611ccf3a8b7104af38c50451536bd1275be3dc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b9659efba173a7738e5d91975f9cd07c0184972d9682410701087cb3e13b53e6.jpg"
+    ],
+    "size": 122683392,
     "version": null
   },
   "70010000070963": {
