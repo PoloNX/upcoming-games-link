@@ -1,45 +1,4 @@
 {
-  "70010000072365": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ff9f42ba5cf7661f9a2e3e79467483665c1183bbb7f2bd164224fb8b1e63783.jpg",
-    "category": [
-      "Tiro",
-      "Arcade",
-      "A\u00e7\u00e3o"
-    ],
-    "description": "Nephenthesys \u00e9 um jogo de tiros com deslocamento vertical apresentado num estilo 3D com vista superior impressionante. Destr\u00f3i uma enorme variedade de naves inimigas, recolhe refor\u00e7os para teres melhor alcance, dispers\u00e3o e bombas especiais. A seguir, enfrenta bosses que preenchem o ecr\u00e3 todo. Esta miss\u00e3o levar-te-\u00e1 por cavernas, hidrovias, paisagens urbanas e muito mais. Ser\u00e1 que tens o que \u00e9 preciso para triunfar?\n\nCaracter\u00edsticas:\n\n\u2022 Mergulha em tiroteios inspirados nos cl\u00e1ssicos das arcadas!\n\u2022 Escolhe a partir de v\u00e1rias naves, com estat\u00edsticas e tipos de tiros \u00fanicos.\n\u2022 Enfrenta vagas de inimigos e recolhe refor\u00e7os!\n\u2022 Percorre cavernas, hidrovias, paisagens urbanas e outros ambientes \u00fanicos.\n\u2022 No fim de cada n\u00edvel, enfrenta bosses que preenchem o ecr\u00e3 todo.\n\u2022 Desfruta de uma hist\u00f3ria leve que se desenrola atrav\u00e9s de di\u00e1logo via r\u00e1dio!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f935cee840b3962529c529b87a6d965d8b993c1358bbfa72f67e82d4fb24cdd.jpg",
-    "id": "0100C3501CF2C000",
-    "intro": "Parte numa miss\u00e3o trai\u00e7oeira e recupera uma fonte desconhecida de energia durante um ataque alien\u00edgena!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "name": "Nephenthesys",
-    "nsuId": 70010000072365,
-    "numberOfPlayers": 1,
-    "publisher": "eastasiasoft",
-    "rating": 10,
-    "ratingContent": [
-      "Viol\u00eancia"
-    ],
-    "region": null,
-    "releaseDate": 20240117,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/6989366f31e4b901fbb24b55201a0ae1a4331ecf55882401306a9e8e645ef11e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/38e761307c9f6a415bb37b76cbeeb79791ab82902ad5301c311b02b59a620064.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3ea3ad4c2dd89a957a307b52b25874619d0b739c2ac7361c37802838fa8d349d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dcde9be7e1f822b39c3f09094cf348d29050d6abea5a26cdac12e2cfee3ec2df.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aad7bbf62f8afa8d191f0c8e3925a8930e3ced9b1e197f242bffaa9c9e2fad7e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
-    ],
-    "size": 118489088,
-    "version": null
-  },
   "70010000057921": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a2cf8574961a349dc14f97c394d186ab1191b6e99682ddbe10fd4455c7197e1.jpg",
     "category": [
@@ -546,6 +505,54 @@
       "https://img-eshop.cdn.nintendo.net/i/6b7b58eebe59c611ecaf9076d0910d72964246f92e620172af82842daa319dcd.jpg"
     ],
     "size": 4116709376,
+    "version": null
+  },
+  "70010000075457": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0abb929456103e36df5462715131d032b7dcfeea6ce5b2ae5cdad0aeea29e16d.jpg",
+    "category": [
+      "Aventura",
+      "RPG",
+      "A\u00e7\u00e3o",
+      "Estrat\u00e9gia"
+    ],
+    "description": "Em cada batalha, traga at\u00e9 quatro companheiros de equipe e um Esp\u00edrito Guardi\u00e3o para uma divers\u00e3o emocionante no jogo! Voc\u00ea tamb\u00e9m pode desempenhar diferentes pap\u00e9is, explorar uma vasta gama de habilidades profissionais e montar sua equipe \u00fanica de companheiros. Sobreviva aos enxames de monstros, navegue pelos caminhos do destino, conquiste chefes formid\u00e1veis e lute ao lado de uma variedade de Esp\u00edritos Guardi\u00f5es adquiridos aleatoriamente para finalmente derrotar o senhor dem\u00f4nio supremo!\n\n\u203b Caracter\u00edsticas do Jogo:\n\nProfiss\u00f5es Diversas: Escolha entre 12 estilos e atributos diferentes de profiss\u00f5es dispon\u00edveis no jogo.\n\nHabilidades Divinas Avan\u00e7adas: Experimente 8 fac\u00e7\u00f5es principais de elementos de habilidade (Trov\u00e3o, Vento, Gelo, Fogo, Terra, Veneno, Sagrado, Escuro). Misture e combine livremente diferentes habilidades de ataque que podem ser melhoradas para o n\u00edvel divino, dobrando o poder de combate.\n\nInvocar Esp\u00edritos Guardi\u00f5es: O jogo apresenta uma ampla variedade de Esp\u00edritos Guardi\u00f5es \u00fanicos, com habilidades e capacidades diversas, lutando e crescendo com voc\u00ea.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/85168f27118d9d9071de16fa99e884d725be939449c21ffd3e456c4d507a076b.jpg",
+    "id": "010082501DAF2000",
+    "intro": "Empolga\u00e7\u00e3o Rogue-like impar\u00e1vel! Desbloqueie novas classes, re\u00fana aliados e mergulhe em aventuras \u00fanicas. Conquiste as hordas de monstros e embarque em uma jornada \u00e9pica.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "de",
+      "it",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Hero of Fate",
+    "nsuId": 70010000075457,
+    "numberOfPlayers": 1,
+    "publisher": "Happy Player",
+    "rating": 0,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/fdcb276c5e0beaf777beec81f8cde865397ab319424397ee1e7ba6b775381694.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e93a3f2850a91e3365f8c948150d909eb2d849e1401e186b4a18d32103218380.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/350bb0664e8442401213169f5d1eec5c7de29beb96d6eefeee40b865a2e78824.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc3d0148f9ca5258c7dfe32b7bddb1a31efd89b25cd89d8201a7b401875c1a45.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4f5513d9f107a07e0f3ddff776f8af3978107dbce80ed2205d6cc9b8109b78a7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e0605dab3b2e450f27b79816aeaf5747f64954c71a3e3e4724ecd5819ddc3b58.jpg"
+    ],
+    "size": 1610612736,
     "version": null
   },
   "70010000075793": {
@@ -2635,6 +2642,42 @@
       "https://img-eshop.cdn.nintendo.net/i/356e18549e72af0981f033d553534bd6d68bd0d4592c101e9dff63b1a495c354.jpg"
     ],
     "size": 112197632,
+    "version": null
+  },
+  "70050000042973": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2115b3ce2624f8419a26f3cc35b0a7b2386597d17625143c2611aac417cbfa14.jpg",
+    "category": null,
+    "description": "Sam e John retornam em uma aventura totalmente nova! Numa remota aldeia nas montanhas, Sam e John come\u00e7am uma nova vida agr\u00edcola. Cultive a terra, cuide do gado e prepare refei\u00e7\u00f5es para amigos familiares, mas, de certa forma, diferentes.\n\nDesfrute de uma vida pacata em ambientes pixelados tranquilos!\n\n\u2022 Ajude Sam e John a levarem uma nova vida pac\u00edfica no campo, sem miasma, sem dificuldades, apenas momentos felizes em um universo paralelo.\n\u2022 Revitalize uma fazenda abandonada, cultive planta\u00e7\u00f5es, crie animais, colete itens no p\u00e2ntano, fale com fantasmas e passe noites lan\u00e7ando a isca nos locais de pesca.\n\u2022 Construa e melhore lojas e casas para que Octopia volte a ser uma comunidade pr\u00f3spera.\n\u2022 \u00c0 medida que a comunidade volta a florescer, mais rostos conhecidos v\u00e3o migrar para a \u00e1rea, e alguns at\u00e9 poder\u00e3o decidir ficar para sempre!\n\u2022 Com ingredientes frescos da fazenda e o livro de receitas do John, crie receitas e prepare deliciosas iguarias culin\u00e1rias para compartilhar com os vizinhos.\n\nPara jogadores novos e antigos, Eastward: Octopia est\u00e1 dispon\u00edvel diretamente pelo menu inicial de Eastward. Comece a viver a uma vida tranquila imediatamente.\n\nDispon\u00edvel em ingl\u00eas, espanhol, franc\u00eas, alem\u00e3o, chin\u00eas simplificado, chin\u00eas tradicional e japon\u00eas!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Pr\u00f3xima parada... Octopia!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Eastward: Octopia",
+    "nsuId": 70050000042973,
+    "numberOfPlayers": null,
+    "publisher": "Chucklefish",
+    "rating": 10,
+    "ratingContent": [
+      "Viol\u00eancia",
+      "Conte\u00fado Sexual",
+      "Drogas L\u00edcitas"
+    ],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/0a95cf295c02c1e08e1a1a5ad0f8b05c8be83d3afc4bbabdcfab4879cf36769a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/73297f5dd58108533183b3e842003bfae2acea2f3b69107dce70f9f2950bbd84.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c837c333db2132204042c6ac23d4f7447d5a45c8f85db7b4d688dd8cb5399f0c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/818afe75a0d87b866f11606956e8c0ba83d0191ba1930172d55edc2d999b7f21.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5c722212e63dffab2a7d8b9fd99a213de8947f535e298c59e199aa44f4f71b1b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8bcfd33e570b4d641bc76119e553156ff7fb04446009970210fd597a4fe8a313.jpg"
+    ],
+    "size": 0,
     "version": null
   },
   "70050000044386": {

@@ -1,45 +1,4 @@
 {
-  "70010000072366": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71f4953b94e5487a6ae29532ce0f90808e1fc5fd4e0d94d7828765a6cab77e0b.jpg",
-    "category": [
-      "Disparos (Shooter)",
-      "Arcade",
-      "Acci\u00f3n"
-    ],
-    "description": "Nephenthesys es un shoot'em up con desplazamiento vertical presentado en una pantalla panor\u00e1mica de vista cenital y gr\u00e1ficos con estilo 3D. \u00c1brete camino a disparos a trav\u00e9s de una gran variedad de enemigos, recoge potenciadores para aumentar la dispersi\u00f3n de tus tiros y bombas especiales, y enfr\u00e9ntate a gigantescos jefes que llenan toda la pantalla. Tu misi\u00f3n te llevar\u00e1 por cavernas, r\u00edos, paisajes urbanos y mucho m\u00e1s. \u00bfTienes la habilidad suficiente para triunfar?\n\nCaracter\u00edsticas:\n\n\u2022 \u00a1Experimenta la acci\u00f3n shoot'em up de la vieja escuela en un juego inspirado en los cl\u00e1sicos de arcade!\n\u2022 Elige entre una variedad de naves con distintas estad\u00edsticas y tipos de disparo.\n\u2022 \u00a1Enfr\u00e9ntate a hordas de enemigos y recoge potenciadores!\n\u2022 Recorre cavernas, r\u00edos, paisajes urbanos y otros entornos \u00fanicos.\n\u2022 Lucha contra jefes que llenan la pantalla al final de cada nivel.\n\u2022 \u00a1Disfruta de una historia sencilla narrada mediante di\u00e1logos!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f935cee840b3962529c529b87a6d965d8b993c1358bbfa72f67e82d4fb24cdd.jpg",
-    "id": "0100C3501CF2C000",
-    "intro": "\u00a1Despega en una peligrosa misi\u00f3n para recuperar una fuente de energ\u00eda no identificada en medio de un asalto alien\u00edgena!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "name": "Nephenthesys",
-    "nsuId": 70010000072366,
-    "numberOfPlayers": 1,
-    "publisher": "eastasiasoft",
-    "rating": 7,
-    "ratingContent": [
-      "Violencia leve"
-    ],
-    "region": null,
-    "releaseDate": 20240117,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/6989366f31e4b901fbb24b55201a0ae1a4331ecf55882401306a9e8e645ef11e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/38e761307c9f6a415bb37b76cbeeb79791ab82902ad5301c311b02b59a620064.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3ea3ad4c2dd89a957a307b52b25874619d0b739c2ac7361c37802838fa8d349d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dcde9be7e1f822b39c3f09094cf348d29050d6abea5a26cdac12e2cfee3ec2df.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aad7bbf62f8afa8d191f0c8e3925a8930e3ced9b1e197f242bffaa9c9e2fad7e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
-    ],
-    "size": 118489088,
-    "version": null
-  },
   "70010000054312": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5f8f9605b94ad641786d72990b73c0efda13d6f64422aca21e2d8942d879a5d7.jpg",
     "category": [

@@ -1,45 +1,4 @@
 {
-  "70010000072365": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ff9f42ba5cf7661f9a2e3e79467483665c1183bbb7f2bd164224fb8b1e63783.jpg",
-    "category": [
-      "Disparos",
-      "Arcade",
-      "Acci\u00f3n"
-    ],
-    "description": "Nephenthesys es un shoot'em up con desplazamiento vertical presentado en una pantalla panor\u00e1mica de vista cenital y gr\u00e1ficos con estilo 3D. \u00c1brete camino a disparos a trav\u00e9s de una gran variedad de enemigos, recoge potenciadores para aumentar la dispersi\u00f3n de tus tiros y bombas especiales, y enfr\u00e9ntate a gigantescos jefes que llenan toda la pantalla. Tu misi\u00f3n te llevar\u00e1 por cavernas, r\u00edos, paisajes urbanos y mucho m\u00e1s. \u00bfTienes la habilidad suficiente para triunfar?\n\nCaracter\u00edsticas:\n\n\u2022 \u00a1Experimenta la acci\u00f3n shoot'em up de la vieja escuela en un juego inspirado en los cl\u00e1sicos de arcade!\n\u2022 Elige entre una variedad de naves con distintas estad\u00edsticas y tipos de disparo.\n\u2022 \u00a1Enfr\u00e9ntate a hordas de enemigos y recoge potenciadores!\n\u2022 Recorre cavernas, r\u00edos, paisajes urbanos y otros entornos \u00fanicos.\n\u2022 Lucha contra jefes que llenan la pantalla al final de cada nivel.\n\u2022 \u00a1Disfruta de una historia sencilla narrada mediante di\u00e1logos!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f935cee840b3962529c529b87a6d965d8b993c1358bbfa72f67e82d4fb24cdd.jpg",
-    "id": "0100C3501CF2C000",
-    "intro": "\u00a1Despega en una peligrosa misi\u00f3n para recuperar una fuente de energ\u00eda no identificada en medio de un asalto alien\u00edgena!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "name": "Nephenthesys",
-    "nsuId": 70010000072365,
-    "numberOfPlayers": 1,
-    "publisher": "eastasiasoft",
-    "rating": 10,
-    "ratingContent": [
-      "Violencia de fantasia"
-    ],
-    "region": null,
-    "releaseDate": 20240117,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/6989366f31e4b901fbb24b55201a0ae1a4331ecf55882401306a9e8e645ef11e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/38e761307c9f6a415bb37b76cbeeb79791ab82902ad5301c311b02b59a620064.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3ea3ad4c2dd89a957a307b52b25874619d0b739c2ac7361c37802838fa8d349d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dcde9be7e1f822b39c3f09094cf348d29050d6abea5a26cdac12e2cfee3ec2df.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aad7bbf62f8afa8d191f0c8e3925a8930e3ced9b1e197f242bffaa9c9e2fad7e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
-    ],
-    "size": 118489088,
-    "version": null
-  },
   "70010000057921": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a2cf8574961a349dc14f97c394d186ab1191b6e99682ddbe10fd4455c7197e1.jpg",
     "category": [
@@ -551,6 +510,54 @@
       "https://img-eshop.cdn.nintendo.net/i/6b7b58eebe59c611ecaf9076d0910d72964246f92e620172af82842daa319dcd.jpg"
     ],
     "size": 4116709376,
+    "version": null
+  },
+  "70010000075457": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0abb929456103e36df5462715131d032b7dcfeea6ce5b2ae5cdad0aeea29e16d.jpg",
+    "category": [
+      "Aventura",
+      "Juego de rol",
+      "Acci\u00f3n",
+      "Estrategia"
+    ],
+    "description": "En cada batalla, lleva hasta cuatro compa\u00f1eros de equipo y un Esp\u00edritu Guardi\u00e1n para una diversi\u00f3n emocionante en el juego. Tambi\u00e9n puedes jugar diferentes roles, explorando una amplia gama de habilidades profesionales y formando tu \u00fanico equipo de compa\u00f1eros. Sobrevive a las hordas de monstruos, navega por los caminos del destino, conquista jefes formidables y lucha junto a una variedad de Esp\u00edritus Guardianes adquiridos al azar para finalmente derrotar al se\u00f1or demonio supremo.\n\n\u203b Caracter\u00edsticas del Juego:\n\nProfesiones Diversas: Elige entre 12 estilos y atributos diferentes de profesiones disponibles en el juego.\n\nHabilidades Divinas Avanzadas: Experimenta 8 facciones principales de elementos de habilidades (Trueno, Viento, Hielo, Fuego, Tierra, Veneno, Sagrado, Oscuro). Mezcla y combina libremente diferentes habilidades de ataque que se pueden mejorar a nivel divino para duplicar el poder de combate.\n\nInvocar Esp\u00edritus Guardianes: El juego presenta una amplia variedad de Esp\u00edritus Guardianes \u00fanicos con habilidades y capacidades diversas, luchando y creciendo contigo.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/85168f27118d9d9071de16fa99e884d725be939449c21ffd3e456c4d507a076b.jpg",
+    "id": "010082501DAF2000",
+    "intro": "\u00a1Emoci\u00f3n Rogue-like imparable! Desbloquea nuevas clases, re\u00fane aliados y sum\u00e9rgete en aventuras \u00fanicas. Conquista las hordas de monstruos y emprende un viaje \u00e9pico.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "de",
+      "it",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Hero of Fate",
+    "nsuId": 70010000075457,
+    "numberOfPlayers": 1,
+    "publisher": "Happy Player",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/fdcb276c5e0beaf777beec81f8cde865397ab319424397ee1e7ba6b775381694.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e93a3f2850a91e3365f8c948150d909eb2d849e1401e186b4a18d32103218380.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/350bb0664e8442401213169f5d1eec5c7de29beb96d6eefeee40b865a2e78824.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc3d0148f9ca5258c7dfe32b7bddb1a31efd89b25cd89d8201a7b401875c1a45.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4f5513d9f107a07e0f3ddff776f8af3978107dbce80ed2205d6cc9b8109b78a7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e0605dab3b2e450f27b79816aeaf5747f64954c71a3e3e4724ecd5819ddc3b58.jpg"
+    ],
+    "size": 1610612736,
     "version": null
   },
   "70010000075793": {

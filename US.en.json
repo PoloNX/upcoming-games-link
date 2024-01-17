@@ -1,45 +1,4 @@
 {
-  "70010000072365": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ff9f42ba5cf7661f9a2e3e79467483665c1183bbb7f2bd164224fb8b1e63783.jpg",
-    "category": [
-      "Shooter",
-      "Arcade",
-      "Action"
-    ],
-    "description": "Nephenthesys is a vertical scrolling shoot\u2019em up presented in widescreen top-down 3D style. Blast through a huge variety of enemy ships, collect power-ups for wider shot spreads and special bombs, then face off against screen-filling bosses. This mission will take you through caverns, waterways, cityscapes and more. Do you have the skills to see it through?\n\nFeatures:\n\n\u2022 Experience old-school shoot\u2019em up action inspired by arcade genre classics!\n\u2022 Choose from a variety of ships with unique stats and shot types.\n\u2022 Face off against enemy swarms and collect power-ups!\n\u2022 Navigate caverns, waterways, cityscapes and other unique environments.\n\u2022 Take on screen-filling bosses at the end of each stage.\n\u2022 Enjoy a light story conveyed through comm dialogue!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f935cee840b3962529c529b87a6d965d8b993c1358bbfa72f67e82d4fb24cdd.jpg",
-    "id": "0100C3501CF2C000",
-    "intro": "Blast off on a treacherous mission to recover an unidentified energy source amidst an alien onslaught!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "name": "Nephenthesys",
-    "nsuId": 70010000072365,
-    "numberOfPlayers": 1,
-    "publisher": "eastasiasoft",
-    "rating": 10,
-    "ratingContent": [
-      "Fantasy Violence"
-    ],
-    "region": null,
-    "releaseDate": 20240117,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/6989366f31e4b901fbb24b55201a0ae1a4331ecf55882401306a9e8e645ef11e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/38e761307c9f6a415bb37b76cbeeb79791ab82902ad5301c311b02b59a620064.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3ea3ad4c2dd89a957a307b52b25874619d0b739c2ac7361c37802838fa8d349d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dcde9be7e1f822b39c3f09094cf348d29050d6abea5a26cdac12e2cfee3ec2df.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aad7bbf62f8afa8d191f0c8e3925a8930e3ced9b1e197f242bffaa9c9e2fad7e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
-    ],
-    "size": 118489088,
-    "version": null
-  },
   "70010000057921": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a2cf8574961a349dc14f97c394d186ab1191b6e99682ddbe10fd4455c7197e1.jpg",
     "category": [
@@ -551,6 +510,54 @@
       "https://img-eshop.cdn.nintendo.net/i/6b7b58eebe59c611ecaf9076d0910d72964246f92e620172af82842daa319dcd.jpg"
     ],
     "size": 4116709376,
+    "version": null
+  },
+  "70010000075457": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0abb929456103e36df5462715131d032b7dcfeea6ce5b2ae5cdad0aeea29e16d.jpg",
+    "category": [
+      "Adventure",
+      "RPG",
+      "Action",
+      "Strategy"
+    ],
+    "description": "In each battle, bring up to four teammates and one Guardian Spirit for an exhilarating fun in the game! You can also play different roles, exploring a vast array of professional skills and assembling your unique team of companions. Survive the swarms of monsters, navigate the paths of fate, conquer formidable bosses, and fight alongside a variety of randomly acquired Guardian Spirits to ultimately defeat the supreme demon lord!\n\n\u203b Game Features:\n\nDiverse Professions: Choose from 12 different styles and attributes of professions available in the game.\n\nAdvanced Divine Skills: Experience 8 major skill element factions. Freely mix and match different attack skills that can be upgraded to divine level for double combat power.\n\nSummon Guardian Spirits: The game features a wide array of unique Guardian Spirits with diverse skills and abilities, fighting and growing with you.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/85168f27118d9d9071de16fa99e884d725be939449c21ffd3e456c4d507a076b.jpg",
+    "id": "010082501DAF2000",
+    "intro": "Unstoppable Rogue-like excitement! Unlock new classes, gather allies, and dive into unique adventures. Conquer the monster hordes and embark on an epic journey.",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "de",
+      "it",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Hero of Fate",
+    "nsuId": 70010000075457,
+    "numberOfPlayers": 1,
+    "publisher": "Happy Player",
+    "rating": 6,
+    "ratingContent": [],
+    "region": null,
+    "releaseDate": 20240118,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/fdcb276c5e0beaf777beec81f8cde865397ab319424397ee1e7ba6b775381694.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e93a3f2850a91e3365f8c948150d909eb2d849e1401e186b4a18d32103218380.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/350bb0664e8442401213169f5d1eec5c7de29beb96d6eefeee40b865a2e78824.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/dc3d0148f9ca5258c7dfe32b7bddb1a31efd89b25cd89d8201a7b401875c1a45.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/4f5513d9f107a07e0f3ddff776f8af3978107dbce80ed2205d6cc9b8109b78a7.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/e0605dab3b2e450f27b79816aeaf5747f64954c71a3e3e4724ecd5819ddc3b58.jpg"
+    ],
+    "size": 1610612736,
     "version": null
   },
   "70010000075793": {
@@ -2812,6 +2819,44 @@
       "https://img-eshop.cdn.nintendo.net/i/356e18549e72af0981f033d553534bd6d68bd0d4592c101e9dff63b1a495c354.jpg"
     ],
     "size": 112197632,
+    "version": null
+  },
+  "70050000042973": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2115b3ce2624f8419a26f3cc35b0a7b2386597d17625143c2611aac417cbfa14.jpg",
+    "category": null,
+    "description": "Sam and John return in an all-new adventure! In a remote mountainside village, Sam and John start life anew as farmers. Work the land, tend livestock, and cook heartwarming meals for familiar -yet strangely different- friends. \n\nEnjoy the good life in peaceful pixel surroundings!\n\n\u2022 Help Sam & John lead a peaceful new life in the countryside - no miasma, no hardships, just happy times in a parallel universe\n\u2022 Revitalize a neglected farmstead; grow crops, rear animals, forage in the wetlands, talk to ghosts, and spend your nights casting your line in the local fishing holes\n\u2022 Construct and upgrade stores and homes to restore Octopia into a thriving community\n\u2022 As the town begins to flourish, more familiar faces will flock to the area - some may even stay for good!\n\u2022 Using farm-fresh ingredients and John\u2019s Cookbook, create recipes and whip up delicious culinary delights to share with your neighbours\n\nFor new and old players alike - \u201cEastward: Octopia\u201d is accessible straight from Eastward\u2019s start menu, so you can start living the good life straight away.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "Next Stop... Octopia!",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Eastward: Octopia",
+    "nsuId": 70050000042973,
+    "numberOfPlayers": null,
+    "publisher": "Chucklefish",
+    "rating": 13,
+    "ratingContent": [
+      "Blood",
+      "Fantasy Violence",
+      "Language",
+      "Suggestive Themes",
+      "Use of Alcohol"
+    ],
+    "region": null,
+    "releaseDate": 20240131,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/0a95cf295c02c1e08e1a1a5ad0f8b05c8be83d3afc4bbabdcfab4879cf36769a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/73297f5dd58108533183b3e842003bfae2acea2f3b69107dce70f9f2950bbd84.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/c837c333db2132204042c6ac23d4f7447d5a45c8f85db7b4d688dd8cb5399f0c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/818afe75a0d87b866f11606956e8c0ba83d0191ba1930172d55edc2d999b7f21.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5c722212e63dffab2a7d8b9fd99a213de8947f535e298c59e199aa44f4f71b1b.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/8bcfd33e570b4d641bc76119e553156ff7fb04446009970210fd597a4fe8a313.jpg"
+    ],
+    "size": 0,
     "version": null
   },
   "70050000044386": {

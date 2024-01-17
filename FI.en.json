@@ -1,45 +1,4 @@
 {
-  "70010000072366": {
-    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71f4953b94e5487a6ae29532ce0f90808e1fc5fd4e0d94d7828765a6cab77e0b.jpg",
-    "category": [
-      "Shooter",
-      "Arcade",
-      "Action"
-    ],
-    "description": "Nephenthesys is a vertical scrolling shoot\u2019em up presented in widescreen top-down 3D style. Blast through a huge variety of enemy ships, collect power-ups for wider shot spreads and special bombs, then face off against screen-filling bosses. This mission will take you through caverns, waterways, cityscapes and more. Do you have the skills to see it through?\n\nFeatures:\n\n\u2022 Experience old-school shoot\u2019em up action inspired by arcade genre classics!\n\u2022 Choose from a variety of ships with unique stats and shot types.\n\u2022 Face off against enemy swarms and collect power-ups!\n\u2022 Navigate caverns, waterways, cityscapes and other unique environments.\n\u2022 Take on screen-filling bosses at the end of each stage.\n\u2022 Enjoy a light story conveyed through comm dialogue!",
-    "developer": null,
-    "frontBoxArt": null,
-    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f935cee840b3962529c529b87a6d965d8b993c1358bbfa72f67e82d4fb24cdd.jpg",
-    "id": "0100C3501CF2C000",
-    "intro": "Blast off on a treacherous mission to recover an unidentified energy source amidst an alien onslaught!",
-    "isDemo": false,
-    "key": null,
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "name": "Nephenthesys",
-    "nsuId": 70010000072366,
-    "numberOfPlayers": 1,
-    "publisher": "eastasiasoft",
-    "rating": 7,
-    "ratingContent": [
-      "Mild Violence"
-    ],
-    "region": null,
-    "releaseDate": 20240117,
-    "rightsId": null,
-    "screenshots": [
-      "https://img-eshop.cdn.nintendo.net/i/6989366f31e4b901fbb24b55201a0ae1a4331ecf55882401306a9e8e645ef11e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/38e761307c9f6a415bb37b76cbeeb79791ab82902ad5301c311b02b59a620064.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/3ea3ad4c2dd89a957a307b52b25874619d0b739c2ac7361c37802838fa8d349d.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/dcde9be7e1f822b39c3f09094cf348d29050d6abea5a26cdac12e2cfee3ec2df.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/aad7bbf62f8afa8d191f0c8e3925a8930e3ced9b1e197f242bffaa9c9e2fad7e.jpg",
-      "https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
-    ],
-    "size": 118489088,
-    "version": null
-  },
   "70010000054312": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1bc8ce7865f0df35f6557d5c13a0a2889c2d02e9f7578e22723c48b3135fea41.jpg",
     "category": [
@@ -4184,6 +4143,46 @@
     "size": 4860149760,
     "version": null
   },
+  "70010000065525": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1a9b222257082e221e8ed505b88dc8b6dec08fabef698c544604f8f19f101768.jpg",
+    "category": [
+      "Shooter",
+      "Action",
+      "Arcade"
+    ],
+    "description": "Civilization has fallen and the few remaining survivors are now the playthings of a gang of post-apocalyptic punks called Scorpio. Your little slice of heaven was raided and your loved ones have been carried off to Scorpio's stronghold. With nothing left to lose, you head out onto the open road, armed to the teeth and ready to fight through their territory to bring an end to their reign.\n\nDead End City is a post-apocalyptic vertical shooter. You drive a heavily armed car called a Chariot into the wastelands to rescue your loved ones from Scorpio, a gang that has conquered what little is left of humanity. Fuel is always draining away, so be careful to collect as much as you can or your journey will come to an abrupt halt. Relive the thrill of \u201990s arcade classics in top-down shoot\u2019em up style!\n\nFeatures:\n\n\u2022 Take the wheel and drive hard in vertical shoot\u2019em up action!\n\u2022 Select from 5 heavily armed vehicles, each with a unique driver and shot type.\n\u2022 Collect fuel to keep moving and survive deadly post-apocalyptic roadways!\n\u2022 Top off your gas tank for a boost in firepower and bonus score multipliers.\n\u2022 Enjoy retro pixel art aesthetics inspired by arcade classics of the \u201990s!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/aa2cab95675ccd86bbf698e00c30fd12c4df849cef4b6dee7fe63fba8c42bd9f.jpg",
+    "id": "010056401AED4000",
+    "intro": "Blast your way through post-apocalyptic wastelands in retro shoot\u2019em up style!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "Dead End City",
+    "nsuId": 70010000065525,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 7,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240228,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/154ac61928f41cac7579ee07157844f29ef26ed3f08876f996e385b141e716c2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/88bb7a061c0c8d386acf41a129de3d256eb6d033a1dd2c07be95f8bbca02a515.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/42c50f0f94421fac058c25649ee070683a229551c1677b83bf12bf26cd606000.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/841a41bbb0e0fc47c31b9ea35dc578f8d776795e8ded4916201a9ecb4e2e0287.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/78efbcd8abb7832f9756c1fbb17fccff373ac1e6946ffb3caeb0723ce599d4b1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f010b3b42ae31d42f8afb68464811815e6dba9f10d39647a1b5409113952fc61.jpg"
+    ],
+    "size": 138412032,
+    "version": null
+  },
   "70010000062269": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0be82775e4d225274e421aa9b75c9103a54b246c9a6d0aedb7d35e587a0f3033.jpg",
     "category": [
@@ -4231,6 +4230,47 @@
       "https://img-eshop.cdn.nintendo.net/i/06e59cb364cdf859dd7282af8c3033dabfe108d90863f0d06f845ca843cbd660.jpg"
     ],
     "size": 778043392,
+    "version": null
+  },
+  "70010000073850": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1543a1ba64971cd9f49de4d73d1c0fb81641a513c90d2a20954e92a738efaa66.jpg",
+    "category": [
+      "Platformer",
+      "Action",
+      "Puzzle"
+    ],
+    "description": "Take the role of an agile little blonde hero as he leaps and dashes his way to glory in 10 Seconds to Win! This is a precision platformer where you only have 10 seconds to complete each single-screen challenge. Run, jump and air dash to avoid spikes, spinning saw blades and more as you try to reach a trophy cup on the far side of the stage.\n\nCan you master all 100 levels with increasing difficulty in time?\n\nFeatures:\n\n\u2022 Master 100 platforming stages of gradually increasing difficulty!\n\u2022 Avoid spike traps, pitfalls, spinning sawblades and more.\n\u2022 Race against the clock and reach the goal within 10 seconds!\n\u2022 Experience tight controls for precision jumps and movement.\n\u2022 Respawn instantly and retry levels as many times as it takes!",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fedcd0cc310e646192c16fac03d0ea5014f98a930901ef7d59a42542f09e6ad6.jpg",
+    "id": "01006F301D4D0000",
+    "intro": "Reach the goal as fast as you can in tough-but-fair precision platforming challenges!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "name": "10 Seconds to Win!",
+    "nsuId": 70010000073850,
+    "numberOfPlayers": 1,
+    "publisher": "eastasiasoft",
+    "rating": 7,
+    "ratingContent": [
+      "Mild Violence"
+    ],
+    "region": null,
+    "releaseDate": 20240306,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/341326db2e0e9817723f485a5a672c959739d7d5b92aea750c4e8e29eda41dc1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ab5b1acfe2743a1b273ba78bfa691333f4bb42d094d796cc5ca569df2f4e21f9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/10fcdd6e6829c448258b18118bd394df6793850a0e9e29773611b7d056d6168f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7939a4a098bf0a6454dbf4cb455a92a4eec9dd0315628aa088a2937b49262631.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/9f70a6fd43f2c6769bc6808fcd1196666286708d3b919e556b104b7da33edac2.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ff7dc4dc3209e37520676e8f4d355803d1cdc2f18b66ca13e30ce4f67c36a008.jpg"
+    ],
+    "size": 44040192,
     "version": null
   },
   "70010000065250": {
