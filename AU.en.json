@@ -1395,6 +1395,47 @@
     "size": 375390208,
     "version": null
   },
+  "70010000076150": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/60539670ae31e68e8d8cb3a394968cf9147888f857f4cf60f21cd6365cc295f5.jpg",
+    "category": [
+      "Board Game",
+      "Puzzle",
+      "Arcade",
+      "Study"
+    ],
+    "description": "   Introducing our captivating SUDOKU - GAME FOR KIDS \u2013 a brain-teasing game that combines logic, strategy, and a touch of number-crunching fun! Immerse yourself in the timeless puzzle-solving experience that has entertained and challenged minds for generations.\n   Key Features:\n\u2022 Classic Sudoku Puzzles: Enjoy a classic Sudoku puzzles ranging from easy to expert levels. \n\u2022 Intuitive Interface: Navigate the game effortlessly with a user-friendly interface. Drag and drop numbers, or use intuitive controls to fill in the grid and solve each puzzle with ease.\n\u2022 Multiple Difficulty Levels: Tailor the challenge to your skill level. Whether you're a Sudoku beginner or an experienced pro, our game offers a range of difficulty levels to keep you engaged and motivated.\n\u2022 Relaxing Music and Sound Effects: Immerse yourself in a soothing atmosphere with calming music and subtle sound effects. Create a tranquil environment as you focus on cracking the Sudoku puzzles.\nWhether you're a Sudoku aficionado or a newcomer to the world of number puzzles, our Sudoku Challenge promises an engaging and intellectually stimulating experience.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cf5e9253b14f6891595512e4b45c57180043c3fe6c36006b3da81b9d247c197c.jpg",
+    "id": "0100C6601DCCC000",
+    "intro": "Ignite young minds with sudoku fun: A kid-friendly puzzle quest for logic masters in the making!",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "en"
+    ],
+    "name": "SUDOKU - GAME FOR KIDS",
+    "nsuId": 70010000076150,
+    "numberOfPlayers": 1,
+    "publisher": "DEZVOLT GAMES",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240121,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/995bd0f5ed65ef5cba962d1a9d1bf57335f994d71490c8aecc2f63ffc4210a9a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ef976c1843de73424d3ca19b2d4e1c255673a40ca411f5d2b05c05123d3a5d02.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/0ea68b8d34e3e04d016fe72454ff5f2771fa4e8781b86a6c317cb194323849d9.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2ec5e16da2d13f86b6eed74fe8d8534ccba525ac04238d010138bb2b80919c8a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a1a9ebd2ac229d2f34f40aaa492f8c0850f9701feb3ee9b77a4413acd89d556f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/80beb94fc0ca1d4c686550de6962e8755463bf8c3d6955af6c21f2cdbf497a19.jpg"
+    ],
+    "size": 106954752,
+    "version": null
+  },
   "70050000044834": {
     "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/80bf52eaecfd59c5c6413fd5ce8f5e5935c09567f76f72b8f028542934296ca5.jpg",
     "category": null,
@@ -4424,6 +4465,158 @@
     "rightsId": null,
     "screenshots": null,
     "size": 3213885440,
+    "version": null
+  },
+  "70010000070117": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/75acb699f6bc23fa7b6580407d1bcca20ebfde8e0ea78c96f2cd00f78295753f.jpg",
+    "category": [
+      "Simulation",
+      "Strategy",
+      "Training",
+      "Other"
+    ],
+    "description": "PHYSICALLY AUTHENTIC LAWN MOWING EXPERIENCE\nTo keep the gameplay as physically authentic as possible, this simulation game involves much more than just hopping onto a lawn mower and going for it. Ground checks, the proper choice of blade height as well as monitoring your engine load are all part of your daily mowing business. In addition, attachments such as mulching kits, stripe rollers, recyclers, grass collectors, and flail decks contribute further to the high degree of realism. So choose between Career Mode, Free Mode, and Challenge Mode and tackle a variety of contracts giving you a realistic lawn mowing experience. \n\nTHE BLISS OF THE BRITISH COUNTRYSIDE\nSet in the heart of a quaint British countryside town, Lawn Mowing Simulator invites you to explore a variety of enchanting locales. Whether your contracts take you to residential streets bustling with life, charming cottage greens, historic castle grounds, or huge equestrian fields, each map poses a distinct challenge for your mowing prowess. Unleash your skills across these diverse landscapes, transforming them into manicured canvases with the rhythmic hum of your trusty mowing blades.\n\nREAL-WORLD LICENSED MOWER BRANDS\nThe original licensed lawn mower brands of Toro, SCAG, STIGA, and EGO have been re-created in a visually and physically stunning way. Select from a dozen mowers, each presenting unique challenges, attachments, and upgrades for an immersive and realistic experience.\n\nACCURATE AND ATTENTIVE BUSINESS MANAGEMENT\nBuild your own lawncare business from the ground up. Purchase and upgrade your headquarters, hire employees, purchase advertising, and balance the books as you grow and expand your business.\n\nQUICK MOW MODE FOR THOSE WHO CAN\u2019T WAIT\nIf you feel like getting to work without going through any menus or the prerequisites of certain campaigns, the Quick Mow Mode is exactly what you need. Choose this option to start mowing immediately on a randomly picked map with a combination of character and lawn mower chosen for you by the system. So, no contracts, no campaign \u2013 just playing.",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2c23a91d32f1d3a87538f12851c3c9d22f22ece6ea15684603899ca214e38b9c.jpg",
+    "id": "01002CB01C1A4000",
+    "intro": "GROW YOUR BUSINESS\nTRIM THEIR LAWNS",
+    "isDemo": false,
+    "key": null,
+    "languages": [
+      "ja",
+      "pt",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "ru",
+      "ko",
+      "zh",
+      "zh"
+    ],
+    "name": "Lawn Mowing Simulator",
+    "nsuId": 70010000070117,
+    "numberOfPlayers": 1,
+    "publisher": "astragon",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240314,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/acdbd7f1e99ec6c8609600f4e2897f4ec495afecfcc7362631caca8db4310382.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/53bdf9dd5d396fe1de34d4aeda92d5538bdeefc9500696a31c3e5e6e6bb16fbe.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/1542f36a5b5e71746bedac611e5274dba4d76a6ef98f586bdc2143ae33003ca4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/b3b6ab6917a64abb2d3b26df4b1a5b52ec64ef3c125ab8ef7aef22742ff11969.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/5276bf2558502203f74acf4a297dc119acacec8ac4bf71513da0299acbc6430c.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/fa1a238f19f721b30c135cf6dff96ab7aaa90ee6d1520d5e9432a0d253cec172.jpg"
+    ],
+    "size": 4679794688,
+    "version": null
+  },
+  "70050000045794": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aa34144739fa24b5227abb4cd2f024e11a1b9aff6064a63c996a13c7f6121152.jpg",
+    "category": null,
+    "description": "In 1994, Dino Safari opened its doors to exhibit some of history's most fascinating creatures to the public: dinosaurs! Tend to their four enclosures by keeping the grassy areas nicely cut so that these living fossils experience the highest quality of living. Do you have the guts to take on this challenge?",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "GROW YOUR BUSINESS\nTRIM THEIR LAWNS",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Lawn Mowing Simulator - Dino Safari DLC",
+    "nsuId": 70050000045794,
+    "numberOfPlayers": null,
+    "publisher": "astragon",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240314,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/ce25d37201e9ab5f92f8154d5657b81adee6337fc4e53870ae5eae52604a7c10.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/43ca18efd8767d7f5a36ddf6a1b00f9bb80d0db7b0f99831813bbfaaf7467d78.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/da0780ec87a1f5a953a4e8b7137bcd48c2b05c28b63a63ef062f520a341bd632.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/2500c6fa4fdfbfa1104b0cc7b03862570fca92e4f6a2a76f50b5c44009fc526f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/567d735d0c44541abdc0790ae384b06108cffa9ffd65063c84c657da35ed559f.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d239f22ffa87497a1f0f1d3e3d34c47c752794eeac6aa5f0924b636bd02f0c2f.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70050000045796": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c3482100aaabd63604efcaa58444f05e383addb20bbb8442aa6835ada15b3f7.jpg",
+    "category": null,
+    "description": "Britain\u2019s finest Ancient sites are in need of a trim! This is why you need to take action and care for the lawns of four places of cultural significance in Britain. But be careful not to cause any damage, as even the smallest accidents will entail fines! ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "GROW YOUR BUSINESS\nTRIM THEIR LAWNS",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Lawn Mowing Simulator - Ancient Britain DLC",
+    "nsuId": 70050000045796,
+    "numberOfPlayers": null,
+    "publisher": "astragon",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240314,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/50b99026509a90a246f47e2c6dec4d752d72e63dcc925a92ec07b0154a4f65ed.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/7fb66b5d1596c717ed6fab5f34a88c602cf427cafc715005e9186b99007876d1.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/d431ab0515d54fa0ef807b36aaedee1e0aa8186e5ceea01a25e9c105c34a3ddc.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/6b1654e4a8b3602b75b737bb5a698ed871c8697350af06e5ea24d51e0b298c11.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/f5aac666da5f6360e51f151a492bbfab686a55a82c85f4ad14ff193c3a714ca8.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/ea398116affc776b290f5822ccd7f7c9619681575d55b561422171287080df57.jpg"
+    ],
+    "size": 0,
+    "version": null
+  },
+  "70070000020343": {
+    "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e4828fbee9c0fa3e079605a1938de2166f34d37ed5f9abc36de368a20c13b8fc.jpg",
+    "category": null,
+    "description": "PHYSICALLY AUTHENTIC LAWN MOWING EXPERIENCE\nTo keep the gameplay as physically authentic as possible, this simulation game involves much more than just hopping onto a lawn mower and going for it. Ground checks, the proper choice of blade height as well as monitoring your engine load are all part of your daily mowing business. In addition, attachments such as mulching kits, stripe rollers, recyclers, grass collectors, and flail decks contribute further to the high degree of realism. So choose between Career Mode, Free Mode, and Challenge Mode and tackle a variety of contracts giving you a realistic lawn mowing experience. \n\nREAL-WORLD LICENSED MOWER BRANDS\nThe original licensed lawn mower brands of Toro, SCAG, STIGA, and EGO have been re-created in a visually and physically stunning way. Select from a dozen mowers, each presenting unique challenges, attachments, and upgrades for an immersive and realistic experience.\n\nACCURATE AND ATTENTIVE BUSINESS MANAGEMENT\nBuild your own lawncare business from the ground up. Purchase and upgrade your headquarters, hire employees, purchase advertising, and balance the books as you grow and expand your business.\n\nQUICK MOW MODE FOR THOSE WHO CAN\u2019T WAIT\nIf you feel like getting to work without going through any menus or the prerequisites of certain campaigns, the Quick Mow Mode is exactly what you need. Choose this option to start mowing immediately on a randomly picked map with a combination of character and lawn mower chosen for you by the system. So, no contracts, no campaign \u2013 just playing.\n\nEXPERIENCE THE DLCs: DINO SAFARI & ANCIENT BRITAIN\nIn 1994, Dino Safari opened its doors to exhibit some of history's most fascinating creatures to the public: dinosaurs! Tend to their four enclosures by keeping the grassy areas nicely cut so that these living fossils experience the highest quality of living. Do you have the guts to take on this challenge?\n \nBritain\u2019s finest Ancient sites are in need of a trim! This is why you need to take action and care for the lawns of four places of cultural significance in Britain. But be careful not to cause any damage, as even the smallest accidents will entail fines! ",
+    "developer": null,
+    "frontBoxArt": null,
+    "iconUrl": null,
+    "id": null,
+    "intro": "GROW YOUR BUSINESS\nTRIM THEIR LAWNS",
+    "isDemo": false,
+    "key": null,
+    "languages": null,
+    "name": "Lawn Mowing Simulator - Landmark Edition",
+    "nsuId": 70070000020343,
+    "numberOfPlayers": null,
+    "publisher": "astragon",
+    "rating": 0,
+    "ratingContent": [
+      "General"
+    ],
+    "region": null,
+    "releaseDate": 20240314,
+    "rightsId": null,
+    "screenshots": [
+      "https://img-eshop.cdn.nintendo.net/i/968a6a711746dcadc879042ba9d7a94cda634492a4f3e1d84fc969cccf270e6a.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/631e8be3b3e23a98f84a5aebdd921da1f95f6260dc3b5238a4187147964489f3.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/42c33a00ac4fcda7f9317d4acf28ea2c0b68a59af89125df534dcf9bb00c7c7e.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/513bdf8d62e61524b96a62f06a3a370aaca4b06b5727e773bb06ec9773504c80.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/179b051bda7ba66d601a76210415d6748a534351a2ca8f60f7925bbb7bc16aa4.jpg",
+      "https://img-eshop.cdn.nintendo.net/i/a4e29b697d826b79713bb6bfc023c3ac78a78aa0e81b84db2b57508f220e7ce3.jpg"
+    ],
+    "size": 4679794688,
     "version": null
   },
   "70050000042854": {
