@@ -66,8 +66,8 @@ for country in countries:
     # Écrire les données filtrées dans un nouveau fichier JSON
     sorted_unreleased_games = sorted(unreleased_games.items(), key=lambda x: x[1]["releaseDate"])
 
-    # Écrire les données triées dans un nouveau fichier JSON
+    # Écrire les données triées dans un nouveau fichier JSON sur une seule ligne sans espaces
     with open(f'{country}.json', 'w') as outfile:
-        json.dump(dict(sorted_unreleased_games), outfile, indent=2)
+        json.dump(dict(sorted_unreleased_games), outfile, separators=(',', ':'))
 
-    print("Le fichier '{country}.json' a été créé avec succès.")
+    print(f"Le fichier '{country}.json' a été créé avec succès.")
